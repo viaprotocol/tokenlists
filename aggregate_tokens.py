@@ -1,12 +1,60 @@
+import asyncio
 import json
-import os
 from collections import defaultdict
-from time import sleep
-from typing import Union, TypedDict
+from typing import TypedDict, NewType
 
 import httpx
 
 TOKENLISTS_FOLDER = "tokenlists"
+
+CHAIN_NAMES_BY_ID = {
+    '1': 'ethereum',
+    '10': 'optimistic-ethereum',
+    '100': 'xdai',
+    '10000': 'smartbch',
+    '101': 'solana',
+    '1024': 'clover',
+    '11297108109': 'palm',
+    '122': 'fuse',
+    '128': 'heco',
+    '1284': 'moonbeam',
+    '1285': 'moonriver',
+    '1287': 'moonbase',
+    '1313161554': 'aurora',
+    '137': 'polygon',
+    '1666600000': 'harmony',
+    '1666700000': 'harmony-testnet',
+    '20': 'elastos',
+    '25': 'cronos',
+    '250': 'ftm',
+    '256': 'heco-testnet',
+    '288': 'boba',
+    '3': 'ropsten',
+    '321': 'kcc',
+    '361': 'theta',
+    '4': 'rinkeby',
+    '40': 'telos',
+    '4002': 'ftmtest',
+    '42': 'kovan',
+    '42161': 'farms',
+    '42220': 'celo',
+    '43113': 'fuji',
+    '43114': 'avax',
+    '4689': 'iotex',
+    '5': 'goerli',
+    '56': 'bsc',
+    '65': 'okex-testnet',
+    '66': 'okex',
+    '70': 'hoo',
+    '80001': 'mumbai',
+    '82': 'meter',
+    '88': 'tomochain',
+    '97': 'bsc-testnet'
+}
+
+Address = NewType('Address', str)
+
+ChainId = NewType('ChainId', str)
 
 
 class Token(TypedDict):
@@ -16,28 +64,80 @@ class Token(TypedDict):
     decimals: str
     chainId: str
     logoURI: str
+    coingeckoId: str
+
+
+def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
+    chain_id_to_coingecko_platform = {
+        "1284": "moonbeam",
+        "361": "theta",
+        "70": "hoo-smart-chain",
+        "122": "fuse",
+        "42262": "oasis",
+        "128": "huobi-token",
+        "321": "kucoin-community-chain",
+        "42161": "arbitrum-one",
+        "1088": "metis-andromeda",
+        "56": "binance-smart-chain",
+        "66": "okex-chain",
+        "250": "fantom",
+        "88": "tomochain",
+        "82": "meter",
+        "42220": "celo",
+        "10": "optimistic-ethereum",
+        "137": "polygon-pos",
+        "43114": "avalanche",
+        "1285": "moonriver",
+        "25": "cronos",
+        "288": "boba",
+        "10000": "smartbch",
+        "1313161554": "aurora",
+        "1666600000": "harmony-shard-0",
+        "100": "xdai",
+        "1": "ethereum",
+        "32659": "fusion-network",
+        "40": "telos",
+        "101": "solana",
+    }
+    coingecko_platform_to_chain_id = {v: k for k, v in chain_id_to_coingecko_platform.items()}
+    coins = httpx.get('https://api.coingecko.com/api/v3/coins/list', params={'include_platform': True}).json()
+    res = defaultdict(dict)
+    for coin in coins:
+        if not coin['id']:
+            continue
+        for platform, address in coin.get('platforms', {}).items():
+            if platform and address and platform in coingecko_platform_to_chain_id:
+                res[coingecko_platform_to_chain_id[platform]][address] = coin['id']
+    print(res.keys())
+    print(len(res['1']))
+    return res
+
+
+coingecko_ids = get_coingecko_ids()
 
 
 class TokenListProvider:
     name: str
     base_url: str
-    chains: dict[Union[str, int], str]
+    chains: dict[ChainId, str]
     _by_chain_id = False
     _set_chain_id = False
     _tokens_to_list = False
+    _set_coingecko_id = True
+
+    parsed_tokens: list[Token]
 
     @classmethod
-    def get_tokenlists(cls):
+    async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
+        res: dict[ChainId, list[Token]] = defaultdict(list)
         for chain_id, chain_name in cls.chains.items():
-            resp = httpx.get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+            resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
             while resp.status_code != 200:
                 sleep_time = int(resp.headers.get("Retry-After", 1))
                 print(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
-                sleep(sleep_time)
-                resp = httpx.get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+                await asyncio.sleep(sleep_time)
+                resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
             tokenlist = resp.json()
-            filename = f"{TOKENLISTS_FOLDER}/{cls.name}/{chain_name}.json"
-            os.makedirs(os.path.dirname(filename), exist_ok=True)
             if "tokens" in tokenlist:
                 tokens = tokenlist["tokens"]
             elif "data" in tokenlist:
@@ -49,21 +149,17 @@ class TokenListProvider:
                     token["chainId"] = chain_id
             if cls._tokens_to_list:
                 tokens = list(tokens.values())
-            with open(filename, "w", encoding="utf-8") as f:
-                json.dump(tokens, f, ensure_ascii=False, indent=4)
-            print(f"[{cls.name}] {chain_id} {chain_name} OK")
-
-    @classmethod
-    def tokens_by_chains(cls) -> dict[str, list[Token]]:
-        res = defaultdict(list)
-        for chain_id, chain_name in cls.chains.items():
-            with open(f"{TOKENLISTS_FOLDER}/{cls.name}/{chain_name}.json") as f:
-                tokens = json.load(f)
+            for token in tokens:
+                if not token['address']:
+                    continue
+            if cls._set_coingecko_id:
                 for token in tokens:
-                    tkn = Token(**token)
-                    res[chain_id].append(tkn)
-
-        return res
+                    coingecko_id = coingecko_ids.get(chain_id, {}).get(token['address'])
+                    if coingecko_id:
+                        token["coingeckoId"] = coingecko_id
+            res[chain_id] = tokens
+            print(f"[{cls.name}] {chain_id} {chain_name} OK")
+        return {cls.name: res}
 
 
 class CoinGeckoTokenLists(TokenListProvider):
@@ -90,7 +186,8 @@ class CoinGeckoTokenLists(TokenListProvider):
         "1313161554": "aurora",
         "1666600000": "harmony-shard-0",
         "100": "xdai",
-        "1": "ethereum"
+        "1": "ethereum",
+        "101": "solana"
     }
 
 
@@ -217,6 +314,7 @@ class ElkFinanceTokenLists(TokenListProvider):
     # "all", "top"
 
 
+# TODO: support
 class RefFinanceTokenLists(TokenListProvider):
     # unusual format
     base_url = "https://indexer.ref-finance.net/list-token"
@@ -246,13 +344,13 @@ class FuseSwapTokenLists(TokenListProvider):
     }
 
 
-tokelists_providers = [
+tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,
-    SolanaLabsTokenLists,
     OpenOceanTokenLists,
+    SolanaLabsTokenLists,
     ElkFinanceTokenLists,
     OneSolTokenLists,
     QuickSwapTokenLists,
@@ -260,15 +358,11 @@ tokelists_providers = [
 ]
 
 
-def agg():
-    for provider in tokelists_providers:
-        provider.get_tokenlists()
-
-
-def collect_trusted_tokens():
-    provider_data: dict[str, dict[str, list[Token]]] = {}
-    for provider in tokelists_providers:
-        provider_data[provider.name] = provider.tokens_by_chains()
+async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
+    data = await asyncio.gather(*[provider.get_tokenlists() for provider in tokenlists_providers])
+    provider_data: dict[str, dict[ChainId, list[Token]]] = {}
+    for prov in data:
+        provider_data |= prov
 
     res = defaultdict(dict)
     for provider_name, tokens_by_chains in provider_data.items():
@@ -288,13 +382,18 @@ def collect_trusted_tokens():
         chain_id: {addr: token for addr, token in tokens.items() if len(token["listedIn"]) > 1} for
         chain_id, tokens in res.items()
     }
-    filename = f"{TOKENLISTS_FOLDER}/trusted.json"
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    trusted = {k: v for k, v in trusted.items() if len(v) > 0}
+    for chain_id, tokens in trusted.items():
+        filename = f"{TOKENLISTS_FOLDER}/{CHAIN_NAMES_BY_ID[chain_id]}.json"
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(tokens, f, ensure_ascii=False, indent=4)
+    filename = f"{TOKENLISTS_FOLDER}/all.json"
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(trusted, f, ensure_ascii=False, indent=4)
+
     print('collected trusted tokens')
+    return trusted
 
 
 if __name__ == "__main__":
-    agg()
-    collect_trusted_tokens()
+    asyncio.run(collect_trusted_tokens())
