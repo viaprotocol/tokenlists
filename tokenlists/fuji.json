@@ -1,11 +1,12 @@
 {
     "0xd00ae08403b9bbb9124bb305c09058e32c39a48c": {
-        "name": "Wrapped AVAX",
-        "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+        "address": "0xd00ae08403b9bbb9124bb305c09058e32c39a48c",
         "symbol": "WAVAX",
+        "name": "Wrapped AVAX",
         "decimals": 18,
-        "chainId": 43113,
-        "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=010",
+        "chainId": "43113",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "elkfinance"

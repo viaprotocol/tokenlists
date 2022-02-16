@@ -1,11 +1,11 @@
 {
     "0x61baadcf22d2565b0f471b291c475db5555e0b76": {
-        "chainId": 10,
         "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
-        "name": "Aelin",
         "symbol": "AELIN",
+        "name": "Aelin",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/22303/thumb/aelien.jpg?1641445323",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642998662068_5577728369600954.png",
         "coingeckoId": "aelin",
         "listedIn": [
             "coingecko",
@@ -14,12 +14,12 @@
         ]
     },
     "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
-        "chainId": 10,
         "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-        "name": "Dai",
         "symbol": "DAI",
+        "name": "Dai Stablecoin",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png?1636636734",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172514904_1271845238895899.png",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
@@ -28,12 +28,12 @@
         ]
     },
     "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6": {
-        "chainId": 10,
         "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
-        "name": "Chainlink",
         "symbol": "LINK",
+        "name": "ChainLink Token",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172448604_2771152502797545.png",
         "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko",
@@ -42,12 +42,12 @@
         ]
     },
     "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9": {
-        "chainId": 10,
         "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-        "name": "sUSD",
-        "symbol": "SUSD",
+        "symbol": "sUSD",
+        "name": "Synth sUSD",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638173552068_35446995509543733.png",
         "coingeckoId": "nusd",
         "listedIn": [
             "coingecko",
@@ -56,12 +56,12 @@
         ]
     },
     "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b": {
-        "chainId": 10,
         "address": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
-        "name": "Rai Reflex Index",
         "symbol": "RAI",
+        "name": "Rai Reflex Index",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334",
+        "chainId": "10",
+        "logoURI": "https://tokens.1inch.io/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.png",
         "coingeckoId": "rai",
         "listedIn": [
             "coingecko",
@@ -69,12 +69,12 @@
         ]
     },
     "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49": {
-        "chainId": 10,
         "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
-        "name": "sETH",
-        "symbol": "SETH",
+        "symbol": "sETH",
+        "name": "Synth sETH",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/8843/thumb/sETH.png?1616150207",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172884504_4971130019263712.png",
         "coingeckoId": "seth",
         "listedIn": [
             "coingecko",
@@ -82,12 +82,12 @@
         ]
     },
     "0x8700daec35af8ff88c16bdf0418774cb3d7599b4": {
-        "chainId": 10,
         "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
-        "name": "Synthetix Network T",
         "symbol": "SNX",
+        "name": "Synthetix Network Token",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/3406/thumb/SNX.png?1598631139",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172648754_42693222182948.png",
         "coingeckoId": "havven",
         "listedIn": [
             "coingecko",
@@ -96,12 +96,12 @@
         ]
     },
     "0xc5db22719a06418028a40a9b5e9a7c02959d0d08": {
-        "chainId": 10,
         "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
-        "name": "sLINK",
-        "symbol": "SLINK",
+        "symbol": "sLINK",
+        "name": "Synth sLINK",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/10456/thumb/sLINK.png?1616150356",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638173685188_8663683204890327.png",
         "coingeckoId": "slink",
         "listedIn": [
             "coingecko",
@@ -109,12 +109,12 @@
         ]
     },
     "0x4200000000000000000000000000000000000006": {
-        "chainId": 10,
         "address": "0x4200000000000000000000000000000000000006",
-        "name": "WETH",
         "symbol": "WETH",
+        "name": "WETH",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1643008048410_5915818120018643.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
@@ -123,12 +123,12 @@
         ]
     },
     "0x50c5725949a6f0c72e6c4a641f24049a917db0cb": {
-        "chainId": 10,
         "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
-        "name": "Lyra Finance",
         "symbol": "LYRA",
+        "name": "Lyra Finance",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/21490/thumb/Add-a-heading-26.png?1639364177",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642997856559_7937039572432529.png",
         "coingeckoId": "lyra-finance",
         "listedIn": [
             "coingecko",
@@ -137,12 +137,12 @@
         ]
     },
     "0x7f5c764cbc14f9669b88837ca1490cca17c31607": {
-        "chainId": 10,
         "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-        "name": "USD Coin",
         "symbol": "USDC",
+        "name": "USD Coin",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172240797_3452267574610799.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
@@ -151,12 +151,12 @@
         ]
     },
     "0x68f180fcce6836688e9084f035309e29bf0a2095": {
-        "chainId": 10,
         "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-        "name": "Wrapped Bitcoin",
         "symbol": "WBTC",
+        "name": "Wrapped BTC",
         "decimals": 8,
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172330747_23432317374066436.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
@@ -165,12 +165,12 @@
         ]
     },
     "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
-        "chainId": 10,
         "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
-        "name": "Tether",
         "symbol": "USDT",
+        "name": "Tether",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707",
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172160526_45958392576006246.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
@@ -179,12 +179,12 @@
         ]
     },
     "0x217d47011b23bb961eb6d93ca9945b7501a5bb11": {
-        "chainId": 10,
         "address": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
-        "name": "Thales",
         "symbol": "THALES",
+        "name": "Optimistic Thales Token",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/18388/thumb/CLVZJN_C_400x400.png?1631758808",
+        "chainId": "10",
+        "logoURI": "https://tokens.1inch.io/0x217d47011b23bb961eb6d93ca9945b7501a5bb11.png",
         "coingeckoId": "thales",
         "listedIn": [
             "coingecko",
@@ -192,12 +192,13 @@
         ]
     },
     "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "decimals": 18,
         "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+        "symbol": "ETH",
+        "name": "Etherum",
+        "decimals": 18,
         "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642671041381_10284101720073968.png",
+        "coingeckoId": null,
         "listedIn": [
             "1inch",
             "openocean"

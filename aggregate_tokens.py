@@ -1,119 +1,13 @@
 import asyncio
 import json
 from collections import defaultdict
-from typing import TypedDict, NewType
 
 import httpx
 
+from coingecko_ids import coingecko_ids
+from common import ChainId, Address, Token, CHAIN_NAMES_BY_ID
+
 TOKENLISTS_FOLDER = "tokenlists"
-
-CHAIN_NAMES_BY_ID = {
-    '1': 'ethereum',
-    '10': 'optimistic-ethereum',
-    '100': 'xdai',
-    '10000': 'smartbch',
-    '101': 'solana',
-    '1024': 'clover',
-    '11297108109': 'palm',
-    '122': 'fuse',
-    '128': 'heco',
-    '1284': 'moonbeam',
-    '1285': 'moonriver',
-    '1287': 'moonbase',
-    '1313161554': 'aurora',
-    '137': 'polygon',
-    '1666600000': 'harmony',
-    '1666700000': 'harmony-testnet',
-    '20': 'elastos',
-    '25': 'cronos',
-    '250': 'ftm',
-    '256': 'heco-testnet',
-    '288': 'boba',
-    '3': 'ropsten',
-    '321': 'kcc',
-    '361': 'theta',
-    '4': 'rinkeby',
-    '40': 'telos',
-    '4002': 'ftmtest',
-    '42': 'kovan',
-    '42161': 'farms',
-    '42220': 'celo',
-    '43113': 'fuji',
-    '43114': 'avax',
-    '4689': 'iotex',
-    '5': 'goerli',
-    '56': 'bsc',
-    '65': 'okex-testnet',
-    '66': 'okex',
-    '70': 'hoo',
-    '80001': 'mumbai',
-    '82': 'meter',
-    '88': 'tomochain',
-    '97': 'bsc-testnet'
-}
-
-Address = NewType('Address', str)
-
-ChainId = NewType('ChainId', str)
-
-
-class Token(TypedDict):
-    symbol: str
-    name: str
-    address: str
-    decimals: str
-    chainId: str
-    logoURI: str
-    coingeckoId: str
-
-
-def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
-    chain_id_to_coingecko_platform = {
-        "1284": "moonbeam",
-        "361": "theta",
-        "70": "hoo-smart-chain",
-        "122": "fuse",
-        "42262": "oasis",
-        "128": "huobi-token",
-        "321": "kucoin-community-chain",
-        "42161": "arbitrum-one",
-        "1088": "metis-andromeda",
-        "56": "binance-smart-chain",
-        "66": "okex-chain",
-        "250": "fantom",
-        "88": "tomochain",
-        "82": "meter",
-        "42220": "celo",
-        "10": "optimistic-ethereum",
-        "137": "polygon-pos",
-        "43114": "avalanche",
-        "1285": "moonriver",
-        "25": "cronos",
-        "288": "boba",
-        "10000": "smartbch",
-        "1313161554": "aurora",
-        "1666600000": "harmony-shard-0",
-        "100": "xdai",
-        "1": "ethereum",
-        "32659": "fusion-network",
-        "40": "telos",
-        "101": "solana",
-    }
-    coingecko_platform_to_chain_id = {v: k for k, v in chain_id_to_coingecko_platform.items()}
-    coins = httpx.get('https://api.coingecko.com/api/v3/coins/list', params={'include_platform': True}).json()
-    res = defaultdict(dict)
-    for coin in coins:
-        if not coin['id']:
-            continue
-        for platform, address in coin.get('platforms', {}).items():
-            if platform and address and platform in coingecko_platform_to_chain_id:
-                res[coingecko_platform_to_chain_id[platform]][address] = coin['id']
-    print(res.keys())
-    print(len(res['1']))
-    return res
-
-
-coingecko_ids = get_coingecko_ids()
 
 
 class TokenListProvider:
@@ -121,11 +15,33 @@ class TokenListProvider:
     base_url: str
     chains: dict[ChainId, str]
     _by_chain_id = False
-    _set_chain_id = False
     _tokens_to_list = False
-    _set_coingecko_id = True
 
-    parsed_tokens: list[Token]
+    @staticmethod
+    def filter_tokens(tokens: list[Token], chain_id: str) -> list[Token]:
+        res = []
+        for token in tokens:
+            if not token["address"]:
+                continue
+            try:
+                cg_id = coingecko_ids.get(chain_id, {}).get(token["address"].lower())
+                logo = token.get("logoURI") or token.get("icon")
+                if logo:
+                    if logo.startswith('//'):
+                        logo = 'https:' + logo
+                t = Token(
+                    address=token["address"].lower(),
+                    symbol=token["symbol"],
+                    name=token["name"],
+                    decimals=token["decimals"],
+                    chainId=chain_id,
+                    logoURI=logo,
+                    coingeckoId=cg_id
+                )
+                res.append(t)
+            except Exception as exc:
+                print(chain_id, token["address"], exc, token)
+        return res
 
     @classmethod
     async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
@@ -144,20 +60,11 @@ class TokenListProvider:
                 tokens = tokenlist["data"]
             else:
                 tokens = tokenlist
-            if cls._set_chain_id:
-                for token in tokens.values():
-                    token["chainId"] = chain_id
+
             if cls._tokens_to_list:
                 tokens = list(tokens.values())
-            for token in tokens:
-                if not token['address']:
-                    continue
-            if cls._set_coingecko_id:
-                for token in tokens:
-                    coingecko_id = coingecko_ids.get(chain_id, {}).get(token['address'])
-                    if coingecko_id:
-                        token["coingeckoId"] = coingecko_id
-            res[chain_id] = tokens
+
+            res[chain_id] = cls.filter_tokens(tokens, chain_id)
             print(f"[{cls.name}] {chain_id} {chain_name} OK")
         return {cls.name: res}
 
@@ -188,6 +95,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "100": "xdai",
         "1": "ethereum",
         "101": "solana"
+        # sora
     }
 
 
@@ -253,7 +161,6 @@ class OneInchTokenLists(TokenListProvider):
         "42161": "arbitrum",
     }
     _by_chain_id = True
-    _set_chain_id = True
     _tokens_to_list = True
 
 
@@ -371,7 +278,9 @@ async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
                 addr = token["address"].lower()
                 if addr in res[chain_id]:
                     if "listedIn" in res[chain_id][addr]:
-                        res[chain_id][addr]["listedIn"].append(provider_name)
+                        res[chain_id][addr] |= token
+                        if provider_name not in res[chain_id][addr]["listedIn"]:
+                            res[chain_id][addr]["listedIn"].append(provider_name)
                     else:
                         res[chain_id][addr]["listedIn"] = [provider_name]
                 else:
@@ -391,7 +300,7 @@ async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(trusted, f, ensure_ascii=False, indent=4)
 
-    print('collected trusted tokens')
+    print("collected trusted tokens")
     return trusted
 
 
