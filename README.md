@@ -1,8 +1,8 @@
-# Via.Exchange trusted tokenlists
+# Multi-chain token list standard. 
 
 ## TLDR
 
-In this repo you may find tokenlists aggregated from various providers, such as sushiswap or 1inch. We only list a token
+In this repo you may find tokenlists aggregated from various trusted providers, such as sushiswap or 1inch. We only list a token
 if it appeared in 2 or more different tokenlists. So we believe that if 2 or more providers list a token, than it is
 most likely not a scam.
 
@@ -45,15 +45,6 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Cronos, 10 tokens
 - Telos, 10 tokens
 - Boba, 7 tokens
-- Kovan, 4 tokens
-- Rinkeby, 4 tokens
-- Mumbai, 3 tokens
-- Hoo, 2 tokens
-- Goerli, 2 tokens
-- Ftmtest, 2 tokens
-- Ropsten, 1 tokens
-- Fuji, 1 tokens
-
 
 Testnets:
 
@@ -79,3 +70,5 @@ Run the script from repo root folder
 
 ## Contribute
 Feel free to open issues and PRs with tokens, chains or providers that you want to add.
+
+Developed by [Via.Exchange](https://Via.Exchange) team
