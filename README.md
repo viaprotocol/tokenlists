@@ -45,9 +45,6 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Cronos, 10 tokens
 - Telos, 10 tokens
 - Boba, 7 tokens
-- Hoo, 2 tokens
-- Fuji, 1 tokens
-
 
 Testnets:
 
