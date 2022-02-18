@@ -34,13 +34,13 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Heco, 197 tokens
 - Avax, 123 tokens
 - Ftm, 85 tokens
-- Farms, 72 tokens
-- Xdai, 58 tokens
+- Arbitrum, 72 tokens
+- Gnosis, 58 tokens
 - Harmony, 40 tokens
 - Okex, 32 tokens
 - Moonriver, 26 tokens
 - Fuse, 16 tokens
-- Optimistic-ethereum, 15 tokens
+- Optimism, 15 tokens
 - Celo, 12 tokens
 - Cronos, 10 tokens
 - Telos, 10 tokens

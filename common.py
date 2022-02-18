@@ -2,8 +2,8 @@ from typing import NewType, TypedDict
 
 CHAIN_NAMES_BY_ID = {
     '1': 'ethereum',
-    '10': 'optimistic-ethereum',
-    '100': 'xdai',
+    '10': 'optimism',
+    '100': 'gnosis',
     '10000': 'smartbch',
     '101': 'solana',
     '1024': 'clover',
@@ -29,7 +29,7 @@ CHAIN_NAMES_BY_ID = {
     '40': 'telos',
     '4002': 'ftmtest',
     '42': 'kovan',
-    '42161': 'farms',
+    '42161': 'arbitrum',
     '42220': 'celo',
     '43113': 'fuji',
     '43114': 'avax',
