@@ -6,6 +6,15 @@ In this repo you may find tokenlists aggregated from various trusted providers, 
 if it appeared in 2 or more different tokenlists. So we believe that if 2 or more providers list a token, than it is
 most likely not a scam.
 
+## Usage example
+If you want to use tokelist in your dApp — simply download json with tokenlist. Head for raw link like 
+
+https://raw.githubusercontent.com/viaprotocol/tokenlists/main/tokenlists/ethereum.json (Ethereum tokenlist)
+
+or 
+
+https://raw.githubusercontent.com/viaprotocol/tokenlists/main/tokenlists/bsc.json (Binance Smart Chain Tokenlist)
+
 ## Providers
 
 We collect tokenlists from github repos or open APIs from various platforms, currently:
