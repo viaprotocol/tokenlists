@@ -73,3 +73,5 @@ Run the script from repo root folder
 
 ## Contribute
 Feel free to open issues and PRs with tokens, chains or providers that you want to add.
+
+Developed by Via.Exchange team
