@@ -1,19 +1,31 @@
-{
-    "0x61baadcf22d2565b0f471b291c475db5555e0b76": {
-        "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
-        "symbol": "AELIN",
-        "name": "Aelin",
+[
+    {
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "symbol": "ETH",
+        "name": "Etherum",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1642998662068_5577728369600954.png",
-        "coingeckoId": "aelin",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642671041381_10284101720073968.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean"
         ]
     },
-    "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
+    {
+        "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
+        "symbol": "sETH",
+        "name": "Synth sETH",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172884504_4971130019263712.png",
+        "coingeckoId": "seth",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
         "symbol": "DAI",
         "name": "Dai Stablecoin",
@@ -27,75 +39,7 @@
             "openocean"
         ]
     },
-    "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6": {
-        "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
-        "symbol": "LINK",
-        "name": "ChainLink Token",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172448604_2771152502797545.png",
-        "coingeckoId": "chainlink",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9": {
-        "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-        "symbol": "sUSD",
-        "name": "Synth sUSD",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638173552068_35446995509543733.png",
-        "coingeckoId": "nusd",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b": {
-        "address": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
-        "symbol": "RAI",
-        "name": "Rai Reflex Index",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://tokens.1inch.io/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.png",
-        "coingeckoId": "rai",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49": {
-        "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
-        "symbol": "sETH",
-        "name": "Synth sETH",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172884504_4971130019263712.png",
-        "coingeckoId": "seth",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x8700daec35af8ff88c16bdf0418774cb3d7599b4": {
-        "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
-        "symbol": "SNX",
-        "name": "Synthetix Network Token",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172648754_42693222182948.png",
-        "coingeckoId": "havven",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0xc5db22719a06418028a40a9b5e9a7c02959d0d08": {
+    {
         "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
         "symbol": "sLINK",
         "name": "Synth sLINK",
@@ -108,63 +52,7 @@
             "openocean"
         ]
     },
-    "0x4200000000000000000000000000000000000006": {
-        "address": "0x4200000000000000000000000000000000000006",
-        "symbol": "WETH",
-        "name": "WETH",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1643008048410_5915818120018643.png",
-        "coingeckoId": "weth",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x50c5725949a6f0c72e6c4a641f24049a917db0cb": {
-        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
-        "symbol": "LYRA",
-        "name": "Lyra Finance",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1642997856559_7937039572432529.png",
-        "coingeckoId": "lyra-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x7f5c764cbc14f9669b88837ca1490cca17c31607": {
-        "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-        "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172240797_3452267574610799.png",
-        "coingeckoId": "usd-coin",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x68f180fcce6836688e9084f035309e29bf0a2095": {
-        "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-        "symbol": "WBTC",
-        "name": "Wrapped BTC",
-        "decimals": 8,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172330747_23432317374066436.png",
-        "coingeckoId": "wrapped-bitcoin",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
+    {
         "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
         "symbol": "USDT",
         "name": "Tether",
@@ -178,7 +66,132 @@
             "openocean"
         ]
     },
-    "0x217d47011b23bb961eb6d93ca9945b7501a5bb11": {
+    {
+        "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+        "symbol": "sUSD",
+        "name": "Synth sUSD",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638173552068_35446995509543733.png",
+        "coingeckoId": "nusd",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+        "symbol": "SNX",
+        "name": "Synthetix Network Token",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172648754_42693222182948.png",
+        "coingeckoId": "havven",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
+        "symbol": "RAI",
+        "name": "Rai Reflex Index",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://tokens.1inch.io/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.png",
+        "coingeckoId": "rai",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172240797_3452267574610799.png",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172330747_23432317374066436.png",
+        "coingeckoId": "wrapped-bitcoin",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
+        "symbol": "AELIN",
+        "name": "Aelin",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642998662068_5577728369600954.png",
+        "coingeckoId": "aelin",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+        "symbol": "LYRA",
+        "name": "Lyra Finance",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642997856559_7937039572432529.png",
+        "coingeckoId": "lyra-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "name": "WETH",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1643008048410_5915818120018643.png",
+        "coingeckoId": "weth",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+        "symbol": "LINK",
+        "name": "ChainLink Token",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638172448604_2771152502797545.png",
+        "coingeckoId": "chainlink",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
         "symbol": "THALES",
         "name": "Optimistic Thales Token",
@@ -190,18 +203,5 @@
             "coingecko",
             "1inch"
         ]
-    },
-    "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
-        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "symbol": "ETH",
-        "name": "Etherum",
-        "decimals": 18,
-        "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1642671041381_10284101720073968.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "openocean"
-        ]
     }
-}
+]

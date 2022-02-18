@@ -1,257 +1,32 @@
-{
-    "0x4aca0ad6357b918e3d06bb1a0bcc403619177523": {
-        "address": "0x4aca0ad6357b918e3d06bb1a0bcc403619177523",
-        "symbol": "SONIC",
-        "name": "AVAXRush",
+[
+    {
+        "address": "0xff579d6259dedcc80488c9b89d2820bcb5609160",
+        "symbol": "LVT",
+        "name": "Louverture",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png",
-        "coingeckoId": "sonic-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb": {
-        "address": "0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb",
-        "symbol": "SL3",
-        "name": "SL3",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb/logo.png",
-        "coingeckoId": "sl3-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x959b88966fc5b261df8359961357d34f4ee27b4a": {
-        "address": "0x959b88966fc5b261df8359961357d34f4ee27b4a",
-        "symbol": "UNIV",
-        "name": "Universe",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1643719344123_41268550283451755.png",
-        "coingeckoId": "universe-2",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd": {
-        "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-        "symbol": "JOE",
-        "name": "TraderJoe Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
-        "coingeckoId": "joe",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x90842eb834cfd2a1db0b1512b254a18e4d396215": {
-        "address": "0x90842eb834cfd2a1db0b1512b254a18e4d396215",
-        "symbol": "GB",
-        "name": "Good Bridging",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
-        "coingeckoId": "good-bridging",
-        "listedIn": [
-            "coingecko",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0xa32608e873f9ddef944b24798db69d80bbb4d1ed": {
-        "address": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
-        "symbol": "CRA",
-        "name": "Crabada",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639306373105_6034549969845249.png",
-        "coingeckoId": "crabada",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1640173289337_8609771459843021.png",
+        "coingeckoId": "louverture",
         "listedIn": [
             "coingecko",
             "1inch",
             "openocean"
         ]
     },
-    "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c": {
-        "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
-        "symbol": "ELK",
-        "name": "Elk",
+    {
+        "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+        "symbol": "PENDLE",
+        "name": "Pendle",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-        "coingeckoId": "elk-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0x542fa0b261503333b90fe60c78f2beed16b7b7fd": {
-        "address": "0x542fa0b261503333b90fe60c78f2beed16b7b7fd",
-        "symbol": "TRACTOR",
-        "name": "TRACTOR JOE",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1635754380046_7659663962089835.png",
-        "coingeckoId": "tractor-joe",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0xb54f16fb19478766a268f172c9480f8da1a7c9c3": {
-        "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
-        "symbol": "TIME",
-        "name": "Time",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
-        "coingeckoId": "wonderland",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x783c08b5f26e3daf8c4681f3bf49844e425b6393": {
-        "address": "0x783c08b5f26e3daf8c4681f3bf49844e425b6393",
-        "symbol": "AUSD",
-        "name": "Avaware USD",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15807.png",
-        "coingeckoId": "avaware-usd",
+        "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png",
+        "coingeckoId": "pendle",
         "listedIn": [
             "coingecko",
             "1inch"
         ]
     },
-    "0x22d4002028f537599be9f666d1c4fa138522f9c8": {
-        "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
-        "symbol": "PTP",
-        "name": "Platypus Finance ",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640172518735_23321563128934497.png",
-        "coingeckoId": "platypus-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c": {
-        "address": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c",
-        "symbol": "HEC",
-        "name": "HeroesChained",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1644404157998_40441311252506384.JPG",
-        "coingeckoId": "heroeschained",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x346a59146b9b4a77100d369a3d18e8007a9f46a6": {
-        "address": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6",
-        "symbol": "AVAI",
-        "name": "Orca DAO",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
-        "coingeckoId": "orca-avai",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed": {
-        "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
-        "symbol": "AVME",
-        "name": "AVME",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
-        "coingeckoId": "avme",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0xc38f41a296a4493ff429f1238e030924a1542e50": {
-        "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
-        "symbol": "SNOB",
-        "name": "Snowball",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
-        "coingeckoId": "snowball-token",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x245c2591403e182e41d7a851eab53b01854844ce": {
-        "address": "0x245c2591403e182e41d7a851eab53b01854844ce",
-        "symbol": "MEAD",
-        "name": "THORS MEAD",
-        "decimals": 8,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x245c2591403e182e41d7a851eab53b01854844ce.png",
-        "coingeckoId": "thors-mead",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x4fbf0429599460d327bd5f55625e30e4fc066095": {
-        "address": "0x4fbf0429599460d327bd5f55625e30e4fc066095",
-        "symbol": "TSD",
-        "name": "Teddy Dollar",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x4fbf0429599460d327bd5f55625e30e4fc066095.png",
-        "coingeckoId": "teddy-dollar",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x47eb6f7525c1aa999fbc9ee92715f5231eb1241d": {
-        "address": "0x47eb6f7525c1aa999fbc9ee92715f5231eb1241d",
-        "symbol": "MELT",
-        "name": "Defrost Finance Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
-        "coingeckoId": "defrost-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0xf891214fdcf9cdaa5fdc42369ee4f27f226adad6": {
+    {
         "address": "0xf891214fdcf9cdaa5fdc42369ee4f27f226adad6",
         "symbol": "IME",
         "name": "Imperium Empires Token",
@@ -265,363 +40,21 @@
             "openocean"
         ]
     },
-    "0x320ada89dbfa3a154613d2731c9bc3a4030dba19": {
-        "address": "0x320ada89dbfa3a154613d2731c9bc3a4030dba19",
-        "symbol": "FROST",
-        "name": "FROST",
+    {
+        "address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
+        "symbol": "TUS",
+        "name": "Treasure Under Sea ",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640318459223_9295976235790222.png",
-        "coingeckoId": "frost",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
-        "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
-        "symbol": "USDC.e",
-        "name": "USD Coin",
-        "decimals": 6,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
-        "coingeckoId": "usd-coin-avalanche-bridged-usdc-e",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1": {
-        "address": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1",
-        "symbol": "TUNDRA",
-        "name": "Tundra",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
-        "coingeckoId": "tundra-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x8b1d98a91f853218ddbb066f20b8c63e782e2430": {
-        "address": "0x8b1d98a91f853218ddbb066f20b8c63e782e2430",
-        "symbol": "ORCA",
-        "name": "Orca DAO",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
-        "coingeckoId": "orcadao",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x61ecd63e42c27415696e10864d70ecea4aa11289": {
-        "address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
-        "symbol": "RUGPULL",
-        "name": "Rugpull Prevention",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png",
-        "coingeckoId": "rugpull-prevention",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0xcc2f1d827b18321254223df4e84de399d9ff116c": {
-        "address": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
-        "symbol": "SMRT",
-        "name": "Smartcoin",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1634806070088_48027228841072933.jpeg",
-        "coingeckoId": "smartcoin-2",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x938fe3788222a74924e062120e7bfac829c719fb": {
-        "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
-        "symbol": "APEIN",
-        "name": "Ape In",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x938fe3788222a74924e062120e7bfac829c719fb.png",
-        "coingeckoId": "ape-in",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf": {
-        "address": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf",
-        "symbol": "ZABU",
-        "name": "Zabu Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF/logo.png",
-        "coingeckoId": "zabu-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d": {
-        "address": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
-        "symbol": "WET",
-        "name": "WebleEcosystemToken",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
-        "coingeckoId": "weble-ecosystem-token",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a": {
-        "address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
-        "symbol": "VSO",
-        "name": "VersoToken",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png",
-        "coingeckoId": "verso",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x4501e37a79cf953116331a105b3644d07b74c0f8": {
-        "address": "0x4501e37a79cf953116331a105b3644d07b74c0f8",
-        "symbol": "SAFEMOONA",
-        "name": "SafeMoonAvax",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4501e37a79cf953116331a105B3644d07b74C0F8/logo.png",
-        "coingeckoId": "safemoonavax",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x81440c939f2c1e34fc7048e518a637205a632a74": {
-        "address": "0x81440c939f2c1e34fc7048e518a637205a632a74",
-        "symbol": "CYCLE",
-        "name": "Cycle Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x81440c939f2c1e34fc7048e518a637205a632a74.png",
-        "coingeckoId": "cycle-token",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1": {
-        "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
-        "symbol": "SHIBX",
-        "name": "SHIBAVAX",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
-        "coingeckoId": "shibavax",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b": {
-        "address": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
-        "symbol": "STORM",
-        "name": "Storm Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b.png",
-        "coingeckoId": "storm-token",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0xddaaad7366b455aff8e7c82940c43ceb5829b604": {
-        "address": "0xddaaad7366b455aff8e7c82940c43ceb5829b604",
-        "symbol": "mYAK",
-        "name": "MiniYAK",
-        "decimals": 12,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xddaaad7366b455aff8e7c82940c43ceb5829b604.png",
-        "coingeckoId": "miniyak",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x6d923f688c7ff287dc3a5943caeefc994f97b290": {
-        "address": "0x6d923f688c7ff287dc3a5943caeefc994f97b290",
-        "symbol": "SMRTR",
-        "name": "SmarterCoin",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1635759017012_19737946137709228.png",
-        "coingeckoId": "smart-coin-smrtr",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1639306286889_2387037009318147.png",
+        "coingeckoId": "treasure-under-sea",
         "listedIn": [
             "coingecko",
             "1inch",
             "openocean"
         ]
     },
-    "0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6": {
-        "address": "0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6",
-        "symbol": "CLY",
-        "name": "Colony Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6.png",
-        "coingeckoId": "colony",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x924157b5dbb387a823719916b25256410a4ad470": {
-        "address": "0x924157b5dbb387a823719916b25256410a4ad470",
-        "symbol": "SLOT",
-        "name": "Snowtomb LOT ",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1644403513197_6776366153258726.png",
-        "coingeckoId": "snowtomb-lot",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084": {
-        "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
-        "symbol": "LYD",
-        "name": "LydiaFinance Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
-        "coingeckoId": "lydia-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de": {
-        "address": "0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de",
-        "symbol": "AVE",
-        "name": "Avaware",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
-        "coingeckoId": "avaware",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x8cd309e14575203535ef120b5b0ab4dded0c2073": {
-        "address": "0x8cd309e14575203535ef120b5b0ab4dded0c2073",
-        "symbol": "wsOHM",
-        "name": "Wrapped sOHM",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1637660405200_18417188279485397.png",
-        "coingeckoId": "wrapped-staked-olympus",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0xa1144a6a1304bd9cbb16c800f7a867508726566e": {
-        "address": "0xa1144a6a1304bd9cbb16c800f7a867508726566e",
-        "symbol": "BAG",
-        "name": "Baguette",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xa1144a6A1304bd9cbb16c800F7a867508726566E/logo.png",
-        "coingeckoId": "baguette-token",
-        "listedIn": [
-            "coingecko",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x65378b697853568da9ff8eab60c13e1ee9f4a654": {
-        "address": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
-        "symbol": "HUSKY",
-        "name": "Husky",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
-        "coingeckoId": "husky-avax",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79": {
-        "address": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
-        "symbol": "THOR",
-        "name": "Thor",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1643287574184_7974688197778437.png",
-        "coingeckoId": "thor",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0xb2a85c5ecea99187a977ac34303b80acbddfa208": {
-        "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
-        "symbol": "ROCO",
-        "name": "RocoFinance",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1634804675717_47871870014491713.png",
-        "coingeckoId": "roco-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30": {
-        "address": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
-        "symbol": "DCAU",
-        "name": "Dragon Crypto Aurum",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
-        "coingeckoId": "dragon-crypto-aurum",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb": {
+    {
         "address": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
         "symbol": "HON",
         "name": "Heroes of NFT",
@@ -634,50 +67,20 @@
             "openocean"
         ]
     },
-    "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b": {
-        "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
-        "symbol": "wMEMO",
-        "name": "Wrapped Memo",
+    {
+        "address": "0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6",
+        "symbol": "CLY",
+        "name": "Colony Token",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.jpg",
-        "coingeckoId": "wrapped-memory",
+        "logoURI": "https://tokens.1inch.io/0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6.png",
+        "coingeckoId": "colony",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "1inch"
         ]
     },
-    "0x60781c2586d68229fde47564546784ab3faca982": {
-        "address": "0x60781c2586d68229fde47564546784ab3faca982",
-        "symbol": "PNG",
-        "name": "Pangolin",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
-        "coingeckoId": "pangolin",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985": {
-        "address": "0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985",
-        "symbol": "SPORE",
-        "name": "Spore.Finance",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
-        "coingeckoId": "spore",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c": {
+    {
         "address": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
         "symbol": "PEFI",
         "name": "PenguinToken",
@@ -692,103 +95,73 @@
             "elkfinance"
         ]
     },
-    "0x4939b3313e73ae8546b90e53e998e82274afdbdb": {
-        "address": "0x4939b3313e73ae8546b90e53e998e82274afdbdb",
-        "symbol": "CCC",
-        "name": "Cross Chain Capital V2",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x4939b3313e73ae8546b90e53e998e82274afdbdb.png",
-        "coingeckoId": "cross-chain-capital",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
-        "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-        "symbol": "WAVAX",
-        "name": "Wrapped AVAX",
+    {
+        "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+        "symbol": "ELK",
+        "name": "Elk",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-        "coingeckoId": "wrapped-avax",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21": {
-        "address": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
-        "symbol": "OH",
-        "name": "Oh! Finance",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x937e077abaea52d3abf879c9b9d3f2ebd15baa21.png",
-        "coingeckoId": "oh-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1": {
-        "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
-        "symbol": "AVXT",
-        "name": "Avaxtars Token",
-        "decimals": 6,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png",
-        "coingeckoId": "avaxtars",
-        "listedIn": [
-            "coingecko",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc": {
-        "address": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
-        "symbol": "TEDDY",
-        "name": "Teddy Cash",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x094bd7b2d99711a1486fb94d4395801c6d0fddcc.png",
-        "coingeckoId": "teddy",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x7761e2338b35bceb6bda6ce477ef012bde7ae611": {
-        "address": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611",
-        "symbol": "EGG",
-        "name": "chikn egg",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://snowtrace.io/token/images/chikneeg_32.png",
-        "coingeckoId": "chikn-egg",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5": {
-        "address": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
-        "symbol": "APE-X",
-        "name": "Ape-X",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png",
-        "coingeckoId": "ape-x",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+        "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
             "1inch",
             "elkfinance"
         ]
     },
-    "0xd606199557c8ab6f4cc70bd03facc96ca576f142": {
+    {
+        "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
+        "symbol": "ICE",
+        "name": "Ice Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+        "symbol": "CERBY",
+        "name": "Cerby Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
+        "coingeckoId": "cerby-token",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0xddaaad7366b455aff8e7c82940c43ceb5829b604",
+        "symbol": "mYAK",
+        "name": "MiniYAK",
+        "decimals": 12,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0xddaaad7366b455aff8e7c82940c43ceb5829b604.png",
+        "coingeckoId": "miniyak",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf",
+        "symbol": "ZABU",
+        "name": "Zabu Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF/logo.png",
+        "coingeckoId": "zabu-token",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
         "address": "0xd606199557c8ab6f4cc70bd03facc96ca576f142",
         "symbol": "GDL",
         "name": "Gondola",
@@ -801,450 +174,7 @@
             "elkfinance"
         ]
     },
-    "0x59414b3089ce2af0010e7523dea7e2b35d776ec7": {
-        "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
-        "symbol": "YAK",
-        "name": "Yak Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
-        "coingeckoId": "yield-yak",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x488f73cddda1de3664775ffd91623637383d6404": {
-        "address": "0x488f73cddda1de3664775ffd91623637383d6404",
-        "symbol": "YTS",
-        "name": "YetiSwap",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x488F73cddDA1DE3664775fFd91623637383D6404/logo.png",
-        "coingeckoId": "yetiswap",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c": {
-        "address": "0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c",
-        "symbol": "HERMES",
-        "name": "HERMES",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c.png",
-        "coingeckoId": "hermes",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x1db749847c4abb991d8b6032102383e6bfd9b1c7": {
-        "address": "0x1db749847c4abb991d8b6032102383e6bfd9b1c7",
-        "symbol": "DON",
-        "name": "Dogeon Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://snowtrace.io/token/images/dogeon_32.png",
-        "coingeckoId": "dogeon",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xcf8419a615c57511807236751c0af38db4ba3351": {
-        "address": "0xcf8419a615c57511807236751c0af38db4ba3351",
-        "symbol": "AXIAL",
-        "name": "AxialToken",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xcf8419a615c57511807236751c0af38db4ba3351.png",
-        "coingeckoId": "axial-token",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x5684a087c739a2e845f4aaaabf4fbd261edc2be8": {
-        "address": "0x5684a087c739a2e845f4aaaabf4fbd261edc2be8",
-        "symbol": "LF",
-        "name": "Life",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640172932821_9120856902758341.png",
-        "coingeckoId": "life-dao",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x7c08413cbf02202a1c13643db173f2694e0f73f0": {
-        "address": "0x7c08413cbf02202a1c13643db173f2694e0f73f0",
-        "symbol": "MAXI",
-        "name": "Maximizer ",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638963161999_9906499738727959.png",
-        "coingeckoId": "maximizer",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5": {
-        "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
-        "symbol": "QI",
-        "name": "Benqi",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
-        "coingeckoId": "benqi",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0xff579d6259dedcc80488c9b89d2820bcb5609160": {
-        "address": "0xff579d6259dedcc80488c9b89d2820bcb5609160",
-        "symbol": "LVT",
-        "name": "Louverture",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640173289337_8609771459843021.png",
-        "coingeckoId": "louverture",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0xb27c8941a7df8958a1778c0259f76d1f8b711c35": {
-        "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
-        "symbol": "KLO",
-        "name": "Kalao",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0xb27c8941a7df8958a1778c0259f76d1f8b711c35.png",
-        "coingeckoId": "kalao",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172": {
-        "address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
-        "symbol": "TUS",
-        "name": "Treasure Under Sea ",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639306286889_2387037009318147.png",
-        "coingeckoId": "treasure-under-sea",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x7086e045b78e1e72f741f25231c08d238812cf8a": {
-        "address": "0x7086e045b78e1e72f741f25231c08d238812cf8a",
-        "symbol": "RACEX",
-        "name": "RaceX",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
-        "coingeckoId": "racex",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0x3eefb18003d033661f84e48360ebecd181a84709": {
-        "address": "0x3eefb18003d033661f84e48360ebecd181a84709",
-        "symbol": "ISA",
-        "name": "Islander",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://snowtrace.io/token/images/theislander_32.png",
-        "coingeckoId": "islander",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xae4aa155d2987b454c29450ef4f862cf00907b61": {
-        "address": "0xae4aa155d2987b454c29450ef4f862cf00907b61",
-        "symbol": "THO",
-        "name": "Thorus",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
-        "coingeckoId": "thorus",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0": {
-        "address": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
-        "symbol": "BOOFI ",
-        "name": "Boo Finance Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1641124082185_29693805163186826.png",
-        "coingeckoId": "boo-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x8ae8be25c23833e0a01aa200403e826f611f9cd2": {
-        "address": "0x8ae8be25c23833e0a01aa200403e826f611f9cd2",
-        "symbol": "CRAFT",
-        "name": "TaleCraft",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1642749795998_9188862228298427.png",
-        "coingeckoId": "talecraft",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x7f041ce89a2079873693207653b24c15b5e6a293": {
-        "address": "0x7f041ce89a2079873693207653b24c15b5e6a293",
-        "symbol": "LOOT",
-        "name": "LOOT",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x7b3d36eb606f873a75a6ab68f8c999848b04f935.png",
-        "coingeckoId": "police-and-thief-game",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f": {
-        "address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
-        "symbol": "SB",
-        "name": "Snowbank",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1636445434248_176771240066546.png",
-        "coingeckoId": "snowbank",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x0f34919404a290e71fc6a510cb4a6acb8d764b24": {
-        "address": "0x0f34919404a290e71fc6a510cb4a6acb8d764b24",
-        "symbol": "BLIZZ",
-        "name": "Blizz.Finance Protocol Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1636445213134_6193080826515858.png",
-        "coingeckoId": "blizz-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf": {
-        "address": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
-        "symbol": "PLN",
-        "name": "Pollen",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://snowtrace.io/token/images/pollendefi_32.png",
-        "coingeckoId": "pollen",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6": {
-        "address": "0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6",
-        "symbol": "SHERPA",
-        "name": "Sherpa",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
-        "coingeckoId": "sherpa",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    "0x214db107654ff987ad859f34125307783fc8e387": {
-        "address": "0x214db107654ff987ad859f34125307783fc8e387",
-        "symbol": "FXS",
-        "name": "Frax Share",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-        "coingeckoId": "frax-share",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x617724974218a18769020a70162165a539c07e8a": {
-        "address": "0x617724974218a18769020a70162165a539c07e8a",
-        "symbol": "OLIVE",
-        "name": "OliveCash Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x617724974218A18769020A70162165A539c07E8a/logo.png",
-        "coingeckoId": "olivecash",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17": {
-        "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
-        "symbol": "DYP",
-        "name": "DeFiYieldProtocol",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1636702678438_013388706409719786.png",
-        "coingeckoId": "defi-yield-protocol",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean"
-        ]
-    },
-    "0x78c42324016cd91d1827924711563fb66e33a83a": {
-        "address": "0x78c42324016cd91d1827924711563fb66e33a83a",
-        "symbol": "RELAY",
-        "name": "Relay Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x78c42324016cd91D1827924711563fb66E33A83A/logo.png",
-        "coingeckoId": "relay-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98": {
-        "address": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
-        "symbol": "BUSD.e",
-        "name": "Binance USD",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
-        "coingeckoId": "binance-usd",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x50b7545627a5162f82a992c33b87adc75187b218": {
-        "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
-        "symbol": "WBTC.e",
-        "name": "Wrapped BTC",
-        "decimals": 8,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
-        "coingeckoId": "wrapped-bitcoin",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580": {
-        "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
-        "symbol": "UNI.e",
-        "name": "Uniswap",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580.png",
-        "coingeckoId": "uniswap",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc": {
-        "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
-        "symbol": "YFI.e",
-        "name": "yearn.finance",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x9eaac1b23d935365bd7b542fe22ceee2922f52dc.png",
-        "coingeckoId": "yearn-finance",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab": {
-        "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
-        "symbol": "WETH.e",
-        "name": "Wrapped Ether",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
-        "coingeckoId": "weth",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76": {
-        "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
-        "symbol": "SUSHI.e",
-        "name": "SushiToken",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
-        "coingeckoId": "sushi",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x5947bb275c521040051d82396192181b413227a3": {
-        "address": "0x5947bb275c521040051d82396192181b413227a3",
-        "symbol": "LINK.e",
-        "name": "ChainLink Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5947BB275c521040051D82396192181b413227A3/logo.png",
-        "coingeckoId": "chainlink",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0xd586e7f844cea2f87f50152665bcbc2c279d8d70": {
+    {
         "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
         "symbol": "DAI.e",
         "name": "Dai Stablecoin",
@@ -1260,51 +190,61 @@
             "elkfinance"
         ]
     },
-    "0x63a72806098bd3d9520cc43356dd78afe5d386d9": {
-        "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
-        "symbol": "AAVE.e",
-        "name": "Aave",
+    {
+        "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+        "symbol": "FRAX",
+        "name": "Frax",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
-        "coingeckoId": "aave",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x1f1e7c893855525b303f99bdf5c3c05be09ca251": {
-        "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
-        "symbol": "SYN",
-        "name": "Synapse",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png",
-        "coingeckoId": "synapse-2",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca": {
-        "address": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca",
-        "symbol": "YAY",
-        "name": "YAY Games",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca.png",
-        "coingeckoId": "yay-games",
+        "logoURI": "https://tokens.1inch.io/0x853d955acef822db058eb8505911ed77f175b99e.png",
+        "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "1inch"
         ]
     },
-    "0xce1bffbd5374dac86a2893119683f4911a2f7814": {
+    {
+        "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
+        "symbol": "XAVA",
+        "name": "Avalaunch",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
+        "coingeckoId": "avalaunch",
+        "listedIn": [
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
+        "symbol": "APE-X",
+        "name": "Ape-X",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png",
+        "coingeckoId": "ape-x",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xcf8419a615c57511807236751c0af38db4ba3351",
+        "symbol": "AXIAL",
+        "name": "AxialToken",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0xcf8419a615c57511807236751c0af38db4ba3351.png",
+        "coingeckoId": "axial-token",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
         "symbol": "SPELL",
         "name": "Spell Token",
@@ -1320,219 +260,33 @@
             "elkfinance"
         ]
     },
-    "0x1c20e891bab6b1727d14da358fae2984ed9b59eb": {
-        "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
-        "symbol": "TUSD",
-        "name": "TrueUSD",
+    {
+        "address": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
+        "symbol": "SMRT",
+        "name": "Smartcoin",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x0000000000085d4780b73119b644ae5ecd22b376.png",
-        "coingeckoId": "true-usd",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b": {
-        "address": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b",
-        "symbol": "WOW",
-        "name": "WOWSwap",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png",
-        "coingeckoId": "wowswap",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0": {
-        "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
-        "symbol": "ELE",
-        "name": "Eleven Finance",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
-        "coingeckoId": "eleven-finance",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x130966628846bfd36ff31a822705796e8cb8c18d": {
-        "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
-        "symbol": "MIM",
-        "name": "Magic Internet Money",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
-        "coingeckoId": "magic-internet-money",
-        "listedIn": [
-            "coingecko",
-            "1inch",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    "0x544c42fbb96b39b21df61cf322b5edc285ee7429": {
-        "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
-        "symbol": "INSUR",
-        "name": "InsurAce",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x544c42fbb96b39b21df61cf322b5edc285ee7429.png",
-        "coingeckoId": "insurace",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x564a341df6c126f90cf3ecb92120fd7190acb401": {
-        "address": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
-        "symbol": "TRYB",
-        "name": "BiLira",
-        "decimals": 6,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x2c537e5624e4af88a7ae4060c022609376c8d0eb.png",
-        "coingeckoId": "bilira",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x0ebd9537a25f56713e34c45b38f421a1e7191469": {
-        "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
-        "symbol": "OOE",
-        "name": "OpenOcean",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x0ebd9537a25f56713e34c45b38f421a1e7191469.png",
-        "coingeckoId": "openocean",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1634806070088_48027228841072933.jpeg",
+        "coingeckoId": "smartcoin-2",
         "listedIn": [
             "coingecko",
             "openocean"
         ]
     },
-    "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64": {
-        "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
-        "symbol": "FRAX",
-        "name": "Frax",
+    {
+        "address": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c",
+        "symbol": "HEC",
+        "name": "HeroesChained",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x853d955acef822db058eb8505911ed77f175b99e.png",
-        "coingeckoId": "frax",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1644404157998_40441311252506384.JPG",
+        "coingeckoId": "heroeschained",
         "listedIn": [
             "coingecko",
-            "1inch"
-        ]
-    },
-    "0x027dbca046ca156de9622cd1e2d907d375e53aa7": {
-        "address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
-        "symbol": "AMPL",
-        "name": "Ampleforth secured by Meter Passport",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xd46ba6d942050d489dbd938a2c909a5d5039a161.png",
-        "coingeckoId": "ampleforth",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xfb98b335551a418cd0737375a2ea0ded62ea213b": {
-        "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
-        "symbol": "PENDLE",
-        "name": "Pendle",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png",
-        "coingeckoId": "pendle",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xbd83010eb60f12112908774998f65761cf9f6f9a": {
-        "address": "0xbd83010eb60f12112908774998f65761cf9f6f9a",
-        "symbol": "BOO",
-        "name": "SpookyToken",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xbd83010eb60f12112908774998f65761cf9f6f9a.png",
-        "coingeckoId": "spookyswap",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0x321e7092a180bb43555132ec53aaa65a5bf84251": {
-        "address": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
-        "symbol": "gOHM",
-        "name": "Governance OHM",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1641123933739_4123388231654983.png",
-        "coingeckoId": "governance-ohm",
-        "listedIn": [
-            "coingecko",
-            "1inch",
             "openocean"
         ]
     },
-    "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
-        "address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
-        "symbol": "CERBY",
-        "name": "Cerby Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
-        "coingeckoId": "cerby-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x637afeff75ca669ff92e4570b14d6399a658902f": {
-        "address": "0x637afeff75ca669ff92e4570b14d6399a658902f",
-        "symbol": "COOK",
-        "name": "Poly-Peg COOK",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xff75ced57419bcaebe5f05254983b013b0646ef5.png",
-        "coingeckoId": "cook",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xabc9547b534519ff73921b1fba6e672b5f58d083": {
-        "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
-        "symbol": "WOO.e",
-        "name": "Wootrade Network",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://snowtrace.io/token/images/wootradenetwork_32.png",
-        "coingeckoId": "woo-network",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xbd100d061e120b2c67a24453cf6368e63f1be056": {
-        "address": "0xbd100d061e120b2c67a24453cf6368e63f1be056",
-        "symbol": "iDYP",
-        "name": "iDeFiYieldProtocol",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xbd100d061e120b2c67a24453cf6368e63f1be056.png",
-        "coingeckoId": "idefiyieldprotocol",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    "0xc7198437980c041c805a1edcba50c1ce5db95118": {
+    {
         "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
         "symbol": "USDT.e",
         "name": "Tether USD",
@@ -1548,46 +302,48 @@
             "elkfinance"
         ]
     },
-    "0x264c1383ea520f73dd837f915ef3a732e204a493": {
-        "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
-        "symbol": "BNB",
-        "name": "Binance",
+    {
+        "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
+        "symbol": "SNOB",
+        "name": "Snowball",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
-        "coingeckoId": "wbnb",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
+        "coingeckoId": "snowball-token",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xbd83010eb60f12112908774998f65761cf9f6f9a",
+        "symbol": "BOO",
+        "name": "SpookyToken",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0xbd83010eb60f12112908774998f65761cf9f6f9a.png",
+        "coingeckoId": "spookyswap",
         "listedIn": [
             "coingecko",
             "1inch"
         ]
     },
-    "0x63682bdc5f875e9bf69e201550658492c9763f89": {
-        "address": "0x63682bdc5f875e9bf69e201550658492c9763f89",
-        "symbol": "BSGG",
-        "name": "Betswap.gg",
+    {
+        "address": "0xbd100d061e120b2c67a24453cf6368e63f1be056",
+        "symbol": "iDYP",
+        "name": "iDeFiYieldProtocol",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg",
-        "coingeckoId": "betswap-gg",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x921f99719eb6c01b4b8f0ba7973a7c24891e740a": {
-        "address": "0x921f99719eb6c01b4b8f0ba7973a7c24891e740a",
-        "symbol": "MAGE",
-        "name": "MetaBrands",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x921f99719eb6c01b4b8f0ba7973a7c24891e740a.png",
-        "coingeckoId": "metabrands",
+        "logoURI": "https://tokens.1inch.io/0xbd100d061e120b2c67a24453cf6368e63f1be056.png",
+        "coingeckoId": "idefiyieldprotocol",
         "listedIn": [
             "coingecko",
             "1inch"
         ]
     },
-    "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e": {
+    {
         "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
         "symbol": "USDC",
         "name": "USD Coin",
@@ -1601,7 +357,190 @@
             "openocean"
         ]
     },
-    "0xa56f9a54880afbc30cf29bb66d2d9adcdcaeadd6": {
+    {
+        "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+        "symbol": "TIME",
+        "name": "Time",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
+        "coingeckoId": "wonderland",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "symbol": "WAVAX",
+        "name": "Wrapped AVAX",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+        "coingeckoId": "wrapped-avax",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
+        "symbol": "ROCO",
+        "name": "RocoFinance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1634804675717_47871870014491713.png",
+        "coingeckoId": "roco-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+        "symbol": "KLO",
+        "name": "Kalao",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0xb27c8941a7df8958a1778c0259f76d1f8b711c35.png",
+        "coingeckoId": "kalao",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c",
+        "symbol": "HERMES",
+        "name": "HERMES",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c.png",
+        "coingeckoId": "hermes",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
+        "symbol": "WET",
+        "name": "WebleEcosystemToken",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
+        "coingeckoId": "weble-ecosystem-token",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
+        "symbol": "BOOFI ",
+        "name": "Boo Finance Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1641124082185_29693805163186826.png",
+        "coingeckoId": "boo-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0xae4aa155d2987b454c29450ef4f862cf00907b61",
+        "symbol": "THO",
+        "name": "Thorus",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
+        "coingeckoId": "thorus",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+        "symbol": "ELE",
+        "name": "Eleven Finance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
+        "coingeckoId": "eleven-finance",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+        "symbol": "WOO.e",
+        "name": "Wootrade Network",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://snowtrace.io/token/images/wootradenetwork_32.png",
+        "coingeckoId": "woo-network",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+        "symbol": "USDC.e",
+        "name": "USD Coin",
+        "decimals": 6,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+        "coingeckoId": "usd-coin-avalanche-bridged-usdc-e",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6",
+        "symbol": "SHERPA",
+        "name": "Sherpa",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
+        "coingeckoId": "sherpa",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xa5e2cfe48fe8c4abd682ca2b10fcaafe34b8774c",
+        "symbol": "PSHARE",
+        "name": "Piggy Share",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645065656628_4353546372297692.png",
+        "coingeckoId": "piggy-share",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0xa56f9a54880afbc30cf29bb66d2d9adcdcaeadd6",
         "symbol": "QiDAO",
         "name": "QiDAO",
@@ -1614,21 +553,430 @@
             "elkfinance"
         ]
     },
-    "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4": {
-        "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
-        "symbol": "XAVA",
-        "name": "Avalaunch",
+    {
+        "address": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b",
+        "symbol": "WOW",
+        "name": "WOWSwap",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
-        "coingeckoId": "avalaunch",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png",
+        "coingeckoId": "wowswap",
         "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
+        "symbol": "CRA",
+        "name": "Crabada",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1639306373105_6034549969845249.png",
+        "coingeckoId": "crabada",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0xa1144a6a1304bd9cbb16c800f7a867508726566e",
+        "symbol": "BAG",
+        "name": "Baguette",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xa1144a6A1304bd9cbb16c800F7a867508726566E/logo.png",
+        "coingeckoId": "baguette-token",
+        "listedIn": [
+            "coingecko",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+        "symbol": "YFI.e",
+        "name": "yearn.finance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x9eaac1b23d935365bd7b542fe22ceee2922f52dc.png",
+        "coingeckoId": "yearn-finance",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+        "symbol": "DYP",
+        "name": "DeFiYieldProtocol",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1636702678438_013388706409719786.png",
+        "coingeckoId": "defi-yield-protocol",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x959b88966fc5b261df8359961357d34f4ee27b4a",
+        "symbol": "UNIV",
+        "name": "Universe",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1643719344123_41268550283451755.png",
+        "coingeckoId": "universe-2",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
+        "symbol": "APEIN",
+        "name": "Ape In",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x938fe3788222a74924e062120e7bfac829c719fb.png",
+        "coingeckoId": "ape-in",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
+        "symbol": "OH",
+        "name": "Oh! Finance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x937e077abaea52d3abf879c9b9d3f2ebd15baa21.png",
+        "coingeckoId": "oh-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x924157b5dbb387a823719916b25256410a4ad470",
+        "symbol": "SLOT",
+        "name": "Snowtomb LOT ",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1644403513197_6776366153258726.png",
+        "coingeckoId": "snowtomb-lot",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x921f99719eb6c01b4b8f0ba7973a7c24891e740a",
+        "symbol": "MAGE",
+        "name": "MetaBrands",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x921f99719eb6c01b4b8f0ba7973a7c24891e740a.png",
+        "coingeckoId": "metabrands",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x90842eb834cfd2a1db0b1512b254a18e4d396215",
+        "symbol": "GB",
+        "name": "Good Bridging",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
+        "coingeckoId": "good-bridging",
+        "listedIn": [
+            "coingecko",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
+        "symbol": "THOR",
+        "name": "Thor",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1643287574184_7974688197778437.png",
+        "coingeckoId": "thor",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+        "symbol": "UNI.e",
+        "name": "Uniswap",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580.png",
+        "coingeckoId": "uniswap",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x8cd309e14575203535ef120b5b0ab4dded0c2073",
+        "symbol": "wsOHM",
+        "name": "Wrapped sOHM",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1637660405200_18417188279485397.png",
+        "coingeckoId": "wrapped-staked-olympus",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x8b1d98a91f853218ddbb066f20b8c63e782e2430",
+        "symbol": "ORCA",
+        "name": "Orca DAO",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
+        "coingeckoId": "orcadao",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x8ae8be25c23833e0a01aa200403e826f611f9cd2",
+        "symbol": "CRAFT",
+        "name": "TaleCraft",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642749795998_9188862228298427.png",
+        "coingeckoId": "talecraft",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+        "symbol": "QI",
+        "name": "Benqi",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
+        "coingeckoId": "benqi",
+        "listedIn": [
+            "coingecko",
             "1inch",
             "openocean",
             "elkfinance"
         ]
     },
-    "0x6c6f910a79639dcc94b4feef59ff507c2e843929": {
+    {
+        "address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+        "symbol": "VSO",
+        "name": "VersoToken",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png",
+        "coingeckoId": "verso",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x81440c939f2c1e34fc7048e518a637205a632a74",
+        "symbol": "CYCLE",
+        "name": "Cycle Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x81440c939f2c1e34fc7048e518a637205a632a74.png",
+        "coingeckoId": "cycle-token",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x7f041ce89a2079873693207653b24c15b5e6a293",
+        "symbol": "LOOT",
+        "name": "LOOT",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x7b3d36eb606f873a75a6ab68f8c999848b04f935.png",
+        "coingeckoId": "police-and-thief-game",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
+        "symbol": "SB",
+        "name": "Snowbank",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1636445434248_176771240066546.png",
+        "coingeckoId": "snowbank",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x7c08413cbf02202a1c13643db173f2694e0f73f0",
+        "symbol": "MAXI",
+        "name": "Maximizer ",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1638963161999_9906499738727959.png",
+        "coingeckoId": "maximizer",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
+        "symbol": "PLN",
+        "name": "Pollen",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://snowtrace.io/token/images/pollendefi_32.png",
+        "coingeckoId": "pollen",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de",
+        "symbol": "AVE",
+        "name": "Avaware",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
+        "coingeckoId": "avaware",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x78c42324016cd91d1827924711563fb66e33a83a",
+        "symbol": "RELAY",
+        "name": "Relay Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x78c42324016cd91D1827924711563fb66E33A83A/logo.png",
+        "coingeckoId": "relay-token",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x783c08b5f26e3daf8c4681f3bf49844e425b6393",
+        "symbol": "AUSD",
+        "name": "Avaware USD",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15807.png",
+        "coingeckoId": "avaware-usd",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x7761e2338b35bceb6bda6ce477ef012bde7ae611",
+        "symbol": "EGG",
+        "name": "chikn egg",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://snowtrace.io/token/images/chikneeg_32.png",
+        "coingeckoId": "chikn-egg",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x7086e045b78e1e72f741f25231c08d238812cf8a",
+        "symbol": "RACEX",
+        "name": "RaceX",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+        "coingeckoId": "racex",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+        "symbol": "JOE",
+        "name": "TraderJoe Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+        "coingeckoId": "joe",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985",
+        "symbol": "SPORE",
+        "name": "Spore.Finance",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
+        "coingeckoId": "spore",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x6d923f688c7ff287dc3a5943caeefc994f97b290",
+        "symbol": "SMRTR",
+        "name": "SmarterCoin",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1635759017012_19737946137709228.png",
+        "coingeckoId": "smart-coin-smrtr",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x6c6f910a79639dcc94b4feef59ff507c2e843929",
         "symbol": "ANKR",
         "name": "Ankr",
@@ -1641,7 +989,230 @@
             "openocean"
         ]
     },
-    "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6": {
+    {
+        "address": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
+        "symbol": "STORM",
+        "name": "Storm Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b.png",
+        "coingeckoId": "storm-token",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+        "symbol": "HUSKY",
+        "name": "Husky",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+        "coingeckoId": "husky-avax",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+        "symbol": "AAVE.e",
+        "name": "Aave",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
+        "coingeckoId": "aave",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x637afeff75ca669ff92e4570b14d6399a658902f",
+        "symbol": "COOK",
+        "name": "Poly-Peg COOK",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0xff75ced57419bcaebe5f05254983b013b0646ef5.png",
+        "coingeckoId": "cook",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+        "symbol": "BSGG",
+        "name": "Betswap.gg",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg",
+        "coingeckoId": "betswap-gg",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
+        "symbol": "RUGPULL",
+        "name": "Rugpull Prevention",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png",
+        "coingeckoId": "rugpull-prevention",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x617724974218a18769020a70162165a539c07e8a",
+        "symbol": "OLIVE",
+        "name": "OliveCash Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x617724974218A18769020A70162165A539c07E8a/logo.png",
+        "coingeckoId": "olivecash",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x60781c2586d68229fde47564546784ab3faca982",
+        "symbol": "PNG",
+        "name": "Pangolin",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+        "coingeckoId": "pangolin",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x5947bb275c521040051d82396192181b413227a3",
+        "symbol": "LINK.e",
+        "name": "ChainLink Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x5947BB275c521040051D82396192181b413227A3/logo.png",
+        "coingeckoId": "chainlink",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+        "symbol": "YAK",
+        "name": "Yak Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+        "coingeckoId": "yield-yak",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x5684a087c739a2e845f4aaaabf4fbd261edc2be8",
+        "symbol": "LF",
+        "name": "Life",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1640172932821_9120856902758341.png",
+        "coingeckoId": "life-dao",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
+        "symbol": "TRYB",
+        "name": "BiLira",
+        "decimals": 6,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x2c537e5624e4af88a7ae4060c022609376c8d0eb.png",
+        "coingeckoId": "bilira",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+        "symbol": "INSUR",
+        "name": "InsurAce",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x544c42fbb96b39b21df61cf322b5edc285ee7429.png",
+        "coingeckoId": "insurace",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x542fa0b261503333b90fe60c78f2beed16b7b7fd",
+        "symbol": "TRACTOR",
+        "name": "TRACTOR JOE",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1635754380046_7659663962089835.png",
+        "coingeckoId": "tractor-joe",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+        "symbol": "WBTC.e",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
+        "coingeckoId": "wrapped-bitcoin",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x4fbf0429599460d327bd5f55625e30e4fc066095",
+        "symbol": "TSD",
+        "name": "Teddy Dollar",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x4fbf0429599460d327bd5f55625e30e4fc066095.png",
+        "coingeckoId": "teddy-dollar",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6",
         "symbol": "JEWEL",
         "name": "DeFi Kingdoms",
@@ -1654,20 +1225,449 @@
             "openocean"
         ]
     },
-    "0xe0ce60af0850bf54072635e66e79df17082a1109": {
-        "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
-        "symbol": "ICE",
-        "name": "Ice Token",
+    {
+        "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+        "symbol": "LYD",
+        "name": "LydiaFinance Token",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg",
-        "coingeckoId": null,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
+        "coingeckoId": "lydia-finance",
         "listedIn": [
+            "coingecko",
             "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x4aca0ad6357b918e3d06bb1a0bcc403619177523",
+        "symbol": "SONIC",
+        "name": "AVAXRush",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png",
+        "coingeckoId": "sonic-token",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+        "symbol": "WETH.e",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
+        "coingeckoId": "weth",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x4939b3313e73ae8546b90e53e998e82274afdbdb",
+        "symbol": "CCC",
+        "name": "Cross Chain Capital V2",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x4939b3313e73ae8546b90e53e998e82274afdbdb.png",
+        "coingeckoId": "cross-chain-capital",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x488f73cddda1de3664775ffd91623637383d6404",
+        "symbol": "YTS",
+        "name": "YetiSwap",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x488F73cddDA1DE3664775fFd91623637383D6404/logo.png",
+        "coingeckoId": "yetiswap",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x47eb6f7525c1aa999fbc9ee92715f5231eb1241d",
+        "symbol": "MELT",
+        "name": "Defrost Finance Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
+        "coingeckoId": "defrost-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x4501e37a79cf953116331a105b3644d07b74c0f8",
+        "symbol": "SAFEMOONA",
+        "name": "SafeMoonAvax",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x4501e37a79cf953116331a105B3644d07b74C0F8/logo.png",
+        "coingeckoId": "safemoonavax",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
+        "symbol": "SHIBX",
+        "name": "SHIBAVAX",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
+        "coingeckoId": "shibavax",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x3eefb18003d033661f84e48360ebecd181a84709",
+        "symbol": "ISA",
+        "name": "Islander",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://snowtrace.io/token/images/theislander_32.png",
+        "coingeckoId": "islander",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
+        "symbol": "AVXT",
+        "name": "Avaxtars Token",
+        "decimals": 6,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png",
+        "coingeckoId": "avaxtars",
+        "listedIn": [
+            "coingecko",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+        "symbol": "SUSHI.e",
+        "name": "SushiToken",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
+        "coingeckoId": "sushi",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6",
+        "symbol": "AVAI",
+        "name": "Orca DAO",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
+        "coingeckoId": "orca-avai",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
+        "symbol": "gOHM",
+        "name": "Governance OHM",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1641123933739_4123388231654983.png",
+        "coingeckoId": "governance-ohm",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x320ada89dbfa3a154613d2731c9bc3a4030dba19",
+        "symbol": "FROST",
+        "name": "FROST",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1640318459223_9295976235790222.png",
+        "coingeckoId": "frost",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+        "symbol": "sAVAX",
+        "name": "Staked AVAX",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645066444760_8595672573461763.png",
+        "coingeckoId": "benqi-liquid-staked-avax",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb",
+        "symbol": "SL3",
+        "name": "SL3",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb/logo.png",
+        "coingeckoId": "sl3-token",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
+        "symbol": "BNB",
+        "name": "Binance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+        "coingeckoId": "wbnb",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+        "symbol": "PTP",
+        "name": "Platypus Finance ",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1640172518735_23321563128934497.png",
+        "coingeckoId": "platypus-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1",
+        "symbol": "TUNDRA",
+        "name": "Tundra",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
+        "coingeckoId": "tundra-token",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x214db107654ff987ad859f34125307783fc8e387",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
+        "coingeckoId": "frax-share",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+        "symbol": "SYN",
+        "name": "Synapse",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png",
+        "coingeckoId": "synapse-2",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
+        "symbol": "AVME",
+        "name": "AVME",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
+        "coingeckoId": "avme",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x1db749847c4abb991d8b6032102383e6bfd9b1c7",
+        "symbol": "DON",
+        "name": "Dogeon Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://snowtrace.io/token/images/dogeon_32.png",
+        "coingeckoId": "dogeon",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+        "symbol": "TUSD",
+        "name": "TrueUSD",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x0000000000085d4780b73119b644ae5ecd22b376.png",
+        "coingeckoId": "true-usd",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
+        "symbol": "BUSD.e",
+        "name": "Binance USD",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
+        "coingeckoId": "binance-usd",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+        "symbol": "MIM",
+        "name": "Magic Internet Money",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
+        "coingeckoId": "magic-internet-money",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+        "symbol": "DCAU",
+        "name": "Dragon Crypto Aurum",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
+        "coingeckoId": "dragon-crypto-aurum",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x0f34919404a290e71fc6a510cb4a6acb8d764b24",
+        "symbol": "BLIZZ",
+        "name": "Blizz.Finance Protocol Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1636445213134_6193080826515858.png",
+        "coingeckoId": "blizz-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+        "symbol": "OOE",
+        "name": "OpenOcean",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x0ebd9537a25f56713e34c45b38f421a1e7191469.png",
+        "coingeckoId": "openocean",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+        "symbol": "wMEMO",
+        "name": "Wrapped Memo",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.jpg",
+        "coingeckoId": "wrapped-memory",
+        "listedIn": [
+            "coingecko",
             "sushiswap"
         ]
     },
-    "0x026187bdbc6b751003517bcb30ac7817d5b766f8": {
+    {
+        "address": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
+        "symbol": "TEDDY",
+        "name": "Teddy Cash",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x094bd7b2d99711a1486fb94d4395801c6d0fddcc.png",
+        "coingeckoId": "teddy",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+        "symbol": "AMPL",
+        "name": "Ampleforth secured by Meter Passport",
+        "decimals": 9,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0xd46ba6d942050d489dbd938a2c909a5d5039a161.png",
+        "coingeckoId": "ampleforth",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x026187bdbc6b751003517bcb30ac7817d5b766f8",
         "symbol": "H2O",
         "name": "Defrost Finance H2O",
@@ -1679,5 +1679,18 @@
             "1inch",
             "elkfinance"
         ]
+    },
+    {
+        "address": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca",
+        "symbol": "YAY",
+        "name": "YAY Games",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca.png",
+        "coingeckoId": "yay-games",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
     }
-}
+]

@@ -1,5 +1,5 @@
-{
-    "0xd0a1e359811322d97991e03f863a0c30c2cf029c": {
+[
+    {
         "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
         "symbol": "WETH",
         "name": "Wrapped Ether",
@@ -12,20 +12,7 @@
             "sushiswap"
         ]
     },
-    "0x4f96fe3b7a6cf9725f59d353f723c1bdb64ca6aa": {
-        "address": "0x4f96fe3b7a6cf9725f59d353f723c1bdb64ca6aa",
-        "symbol": "DAI",
-        "name": "Dai Stablecoin",
-        "decimals": 18,
-        "chainId": "42",
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "uniswap",
-            "sushiswap"
-        ]
-    },
-    "0xaaf64bfcc32d0f15873a02163e7e500671a4ffcd": {
+    {
         "address": "0xaaf64bfcc32d0f15873a02163e7e500671a4ffcd",
         "symbol": "MKR",
         "name": "Maker",
@@ -38,7 +25,20 @@
             "sushiswap"
         ]
     },
-    "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
+    {
+        "address": "0x4f96fe3b7a6cf9725f59d353f723c1bdb64ca6aa",
+        "symbol": "DAI",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "chainId": "42",
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "uniswap",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
         "symbol": "UNI",
         "name": "Uniswap",
@@ -51,4 +51,4 @@
             "sushiswap"
         ]
     }
-}
+]

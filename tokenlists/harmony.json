@@ -1,289 +1,5 @@
-{
-    "0xb8e0497018c991e86311b64efd9d57b06aedbbae": {
-        "address": "0xb8e0497018c991e86311b64efd9d57b06aedbbae",
-        "symbol": "VINCI",
-        "name": "DaVinci Token",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
-        "coingeckoId": "davinci-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687": {
-        "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
-        "symbol": "FOX",
-        "name": "FarmersOnly Token2",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png",
-        "coingeckoId": "farmers-only",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x725553bc9aa0939362671407dfdeb162dd37d168": {
-        "address": "0x725553bc9aa0939362671407dfdeb162dd37d168",
-        "symbol": "MET",
-        "name": "Metatr.one",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x725553bc9Aa0939362671407dfDEb162DD37d168/logo.png",
-        "coingeckoId": "metatrone",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x947394294f75d7502977ac6813fd99f77c2931ec": {
-        "address": "0x947394294f75d7502977ac6813fd99f77c2931ec",
-        "symbol": "ODAO",
-        "name": "ODAO",
-        "decimals": 9,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x947394294F75D7502977AC6813FD99f77C2931ec/logo.png",
-        "coingeckoId": "onedao-finance",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b": {
-        "address": "0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b",
-        "symbol": "JENN",
-        "name": "TokenJenny",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B/logo.png",
-        "coingeckoId": "tokenjenny",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x40d2f81bd135b5282cb2aa18f19cf7098079d012": {
-        "address": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012",
-        "symbol": "IKURA",
-        "name": "Ikura",
-        "decimals": 9,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x40d2f81bD135B5282CB2aA18F19cF7098079D012/logo.png",
-        "coingeckoId": "ikura-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x22d62b19b7039333ad773b7185bb61294f3adc19": {
-        "address": "0x22d62b19b7039333ad773b7185bb61294f3adc19",
-        "symbol": "stONE",
-        "name": "Staked One",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png",
-        "coingeckoId": "tranquil-staked-one",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7": {
-        "address": "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
-        "symbol": "MAGIC",
-        "name": "Magic",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x892D81221484F690C0a97d3DD18B9144A3ECDFB7/logo.png",
-        "coingeckoId": "cosmic-universe-magic-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x01a4b054110d57069c1658afbc46730529a3e326": {
-        "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
-        "symbol": "OpenX",
-        "name": "OpenSwap",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x01A4b054110d57069c1658AFBC46730529A3E326/logo.png",
-        "coingeckoId": "openswap-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0xe064a68994e9380250cfee3e8c0e2ac5c0924548": {
-        "address": "0xe064a68994e9380250cfee3e8c0e2ac5c0924548",
-        "symbol": "xVIPER",
-        "name": "xVIPER",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
-        "coingeckoId": "viperpit",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0xcf1709ad76a79d5a60210f23e81ce2460542a836": {
-        "address": "0xcf1709ad76a79d5a60210f23e81ce2460542a836",
-        "symbol": "TRANQ",
-        "name": "Tranquil",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xCf1709Ad76A79d5a60210F23e81cE2460542A836/logo.png",
-        "coingeckoId": "tranquil-finance",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79": {
-        "address": "0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79",
-        "symbol": "VIPER",
-        "name": "Viper",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79/logo.png",
-        "coingeckoId": "viper",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a": {
-        "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
-        "symbol": "WONE",
-        "name": "Wrapped ONE",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a/logo.png",
-        "coingeckoId": "wrapped-one",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5": {
-        "address": "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5",
-        "symbol": "MATIC",
-        "name": "Matic Token",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x301259f392B551CA8c592C9f676FCD2f9A0A84C5/logo.png",
-        "coingeckoId": "matic-network",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xcf323aad9e522b93f11c352caa519ad0e14eb40f": {
-        "address": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
-        "symbol": "AAVE",
-        "name": "Aave Token",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F/logo.png",
-        "coingeckoId": "aave",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x90d81749da8867962c760414c1c25ec926e889b6": {
-        "address": "0x90d81749da8867962c760414c1c25ec926e889b6",
-        "symbol": "UNI",
-        "name": "Uniswap",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x90D81749da8867962c760414C1C25ec926E889b6/logo.png",
-        "coingeckoId": "uniswap",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x218532a12a389a4a92fc0c5fb22901d1c19198aa": {
-        "address": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
-        "symbol": "LINK",
-        "name": "ChainLink Token",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x218532a12a389a4a92fC0C5Fb22901D1c19198aA/logo.png",
-        "coingeckoId": "chainlink",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xe176ebe47d621b984a73036b9da5d834411ef734": {
-        "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
-        "symbol": "BUSD",
-        "name": "Binance USD",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE176EBE47d621b984a73036B9DA5d834411ef734/logo.png",
-        "coingeckoId": "binance-usd",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xdc5f76104d0b8d2bf2c2bbe06cdfe17004e9010f": {
-        "address": "0xdc5f76104d0b8d2bf2c2bbe06cdfe17004e9010f",
-        "symbol": "BAL",
-        "name": "Balancer",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f/logo.png",
-        "coingeckoId": "balancer",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x985458e523db3d53125813ed68c274899e9dfab4": {
-        "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
-        "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x985458E523dB3d53125813eD68c274899e9DfAb4/logo.png",
-        "coingeckoId": "usd-coin",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x3095c7557bcb296ccc6e363de01b760ba031f2d9": {
-        "address": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
-        "symbol": "WBTC",
-        "name": "Wrapped BTC",
-        "decimals": 8,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x3095c7557bCb296ccc6e363DE01b760bA031F2d9/logo.png",
-        "coingeckoId": "wrapped-bitcoin",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xef977d2f931c1978db5f6747666fa1eacb0d0339": {
+[
+    {
         "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
         "symbol": "DAI",
         "name": "Dai Stablecoin",
@@ -297,34 +13,21 @@
             "elkfinance"
         ]
     },
-    "0x32137b9275ea35162812883582623cd6f6950958": {
-        "address": "0x32137b9275ea35162812883582623cd6f6950958",
-        "symbol": "COMP",
-        "name": "Compound",
+    {
+        "address": "0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79",
+        "symbol": "VIPER",
+        "name": "Viper",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x32137b9275EA35162812883582623cd6f6950958/logo.png",
-        "coingeckoId": "compound-governance-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0xa0dc05f84a27fccbd341305839019ab86576bc07": {
-        "address": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
-        "symbol": "YFI",
-        "name": "yearn.finance",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xa0dc05F84A27FcCBD341305839019aB86576bc07/logo.png",
-        "coingeckoId": "yearn-finance",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79/logo.png",
+        "coingeckoId": "viper",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "elkfinance"
         ]
     },
-    "0xe7e3c4d1cfc722b45a428736845b6aff862842a1": {
+    {
         "address": "0xe7e3c4d1cfc722b45a428736845b6aff862842a1",
         "symbol": "WISE",
         "name": "Wise Token",
@@ -338,34 +41,88 @@
             "elkfinance"
         ]
     },
-    "0x582617bd8ca80d22d4432e63fda52d74dcdcee4c": {
-        "address": "0x582617bd8ca80d22d4432e63fda52d74dcdcee4c",
-        "symbol": "bscADA",
-        "name": "Cardano Token",
+    {
+        "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+        "symbol": "BUSD",
+        "name": "Binance USD",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c/logo.png",
-        "coingeckoId": "binance-peg-cardano",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE176EBE47d621b984a73036B9DA5d834411ef734/logo.png",
+        "coingeckoId": "binance-usd",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "elkfinance"
         ]
     },
-    "0x34224dcf981da7488fdd01c7fdd64e74cd55dcf7": {
-        "address": "0x34224dcf981da7488fdd01c7fdd64e74cd55dcf7",
-        "symbol": "bscBTCB",
-        "name": "BTCB Token",
+    {
+        "address": "0xe064a68994e9380250cfee3e8c0e2ac5c0924548",
+        "symbol": "xVIPER",
+        "name": "xVIPER",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x34224dCF981dA7488FdD01c7fdd64E74Cd55DcF7/logo.png",
-        "coingeckoId": "binance-bitcoin",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
+        "coingeckoId": "viperpit",
         "listedIn": [
             "coingecko",
             "elkfinance"
         ]
     },
-    "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a": {
+    {
+        "address": "0xdc5f76104d0b8d2bf2c2bbe06cdfe17004e9010f",
+        "symbol": "BAL",
+        "name": "Balancer",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f/logo.png",
+        "coingeckoId": "balancer",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+        "symbol": "WONE",
+        "name": "Wrapped ONE",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a/logo.png",
+        "coingeckoId": "wrapped-one",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
+        "symbol": "AAVE",
+        "name": "Aave Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F/logo.png",
+        "coingeckoId": "aave",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xcf1709ad76a79d5a60210f23e81ce2460542a836",
+        "symbol": "TRANQ",
+        "name": "Tranquil",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xCf1709Ad76A79d5a60210F23e81cE2460542A836/logo.png",
+        "coingeckoId": "tranquil-finance",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
         "symbol": "SUSHI",
         "name": "SushiToken",
@@ -379,7 +136,102 @@
             "elkfinance"
         ]
     },
-    "0x7b9c523d59aefd362247bd5601a89722e3774dd2": {
+    {
+        "address": "0xb8e0497018c991e86311b64efd9d57b06aedbbae",
+        "symbol": "VINCI",
+        "name": "DaVinci Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
+        "coingeckoId": "davinci-token",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
+        "symbol": "YFI",
+        "name": "yearn.finance",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xa0dc05F84A27FcCBD341305839019aB86576bc07/logo.png",
+        "coingeckoId": "yearn-finance",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x985458E523dB3d53125813eD68c274899e9DfAb4/logo.png",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x95ce547d730519a90def30d647f37d9e5359b6ae",
+        "symbol": "LUNA",
+        "name": "Wrapped LUNA Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x95CE547D730519A90dEF30d647F37D9E5359B6Ae/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x947394294f75d7502977ac6813fd99f77c2931ec",
+        "symbol": "ODAO",
+        "name": "ODAO",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x947394294F75D7502977AC6813FD99f77C2931ec/logo.png",
+        "coingeckoId": "onedao-finance",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x90d81749da8867962c760414c1c25ec926e889b6",
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x90D81749da8867962c760414C1C25ec926E889b6/logo.png",
+        "coingeckoId": "uniswap",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
+        "symbol": "MAGIC",
+        "name": "Magic",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x892D81221484F690C0a97d3DD18B9144A3ECDFB7/logo.png",
+        "coingeckoId": "cosmic-universe-magic-token",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x7b9c523d59aefd362247bd5601a89722e3774dd2",
         "symbol": "SNX",
         "name": "Synthetix Network Token",
@@ -393,60 +245,20 @@
             "elkfinance"
         ]
     },
-    "0x58f1b044d8308812881a1433d9bbeff99975e70c": {
-        "address": "0x58f1b044d8308812881a1433d9bbeff99975e70c",
-        "symbol": "1INCH",
-        "name": "1INCH Token",
+    {
+        "address": "0x725553bc9aa0939362671407dfdeb162dd37d168",
+        "symbol": "MET",
+        "name": "Metatr.one",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x58f1b044d8308812881a1433d9Bbeff99975e70C/logo.png",
-        "coingeckoId": "1inch",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x34704c70e9ec9fb9a921da6daad7d3e19f43c734": {
-        "address": "0x34704c70e9ec9fb9a921da6daad7d3e19f43c734",
-        "symbol": "DSLA",
-        "name": "DSLA",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734/logo.png",
-        "coingeckoId": "stacktical",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c": {
-        "address": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c",
-        "symbol": "YGG",
-        "name": "Yield Guild Games Token",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png",
-        "coingeckoId": "yield-guild-games",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x725553bc9Aa0939362671407dfDEb162DD37d168/logo.png",
+        "coingeckoId": "metatrone",
         "listedIn": [
             "coingecko",
             "sushiswap"
         ]
     },
-    "0x14a7b318fed66ffdcc80c1517c172c13852865de": {
-        "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
-        "symbol": "AXS",
-        "name": "Axie Infinity Shard",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x14A7B318fED66FfDcc80C1517C172c13852865De/logo.png",
-        "coingeckoId": "axie-infinity",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    "0x6983d1e6def3690c4d616b13597a09e6193ea013": {
+    {
         "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
         "symbol": "ETH",
         "name": "Ether",
@@ -460,20 +272,61 @@
             "elkfinance"
         ]
     },
-    "0x10010078a54396f62c96df8532dc2b4847d47ed3": {
-        "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
-        "symbol": "HND",
-        "name": "Hundred Finance",
+    {
+        "address": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c",
+        "symbol": "YGG",
+        "name": "Yield Guild Games Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png",
-        "coingeckoId": "hundred-finance",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png",
+        "coingeckoId": "yield-guild-games",
         "listedIn": [
             "coingecko",
             "sushiswap"
         ]
     },
-    "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f": {
+    {
+        "address": "0x58f1b044d8308812881a1433d9bbeff99975e70c",
+        "symbol": "1INCH",
+        "name": "1INCH Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x58f1b044d8308812881a1433d9Bbeff99975e70C/logo.png",
+        "coingeckoId": "1inch",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x582617bd8ca80d22d4432e63fda52d74dcdcee4c",
+        "symbol": "bscADA",
+        "name": "Cardano Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c/logo.png",
+        "coingeckoId": "binance-peg-cardano",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012",
+        "symbol": "IKURA",
+        "name": "Ikura",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x40d2f81bD135B5282CB2aA18F19cF7098079D012/logo.png",
+        "coingeckoId": "ikura-token",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
         "symbol": "USDT",
         "name": "Tether USD",
@@ -487,7 +340,101 @@
             "elkfinance"
         ]
     },
-    "0x224e64ec1bdce3870a6a6c777edd450454068fec": {
+    {
+        "address": "0x34704c70e9ec9fb9a921da6daad7d3e19f43c734",
+        "symbol": "DSLA",
+        "name": "DSLA",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734/logo.png",
+        "coingeckoId": "stacktical",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x34224dcf981da7488fdd01c7fdd64e74cd55dcf7",
+        "symbol": "bscBTCB",
+        "name": "BTCB Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x34224dCF981dA7488FdD01c7fdd64E74Cd55DcF7/logo.png",
+        "coingeckoId": "binance-bitcoin",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x32137b9275ea35162812883582623cd6f6950958",
+        "symbol": "COMP",
+        "name": "Compound",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x32137b9275EA35162812883582623cd6f6950958/logo.png",
+        "coingeckoId": "compound-governance-token",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x3095c7557bCb296ccc6e363DE01b760bA031F2d9/logo.png",
+        "coingeckoId": "wrapped-bitcoin",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5",
+        "symbol": "MATIC",
+        "name": "Matic Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x301259f392B551CA8c592C9f676FCD2f9A0A84C5/logo.png",
+        "coingeckoId": "matic-network",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b",
+        "symbol": "JENN",
+        "name": "TokenJenny",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B/logo.png",
+        "coingeckoId": "tokenjenny",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x22d62b19b7039333ad773b7185bb61294f3adc19",
+        "symbol": "stONE",
+        "name": "Staked One",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png",
+        "coingeckoId": "tranquil-staked-one",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
         "symbol": "UST",
         "name": "Wrapped UST Token",
@@ -500,7 +447,47 @@
             "elkfinance"
         ]
     },
-    "0x0ab43550a6915f9f67d0c454c2e90385e6497eaa": {
+    {
+        "address": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
+        "symbol": "LINK",
+        "name": "ChainLink Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x218532a12a389a4a92fC0C5Fb22901D1c19198aA/logo.png",
+        "coingeckoId": "chainlink",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
+        "symbol": "AXS",
+        "name": "Axie Infinity Shard",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x14A7B318fED66FfDcc80C1517C172c13852865De/logo.png",
+        "coingeckoId": "axie-infinity",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+        "symbol": "HND",
+        "name": "Hundred Finance",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png",
+        "coingeckoId": "hundred-finance",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x0ab43550a6915f9f67d0c454c2e90385e6497eaa",
         "symbol": "bscBUSD",
         "name": "BUSD Token",
@@ -513,7 +500,7 @@
             "elkfinance"
         ]
     },
-    "0x08cb2917245bbe75c8c9c6dc4a7b3765dae02b31": {
+    {
         "address": "0x08cb2917245bbe75c8c9c6dc4a7b3765dae02b31",
         "symbol": "bscDOT",
         "name": "Polkadot Token",
@@ -526,17 +513,30 @@
             "elkfinance"
         ]
     },
-    "0x95ce547d730519a90def30d647f37d9e5359b6ae": {
-        "address": "0x95ce547d730519a90def30d647f37d9e5359b6ae",
-        "symbol": "LUNA",
-        "name": "Wrapped LUNA Token",
+    {
+        "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
+        "symbol": "OpenX",
+        "name": "OpenSwap",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x95CE547D730519A90dEF30d647F37D9E5359B6Ae/logo.png",
-        "coingeckoId": null,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x01A4b054110d57069c1658AFBC46730529A3E326/logo.png",
+        "coingeckoId": "openswap-token",
         "listedIn": [
-            "sushiswap",
-            "elkfinance"
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
+        "symbol": "FOX",
+        "name": "FarmersOnly Token2",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png",
+        "coingeckoId": "farmers-only",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     }
-}
+]

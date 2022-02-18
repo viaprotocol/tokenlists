@@ -1,57 +1,5 @@
-{
-    "0xd102ce6a4db07d247fcc28f366a623df0938ca9e": {
-        "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
-        "symbol": "WTLOS",
-        "name": "Wrapped Telos",
-        "decimals": 18,
-        "chainId": "40",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b": {
-        "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-        "symbol": "USDC",
-        "name": "USDC",
-        "decimals": 6,
-        "chainId": "40",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
-        "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
-        "symbol": "USDT",
-        "name": "USDT",
-        "decimals": 6,
-        "chainId": "40",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xf390830df829cf22c53c8840554b98eafc5dcbc2": {
-        "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
-        "symbol": "WBTC",
-        "name": "Wrapped BTC",
-        "decimals": 18,
-        "chainId": "40",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    "0xfa9343c3897324496a05fc75abed6bac29f8a40f": {
+[
+    {
         "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
         "symbol": "WETH",
         "name": "Wrapped ETH",
@@ -64,7 +12,59 @@
             "elkfinance"
         ]
     },
-    "0x922d641a426dcffaef11680e5358f34d97d112e1": {
+    {
+        "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "decimals": 18,
+        "chainId": "40",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+        "symbol": "USDT",
+        "name": "USDT",
+        "decimals": 6,
+        "chainId": "40",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+        "symbol": "WTLOS",
+        "name": "Wrapped Telos",
+        "decimals": 18,
+        "chainId": "40",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+        "symbol": "WFTM",
+        "name": "Wrapped FTM",
+        "decimals": 18,
+        "chainId": "40",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
         "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
         "symbol": "WSUSHI",
         "name": "Wrapped SushiToken",
@@ -77,20 +77,20 @@
             "elkfinance"
         ]
     },
-    "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e": {
-        "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
-        "symbol": "BNB",
-        "name": "Wrapped Binance Coin",
-        "decimals": 18,
+    {
+        "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+        "symbol": "USDC",
+        "name": "USDC",
+        "decimals": 6,
         "chainId": "40",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "elkfinance"
         ]
     },
-    "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d": {
+    {
         "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
         "symbol": "WAVAX",
         "name": "Wrapped AVAX",
@@ -103,7 +103,7 @@
             "elkfinance"
         ]
     },
-    "0x332730a4f6e03d9c55829435f10360e13cfa41ff": {
+    {
         "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
         "symbol": "WMATIC",
         "name": "Wrapped MATIC",
@@ -116,17 +116,17 @@
             "elkfinance"
         ]
     },
-    "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4": {
-        "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
-        "symbol": "WFTM",
-        "name": "Wrapped FTM",
+    {
+        "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
+        "symbol": "BNB",
+        "name": "Wrapped Binance Coin",
         "decimals": 18,
         "chainId": "40",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "elkfinance"
         ]
     }
-}
+]

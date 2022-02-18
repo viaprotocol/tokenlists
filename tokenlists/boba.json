@@ -1,44 +1,5 @@
-{
-    "0x121636c43e96d97ab00b6c6994cddebef27de1c7": {
-        "address": "0x121636c43e96d97ab00b6c6994cddebef27de1c7",
-        "symbol": "BDOGE",
-        "name": "BobaDoge",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126085764_6186599163502424.png",
-        "coingeckoId": "bobadoge",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0x5008f837883ea9a07271a1b5eb0658404f5a9610": {
-        "address": "0x5008f837883ea9a07271a1b5eb0658404f5a9610",
-        "symbol": "OLO",
-        "name": "OolongSwap",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126902514_02776739497922076.png",
-        "coingeckoId": "oolongswap",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000": {
-        "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
-        "symbol": "WETH",
-        "name": "WETH",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640068479467_666268388062502.png",
-        "coingeckoId": "weth",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    "0xe1e2ec9a85c607092668789581251115bcbd20de": {
+[
+    {
         "address": "0xe1e2ec9a85c607092668789581251115bcbd20de",
         "symbol": "OMG",
         "name": "OMG Network",
@@ -51,20 +12,20 @@
             "openocean"
         ]
     },
-    "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc": {
-        "address": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
-        "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6,
+    {
+        "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+        "symbol": "WETH",
+        "name": "WETH",
+        "decimals": 18,
         "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126999624_564648928450491.png",
-        "coingeckoId": "usd-coin",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1640068479467_666268388062502.png",
+        "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
             "openocean"
         ]
     },
-    "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b": {
+    {
         "address": "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
@@ -77,7 +38,20 @@
             "openocean"
         ]
     },
-    "0x5de1677344d3cb0d7d465c10b72a8f60699c062d": {
+    {
+        "address": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "chainId": "288",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1639126999624_564648928450491.png",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
         "symbol": "USDT",
         "name": "Tether",
@@ -89,5 +63,31 @@
             "coingecko",
             "openocean"
         ]
+    },
+    {
+        "address": "0x5008f837883ea9a07271a1b5eb0658404f5a9610",
+        "symbol": "OLO",
+        "name": "OolongSwap",
+        "decimals": 18,
+        "chainId": "288",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1639126902514_02776739497922076.png",
+        "coingeckoId": "oolongswap",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x121636c43e96d97ab00b6c6994cddebef27de1c7",
+        "symbol": "BDOGE",
+        "name": "BobaDoge",
+        "decimals": 18,
+        "chainId": "288",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1639126085764_6186599163502424.png",
+        "coingeckoId": "bobadoge",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
     }
-}
+]

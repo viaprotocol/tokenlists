@@ -292,12 +292,12 @@ async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
         chain_id, tokens in res.items()
     }
     trusted = {k: v for k, v in trusted.items() if len(v) > 0}
+    trusted = {k: list(sorted(v.values(), key=lambda x: x['address'], reverse=True)) for k, v in trusted.items()}
     for chain_id, tokens in trusted.items():
         filename = f"{TOKENLISTS_FOLDER}/{CHAIN_NAMES_BY_ID[chain_id]}.json"
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(tokens, f, ensure_ascii=False, indent=4)
-    filename = f"{TOKENLISTS_FOLDER}/all.json"
-    with open(filename, "w", encoding="utf-8") as f:
+    with open(f"{TOKENLISTS_FOLDER}/all.json", "w", encoding="utf-8") as f:
         json.dump(trusted, f, ensure_ascii=False, indent=4)
 
     print("collected trusted tokens")
