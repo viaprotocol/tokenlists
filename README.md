@@ -7,7 +7,7 @@ if it appeared in 2 or more different tokenlists. So we believe that if 2 or mor
 most likely not a scam.
 
 ## Usage example
-If you want to use tokelist in your dApp — simply download json with tokenlist. Head for raw link like 
+If you want to use tokenlist in your dApp — simply download json with needed chain tokens. Head for raw link like 
 
 https://raw.githubusercontent.com/viaprotocol/tokenlists/main/tokenlists/ethereum.json (Ethereum tokenlist)
 
