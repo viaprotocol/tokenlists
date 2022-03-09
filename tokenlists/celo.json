@@ -65,6 +65,19 @@
         ]
     },
     {
+        "address": "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe",
+        "symbol": "SOURCE",
+        "name": "Source",
+        "decimals": 18,
+        "chainId": "42220",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe/logo.png",
+        "coingeckoId": "resource-protocol",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
         "symbol": "MOBI",
         "name": "Mobius DAO Token",
@@ -124,6 +137,19 @@
         "chainId": "42220",
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/celo.jpg",
         "coingeckoId": "celo",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",
+        "symbol": "PACT",
+        "name": "impactMarket",
+        "decimals": 18,
+        "chainId": "42220",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58/logo.png",
+        "coingeckoId": "impactmarket",
         "listedIn": [
             "coingecko",
             "sushiswap"

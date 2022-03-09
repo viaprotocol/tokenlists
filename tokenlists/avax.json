@@ -196,11 +196,12 @@
         "name": "Frax",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x853d955acef822db058eb8505911ed77f175b99e.png",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "sushiswap"
         ]
     },
     {
@@ -897,11 +898,12 @@
         "name": "Avaware USD",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15807.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1646208600388_8016544631355003.png",
         "coingeckoId": "avaware-usd",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "openocean"
         ]
     },
     {
@@ -1056,6 +1058,19 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+        "symbol": "GMX",
+        "name": "GMX",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645441230944_7254220236359488.png",
+        "coingeckoId": "gmx",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -1494,11 +1509,12 @@
         "name": "Frax Share",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "sushiswap"
         ]
     },
     {
@@ -1647,11 +1663,12 @@
         "name": "Teddy Cash",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://ethapi.openocean.finance/logos/avax/0x094bd7b2d99711a1486fb94d4395801c6d0fddcc.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
         "coingeckoId": "teddy",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "elkfinance"
         ]
     },
     {
@@ -1674,8 +1691,9 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "h2o",
         "listedIn": [
+            "coingecko",
             "1inch",
             "elkfinance"
         ]

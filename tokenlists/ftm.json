@@ -107,6 +107,19 @@
         ]
     },
     {
+        "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+        "symbol": "DEI",
+        "name": "DEI Token",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645065595368_05237734516669046.png",
+        "coingeckoId": "dei-token",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
         "symbol": "ANY",
         "name": "Anyswap",
@@ -130,6 +143,7 @@
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
+            "sushiswap",
             "openocean"
         ]
     },
@@ -181,6 +195,19 @@
         "chainId": "250",
         "logoURI": "https://cloudstorage.openocean.finance/images/1635386459536_7526360573600956.png",
         "coingeckoId": "1art",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0xd3b71117e6c1558c1553305b44988cd944e97300",
+        "symbol": "YEL",
+        "name": "YEL Token",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://ethapi.openocean.finance/logos/fantom/0xd3b71117e6c1558c1553305b44988cd944e97300.png",
+        "coingeckoId": "yel-finance",
         "listedIn": [
             "coingecko",
             "openocean"
@@ -383,7 +410,6 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xaf319E5789945197e365E7f7fbFc56B130523B33/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
             "openocean",
             "elkfinance"
         ]
@@ -432,6 +458,19 @@
         ]
     },
     {
+        "address": "0xa23c4e69e5eaf4500f2f9301717f12b578b948fb",
+        "symbol": "PROTO",
+        "name": "Protofi",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1646038235799_4291415820950484.png",
+        "coingeckoId": "protofi",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x9d8f97a3c2f9f397b6d46cbe2d39cc1d8cf19010",
         "symbol": "OOE",
         "name": "OOE",
@@ -456,6 +495,19 @@
             "coingecko",
             "openocean",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x9879abdea01a879644185341f7af7d8343556b7a",
+        "symbol": "TUSD",
+        "name": "TrueUSD",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645967002603_6939211233557305.png",
+        "coingeckoId": "true-usd",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -510,6 +562,32 @@
             "sushiswap",
             "openocean",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x8a41f13a4fae75ca88b1ee726ee9d52b148b0498",
+        "symbol": "PAE",
+        "name": "Ripae",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645966943373_8464307427779896.png",
+        "coingeckoId": "ripae",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x888ef71766ca594ded1f0fa3ae64ed2941740a20",
+        "symbol": "SOLID",
+        "name": "Solidly",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645966856473_1772116493147804.png",
+        "coingeckoId": "solidly",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -577,6 +655,19 @@
         "listedIn": [
             "coingecko",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+        "coingeckoId": "frax-share",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -1041,6 +1132,19 @@
         ]
     },
     {
+        "address": "0x112df7e3b4b7ab424f07319d4e92f41e6608c48b",
+        "symbol": "PFTM",
+        "name": "pFTM",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645966784861_9756559139726004.png",
+        "coingeckoId": "pftm",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
         "symbol": "LQDR",
         "name": "Liquid Driver",
@@ -1148,6 +1252,19 @@
             "sushiswap",
             "openocean",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+        "symbol": "IB",
+        "name": "Iron Bank",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645967057284_013874543351586555.png",
+        "coingeckoId": "iron-bank",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     }
 ]

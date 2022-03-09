@@ -233,6 +233,19 @@
         ]
     },
     {
+        "address": "0xcfe3fbc98d80f7eca0bc76cd1f406a19dd425896",
+        "symbol": "NFTI",
+        "name": "Scalara NFT Index",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://tokens.1inch.io/0xcfe3fbc98d80f7eca0bc76cd1f406a19dd425896.png",
+        "coingeckoId": "scalara-nft-index",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50",
         "symbol": "USX",
         "name": "dForce USD",
@@ -447,6 +460,19 @@
         "chainId": "42161",
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x9f20de1fc9b161b34089cbEAE888168B44b03461/logo.png",
         "coingeckoId": "arbis-finance",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+        "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
             "sushiswap"
@@ -900,6 +926,19 @@
             "1inch",
             "sushiswap",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+        "coingeckoId": "frax",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
