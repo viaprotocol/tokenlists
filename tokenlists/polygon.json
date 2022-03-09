@@ -525,6 +525,19 @@
         ]
     },
     {
+        "address": "0xe52509181feb30eb4979e29ec70d50fd5c44d590",
+        "symbol": "ARTH",
+        "name": "ARTH Valuecoin",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538",
+        "coingeckoId": "arth",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613",
         "symbol": "maYFI",
         "name": "Matic Aave interest bearing YFI",
@@ -758,7 +771,7 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://tokens.1inch.io/0xdab35042e63e93cc8556c9bae482e5415b5ac4b1.png",
-        "coingeckoId": null,
+        "coingeckoId": "iris-token-2",
         "listedIn": [
             "coingecko",
             "1inch"
@@ -893,6 +906,19 @@
             "coingecko",
             "1inch",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0xd3b71117e6c1558c1553305b44988cd944e97300",
+        "symbol": "YEL",
+        "name": "YEL Token",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://i.imgur.com/cwfndaf.png",
+        "coingeckoId": "yel-finance",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
         ]
     },
     {
@@ -1067,6 +1093,19 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0xc75ea0c71023c14952f3c7b9101ecbbaa14aa27a",
+        "symbol": "NFTI",
+        "name": "Scalara NFT Index (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0xc75ea0c71023c14952f3c7b9101ecbbaa14aa27a.png",
+        "coingeckoId": "scalara-nft-index",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -2606,6 +2645,19 @@
         ]
     },
     {
+        "address": "0x64875aaa68d1d5521666c67d692ee0b926b08b2f",
+        "symbol": "cxADA",
+        "name": "CelsiusX Wrapped ADA",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://i.ibb.co/x3RcB6Q/cx-ADA-128x128.png",
+        "coingeckoId": "celsiusx-wrapped-ada",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0x6286a9e6f7e745a6d884561d88f94542d6715698",
         "symbol": "TECH",
         "name": "Cryptomeda",
@@ -3361,15 +3413,16 @@
     },
     {
         "address": "0x3ad707da309f3845cd602059901e39c4dcd66473",
-        "symbol": "ETH2X-FLI-P",
+        "symbol": "ETH2x-FLI-P",
         "name": "ETH 2x Flexible Leverage Index",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x3Ad707dA309f3845cd602059901E39C4dcd66473.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/21183/small/ETH2x-FLO_token_logo.jpg?1638512434",
         "coingeckoId": "index-coop-eth-2x-flexible-leverage-index",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "quickswap"
         ]
     },
     {

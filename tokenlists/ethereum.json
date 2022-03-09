@@ -124,6 +124,19 @@
         ]
     },
     {
+        "address": "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430",
+        "symbol": "BBS",
+        "name": "BBS",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xfe459828c90c0ba4bc8b42f5c5d44f316700b430.png",
+        "coingeckoId": "bbs-network",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
         "symbol": "REEF",
         "name": "Reef.finance",
@@ -134,6 +147,19 @@
         "listedIn": [
             "coingecko",
             "1inch"
+        ]
+    },
+    {
+        "address": "0xfe2e637202056d30016725477c5da089ab0a043a",
+        "symbol": "SETH2",
+        "name": "StakeWise Staked ETH2",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1637670293810_9919823959725913.png",
+        "coingeckoId": "seth2",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -542,6 +568,7 @@
         "coingeckoId": "immutable-x",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -1205,19 +1232,6 @@
         ]
     },
     {
-        "address": "0xeb494890465f49c2b94457d9b61811392e5b1fea",
-        "symbol": "SLAB",
-        "name": "SLINK LABS",
-        "decimals": 9,
-        "chainId": "1",
-        "logoURI": "https://tokens.1inch.io/0xeb494890465f49c2b94457d9b61811392e5b1fea.png",
-        "coingeckoId": "slink-labs",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
         "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
         "symbol": "USDx",
         "name": "dForce",
@@ -1337,8 +1351,8 @@
     },
     {
         "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
-        "symbol": "ankrETH",
-        "name": "Ankr Eth2 Reward Bearing Bond",
+        "symbol": "aETHc",
+        "name": "Ankr Eth2 Reward Bearing Certificate",
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://ethapi.openocean.finance/logos/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb.png",
@@ -1388,6 +1402,19 @@
         "listedIn": [
             "coingecko",
             "1inch"
+        ]
+    },
+    {
+        "address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
+        "symbol": "JPEG",
+        "name": "JPEGd Governance Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3/logo.png",
+        "coingeckoId": "jpeg-d",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -1668,19 +1695,6 @@
         "listedIn": [
             "coingecko",
             "openocean"
-        ]
-    },
-    {
-        "address": "0xe2311ae37502105b442bbef831e9b53c5d2e9b3b",
-        "symbol": "BANANA",
-        "name": "Banana",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE2311ae37502105b442bBef831E9b53c5d2e9B3b/logo.png",
-        "coingeckoId": "banana",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
@@ -2165,6 +2179,7 @@
         "coingeckoId": "neos-credits",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -2396,6 +2411,19 @@
         ]
     },
     {
+        "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+        "symbol": "WRLD",
+        "name": "NFT Worlds",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9.png",
+        "coingeckoId": "nft-worlds",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44",
         "symbol": "PAN",
         "name": "Panvala pan",
@@ -2520,6 +2548,19 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
+        "symbol": "SIS",
+        "name": "Symbiosis",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9.png",
+        "coingeckoId": "symbiosis-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -4545,10 +4586,10 @@
     {
         "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
         "symbol": "CEEK",
-        "name": "CEEK VR",
+        "name": "CEEK Smart VR Token",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://ethapi.openocean.finance/logos/0xb056c38f6b7dc4064367403e26424cd2c60655e1.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645520578602_4742919615251321.png",
         "coingeckoId": "ceek",
         "listedIn": [
             "coingecko",
@@ -5188,6 +5229,19 @@
         ]
     },
     {
+        "address": "0xa5def515cfd373d17830e7c1de1639cb3530a112",
+        "symbol": "DEPO",
+        "name": "DePo Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xa5def515cfd373d17830e7c1de1639cb3530a112.png",
+        "coingeckoId": "depo",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
         "symbol": "UTU",
         "name": "UTU Coin",
@@ -5771,6 +5825,7 @@
         "coingeckoId": "metis-token",
         "listedIn": [
             "coingecko",
+            "1inch",
             "openocean"
         ]
     },
@@ -6039,6 +6094,19 @@
         ]
     },
     {
+        "address": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
+        "symbol": "GOG",
+        "name": "Guild of Guardians",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62/logo.png",
+        "coingeckoId": "guild-of-guardians",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
         "symbol": "ABX",
         "name": "Arbidex",
@@ -6132,6 +6200,19 @@
             "coingecko",
             "1inch",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+        "symbol": "NEWO",
+        "name": "New Order",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x98585dFc8d9e7D48F0b1aE47ce33332CF4237D96/logo.png",
+        "coingeckoId": "new-order",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -6601,7 +6682,7 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41/logo.png",
-        "coingeckoId": "tixl-new",
+        "coingeckoId": "autobahn-network",
         "listedIn": [
             "coingecko",
             "1inch",
@@ -7991,7 +8072,7 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x7825e833D495F3d1c28872415a4aee339D26AC88.jpg",
-        "coingeckoId": "telos",
+        "coingeckoId": "wrapped-telos",
         "listedIn": [
             "coingecko",
             "sushiswap"
@@ -8434,6 +8515,19 @@
         "listedIn": [
             "coingecko",
             "1inch"
+        ]
+    },
+    {
+        "address": "0x7118057ff0f4fd0994fb9d2d94de8231d5cca79e",
+        "symbol": "SOURCE",
+        "name": "Source",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E/logo.png",
+        "coingeckoId": "resource-protocol",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -12379,6 +12473,7 @@
         "coingeckoId": "tokemak",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "openocean"
         ]
@@ -12827,6 +12922,19 @@
         ]
     },
     {
+        "address": "0x2602278ee1882889b946eb11dc0e810075650983",
+        "symbol": "VADER",
+        "name": "Vader",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x2602278ee1882889b946eb11dc0e810075650983.png",
+        "coingeckoId": "vader-protocol",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
         "symbol": "YGG",
         "name": "Yield Guild Games",
@@ -12904,6 +13012,7 @@
         "coingeckoId": "ufo-gaming",
         "listedIn": [
             "coingecko",
+            "1inch",
             "openocean"
         ]
     },
@@ -12986,19 +13095,6 @@
         "chainId": "1",
         "logoURI": "https://tokens.1inch.io/0x220b71671b649c03714da9c621285943f3cbcdc6.png",
         "coingeckoId": "tosdis",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
-        "address": "0x21e783bcf445b515957a10e992ad3c8e9ff51288",
-        "symbol": "LGB",
-        "name": "Let's Go Brandon",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://tokens.1inch.io/0x21e783bcf445b515957a10e992ad3c8e9ff51288.png",
-        "coingeckoId": "let-s-go-brandon",
         "listedIn": [
             "coingecko",
             "1inch"
@@ -13195,6 +13291,19 @@
             "coingecko",
             "1inch",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0x1e4ede388cbc9f4b5c79681b7f94d36a11abebc9",
+        "symbol": "X2Y2",
+        "name": "X2Y2Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x1e4ede388cbc9f4b5c79681b7f94d36a11abebc9.png",
+        "coingeckoId": "x2y2",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -13723,6 +13832,19 @@
         ]
     },
     {
+        "address": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
+        "symbol": "STC",
+        "name": "Student Coin",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x15b543e986b8c34074dfc9901136d9355a537e7e.png",
+        "coingeckoId": "student-coin",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
         "symbol": "INFI",
         "name": "INFI",
@@ -13871,7 +13993,7 @@
     },
     {
         "address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
-        "symbol": "ALPHA",
+        "symbol": "ALPHA_1",
         "name": "Alpha",
         "decimals": 18,
         "chainId": "1",
@@ -14193,6 +14315,7 @@
         "coingeckoId": "synapse-2",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "openocean"
         ]

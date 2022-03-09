@@ -1,5 +1,18 @@
 [
     {
+        "address": "0xfa7191d292d5633f702b0bd7e3e3bccc0e633200",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+        "coingeckoId": "frax",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
         "symbol": "DAI",
         "name": "Dai Stablecoin",
@@ -79,6 +92,19 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0xd754ae7bb55feb0c4ba6bc037b4a140f14ebe018",
+        "symbol": "TEM",
+        "name": "TEmplar Token",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xd754ae7bb55fEB0c4BA6bC037b4A140f14ebE018/logo.png",
+        "coingeckoId": "templardao",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -511,6 +537,19 @@
         "listedIn": [
             "sushiswap",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x0767d8e1b05efa8d6a301a65b324b6b66a1cc14c",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+        "coingeckoId": "frax-share",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {

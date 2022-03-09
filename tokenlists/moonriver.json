@@ -122,6 +122,19 @@
         ]
     },
     {
+        "address": "0x6f1d1ee50846fcbc3de91723e61cb68cfa6d0e98",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": 18,
+        "chainId": "1285",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+        "coingeckoId": "frax-share",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
         "symbol": "SOLAR",
         "name": "Solarbeam Token",
@@ -299,7 +312,7 @@
         "name": "Frax",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x1A93B23281CC1CDE4C4741353F3064709A16197d.jpg",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
