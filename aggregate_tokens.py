@@ -5,7 +5,7 @@ from collections import defaultdict
 import httpx
 
 from coingecko_ids import coingecko_ids
-from common import ChainId, Address, Token, CHAIN_NAMES_BY_ID
+from common import ChainId, Address, NATIVE_ADDRESSES, Token, CHAIN_NAMES_BY_ID
 
 TOKENLISTS_FOLDER = "tokenlists"
 
@@ -94,7 +94,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "1666600000": "harmony-shard-0",
         "100": "xdai",
         "1": "ethereum",
-        "101": "solana"
+        "-1": "solana"
         # sora
     }
 
@@ -168,7 +168,7 @@ class SolanaLabsTokenLists(TokenListProvider):
     name = "solanalabs"
     base_url = "https://raw.githubusercontent.com/solana-labs/token-list/main/src/tokens/{}.tokenlist.json"
     chains = {
-        "101": "solana"
+        "-1": "solana"
     }
 
 
@@ -231,7 +231,7 @@ class OneSolTokenLists(TokenListProvider):
     name = "1sol"
     base_url = "https://raw.githubusercontent.com/1sol-io/token-list/main/src/tokens/solana.tokenlist.json"
     chains = {
-        "101": "solana"
+        "-1": "solana"
     }
 
 
@@ -276,6 +276,8 @@ async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
         for chain_id, tokens in tokens_by_chains.items():
             for token in tokens:
                 addr = token["address"].lower()
+                if addr in NATIVE_ADDRESSES:  # skip native tokens
+                    continue
                 if addr in res[chain_id]:
                     if "listedIn" in res[chain_id][addr]:
                         res[chain_id][addr] |= token

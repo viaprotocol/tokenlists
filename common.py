@@ -5,7 +5,7 @@ CHAIN_NAMES_BY_ID = {
     '10': 'optimism',
     '100': 'gnosis',
     '10000': 'smartbch',
-    '101': 'solana',
+    '-1': 'solana',
     '1024': 'clover',
     '11297108109': 'palm',
     '122': 'fuse',
@@ -58,3 +58,9 @@ class Token(TypedDict):
     chainId: str
     logoURI: str
     coingeckoId: str
+
+NATIVE_ADDR_0xe = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+
+MATIC_NATIVE_ADDr = "0x0000000000000000000000000000000000001010"
+
+NATIVE_ADDRESSES = (NATIVE_ADDR_0xe, MATIC_NATIVE_ADDr)
