@@ -1,0 +1,33 @@
+name: Periodic External Update
+on:
+  schedule:
+    # Run twice per day (at 1:00UTC/6pmPST, 13:00UTC/6amPST)
+    # - cron:  '0 1,13 * * *'
+     - cron:  '30 * * * *'
+  workflow_dispatch:
+jobs:
+  periodic-auto-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+          ref: ${{ github.head_ref }}
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+
+      - name: Run script that collects tokens
+        run: |
+          python3 aggregate_tokens.py
+
+      - name: Commit changes
+        if: success()
+        uses: stefanzweifel/git-auto-commit-action@v4.1.2
+        with:
+          commit_user_name: via-bot
+          commit_user_email: alebedev@via.exchange
+          commit_message: External Updates
