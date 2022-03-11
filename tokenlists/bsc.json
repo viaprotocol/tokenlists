@@ -2955,6 +2955,7 @@
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -5743,6 +5744,19 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x2cace984dab08bd192a7fd044276060cb955dd9c",
+        "symbol": "ACCEL",
+        "name": "ACCEL",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://tokens.1inch.io/0x2cace984dab08bd192a7fd044276060cb955dd9c.png",
+        "coingeckoId": "accel-defi",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {

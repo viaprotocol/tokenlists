@@ -4156,6 +4156,19 @@
         ]
     },
     {
+        "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+        "symbol": "XDB",
+        "name": "digitalbits",
+        "decimals": 7,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xb9eefc4b0d472a44be93970254df4f4016569d27.png",
+        "coingeckoId": "digitalbits",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
         "symbol": "K21",
         "name": "k21.kanon.art",
@@ -9883,6 +9896,19 @@
         ]
     },
     {
+        "address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
+        "symbol": "WFLOW",
+        "name": "Wrapped Flow",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x5c147e74d63b1d31aa3fd78eb229b65161983b2b.png",
+        "coingeckoId": "wrapped-flow",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
         "symbol": "DUSD",
         "name": "DefiDollar",
@@ -10375,6 +10401,19 @@
             "1inch",
             "sushiswap",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a",
+        "symbol": "BST",
+        "name": "BlocksquareToken",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png",
+        "coingeckoId": "blocksquare",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -11110,6 +11149,7 @@
         "coingeckoId": "pstake-staked-atom",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },

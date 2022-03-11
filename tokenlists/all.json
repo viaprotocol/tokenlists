@@ -984,6 +984,19 @@
             ]
         },
         {
+            "address": "0x123389c2f0e9194d9ba98c21e63c375b67614108",
+            "symbol": "EMAX",
+            "name": "EthereumMax",
+            "decimals": 18,
+            "chainId": "42161",
+            "logoURI": "https://tokens.1inch.io/0x123389c2f0e9194d9ba98c21e63c375b67614108.png",
+            "coingeckoId": "ethereummax",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
             "symbol": "CRV",
             "name": "Curve DAO Token",
@@ -4030,6 +4043,7 @@
             "coingeckoId": "frax",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -6818,6 +6832,19 @@
             "listedIn": [
                 "coingecko",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x2cace984dab08bd192a7fd044276060cb955dd9c",
+            "symbol": "ACCEL",
+            "name": "ACCEL",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x2cace984dab08bd192a7fd044276060cb955dd9c.png",
+            "coingeckoId": "accel-defi",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -13597,6 +13624,7 @@
             "coingeckoId": "frax",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -13729,7 +13757,6 @@
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x3e121107F6F22DA4911079845a470757aF4e1A1b/logo.png",
             "coingeckoId": null,
             "listedIn": [
-                "1inch",
                 "sushiswap",
                 "elkfinance"
             ]
@@ -14499,6 +14526,7 @@
             "coingeckoId": "frax-share",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -14646,7 +14674,6 @@
             "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4",
             "coingeckoId": null,
             "listedIn": [
-                "1inch",
                 "sushiswap",
                 "elkfinance",
                 "quickswap"
@@ -22809,6 +22836,19 @@
             ]
         },
         {
+            "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+            "symbol": "XDB",
+            "name": "digitalbits",
+            "decimals": 7,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0xb9eefc4b0d472a44be93970254df4f4016569d27.png",
+            "coingeckoId": "digitalbits",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
             "symbol": "K21",
             "name": "k21.kanon.art",
@@ -28536,6 +28576,19 @@
             ]
         },
         {
+            "address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
+            "symbol": "WFLOW",
+            "name": "Wrapped Flow",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x5c147e74d63b1d31aa3fd78eb229b65161983b2b.png",
+            "coingeckoId": "wrapped-flow",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
             "symbol": "DUSD",
             "name": "DefiDollar",
@@ -29028,6 +29081,19 @@
                 "1inch",
                 "sushiswap",
                 "openocean"
+            ]
+        },
+        {
+            "address": "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a",
+            "symbol": "BST",
+            "name": "BlocksquareToken",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png",
+            "coingeckoId": "blocksquare",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -29763,6 +29829,7 @@
             "coingeckoId": "pstake-staked-atom",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -34169,6 +34236,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yvbrxE6zjrA8SxxSpL7oojDBB5QDmF5CVqJWea8JcQE/logo.png",
             "coingeckoId": "codi-finance",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "yawts7vwcsrpckx1agb6skidvxixidufehxdeusrgke",
+            "symbol": "YAW",
+            "name": "Yawww",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/YAWtS7vWCSRPckx1agB6sKidVXiXiDUfehXdEUSRGKE/yaw.png",
+            "coingeckoId": "yawww",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
@@ -39623,7 +39703,7 @@
             "decimals": 9,
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB/logo.png",
-            "coingeckoId": "gst",
+            "coingeckoId": "green-satoshi-token",
             "listedIn": [
                 "coingecko",
                 "solanalabs",
@@ -41105,7 +41185,7 @@
             "decimals": 9,
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
-            "coingeckoId": "green-metaverse",
+            "coingeckoId": "stepn",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
