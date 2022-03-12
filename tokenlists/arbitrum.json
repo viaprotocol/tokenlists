@@ -119,6 +119,19 @@
         ]
     },
     {
+        "address": "0xf0b5ceefc89684889e5f7e0a7775bd100fcd3709",
+        "symbol": "DUSD",
+        "name": "DigitalDollar",
+        "decimals": 6,
+        "chainId": "42161",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png",
+        "coingeckoId": "digitaldollar",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0xef888bca6ab6b1d26dbec977c455388ecd794794",
         "symbol": "RGT",
         "name": "Rari Governance Token",
@@ -555,6 +568,19 @@
         "chainId": "42161",
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png",
         "coingeckoId": "governance-ohm",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x876ec6be52486eeec06bc06434f3e629d695c6ba",
+        "symbol": "FLUID",
+        "name": "FluidFi",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA/logo.png",
+        "coingeckoId": "fluidfi",
         "listedIn": [
             "coingecko",
             "sushiswap"
