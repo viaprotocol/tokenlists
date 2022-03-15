@@ -2456,6 +2456,19 @@
         ]
     },
     {
+        "address": "0x6d5f5317308c6fe7d6ce16930353a8dfd92ba4d7",
+        "symbol": "ABI",
+        "name": "Abachi",
+        "decimals": 9,
+        "chainId": "137",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7/logo.png",
+        "coingeckoId": "abachi",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
         "symbol": "START",
         "name": "BSCstarter",
@@ -4564,6 +4577,7 @@
         "coingeckoId": "exchange-genesis-ethlas-medium",
         "listedIn": [
             "coingecko",
+            "sushiswap",
             "quickswap"
         ]
     },

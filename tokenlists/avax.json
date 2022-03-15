@@ -304,6 +304,19 @@
         ]
     },
     {
+        "address": "0xc55036b5348cfb45a932481744645985010d3a44",
+        "symbol": "WINE",
+        "name": "Wine Shares",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png",
+        "coingeckoId": "wine-shares",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
         "symbol": "SNOB",
         "name": "Snowball",
@@ -1169,6 +1182,19 @@
         "listedIn": [
             "coingecko",
             "1inch"
+        ]
+    },
+    {
+        "address": "0x5541d83efad1f281571b343977648b75d95cdac2",
+        "symbol": "GRAPE",
+        "name": "Grape Finance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png",
+        "coingeckoId": "grape-finance",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
