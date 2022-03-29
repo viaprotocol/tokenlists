@@ -1,34 +1,6 @@
 [
     {
-        "address": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
-        "symbol": "USDT",
-        "name": "Tether USD on Fuse",
-        "decimals": 6,
-        "chainId": "122",
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-        "coingeckoId": "tether",
-        "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "fuseswap"
-        ]
-    },
-    {
-        "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
-        "symbol": "ELK",
-        "name": "Elk",
-        "decimals": 18,
-        "chainId": "122",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "elkfinance",
-            "fuseswap"
-        ]
-    },
-    {
-        "address": "0xa722c13135930332eb3d749b2f0906559d2c5b99",
+        "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
         "symbol": "WETH",
         "name": "Wrapped Ether on Fuse",
         "decimals": 18,
@@ -42,7 +14,35 @@
         ]
     },
     {
-        "address": "0x94ba7a27c7a95863d1bdc7645ac2951e0cca06ba",
+        "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
+        "symbol": "USDT",
+        "name": "Tether USD on Fuse",
+        "decimals": 6,
+        "chainId": "122",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+        "coingeckoId": "tether",
+        "listedIn": [
+            "sushiswap",
+            "elkfinance",
+            "fuseswap"
+        ]
+    },
+    {
+        "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+        "symbol": "ELK",
+        "name": "Elk",
+        "decimals": 18,
+        "chainId": "122",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "elkfinance",
+            "fuseswap"
+        ]
+    },
+    {
+        "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
         "symbol": "DAI",
         "name": "Dai Stablecoin on Fuse",
         "decimals": 18,
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "address": "0x90708b20ccc1eb95a4fa7c8b18fd2c22a0ff9e78",
+        "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
         "symbol": "SUSHI",
         "name": "SushiToken on Fuse",
         "decimals": 18,
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "address": "0x7f59ae3a787c0d1d640f99883d0e48c22188c54f",
+        "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
         "symbol": "OM",
         "name": "MANTRA DAO on Fuse",
         "decimals": 18,
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
+        "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
         "symbol": "BNB",
         "name": "BNB on Fuse",
         "decimals": 18,
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "address": "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5",
+        "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
         "symbol": "USDC",
         "name": "USD Coin on Fuse",
         "decimals": 6,
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "address": "0x495d133b938596c9984d462f007b676bdc57ecec",
+        "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
         "symbol": "G$",
         "name": "GoodDollar",
         "decimals": 2,
@@ -125,7 +125,7 @@
         ]
     },
     {
-        "address": "0x43b17749b246fd2a96de25d9e4184e27e09765b0",
+        "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
         "symbol": "KNC",
         "name": "Kyber Network Crystal on Fuse",
         "decimals": 18,
@@ -139,7 +139,7 @@
         ]
     },
     {
-        "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
+        "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
         "symbol": "WBTC",
         "name": "Wrapped BTC on Fuse",
         "decimals": 8,
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "address": "0x2f60a843302f1be3fa87429ca9d684f9091b003c",
+        "address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
         "symbol": "DEXT",
         "name": "DEXTools on Fuse",
         "decimals": 18,
@@ -167,7 +167,7 @@
         ]
     },
     {
-        "address": "0x249be57637d8b013ad64785404b24aebae9b098b",
+        "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
         "symbol": "fUSD",
         "name": "Fuse Dollar",
         "decimals": 18,
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
+        "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
         "symbol": "WFUSE",
         "name": "Wrapped Fuse",
         "decimals": 18,
@@ -195,7 +195,7 @@
         ]
     },
     {
-        "address": "0x0972f26e8943679b043de23df2fd3852177a7c48",
+        "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
         "symbol": "LINK",
         "name": "ChainLink Token on Fuse",
         "decimals": 18,
@@ -209,7 +209,7 @@
         ]
     },
     {
-        "address": "0x025a4c577198d116ea499193e6d735fdb2e6e841",
+        "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
         "symbol": "GRT",
         "name": "Graph Token on Fuse",
         "decimals": 18,

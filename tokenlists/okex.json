@@ -1,6 +1,6 @@
 [
     {
-        "address": "0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986",
+        "address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
         "symbol": "LTCK",
         "name": "LTCK",
         "decimals": 18,
@@ -15,22 +15,7 @@
         ]
     },
     {
-        "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
-        "symbol": "ETHK",
-        "name": "ETHK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/okex/0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C/logo.png",
-        "coingeckoId": "oec-eth",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "openocean",
-            "elkfinance"
-        ]
-    },
-    {
-        "address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
+        "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
         "symbol": "OKB",
         "name": "OKB",
         "decimals": 18,
@@ -45,7 +30,7 @@
         ]
     },
     {
-        "address": "0xdcac52e001f5bd413aa6ea83956438f29098166b",
+        "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
         "symbol": "USDK",
         "name": "USDK",
         "decimals": 18,
@@ -59,7 +44,7 @@
         ]
     },
     {
-        "address": "0xd0c6821aba4fcc65e8f1542589e64bae9de11228",
+        "address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
         "symbol": "FLUX",
         "name": "FLUXK",
         "decimals": 18,
@@ -72,20 +57,7 @@
         ]
     },
     {
-        "address": "0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401",
-        "symbol": "ZKSK",
-        "name": "ZKSK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://ethapi.openocean.finance/logos/okex/0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+        "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
         "symbol": "USDC",
         "name": "USDC",
         "decimals": 18,
@@ -100,7 +72,7 @@
         ]
     },
     {
-        "address": "0xc05760d75e7f5ad428a906674ce7c7c82d003d01",
+        "address": "0xc05760d75E7F5Ad428a906674Ce7c7c82d003d01",
         "symbol": "KINEK",
         "name": "KINEK",
         "decimals": 18,
@@ -114,7 +86,7 @@
         ]
     },
     {
-        "address": "0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d",
+        "address": "0xbeb67dE6cC5aF652b2d9B0235750eD70F5a2cB0D",
         "symbol": "LINKK",
         "name": "LINKK",
         "decimals": 18,
@@ -127,7 +99,7 @@
         ]
     },
     {
-        "address": "0xabc732f6f69a519f6d508434481376b6221eb7d5",
+        "address": "0xabc732f6f69a519F6d508434481376B6221eb7d5",
         "symbol": "DOTK",
         "name": "DOTK",
         "decimals": 18,
@@ -142,7 +114,7 @@
         ]
     },
     {
-        "address": "0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780",
+        "address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
         "symbol": "SHIBK",
         "name": "SHIBK",
         "decimals": 18,
@@ -157,7 +129,35 @@
         ]
     },
     {
-        "address": "0xa715f624eb32c6c960b0e044b10cde585d5f5984",
+        "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
+        "symbol": "ETHK",
+        "name": "ETHK",
+        "decimals": 18,
+        "chainId": "66",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/okex/0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C/logo.png",
+        "coingeckoId": "oec-eth",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xCD08D321f6Bc10a10f094e4b2E6C9b8bF9906401",
+        "symbol": "ZKSK",
+        "name": "ZKSK",
+        "decimals": 18,
+        "chainId": "66",
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0xA715f624EB32c6C960b0E044B10CDe585d5f5984",
         "symbol": "XRPK",
         "name": "XRPK",
         "decimals": 18,
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "address": "0xa07403c1bd0c5cf53df07f15faa589241352527b",
+        "address": "0xA07403C1Bd0C5cF53DF07F15fAA589241352527B",
         "symbol": "BLADE",
         "name": "BLADE",
         "decimals": 18,
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "address": "0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3",
+        "address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
         "symbol": "ETCK",
         "name": "ETCK",
         "decimals": 18,
@@ -198,7 +198,7 @@
         ]
     },
     {
-        "address": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+        "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
         "symbol": "WOKT",
         "name": "WOKT",
         "decimals": 18,
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "address": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+        "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
         "symbol": "NULS",
         "name": "Nuls",
         "decimals": 8,
@@ -226,7 +226,7 @@
         ]
     },
     {
-        "address": "0x8179d97eb6488860d816e3ecafe694a4153f216c",
+        "address": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c",
         "symbol": "CHE",
         "name": "CherrySwapToken",
         "decimals": 18,
@@ -239,7 +239,7 @@
         ]
     },
     {
-        "address": "0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8",
+        "address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
         "symbol": "AUCTIONK",
         "name": "AUCTIONK",
         "decimals": 18,
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "address": "0x5ab622494ab7c5e81911558c9552dbd517f403fb",
+        "address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
         "symbol": "CELT",
         "name": "CELT",
         "decimals": 18,
@@ -266,7 +266,7 @@
         ]
     },
     {
-        "address": "0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6",
+        "address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
         "symbol": "UNIK",
         "name": "UNIK",
         "decimals": 18,
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
+        "address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
         "symbol": "BTCK",
         "name": "BTCK",
         "decimals": 18,
@@ -295,7 +295,7 @@
         ]
     },
     {
-        "address": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
+        "address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
         "symbol": "FILK",
         "name": "FILK",
         "decimals": 18,
@@ -310,7 +310,7 @@
         ]
     },
     {
-        "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+        "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
         "symbol": "USDT",
         "name": "USDT",
         "decimals": 18,
@@ -325,7 +325,7 @@
         ]
     },
     {
-        "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+        "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
         "symbol": "BUSD",
         "name": "BUSD",
         "decimals": 18,
@@ -339,7 +339,7 @@
         ]
     },
     {
-        "address": "0x3212606f74cc59656e1ec6f587fca61ba3b85eb0",
+        "address": "0x3212606F74Cc59656E1EC6f587FCA61bA3B85eb0",
         "symbol": "SFGK",
         "name": "SFGK",
         "decimals": 18,
@@ -353,7 +353,7 @@
         ]
     },
     {
-        "address": "0x2e2f982c3e66db8604b0a99862dd97d31ed740b3",
+        "address": "0x2E2f982c3e66Db8604B0A99862dD97D31ed740B3",
         "symbol": "OFI",
         "name": "OFI.cash",
         "decimals": 18,
@@ -366,7 +366,7 @@
         ]
     },
     {
-        "address": "0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7",
+        "address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
         "symbol": "SUSHIK",
         "name": "SUSHIK",
         "decimals": 18,
@@ -380,7 +380,7 @@
         ]
     },
     {
-        "address": "0x21cde7e32a6caf4742d00d44b07279e7596d26b9",
+        "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
         "symbol": "DAIK",
         "name": "DAIK",
         "decimals": 18,
@@ -394,7 +394,7 @@
         ]
     },
     {
-        "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+        "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
         "symbol": "WBNB",
         "name": "Wrapped Binance Coin",
         "decimals": 18,
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
+        "address": "0x18D103b7066AEedb6005B78A462Ef9027329b1EA",
         "symbol": "BCHK",
         "name": "BCHK",
         "decimals": 18,
@@ -422,7 +422,7 @@
         ]
     },
     {
-        "address": "0x02f093513b7872cdfc518e51ed67f88f0e469592",
+        "address": "0x02F093513b7872CdFC518e51eD67f88F0e469592",
         "symbol": "OKFly",
         "name": "OKFly",
         "decimals": 9,
@@ -435,7 +435,7 @@
         ]
     },
     {
-        "address": "0x00505505a7576d6734704fabb16f41924e3e384b",
+        "address": "0x00505505a7576d6734704FABB16f41924e3E384b",
         "symbol": "TRXK",
         "name": "TRXK",
         "decimals": 18,

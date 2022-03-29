@@ -1,33 +1,6 @@
 [
     {
-        "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-        "symbol": "USDC",
-        "name": "USDC Coin",
-        "decimals": 6,
-        "chainId": "1285",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
-        "coingeckoId": "usd-coin",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    {
-        "address": "0xc2392dd3e3fed2c8ed9f7f0bdf6026fcd1348453",
-        "symbol": "BEANS",
-        "name": "MoonBeans",
-        "decimals": 18,
-        "chainId": "1285",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    {
-        "address": "0xbd90a6125a84e5c512129d622a75cdde176ade5e",
+        "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
         "symbol": "RIB",
         "name": "RiverBoat",
         "decimals": 18,
@@ -40,35 +13,7 @@
         ]
     },
     {
-        "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
-        "symbol": "USDT",
-        "name": "Tether USD",
-        "decimals": 6,
-        "chainId": "1285",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
-        "coingeckoId": "tether",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    {
-        "address": "0xad7f1844696652dda7959a49063bffccafafefe7",
-        "symbol": "RELAY",
-        "name": "Relay Token",
-        "decimals": 18,
-        "chainId": "1285",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
-        "coingeckoId": "relay-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "elkfinance"
-        ]
-    },
-    {
-        "address": "0xad12dab5959f30b9ff3c2d6709f53c335dc39908",
+        "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
         "symbol": "WFTM",
         "name": "Wrapped Fantom Token",
         "decimals": 18,
@@ -82,7 +27,62 @@
         ]
     },
     {
-        "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+        "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+        "symbol": "USDC",
+        "name": "USDC Coin",
+        "decimals": 6,
+        "chainId": "1285",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
+        "symbol": "BEANS",
+        "name": "MoonBeans",
+        "decimals": 18,
+        "chainId": "1285",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": 6,
+        "chainId": "1285",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+        "coingeckoId": "tether",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+        "symbol": "RELAY",
+        "name": "Relay Token",
+        "decimals": 18,
+        "chainId": "1285",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
+        "coingeckoId": "relay-token",
+        "listedIn": [
+            "coingecko",
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
         "symbol": "WMOVR",
         "name": "Wrapped MOVR",
         "decimals": 18,
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
         "symbol": "DAI",
         "name": "Dai Stablecoin",
         "decimals": 18,
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "address": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
+        "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
         "symbol": "MAI",
         "name": "Mai MiMatic",
         "decimals": 18,
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "address": "0x6f1d1ee50846fcbc3de91723e61cb68cfa6d0e98",
+        "address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
         "symbol": "FXS",
         "name": "Frax Share",
         "decimals": 18,
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "address": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
+        "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
         "symbol": "SOLAR",
         "name": "Solarbeam Token",
         "decimals": 18,
@@ -148,7 +148,7 @@
         ]
     },
     {
-        "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "decimals": 8,
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "address": "0x682f81e57eaa716504090c3ecba8595fb54561d8",
+        "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
         "symbol": "WMATIC",
         "name": "WMatic",
         "decimals": 18,
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
+        "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
         "symbol": "LAIKA",
         "name": "Laika Protocol",
         "decimals": 18,
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+        "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
         "symbol": "WETH",
         "name": "Wrapped Ethereum",
         "decimals": 18,
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "address": "0x5d9ab5522c64e1f6ef5e3627eccc093f56167818",
+        "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
         "symbol": "BUSD",
         "name": "Binance-Peg BUSD Token",
         "decimals": 18,
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "address": "0x5d4360f1be94bd6f182f09cfe5ef9832e65eb1ac",
+        "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
         "symbol": "RivrDoge",
         "name": "RivrDoge",
         "decimals": 18,
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "address": "0x52f04c806eb82930f40d410259b7af8e18d3bdc9",
+        "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
         "symbol": "KAFE",
         "name": "MoonKafe",
         "decimals": 18,
@@ -242,7 +242,7 @@
         ]
     },
     {
-        "address": "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
+        "address": "0x4a436073552044D5f2f49B176853ad3Ad473d9d6",
         "symbol": "ROME",
         "name": "Rome",
         "decimals": 9,
@@ -255,7 +255,7 @@
         ]
     },
     {
-        "address": "0x3d593056f3e34db7a4720d7f171447c489cfa195",
+        "address": "0x3d593056F3e34dB7A4720d7F171447C489CFa195",
         "symbol": "RIVRSHIBA",
         "name": "Rivr Shiba",
         "decimals": 9,
@@ -268,7 +268,7 @@
         ]
     },
     {
-        "address": "0x3d2d044e8c6dad46b4f7896418d3d4dfaad902be",
+        "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
         "symbol": "aROME",
         "name": "Alpha Rome",
         "decimals": 9,
@@ -281,7 +281,7 @@
         ]
     },
     {
-        "address": "0x3516a7588c2e6ffa66c9507ef51853eb85d76e5b",
+        "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
         "symbol": "1SWAP",
         "name": "1SWAP",
         "decimals": 18,
@@ -294,7 +294,7 @@
         ]
     },
     {
-        "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
         "symbol": "WBNB",
         "name": "Wrapped Binance Coin",
         "decimals": 18,
@@ -307,7 +307,7 @@
         ]
     },
     {
-        "address": "0x1a93b23281cc1cde4c4741353f3064709a16197d",
+        "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
         "symbol": "FRAX",
         "name": "Frax",
         "decimals": 18,
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
+        "address": "0x173fd7434B8B50dF08e3298f173487ebDB35FD14",
         "symbol": "BIFI",
         "name": "Beefy Finance",
         "decimals": 18,
@@ -333,7 +333,7 @@
         ]
     },
     {
-        "address": "0x14a0243c333a5b238143068dc3a7323ba4c30ecb",
+        "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
         "symbol": "WAVAX",
         "name": "Wrapped Avalanche",
         "decimals": 18,
@@ -347,7 +347,7 @@
         ]
     },
     {
-        "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
+        "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
         "symbol": "MIM",
         "name": "Magic Internet Money",
         "decimals": 18,

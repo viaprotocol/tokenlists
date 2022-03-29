@@ -1,6 +1,6 @@
 [
     {
-        "address": "0xe1e2ec9a85c607092668789581251115bcbd20de",
+        "address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
         "symbol": "OMG",
         "name": "OMG Network",
         "decimals": 18,
@@ -13,20 +13,7 @@
         ]
     },
     {
-        "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
-        "symbol": "WETH",
-        "name": "WETH",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640068479467_666268388062502.png",
-        "coingeckoId": "weth",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b",
+        "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "decimals": 8,
@@ -39,7 +26,7 @@
         ]
     },
     {
-        "address": "0xa18bf3994c0cc6e3b63ac420308e5383f53120d7",
+        "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
         "symbol": "BOBA",
         "name": "Boba Token",
         "decimals": 18,
@@ -52,7 +39,20 @@
         ]
     },
     {
-        "address": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
+        "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+        "symbol": "WETH",
+        "name": "WETH",
+        "decimals": 18,
+        "chainId": "288",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1640068479467_666268388062502.png",
+        "coingeckoId": "weth",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
         "symbol": "USDC",
         "name": "USD Coin",
         "decimals": 6,
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "address": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
+        "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
         "symbol": "USDT",
         "name": "Tether",
         "decimals": 6,
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "address": "0x5008f837883ea9a07271a1b5eb0658404f5a9610",
+        "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
         "symbol": "OLO",
         "name": "OolongSwap",
         "decimals": 18,
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "address": "0x121636c43e96d97ab00b6c6994cddebef27de1c7",
+        "address": "0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7",
         "symbol": "BDOGE",
         "name": "BobaDoge",
         "decimals": 18,

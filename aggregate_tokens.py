@@ -3,6 +3,7 @@ import json
 from collections import defaultdict
 
 import httpx
+from web3 import Web3
 
 from coingecko_ids import coingecko_ids
 from common import ChainId, Address, NATIVE_ADDRESSES, Token, CHAIN_NAMES_BY_ID
@@ -24,13 +25,16 @@ class TokenListProvider:
             if not token["address"]:
                 continue
             try:
+                token["address"] = token["address"].strip()
+                if token["address"].startswith("0x"):
+                    token["address"] = Web3.toChecksumAddress(token["address"])
                 cg_id = coingecko_ids.get(chain_id, {}).get(token["address"].lower())
                 logo = token.get("logoURI") or token.get("icon")
                 if logo:
                     if logo.startswith('//'):
                         logo = 'https:' + logo
                 t = Token(
-                    address=token["address"].lower(),
+                    address=token["address"],
                     symbol=token["symbol"],
                     name=token["name"],
                     decimals=token["decimals"],
@@ -48,8 +52,12 @@ class TokenListProvider:
         res: dict[ChainId, list[Token]] = defaultdict(list)
         for chain_id, chain_name in cls.chains.items():
             resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+            num_retries = 0
             while resp.status_code != 200:
+                if num_retries > 60:
+                    raise Exception(f"failed to get tokenlits {cls.base_url} after {num_retries} retries")
                 sleep_time = int(resp.headers.get("Retry-After", 1))
+                num_retries += 1
                 print(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
                 await asyncio.sleep(sleep_time)
                 resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
@@ -229,7 +237,7 @@ class RefFinanceTokenLists(TokenListProvider):
 
 class OneSolTokenLists(TokenListProvider):
     name = "1sol"
-    base_url = "https://raw.githubusercontent.com/1sol-io/token-list/main/src/tokens/solana.tokenlist.json"
+    base_url = "https://raw.githubusercontent.com/1sol-io/token-list/fb6336f63b1511c095bd5160277983a6ad3c8aa5/src/tokens/solana.tokenlist.json"
     chains = {
         "-1": "solana"
     }
@@ -275,9 +283,11 @@ async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
     for provider_name, tokens_by_chains in provider_data.items():
         for chain_id, tokens in tokens_by_chains.items():
             for token in tokens:
-                addr = token["address"].lower()
-                if addr in NATIVE_ADDRESSES:  # skip native tokens
+                addr = token["address"].strip().lower()
+                if addr.lower() in NATIVE_ADDRESSES:  # skip native tokens
                     continue
+                # if addr.startswith('0x'):
+                #     token['address'] = Web3.toChecksumAddress(addr)
                 if addr in res[chain_id]:
                     if "listedIn" in res[chain_id][addr]:
                         res[chain_id][addr] |= token
