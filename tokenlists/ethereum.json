@@ -579,19 +579,6 @@
         ]
     },
     {
-        "address": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
-        "symbol": "Mush",
-        "name": "Mushroom",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8502.png",
-        "coingeckoId": "mushroom",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
         "symbol": "FNX",
         "name": "FinNexus",
@@ -2375,6 +2362,19 @@
         ]
     },
     {
+        "address": "0xa6422E3E219ee6d4C1B18895275FE43556fd50eD",
+        "symbol": "STBU",
+        "name": "Stobox Token v.2",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xa6422e3e219ee6d4c1b18895275fe43556fd50ed.png",
+        "coingeckoId": "stobox-token",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
         "symbol": "THOR",
         "name": "THORSwap Token",
@@ -2740,19 +2740,6 @@
         "listedIn": [
             "coingecko",
             "1inch"
-        ]
-    },
-    {
-        "address": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
-        "symbol": "RBLX",
-        "name": "Rublix",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://ethapi.openocean.finance/logos/0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e.png",
-        "coingeckoId": "rublix",
-        "listedIn": [
-            "coingecko",
-            "openocean"
         ]
     },
     {
@@ -3703,6 +3690,19 @@
         ]
     },
     {
+        "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+        "symbol": "COW",
+        "name": "CoW Protocol Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab.png",
+        "coingeckoId": "cow-protocol",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
         "symbol": "LOBI",
         "name": "Lobi",
@@ -4237,6 +4237,7 @@
         "coingeckoId": "smooth-love-potion",
         "listedIn": [
             "coingecko",
+            "1inch",
             "openocean"
         ]
     },
@@ -4976,6 +4977,19 @@
             "uniswap",
             "openocean",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+        "symbol": "MCO",
+        "name": "Monaco",
+        "decimals": 8,
+        "chainId": "1",
+        "logoURI": "https://ethapi.openocean.finance/logos/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d.png",
+        "coingeckoId": "monaco",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -6266,19 +6280,6 @@
         "chainId": "1",
         "logoURI": "https://tokens.1inch.io/0x95a4492f028aa1fd432ea71146b433e7b4446611.png",
         "coingeckoId": "apy-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
-        "address": "0x95A1796437BAd6502d1c1cce165Cd76E522409a9",
-        "symbol": "OCCT",
-        "name": "Official Crypto Cowboy Token",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://tokens.1inch.io/0x95a1796437bad6502d1c1cce165cd76e522409a9.png",
-        "coingeckoId": "official-crypto-cowboy-token",
         "listedIn": [
             "coingecko",
             "1inch"
@@ -9350,6 +9351,7 @@
         "coingeckoId": "olympus",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -11580,19 +11582,6 @@
         ]
     },
     {
-        "address": "0x3C45B24359fB0E107a4eAA56Bd0F2cE66C99A0E5",
-        "symbol": "ANK",
-        "name": "Apple Network",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://ethapi.openocean.finance/logos/0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5.png",
-        "coingeckoId": "apple-network",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
         "address": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
         "symbol": "CVR",
         "name": "PolkaCover",
@@ -11778,7 +11767,6 @@
         "coingeckoId": "olympus-v1",
         "listedIn": [
             "coingecko",
-            "1inch",
             "sushiswap",
             "openocean"
         ]
@@ -13492,9 +13480,8 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://ethapi.openocean.finance/logos/0x1a5f9352af8af974bfc03399e3767df6370d82e4.png",
-        "coingeckoId": "owl",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean"
         ]
