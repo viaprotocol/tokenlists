@@ -23337,19 +23337,6 @@
             ]
         },
         {
-            "address": "0xBB1fA4FdEB3459733bF67EbC6f893003fA976a82",
-            "symbol": "XPAT",
-            "name": "Bitnation",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82.png",
-            "coingeckoId": "pangea",
-            "listedIn": [
-                "coingecko",
-                "1inch"
-            ]
-        },
-        {
             "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
             "symbol": "AXS",
             "name": "Axie Infinity Shard",
@@ -33375,9 +33362,8 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0x06af07097c9eeb7fd685c692751d5c66db49c215.png",
-            "coingeckoId": "chai",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean"
             ]
