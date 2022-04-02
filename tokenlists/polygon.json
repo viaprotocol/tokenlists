@@ -1006,6 +1006,19 @@
         ]
     },
     {
+        "address": "0xF868939Ee81F04f463010BC52EAb91c0839eF08c",
+        "symbol": "ATK",
+        "name": "Attack",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/21333/small/attack.PNG?1638948221",
+        "coingeckoId": "attack-wagon",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
         "symbol": "AGAr",
         "name": "AGA Rewards",
@@ -1470,7 +1483,7 @@
     },
     {
         "address": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
-        "symbol": "CLAM2",
+        "symbol": "CLAM",
         "name": "Otter Clam",
         "decimals": 9,
         "chainId": "137",
@@ -2260,14 +2273,13 @@
         "name": "Unibright",
         "decimals": 8,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x7FBc10850caE055B27039aF31bD258430e714c62/logo.png",
         "coingeckoId": "unibright",
         "listedIn": [
             "coingecko",
             "1inch",
             "openocean",
-            "elkfinance",
-            "quickswap"
+            "elkfinance"
         ]
     },
     {
@@ -2528,6 +2540,19 @@
             "coingecko",
             "1inch",
             "elkfinance",
+            "quickswap"
+        ]
+    },
+    {
+        "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+        "symbol": "NITRO",
+        "name": "Nitro",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/21668/small/_X6vYBDM_400x400.jpg?1639705848",
+        "coingeckoId": "nitro-league",
+        "listedIn": [
+            "coingecko",
             "quickswap"
         ]
     },
@@ -2808,6 +2833,19 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0x5E430F88D1BE82EB3eF92b6fF06125168fD5DCf2",
+        "symbol": "MODA",
+        "name": "moda",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/20870/small/ModaDAO__logomark-primary_3x.png?1637809145",
+        "coingeckoId": "moda-dao",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
         ]
     },
     {
@@ -3326,15 +3364,14 @@
     {
         "address": "0x3eB177A6693eC81d1E170136f8AD02fffBE172a7",
         "symbol": "AUMI",
-        "name": "AutoMatic",
+        "name": "AutoMatic Network",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/19413/small/automatic.PNG?1635212504",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1635228244417_8097348181280004.png",
         "coingeckoId": "automatic-network",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "quickswap"
+            "openocean"
         ]
     },
     {
