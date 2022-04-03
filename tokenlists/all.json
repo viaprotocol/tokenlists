@@ -1580,11 +1580,12 @@
             "name": "Frax Share",
             "decimals": 18,
             "chainId": "56",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1648964548615_9046282528114238.png",
             "coingeckoId": "frax-share",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "openocean"
             ]
         },
         {
@@ -3975,12 +3976,13 @@
             "name": "Frax",
             "decimals": 18,
             "chainId": "56",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1648964611668_04048546257922925.png",
             "coingeckoId": "frax",
             "listedIn": [
                 "coingecko",
                 "1inch",
-                "sushiswap"
+                "sushiswap",
+                "openocean"
             ]
         },
         {
@@ -18423,7 +18425,7 @@
             "decimals": 18,
             "chainId": "100",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
-            "coingeckoId": "honey",
+            "coingeckoId": "honeyswap-honey",
             "listedIn": [
                 "coingecko",
                 "1inch",
