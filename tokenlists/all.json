@@ -5143,6 +5143,19 @@
             ]
         },
         {
+            "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+            "symbol": "PEAK",
+            "name": "PEAKDEFI",
+            "decimals": 8,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x630d98424efe0ea27fb1b3ab7741907dffeaad78.png",
+            "coingeckoId": "marketpeak",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
             "symbol": "mGOOGL",
             "name": "Mirror GOOGL Token",
@@ -13546,12 +13559,13 @@
             "name": "Frax",
             "decimals": 18,
             "chainId": "137",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89/logo.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1649073380384_6210511662882632.png",
             "coingeckoId": "frax",
             "listedIn": [
                 "coingecko",
                 "1inch",
-                "sushiswap"
+                "sushiswap",
+                "openocean"
             ]
         },
         {
@@ -14361,12 +14375,13 @@
             "name": "Frax Share",
             "decimals": 18,
             "chainId": "137",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1a3acf6D19267E2d3e7f898f42803e90C9219062/logo.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1649073312321_4011823693934131.png",
             "coingeckoId": "frax-share",
             "listedIn": [
                 "coingecko",
                 "1inch",
-                "sushiswap"
+                "sushiswap",
+                "openocean"
             ]
         },
         {
@@ -19269,6 +19284,19 @@
             "chainId": "1",
             "logoURI": "https://tokens.1inch.io/0xf14b9adf84812ba463799357f4dc716b4384010b.png",
             "coingeckoId": "pension-plan",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
+            "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+            "symbol": "CULT",
+            "name": "Cult DAO",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0xf0f9d895aca5c8678f706fb8216fa22957685a13.png",
+            "coingeckoId": "cult-dao",
             "listedIn": [
                 "coingecko",
                 "1inch"
