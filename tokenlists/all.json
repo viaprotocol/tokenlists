@@ -18440,7 +18440,7 @@
             "decimals": 18,
             "chainId": "100",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
-            "coingeckoId": "honeyswap-honey",
+            "coingeckoId": "honey",
             "listedIn": [
                 "coingecko",
                 "1inch",
@@ -35043,6 +35043,19 @@
             ]
         },
         {
+            "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+            "symbol": "SLNA",
+            "name": "Soluna Governance Token",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+            "coingeckoId": "soluna",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
             "address": "SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV",
             "symbol": "SLCL",
             "name": "Solcial token",
@@ -35266,6 +35279,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "Ma4dse7fmzXLQYymNsDDjq6VgRXtEFTJw1CvmRrBoKN",
+            "symbol": "MAGA",
+            "name": "Magic Eggs",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ma4dse7fmzXLQYymNsDDjq6VgRXtEFTJw1CvmRrBoKN/logo.png",
+            "coingeckoId": "magic-eggs",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
