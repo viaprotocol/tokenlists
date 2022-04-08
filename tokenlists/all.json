@@ -10348,6 +10348,19 @@
             ]
         },
         {
+            "address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+            "symbol": "STG",
+            "name": "Stargate Finance",
+            "decimals": 18,
+            "chainId": "10",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1649388025332_7843963542104893.png",
+            "coingeckoId": "stargate-finance",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
             "symbol": "THALES",
             "name": "Optimistic Thales Token",
@@ -21863,9 +21876,8 @@
             "decimals": 8,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0xf5dce57282a584d2746faf1593d3121fcac444dc.png",
-            "coingeckoId": "compound-sai",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean"
             ]
@@ -23064,9 +23076,8 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0xcf8f9555d55ce45a3a33a81d6ef99a2a2e71dee2.png",
-            "coingeckoId": "cbi-index-7",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean"
             ]
@@ -25411,19 +25422,6 @@
                 "1inch",
                 "sushiswap",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0x9248c485b0B80f76DA451f167A8db30F33C70907",
-            "symbol": "DEBASE",
-            "name": "Debase",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0x9248c485b0b80f76da451f167a8db30f33c70907.png",
-            "coingeckoId": "debase",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
