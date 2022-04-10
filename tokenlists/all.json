@@ -24193,19 +24193,6 @@
             ]
         },
         {
-            "address": "0xAFbF03181833aB4E8DEc24D708a2a24c2bAaa4a4",
-            "symbol": "MANDOX",
-            "name": "MandoX",
-            "decimals": 9,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xafbf03181833ab4e8dec24d708a2a24c2baaa4a4.png",
-            "coingeckoId": "mandox",
-            "listedIn": [
-                "coingecko",
-                "1inch"
-            ]
-        },
-        {
             "address": "0xAEcc217a749c2405b5ebC9857a16d58Bdc1c367F",
             "symbol": "PAWTH",
             "name": "Pawthereum",
@@ -35764,6 +35751,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK/logo.png",
             "coingeckoId": "hxro-wormhole",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "HxPoEHMt1vKeqjKCePcqTj6yYgn6Xqq1fKTY3Pjx4YrX",
+            "symbol": "ZAP",
+            "name": "ZAP Token",
+            "decimals": 8,
+            "chainId": "-1",
+            "logoURI": "https://www.zap.org/static/zapSplash.svg",
+            "coingeckoId": "zap",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
