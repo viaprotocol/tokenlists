@@ -53,6 +53,19 @@
         ]
     },
     {
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "symbol": "ELK",
+        "name": "Elk",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": "elk-finance",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
         "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
         "symbol": "PEFI",
         "name": "PenguinToken",
@@ -338,9 +351,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-        "coingeckoId": "elk-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "elkfinance"
         ]

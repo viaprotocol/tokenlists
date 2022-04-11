@@ -1,5 +1,18 @@
 [
     {
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "symbol": "ELK",
+        "name": "Elk",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": "elk-finance",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
         "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
         "symbol": "WETH",
         "name": "Wrapped ETH",
@@ -59,19 +72,6 @@
         "chainId": "25",
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
         "coingeckoId": "dai",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    {
-        "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-        "symbol": "oELK",
-        "name": "Old Elk",
-        "decimals": 18,
-        "chainId": "25",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-        "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
             "elkfinance"
