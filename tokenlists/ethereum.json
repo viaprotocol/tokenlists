@@ -12405,9 +12405,8 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://ethapi.openocean.finance/logos/0x309627af60f0926daa6041b8279484312f2bf060.png",
-        "coingeckoId": "usd-bancor",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean"
         ]
@@ -14798,19 +14797,6 @@
         "chainId": "1",
         "logoURI": "https://ethapi.openocean.finance/logos/0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7.png",
         "coingeckoId": "suku",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0x07597255910a51509CA469568B048F2597E72504",
-        "symbol": "1UP",
-        "name": "Uptrennd",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://ethapi.openocean.finance/logos/0x07597255910a51509ca469568b048f2597e72504.png",
-        "coingeckoId": "uptrennd",
         "listedIn": [
             "coingecko",
             "openocean"

@@ -15111,6 +15111,19 @@
             ]
         },
         {
+            "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
+            "symbol": "FIRE",
+            "name": "The Phoenix",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1649755361718_40860946525206465.jpg",
+            "coingeckoId": "the-phoenix",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
             "symbol": "PENDLE",
             "name": "Pendle",
@@ -31462,9 +31475,8 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0x309627af60f0926daa6041b8279484312f2bf060.png",
-            "coingeckoId": "usd-bancor",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean"
             ]
@@ -33855,19 +33867,6 @@
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7.png",
             "coingeckoId": "suku",
-            "listedIn": [
-                "coingecko",
-                "openocean"
-            ]
-        },
-        {
-            "address": "0x07597255910a51509CA469568B048F2597E72504",
-            "symbol": "1UP",
-            "name": "Uptrennd",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://ethapi.openocean.finance/logos/0x07597255910a51509ca469568b048f2597e72504.png",
-            "coingeckoId": "uptrennd",
             "listedIn": [
                 "coingecko",
                 "openocean"
@@ -37595,6 +37594,19 @@
             "listedIn": [
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "ExistEr1h19DiEPPzaDpwx3DnjQbrVbXpaxKDYBSNoWj",
+            "symbol": "Exist",
+            "name": "Exist",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExistEr1h19DiEPPzaDpwx3DnjQbrVbXpaxKDYBSNoWj/logo.png",
+            "coingeckoId": "exist",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
