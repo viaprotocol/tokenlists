@@ -117,6 +117,19 @@
         ]
     },
     {
+        "address": "0xf287D97B6345bad3D88856b26Fb7c0ab3F2C7976",
+        "symbol": "MATIC2x-FLI-P",
+        "name": "MATIC 2x Flexible Leverage Index",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976.png",
+        "coingeckoId": "index-coop-matic-2x-flexible-leverage-index",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
         "symbol": "UART",
         "name": "UniArts Network Token",
@@ -204,6 +217,7 @@
         "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
+            "1inch",
             "elkfinance"
         ]
     },
@@ -2083,6 +2097,7 @@
         "coingeckoId": "sphere-finance",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap"
         ]
     },
@@ -2289,6 +2304,19 @@
         ]
     },
     {
+        "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+        "symbol": "FNC",
+        "name": "Fancy Games",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/21367/small/fnc.png?1639025576",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "symbol": "ETH",
         "name": "Ether",
@@ -2331,6 +2359,7 @@
         "coingeckoId": "yfdai-finance",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap"
         ]
     },
@@ -3546,6 +3575,7 @@
         "coingeckoId": "index-coop-eth-2x-flexible-leverage-index",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "quickswap"
         ]

@@ -1415,6 +1415,19 @@
             ]
         },
         {
+            "address": "0xebAFFc2d2EA7c66fb848c48124b753F93A0A90ec",
+            "symbol": "ASIA",
+            "name": "ASIA COIN",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0xebaffc2d2ea7c66fb848c48124b753f93a0a90ec.png",
+            "coingeckoId": "asia-coin",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",
             "symbol": "HPS",
             "name": "HappinessToken",
@@ -4979,6 +4992,19 @@
             "listedIn": [
                 "openocean",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+            "symbol": "SpacePi",
+            "name": "SpacePi Token",
+            "decimals": 9,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x69b14e8d3cebfdd8196bfe530954a0c226e5008e.png",
+            "coingeckoId": "spacepi",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -10492,6 +10518,19 @@
             ]
         },
         {
+            "address": "0xf287D97B6345bad3D88856b26Fb7c0ab3F2C7976",
+            "symbol": "MATIC2x-FLI-P",
+            "name": "MATIC 2x Flexible Leverage Index",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976.png",
+            "coingeckoId": "index-coop-matic-2x-flexible-leverage-index",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
             "symbol": "UART",
             "name": "UniArts Network Token",
@@ -10579,6 +10618,7 @@
             "coingeckoId": "elk-finance",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "elkfinance"
             ]
         },
@@ -12458,6 +12498,7 @@
             "coingeckoId": "sphere-finance",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -12664,6 +12705,19 @@
             ]
         },
         {
+            "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+            "symbol": "FNC",
+            "name": "Fancy Games",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://assets.coingecko.com/coins/images/21367/small/fnc.png?1639025576",
+            "coingeckoId": null,
+            "listedIn": [
+                "1inch",
+                "quickswap"
+            ]
+        },
+        {
             "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
             "symbol": "ETH",
             "name": "Ether",
@@ -12706,6 +12760,7 @@
             "coingeckoId": "yfdai-finance",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -13921,6 +13976,7 @@
             "coingeckoId": "index-coop-eth-2x-flexible-leverage-index",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap",
                 "quickswap"
             ]
@@ -26590,6 +26646,7 @@
             "coingeckoId": "fancy-games",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -26865,6 +26922,19 @@
                 "coingecko",
                 "1inch",
                 "openocean"
+            ]
+        },
+        {
+            "address": "0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84",
+            "symbol": "icETH",
+            "name": "Interest Compounding ETH Index",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84.png",
+            "coingeckoId": "interest-compounding-eth-index",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -39289,6 +39359,19 @@
             ]
         },
         {
+            "address": "BtnUizMTmDdKxP3hZhQhZMUXF9RZZaZJvcNDFLiRbZ5e",
+            "symbol": "NRV",
+            "name": "Nerv",
+            "decimals": 0,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/Mr4x3/emoji-cheat-sheet.com/master/logo.jpeg",
+            "coingeckoId": "nerv-protocol",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
             "address": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
             "symbol": "srenBTC-10",
             "name": "Saber Wrapped renBTC (10 decimals)",
@@ -39536,6 +39619,19 @@
             "listedIn": [
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "BNTYkJdHkdP9eH4uGouRkqz9RifYL8knHVVVmBMgcNzx",
+            "symbol": "BNTY",
+            "name": "Bounty",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BNTYkJdHkdP9eH4uGouRkqz9RifYL8knHVVVmBMgcNzx/logo.png",
+            "coingeckoId": "bounty",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
@@ -41075,6 +41171,19 @@
             "listedIn": [
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "8s9FCz99Wcr3dHpiauFRi6bLXzshXfcGTfgQE7UEopVx",
+            "symbol": "CKC",
+            "name": "ChikinCoin",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8s9FCz99Wcr3dHpiauFRi6bLXzshXfcGTfgQE7UEopVx/logo.svg",
+            "coingeckoId": "chikincoin",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {

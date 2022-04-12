@@ -7589,6 +7589,7 @@
         "coingeckoId": "fancy-games",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -7864,6 +7865,19 @@
             "coingecko",
             "1inch",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84",
+        "symbol": "icETH",
+        "name": "Interest Compounding ETH Index",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84.png",
+        "coingeckoId": "interest-compounding-eth-index",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
