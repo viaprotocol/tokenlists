@@ -738,6 +738,19 @@
         ]
     },
     {
+        "address": "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07",
+        "symbol": "TUSD",
+        "name": "TrueUSD",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1649837516300_48606178853287907.png",
+        "coingeckoId": "true-usd",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
         "symbol": "LRC",
         "name": "LoopringCoin V2",
@@ -1000,6 +1013,19 @@
             "sushiswap",
             "openocean",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+        "symbol": "JONES",
+        "name": "Jones DAO",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1649850583018_3312717213644991.png",
+        "coingeckoId": "jones-dao",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
