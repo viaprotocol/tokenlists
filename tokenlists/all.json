@@ -3078,6 +3078,19 @@
             ]
         },
         {
+            "address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+            "symbol": "FIST",
+            "name": "FistToken",
+            "decimals": 6,
+            "chainId": "56",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1642606493000_668608717747182.png",
+            "coingeckoId": "fistbump",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
             "symbol": "BUNNY",
             "name": "Bunny Token",
@@ -4911,19 +4924,6 @@
                 "sushiswap",
                 "openocean",
                 "elkfinance"
-            ]
-        },
-        {
-            "address": "0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
-            "symbol": "XCUR",
-            "name": "Curate on BSC",
-            "decimals": 8,
-            "chainId": "56",
-            "logoURI": "https://tokens.1inch.io/0x708c671aa997da536869b50b6c67fa0c32ce80b2.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
@@ -35653,6 +35653,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NaFJTgvemQFfTTGAq2PR1uBny3NENWMur5k6eBsG5ii/logo.png",
             "coingeckoId": "naga-kingdom",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "symbol": "NIRV",
+            "name": "NIRV",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa/NIRV.png",
+            "coingeckoId": "nirvana-nirv",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
