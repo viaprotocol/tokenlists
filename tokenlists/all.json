@@ -4920,7 +4920,7 @@
             "decimals": 8,
             "chainId": "56",
             "logoURI": "https://tokens.1inch.io/0x708c671aa997da536869b50b6c67fa0c32ce80b2.png",
-            "coingeckoId": "curate",
+            "coingeckoId": null,
             "listedIn": [
                 "coingecko",
                 "1inch"
@@ -11945,6 +11945,19 @@
                 "coingecko",
                 "1inch",
                 "elkfinance",
+                "quickswap"
+            ]
+        },
+        {
+            "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+            "symbol": "LDO",
+            "name": "Lido DAO Token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png?1609873644",
+            "coingeckoId": "lido-dao",
+            "listedIn": [
+                "coingecko",
                 "quickswap"
             ]
         },
