@@ -197,6 +197,19 @@
             ]
         },
         {
+            "address": "0xcAB86F6Fb6d1C2cBeeB97854A0C023446A075Fe3",
+            "symbol": "deETH",
+            "name": "deBridge Ether ",
+            "decimals": 18,
+            "chainId": "42161",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650019444638_3361579333334439.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "1inch",
+                "openocean"
+            ]
+        },
+        {
             "address": "0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d",
             "symbol": "CREDA",
             "name": "CreDA Protocol Token",
@@ -972,6 +985,19 @@
                 "coingecko",
                 "1inch",
                 "sushiswap",
+                "openocean"
+            ]
+        },
+        {
+            "address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
+            "symbol": "deUSDC",
+            "name": "deBridge USD Coin",
+            "decimals": 6,
+            "chainId": "42161",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650019163023_6832660419570917.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "1inch",
                 "openocean"
             ]
         },
@@ -7165,6 +7191,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch"
+            ]
+        },
+        {
+            "address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
+            "symbol": "deUSDC",
+            "name": "deBridge USD Coin",
+            "decimals": 6,
+            "chainId": "56",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650019211892_07441621225735862.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "1inch",
+                "openocean"
             ]
         },
         {
@@ -14645,6 +14684,19 @@
             ]
         },
         {
+            "address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
+            "symbol": "deUSDC",
+            "name": "deBridge USD Coin",
+            "decimals": 6,
+            "chainId": "137",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650019089973_1228797537270232.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "1inch",
+                "openocean"
+            ]
+        },
+        {
             "address": "0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360",
             "symbol": "AMAAVE",
             "name": "Aave Matic Market AAVE",
@@ -16859,6 +16911,19 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap",
+                "openocean"
+            ]
+        },
+        {
+            "address": "0x28690ec942671aC8d9Bc442B667EC338eDE6dFd3",
+            "symbol": "deUSDC",
+            "name": "deBridge USD Coin",
+            "decimals": 6,
+            "chainId": "43114",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650019264829_26703954532340557.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "1inch",
                 "openocean"
             ]
         },
@@ -19676,11 +19741,12 @@
             "name": "Cult DAO",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xf0f9d895aca5c8678f706fb8216fa22957685a13.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650015332892_6009483193098999.png",
             "coingeckoId": "cult-dao",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "openocean"
             ]
         },
         {
@@ -35135,6 +35201,19 @@
             "listedIn": [
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW",
+            "symbol": "NNI",
+            "name": "NeoNomad",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/buMnhMd5xSyXBssTQo15jouu8VhuEZJCfbtBUZgRcuW/logo.png",
+            "coingeckoId": "neonomad-finance",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {

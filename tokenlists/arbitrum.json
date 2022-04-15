@@ -168,6 +168,19 @@
         ]
     },
     {
+        "address": "0xcAB86F6Fb6d1C2cBeeB97854A0C023446A075Fe3",
+        "symbol": "deETH",
+        "name": "deBridge Ether ",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650019444638_3361579333334439.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
         "address": "0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d",
         "symbol": "CREDA",
         "name": "CreDA Protocol Token",
@@ -943,6 +956,19 @@
             "coingecko",
             "1inch",
             "sushiswap",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
+        "symbol": "deUSDC",
+        "name": "deBridge USD Coin",
+        "decimals": 6,
+        "chainId": "42161",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650019163023_6832660419570917.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
             "openocean"
         ]
     },
