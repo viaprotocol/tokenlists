@@ -589,6 +589,19 @@
         ]
     },
     {
+        "address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae",
+        "symbol": "BASED",
+        "name": "Based Finance",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650035156247_15817271528450005.png",
+        "coingeckoId": "based-finance",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
         "symbol": "DAI",
         "name": "Dai Stablecoin",
@@ -987,6 +1000,19 @@
         "chainId": "250",
         "logoURI": "https://cloudstorage.openocean.finance/images/1634803507166_34731702434665945.png",
         "coingeckoId": "tomb-shares",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
+        "address": "0x49C290Ff692149A4E16611c694fdED42C954ab7a",
+        "symbol": "BSHARE",
+        "name": "BASED Shares",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650035454010_38650801356728093.jpg",
+        "coingeckoId": "based-shares",
         "listedIn": [
             "coingecko",
             "openocean"
