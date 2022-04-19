@@ -9534,7 +9534,7 @@
         {
             "address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a",
             "symbol": "WOO",
-            "name": "Wootrade Network",
+            "name": "WOO Network",
             "decimals": 18,
             "chainId": "250",
             "logoURI": "https://cloudstorage.openocean.finance/images/1640319878546_4284735566620492.png",
@@ -16641,11 +16641,12 @@
             "name": "Islander",
             "decimals": 18,
             "chainId": "43114",
-            "logoURI": "https://snowtrace.io/token/images/theislander_32.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
             "coingeckoId": "islander",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "elkfinance"
             ]
         },
         {
@@ -41207,6 +41208,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg/logo.png",
             "coingeckoId": "my-neighbor-alice-wormhole",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF",
+            "symbol": "LADA",
+            "name": "LADA Token",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/95bzgMCtKw2dwaWufV9iZyu64DQo1eqw6QWnFMUSnsuF/logo.png",
+            "coingeckoId": "laddercaster",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
