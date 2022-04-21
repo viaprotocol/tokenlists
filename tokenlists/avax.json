@@ -1148,6 +1148,19 @@
         ]
     },
     {
+        "address": "0x695Fa794d59106cEbd40ab5f5cA19F458c723829",
+        "symbol": "HAKU",
+        "name": "Haku Swap",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x695Fa794d59106cEbd40ab5f5cA19F458c723829/logo.png",
+        "coingeckoId": "hakuswap",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
         "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
         "symbol": "HUSKY",
         "name": "Husky",
@@ -1838,6 +1851,19 @@
             "sushiswap",
             "openocean",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+        "symbol": "YUSD",
+        "name": "YUSD Stablecoin",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650468989477_49131685554495874.png",
+        "coingeckoId": "yusd-stablecoin",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {

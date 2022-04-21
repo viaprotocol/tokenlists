@@ -10538,7 +10538,7 @@
             "decimals": 18,
             "chainId": "137",
             "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xf50D05A1402d0adAfA880D36050736f9f6ee7dee/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "instadapp",
             "listedIn": [
                 "1inch",
                 "sushiswap"
@@ -16247,6 +16247,19 @@
             ]
         },
         {
+            "address": "0x695Fa794d59106cEbd40ab5f5cA19F458c723829",
+            "symbol": "HAKU",
+            "name": "Haku Swap",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x695Fa794d59106cEbd40ab5f5cA19F458c723829/logo.png",
+            "coingeckoId": "hakuswap",
+            "listedIn": [
+                "coingecko",
+                "elkfinance"
+            ]
+        },
+        {
             "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
             "symbol": "HUSKY",
             "name": "Husky",
@@ -16937,6 +16950,19 @@
                 "sushiswap",
                 "openocean",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+            "symbol": "YUSD",
+            "name": "YUSD Stablecoin",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650468989477_49131685554495874.png",
+            "coingeckoId": "yusd-stablecoin",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {
@@ -39053,7 +39079,7 @@
             "name": "DUST Protocol",
             "decimals": 9,
             "chainId": "-1",
-            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ/logo.jpg",
             "coingeckoId": "dust-protocol",
             "listedIn": [
                 "coingecko",
