@@ -4921,19 +4921,6 @@
         ]
     },
     {
-        "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
-        "symbol": "SHWA",
-        "name": "ShibaWallet",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://shibawallet.pro/assets/favicon32x32.png",
-        "coingeckoId": "shibawallet",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
         "symbol": "PORTO",
         "name": " FC Porto Fan Token",
@@ -5485,9 +5472,8 @@
         "decimals": 18,
         "chainId": "56",
         "logoURI": "https://ethapi.openocean.finance/logos/bsc/0x35e869b7456462b81cdb5e6e42434bd27f3f788c.png",
-        "coingeckoId": "midas-dollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean"
         ]
