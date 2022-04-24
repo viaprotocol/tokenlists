@@ -713,6 +713,19 @@
         ]
     },
     {
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "symbol": "USDT",
+        "name": "TetherToken",
+        "decimals": 6,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1642600369413_5107823985163122.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
         "symbol": "DYP",
         "name": "DeFiYieldProtocol",
@@ -1044,6 +1057,19 @@
         "chainId": "43114",
         "logoURI": "https://snowtrace.io/token/images/chikneeg_32.png",
         "coingeckoId": "chikn-egg",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x75739a693459f33B1FBcC02099eea3eBCF150cBe",
+        "symbol": "TIC",
+        "name": "ElasticSwap Tic Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://tokens.1inch.io/0x75739a693459f33b1fbcc02099eea3ebcf150cbe.png",
+        "coingeckoId": "elasticswap",
         "listedIn": [
             "coingecko",
             "1inch"
