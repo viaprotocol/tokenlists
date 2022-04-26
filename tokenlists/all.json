@@ -7047,6 +7047,19 @@
             ]
         },
         {
+            "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
+            "symbol": "lUSD",
+            "name": "lUSD",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e/logo.png",
+            "coingeckoId": "lusd",
+            "listedIn": [
+                "coingecko",
+                "elkfinance"
+            ]
+        },
+        {
             "address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
             "symbol": "DAR",
             "name": "Dalarnia ",
@@ -7242,6 +7255,19 @@
             "listedIn": [
                 "coingecko",
                 "openocean"
+            ]
+        },
+        {
+            "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+            "symbol": "NEAR",
+            "name": "NEAR Protocol",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x1fa4a73a3f0133f0025378af00236f3abdee5d63.png",
+            "coingeckoId": "wrapped-near",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
