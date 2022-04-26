@@ -13862,19 +13862,6 @@
             ]
         },
         {
-            "address": "0x3eB177A6693eC81d1E170136f8AD02fffBE172a7",
-            "symbol": "AUMI",
-            "name": "AutoMatic Network",
-            "decimals": 18,
-            "chainId": "137",
-            "logoURI": "https://cloudstorage.openocean.finance/images/1635228244417_8097348181280004.png",
-            "coingeckoId": "automatic-network",
-            "listedIn": [
-                "coingecko",
-                "openocean"
-            ]
-        },
-        {
             "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
             "symbol": "FXS",
             "name": "Frax Share",
@@ -23787,19 +23774,6 @@
                 "uniswap",
                 "sushiswap",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
-            "symbol": "cWBTC",
-            "name": "Compound Wrapped BTC",
-            "decimals": 8,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4.png",
-            "coingeckoId": "compound-wrapped-btc-legacy",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
@@ -37240,6 +37214,19 @@
             ]
         },
         {
+            "address": "GXnw9YSt6DANCt84Ti6ZpbaXvrvuEJFCYqrDjygnq4R8",
+            "symbol": "ATC",
+            "name": "ARTICOIN",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/mum33n/atc-logo/main/LOGO%20(256).png",
+            "coingeckoId": "articoin",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
             "address": "GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd",
             "symbol": "soTOMO",
             "name": "Wrapped TOMO (Sollet)",
@@ -42122,6 +42109,19 @@
             "listedIn": [
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "87rSGrpYdmTxfNBf8o2cpyiNcxCmNhUPBXjT8aoyfob5",
+            "symbol": "ENX",
+            "name": "Equinox",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://ixrjpmbgkspkjaueqzmyhb3fbca5atffgsrqyt527d2x3ycdlgqq.arweave.net/ReKXsCZUnqSChIZZg4dlCIHQTKU0owxPuvj1feBDWaE",
+            "coingeckoId": "equinox",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
