@@ -364,6 +364,19 @@
         ]
     },
     {
+        "address": "kZEn3aDxEzcFADPe2VQ6WcJRbS1hVGjUcgCw4HiuYSU",
+        "symbol": "KZEN",
+        "name": "Kaizen Finance",
+        "decimals": 9,
+        "chainId": "-1",
+        "logoURI": "https://kaizen.finance/assets/images/kaizen-assets/logo-kaizen-symbol.png",
+        "coingeckoId": "kaizen",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
+        ]
+    },
+    {
         "address": "k5Ybbtmnd1eAtBZoTqB9uzd24bVPz8Aip5EGVCJXQCM",
         "symbol": "sBTC",
         "name": "Solana Bitcoin",
@@ -8766,6 +8779,19 @@
         "chainId": "-1",
         "logoURI": "https://i.imgur.com/TMyD8MN.jpg",
         "coingeckoId": "playground-waves-floor-index",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
+        ]
+    },
+    {
+        "address": "4tJZhSdGePuMEfZQ3h5LaHjTPsw1iWTRFTojnZcwsAU6",
+        "symbol": "ELU",
+        "name": "Elumia Crowns",
+        "decimals": 9,
+        "chainId": "-1",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4tJZhSdGePuMEfZQ3h5LaHjTPsw1iWTRFTojnZcwsAU6/logo.png",
+        "coingeckoId": "elumia",
         "listedIn": [
             "coingecko",
             "solanalabs"
