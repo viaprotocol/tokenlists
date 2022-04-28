@@ -10429,6 +10429,19 @@
             ]
         },
         {
+            "address": "0x4200000000000000000000000000000000000042",
+            "symbol": "OP",
+            "name": "Optimism",
+            "decimals": 18,
+            "chainId": "10",
+            "logoURI": "https://tokens.1inch.io/0x4200000000000000000000000000000000000042.png",
+            "coingeckoId": "optimism",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x4200000000000000000000000000000000000006",
             "symbol": "WETH",
             "name": "WETH",
@@ -12164,6 +12177,19 @@
                 "coingecko",
                 "1inch",
                 "sushiswap"
+            ]
+        },
+        {
+            "address": "0xA96D47c621a8316d4F9539E3B38180C7067e84CA",
+            "symbol": "AWS",
+            "name": "AurusSILVER",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://assets.coingecko.com/coins/images/14965/small/2021-12-06-Aurus-tokens-for-coingecko-AWS-flat-color-v1-r1-AS.png?1640223368",
+            "coingeckoId": "aurus-silver",
+            "listedIn": [
+                "coingecko",
+                "quickswap"
             ]
         },
         {
@@ -31216,19 +31242,6 @@
             ]
         },
         {
-            "address": "0x382f0160c24f5c515A19f155BAc14d479433A407",
-            "symbol": "KLEE",
-            "name": "Klee Kai",
-            "decimals": 9,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0x382f0160c24f5c515a19f155bac14d479433a407.png",
-            "coingeckoId": "kleekai",
-            "listedIn": [
-                "coingecko",
-                "1inch"
-            ]
-        },
-        {
             "address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
             "symbol": "CIV",
             "name": "Civilization",
@@ -35579,6 +35592,19 @@
             ]
         },
         {
+            "address": "Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
+            "symbol": "TAKI",
+            "name": "Taki",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4/logo.png",
+            "coingeckoId": "taki",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
             "address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
             "symbol": "sUSDT-8",
             "name": "Saber Wrapped USDT (8 decimals)",
@@ -37217,7 +37243,7 @@
             "address": "GWgwUUrgai3BFeEJZp7bdsBSYiuDqNmHf9uRusWsf3Yi",
             "symbol": "SAFU",
             "name": "1SAFU",
-            "decimals": 6,
+            "decimals": 0,
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GWgwUUrgai3BFeEJZp7bdsBSYiuDqNmHf9uRusWsf3Yi/logo.png",
             "coingeckoId": "1safu",
@@ -38490,6 +38516,19 @@
             ]
         },
         {
+            "address": "EGiWZhNk3vUNJr35MbL2tY5YD6D81VVZghR2LgEFyXZh",
+            "symbol": "BIT",
+            "name": "BIT Token",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gtj6NZHgMZ7QHg8PDN6izEn4GjVoX8yFLv4ESNKsWb62/BT-logo.png",
+            "coingeckoId": "bitmon",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
             "address": "EFYKDdppK1FjixaxExpVhoTd8gtAmncbhQYruzWyG6Cx",
             "symbol": "SPKL",
             "name": "Spookeletons Token",
@@ -39551,6 +39590,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "CREAMpdDimXxj2zTCwP5wMEtba4NYaKCrTBEQTSKtqHe",
+            "symbol": "CREAMY",
+            "name": "Creamy",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CREAMpdDimXxj2zTCwP5wMEtba4NYaKCrTBEQTSKtqHe/logo.png",
+            "coingeckoId": "creamy",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
@@ -41407,6 +41459,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "9ZLBKPCzkvDv85hojKofsogsESkJMN164QCVUtxvBxEQ",
+            "symbol": "SLDR",
+            "name": "Solderland",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ZLBKPCzkvDv85hojKofsogsESkJMN164QCVUtxvBxEQ/logo.jpg",
+            "coingeckoId": "solderland",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
@@ -44627,6 +44692,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "32CHtMAuGaCAZx8Rgp54jSFG3ihbpN5brSvRAWpwEHPv",
+            "symbol": "DAB",
+            "name": "DAB COIN",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/basc-coin.png",
+            "coingeckoId": "dab-coin",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {

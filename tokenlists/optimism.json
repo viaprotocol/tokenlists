@@ -164,6 +164,19 @@
         ]
     },
     {
+        "address": "0x4200000000000000000000000000000000000042",
+        "symbol": "OP",
+        "name": "Optimism",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://tokens.1inch.io/0x4200000000000000000000000000000000000042.png",
+        "coingeckoId": "optimism",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x4200000000000000000000000000000000000006",
         "symbol": "WETH",
         "name": "WETH",
