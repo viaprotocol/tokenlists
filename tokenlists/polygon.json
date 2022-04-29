@@ -2259,8 +2259,8 @@
     },
     {
         "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
-        "symbol": "QUICK",
-        "name": "Quickswap",
+        "symbol": "QUICK(OLD)",
+        "name": "QuickSwap(OLD)",
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg",
@@ -3035,6 +3035,19 @@
         "listedIn": [
             "sushiswap",
             "quickswap"
+        ]
+    },
+    {
+        "address": "0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df",
+        "symbol": "AX",
+        "name": "AthleteX",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df/logo.png",
+        "coingeckoId": "athletex",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
