@@ -1359,6 +1359,19 @@
             ]
         },
         {
+            "address": "0xf7686F43591302Cd9B4b9c4FE1291473Fae7D9C9",
+            "symbol": "LSS",
+            "name": "Chainport.io-Peg Lossless Token",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0xf7686f43591302cd9b4b9c4fe1291473fae7d9c9.png",
+            "coingeckoId": "lossless",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xf508fCD89b8bd15579dc79A6827cB4686A3592c8",
             "symbol": "vETH",
             "name": "Venus ETH",
@@ -4536,6 +4549,7 @@
             "coingeckoId": "revv",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "elkfinance"
             ]
         },
@@ -12966,6 +12980,7 @@
             "coingeckoId": "revv",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -15061,6 +15076,19 @@
             ]
         },
         {
+            "address": "0x0d0B8488222F7f83B23E365320a4021b12eAD608",
+            "symbol": "NXTT",
+            "name": "NextEarthToken",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x0d0b8488222f7f83b23e365320a4021b12ead608.png",
+            "coingeckoId": "next-earth",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x0b68782eFF3177f1F9240B64A7e2F8E0497e2454",
             "symbol": "ATLX",
             "name": "Atlantis",
@@ -15152,6 +15180,19 @@
                 "coingecko",
                 "elkfinance",
                 "quickswap"
+            ]
+        },
+        {
+            "address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+            "symbol": "GFC",
+            "name": "GCOIN",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x071ac29d569a47ebffb9e57517f855cb577dcc4c.png",
+            "coingeckoId": "galaxy-fight-club",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -31077,6 +31118,19 @@
             ]
         },
         {
+            "address": "0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320",
+            "symbol": "LSS",
+            "name": "Lossless Token",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x3b9be07d622accaed78f479bc0edabfd6397e320.png",
+            "coingeckoId": "lossless",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
             "symbol": "SHUF",
             "name": "Shuffle.Monster V3",
@@ -39668,6 +39722,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks/logo.png",
             "coingeckoId": "gari-network",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "CJ5U6wPmjxFUyTJpUTS7Rt1UqhTmSVRMvmJ8WD4nndXW",
+            "symbol": "GLXY",
+            "name": "Astrals GLXY",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJ5U6wPmjxFUyTJpUTS7Rt1UqhTmSVRMvmJ8WD4nndXW/logo.png",
+            "coingeckoId": "astrals-glxy",
             "listedIn": [
                 "coingecko",
                 "solanalabs"

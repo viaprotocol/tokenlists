@@ -202,6 +202,19 @@
         ]
     },
     {
+        "address": "0xf7686F43591302Cd9B4b9c4FE1291473Fae7D9C9",
+        "symbol": "LSS",
+        "name": "Chainport.io-Peg Lossless Token",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://tokens.1inch.io/0xf7686f43591302cd9b4b9c4fe1291473fae7d9c9.png",
+        "coingeckoId": "lossless",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xf508fCD89b8bd15579dc79A6827cB4686A3592c8",
         "symbol": "vETH",
         "name": "Venus ETH",
@@ -3379,6 +3392,7 @@
         "coingeckoId": "revv",
         "listedIn": [
             "coingecko",
+            "1inch",
             "elkfinance"
         ]
     },

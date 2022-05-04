@@ -2467,6 +2467,7 @@
         "coingeckoId": "revv",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap"
         ]
     },
@@ -4562,6 +4563,19 @@
         ]
     },
     {
+        "address": "0x0d0B8488222F7f83B23E365320a4021b12eAD608",
+        "symbol": "NXTT",
+        "name": "NextEarthToken",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x0d0b8488222f7f83b23e365320a4021b12ead608.png",
+        "coingeckoId": "next-earth",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x0b68782eFF3177f1F9240B64A7e2F8E0497e2454",
         "symbol": "ATLX",
         "name": "Atlantis",
@@ -4653,6 +4667,19 @@
             "coingecko",
             "elkfinance",
             "quickswap"
+        ]
+    },
+    {
+        "address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+        "symbol": "GFC",
+        "name": "GCOIN",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x071ac29d569a47ebffb9e57517f855cb577dcc4c.png",
+        "coingeckoId": "galaxy-fight-club",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
