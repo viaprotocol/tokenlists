@@ -630,13 +630,14 @@
             "name": "Wrapped Ether",
             "decimals": 18,
             "chainId": "42161",
-            "logoURI": "https://cloudstorage.openocean.finance/images/1638942168222_35963430344176883.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
             "coingeckoId": "weth",
             "listedIn": [
                 "coingecko",
                 "1inch",
                 "sushiswap",
-                "openocean"
+                "openocean",
+                "elkfinance"
             ]
         },
         {
@@ -10521,6 +10522,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "quickswap"
+            ]
+        },
+        {
+            "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+            "symbol": "MaticX",
+            "name": "Liquid Staking Matic",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg",
+            "coingeckoId": "stader-maticx",
+            "listedIn": [
+                "coingecko",
                 "quickswap"
             ]
         },
@@ -21281,15 +21295,16 @@
         {
             "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
             "symbol": "SFI",
-            "name": "saffron.finance",
+            "name": "Spice",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sfi.jpg",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png",
             "coingeckoId": "saffron-finance",
             "listedIn": [
                 "coingecko",
                 "1inch",
-                "sushiswap"
+                "sushiswap",
+                "elkfinance"
             ]
         },
         {

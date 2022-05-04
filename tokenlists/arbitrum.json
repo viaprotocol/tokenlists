@@ -601,13 +601,14 @@
         "name": "Wrapped Ether",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638942168222_35963430344176883.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "elkfinance"
         ]
     },
     {
