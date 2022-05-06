@@ -6650,6 +6650,7 @@
         "coingeckoId": "streamr",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -6865,6 +6866,19 @@
         "chainId": "1",
         "logoURI": "https://tokens.1inch.io/0x8cb924583681cbfe487a62140a994a49f833c244.png",
         "coingeckoId": "swapp",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
+        "symbol": "VLX",
+        "name": "VLX",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x8c543aed163909142695f2d2acd0d55791a9edb9.png",
+        "coingeckoId": "velas",
         "listedIn": [
             "coingecko",
             "1inch"
@@ -14706,7 +14720,6 @@
         "coingeckoId": "streamr-xdata",
         "listedIn": [
             "coingecko",
-            "1inch",
             "openocean"
         ]
     },
