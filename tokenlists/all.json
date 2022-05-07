@@ -1929,6 +1929,19 @@
             ]
         },
         {
+            "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+            "symbol": "USDD",
+            "name": "USDD",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1651924675034_5478321435787277.png",
+            "coingeckoId": "usdd",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
             "symbol": "XVS",
             "name": "Venus Token",
@@ -21836,15 +21849,16 @@
         },
         {
             "address": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
-            "symbol": "UST",
-            "name": "TerraUSD Wormhole ",
+            "symbol": "Wormhole-UST",
+            "name": "TerraUSD (Wormhole) (UST)",
             "decimals": 6,
             "chainId": "1",
-            "logoURI": "https://assets.coingecko.com/coins/images/21150/thumb/UST_wh_small.png?1644223065",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1651894566952_6916398031720183.png",
             "coingeckoId": "terrausd-wormhole",
             "listedIn": [
                 "coingecko",
-                "uniswap"
+                "uniswap",
+                "openocean"
             ]
         },
         {
@@ -34178,6 +34192,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch"
+            ]
+        },
+        {
+            "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+            "symbol": "USDD",
+            "name": "USDD",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1651924593436_11920442199897563.png",
+            "coingeckoId": "usdd",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {
