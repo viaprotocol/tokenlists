@@ -358,7 +358,7 @@
             "name": "Dai stable coin",
             "decimals": 18,
             "chainId": "42161",
-            "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
             "coingeckoId": "dai",
             "listedIn": [
                 "coingecko",
@@ -20557,14 +20557,15 @@
             "name": "Tether USD",
             "decimals": 6,
             "chainId": "1",
-            "logoURI": "https://ethapi.openocean.finance/logos/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
             "coingeckoId": "tether",
             "listedIn": [
                 "coingecko",
                 "1inch",
                 "uniswap",
                 "sushiswap",
-                "openocean"
+                "openocean",
+                "elkfinance"
             ]
         },
         {
@@ -25122,14 +25123,15 @@
             "name": "USD Coin",
             "decimals": 6,
             "chainId": "1",
-            "logoURI": "https://ethapi.openocean.finance/logos/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
             "coingeckoId": "usd-coin",
             "listedIn": [
                 "coingecko",
                 "1inch",
                 "uniswap",
                 "sushiswap",
-                "openocean"
+                "openocean",
+                "elkfinance"
             ]
         },
         {
@@ -28560,7 +28562,7 @@
         {
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "symbol": "DAI",
-            "name": "DaiStablecoin",
+            "name": "Dai Stablecoin",
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
