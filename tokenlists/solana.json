@@ -1727,9 +1727,8 @@
         "decimals": 10,
         "chainId": "-1",
         "logoURI": "https://www.synthetify.io/icons/xbtc.svg",
-        "coingeckoId": "synthetic-btc",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -2577,8 +2576,9 @@
         "decimals": 9,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "daosol",
         "listedIn": [
+            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -7098,9 +7098,8 @@
         "decimals": 9,
         "chainId": "-1",
         "logoURI": "https://www.synthetify.io/icons/xeth.svg",
-        "coingeckoId": "synthetic-eth",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -9418,6 +9417,19 @@
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg/logo.png",
         "coingeckoId": "aave-wormhole",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
+        ]
+    },
+    {
+        "address": "3swraHsc77KMg1tFvwH3tfYcd8SWr5fcUhtmRxjavG7H",
+        "symbol": "KS",
+        "name": "KALISTEN - Train To Earn",
+        "decimals": 9,
+        "chainId": "-1",
+        "logoURI": "https://kalisten.app/wp-content/uploads/2022/05/kalisten_token.png",
+        "coingeckoId": "kalisten",
         "listedIn": [
             "coingecko",
             "solanalabs"

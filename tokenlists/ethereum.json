@@ -3884,6 +3884,7 @@
         "coingeckoId": "gamee",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -8656,19 +8657,6 @@
         ]
     },
     {
-        "address": "0x70cDD88638cB569f1Ae1d4bD3529cc7FB331cbab",
-        "symbol": "LINKETHMOON",
-        "name": "LINKETH 2x Long",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x70cDD88638cB569f1Ae1d4bD3529cc7FB331cbab/logo.png",
-        "coingeckoId": "linketh-2x-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0x70D2b7C19352bB76e4409858FF5746e500f2B67c",
         "symbol": "UPI",
         "name": "Pawtocol",
@@ -12755,6 +12743,19 @@
         ]
     },
     {
+        "address": "0x2BA8349123de45E931a8C8264c332E6e9CF593F9",
+        "symbol": "BCMC",
+        "name": "Blockchain Monster Coin",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x2ba8349123de45e931a8c8264c332e6e9cf593f9.png",
+        "coingeckoId": "blockchain-monster-hunt",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
         "symbol": "WSCRT",
         "name": "Wrapped SCRT",
@@ -13006,19 +13007,6 @@
         "listedIn": [
             "coingecko",
             "1inch"
-        ]
-    },
-    {
-        "address": "0x26AB7c9ec873633D03C8f3a828F657878245A2dd",
-        "symbol": "RATIODOOM",
-        "name": "ETHBTC 1x Short",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x26AB7c9ec873633D03C8f3a828F657878245A2dd/logo.png",
-        "coingeckoId": "ethbtc-1x-short",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
@@ -15294,19 +15282,6 @@
         ]
     },
     {
-        "address": "0x030ed557a0775e110394C1a543f3eB181AeEa05F",
-        "symbol": "MKRETHDOOM",
-        "name": "MKRETH 1x Short",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x030ed557a0775e110394C1a543f3eB181AeEa05F/logo.png",
-        "coingeckoId": "mkreth-1x-short",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
         "symbol": "aWETH",
         "name": "Aave interest bearing WETH",
@@ -15437,19 +15412,6 @@
         "listedIn": [
             "coingecko",
             "1inch"
-        ]
-    },
-    {
-        "address": "0x0110aD3Cf10A6d04993BeC37BDCCBA6EE2C48A27",
-        "symbol": "TETHERDOOM",
-        "name": "Tether 3x Short",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0110aD3Cf10A6d04993BeC37BDCCBA6EE2C48A27/logo.png",
-        "coingeckoId": "tether-3x-short",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
