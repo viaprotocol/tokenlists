@@ -10465,14 +10465,15 @@
         {
             "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
             "symbol": "PERP",
-            "name": "Perpetual",
+            "name": "Perpetual Protocol",
             "decimals": 18,
             "chainId": "10",
-            "logoURI": "https://tokens.1inch.io/0x9e1028f5f1d5ede59748ffcee5532509976840e0.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1652169404561_5337774432128011.png",
             "coingeckoId": "perpetual-protocol",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "openocean"
             ]
         },
         {
@@ -15894,19 +15895,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
-            "symbol": "FRM",
-            "name": "Ferrum Network Token",
-            "decimals": 6,
-            "chainId": "43114",
-            "logoURI": "https://tokens.1inch.io/0xe5caef4af8780e59df925470b050fb23c43ca68c.png",
-            "coingeckoId": "ferrum-network",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
