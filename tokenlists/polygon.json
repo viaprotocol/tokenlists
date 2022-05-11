@@ -1648,7 +1648,7 @@
         "name": "QuickSwap(NEW)",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/QUICK_NEW.svg",
+        "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png",
         "coingeckoId": "quickswap",
         "listedIn": [
             "coingecko",
@@ -3521,6 +3521,19 @@
         ]
     },
     {
+        "address": "0x3fB256CFefedb6A54De7465c0EE86dC574AE464D",
+        "symbol": "EMT",
+        "name": "Emanate",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/4152/small/emanate.png?1558422824",
+        "coingeckoId": "emanate",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
         "symbol": "GAMER",
         "name": "GameStation",
@@ -3766,6 +3779,19 @@
         "listedIn": [
             "coingecko",
             "1inch"
+        ]
+    },
+    {
+        "address": "0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518",
+        "symbol": "PS1",
+        "name": "PolysportsToken",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/25070/small/L-T2x_cG_400x400.jpg?1650024620",
+        "coingeckoId": "polysports",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
         ]
     },
     {
