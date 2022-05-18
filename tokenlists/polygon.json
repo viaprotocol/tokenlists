@@ -53,19 +53,6 @@
         ]
     },
     {
-        "address": "0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
-        "symbol": "NFTP",
-        "name": "NFT Platform Index",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    {
         "address": "0xf5EA626334037a2cf0155D49eA6462fDdC6Eff19",
         "symbol": "SPADE",
         "name": "PolygonFarm Finance",
@@ -106,19 +93,6 @@
         ]
     },
     {
-        "address": "0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e",
-        "symbol": "MEME",
-        "name": "MEME",
-        "decimals": 8,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    {
         "address": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
         "symbol": "CXO",
         "name": "CargoX Token",
@@ -129,19 +103,6 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
-        ]
-    },
-    {
-        "address": "0xf287D97B6345bad3D88856b26Fb7c0ab3F2C7976",
-        "symbol": "MATIC2x-FLI-P",
-        "name": "MATIC 2x Flexible Leverage Index",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://tokens.1inch.io/0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976.png",
-        "coingeckoId": "index-coop-matic-2x-flexible-leverage-index",
-        "listedIn": [
-            "coingecko",
-            "1inch"
         ]
     },
     {
@@ -716,6 +677,19 @@
         ]
     },
     {
+        "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+        "symbol": "LCD",
+        "name": "Lucidao",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706",
+        "coingeckoId": "lucidao",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
         "symbol": "USDT",
         "name": "Tether USD",
@@ -909,7 +883,6 @@
         "coingeckoId": "pillar",
         "listedIn": [
             "coingecko",
-            "1inch",
             "quickswap"
         ]
     },
@@ -1359,7 +1332,6 @@
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
-            "1inch",
             "uniswap",
             "elkfinance"
         ]
@@ -1704,7 +1676,6 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
             "sushiswap",
             "elkfinance"
         ]
@@ -1981,7 +1952,6 @@
         "coingeckoId": "nshare",
         "listedIn": [
             "coingecko",
-            "1inch",
             "quickswap"
         ]
     },
@@ -2891,7 +2861,6 @@
         "coingeckoId": "dehive",
         "listedIn": [
             "coingecko",
-            "1inch",
             "quickswap"
         ]
     },
@@ -2916,19 +2885,6 @@
         "chainId": "137",
         "logoURI": "https://tokens.1inch.io/0x5d47baba0d66083c52009271faf3f50dcc01023c.png",
         "coingeckoId": "apeswap-finance",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
-        "address": "0x5d146d8B1dACb1EBBA5cb005ae1059DA8a1FbF57",
-        "symbol": "CADC",
-        "name": "CAD Coin (PoS)",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://tokens.1inch.io/0x5d146d8b1dacb1ebba5cb005ae1059da8a1fbf57.png",
-        "coingeckoId": "cad-coin",
         "listedIn": [
             "coingecko",
             "1inch"
@@ -3749,7 +3705,6 @@
         "coingeckoId": "trustswap",
         "listedIn": [
             "coingecko",
-            "1inch",
             "elkfinance",
             "quickswap"
         ]
@@ -4641,19 +4596,6 @@
         "listedIn": [
             "coingecko",
             "quickswap"
-        ]
-    },
-    {
-        "address": "0x0e59D50adD2d90f5111aca875baE0a72D95B4762",
-        "symbol": "DB",
-        "name": "Dark.Build",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x0e59D50adD2d90f5111aca875baE0a72D95B4762/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "elkfinance"
         ]
     },
     {

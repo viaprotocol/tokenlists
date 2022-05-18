@@ -68,19 +68,6 @@
         ]
     },
     {
-        "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
-        "symbol": "COLD",
-        "name": "COLD TRUTH CASH",
-        "decimals": 18,
-        "chainId": "100",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdbcadE285846131a5e7384685EADDBDFD9625557/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "elkfinance"
-        ]
-    },
-    {
         "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
         "symbol": "AFI",
         "name": "AriesFinancial on xDai",
@@ -228,8 +215,9 @@
         "decimals": 18,
         "chainId": "100",
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD3D47d5578e55C880505dC40648F7F9307C3e7A8/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "defipulse-index",
         "listedIn": [
+            "coingecko",
             "1inch",
             "sushiswap",
             "elkfinance"
@@ -245,19 +233,6 @@
         "coingeckoId": "esportsref",
         "listedIn": [
             "coingecko",
-            "elkfinance"
-        ]
-    },
-    {
-        "address": "0xD10Cc63531a514BBa7789682E487Add1f15A51E2",
-        "symbol": "BUSDC",
-        "name": "USD Coin on xDai binance-peg",
-        "decimals": 18,
-        "chainId": "100",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD10Cc63531a514BBa7789682E487Add1f15A51E2/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
             "elkfinance"
         ]
     },
@@ -354,6 +329,19 @@
         "listedIn": [
             "1inch",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
+        "symbol": "RICE",
+        "name": "DAOSquare Governance Token from Ethereum",
+        "decimals": 18,
+        "chainId": "100",
+        "logoURI": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/assets/logo-sm.png",
+        "coingeckoId": "daosquare",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
