@@ -6406,6 +6406,19 @@
             ]
         },
         {
+            "address": "0x411Ec510c85C9e56271bF4E10364Ffa909E685D9",
+            "symbol": "MOWA",
+            "name": "Moniwar",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x411ec510c85c9e56271bf4e10364ffa909e685d9.png",
+            "coingeckoId": "moniwar",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
             "symbol": "AOG",
             "name": "AgeOfGods",
@@ -10533,6 +10546,7 @@
             "coingeckoId": "metaverse-index",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -11734,6 +11748,7 @@
             "coingeckoId": "dfx-finance",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -12216,6 +12231,19 @@
                 "coingecko",
                 "sushiswap",
                 "openocean",
+                "quickswap"
+            ]
+        },
+        {
+            "address": "0xAa7DbD1598251f856C12f63557A4C4397c253Cea",
+            "symbol": "MCO2",
+            "name": "Moss Carbon Credit",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://i.imgur.com/ZcOLkHe.jpg",
+            "coingeckoId": null,
+            "listedIn": [
+                "1inch",
                 "quickswap"
             ]
         },
@@ -13331,6 +13359,7 @@
             "coingeckoId": "impermax",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -13801,7 +13830,7 @@
         },
         {
             "address": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
-            "symbol": "ICE",
+            "symbol": "ICE_1",
             "name": "Iron Finance ICE Token",
             "decimals": 18,
             "chainId": "137",
@@ -14220,6 +14249,19 @@
             ]
         },
         {
+            "address": "0x381d168DE3991c7413d46e3459b48A5221E3dfE4",
+            "symbol": "CUBO",
+            "name": "CUBO token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x381d168de3991c7413d46e3459b48a5221e3dfe4.png",
+            "coingeckoId": "cubo",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
             "symbol": "SWAP",
             "name": "TrustSwap Token",
@@ -14335,6 +14377,7 @@
             "coingeckoId": "pdshare",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "elkfinance",
                 "quickswap"
             ]
@@ -14719,6 +14762,7 @@
             "coingeckoId": "fabwelt",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -15024,6 +15068,7 @@
             "coingeckoId": "pddollar",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "elkfinance",
                 "quickswap"
             ]
@@ -19600,6 +19645,7 @@
             "coingeckoId": "moss-carbon-credit",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "uniswap"
             ]
         },
@@ -28836,6 +28882,19 @@
             ]
         },
         {
+            "address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+            "symbol": "EFI",
+            "name": "Efinity Token",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x656c00e1bcd96f256f224ad9112ff426ef053733.png",
+            "coingeckoId": "efinity",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
             "symbol": "OHM",
             "name": "Olympus v2 NEW",
@@ -37137,6 +37196,19 @@
             "listedIn": [
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx",
+            "symbol": "GOLDY",
+            "name": "DeFi Land Gold",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoLDYyyiVeXnVf9qgoK712N5esm1cCbHEK9aNJFx47Sx/logo.png",
+            "coingeckoId": "defi-land-gold",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {

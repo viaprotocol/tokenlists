@@ -158,6 +158,7 @@
         "coingeckoId": "moss-carbon-credit",
         "listedIn": [
             "coingecko",
+            "1inch",
             "uniswap"
         ]
     },
@@ -9388,6 +9389,19 @@
         "chainId": "1",
         "logoURI": "https://tokens.1inch.io/0x6595b8fd9c920c81500dca94e53cdc712513fb1f.png",
         "coingeckoId": "olyseum",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+        "symbol": "EFI",
+        "name": "Efinity Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x656c00e1bcd96f256f224ad9112ff426ef053733.png",
+        "coingeckoId": "efinity",
         "listedIn": [
             "coingecko",
             "1inch"
