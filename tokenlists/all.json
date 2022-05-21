@@ -11634,19 +11634,6 @@
             ]
         },
         {
-            "address": "0xF239E69ce434c7Fb408b05a0Da416b14917d934e",
-            "symbol": "SHI3LD",
-            "name": "PolyShield",
-            "decimals": 18,
-            "chainId": "137",
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xF239E69ce434c7Fb408b05a0Da416b14917d934e/logo.png",
-            "coingeckoId": "polyshield",
-            "listedIn": [
-                "coingecko",
-                "elkfinance"
-            ]
-        },
-        {
             "address": "0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35",
             "symbol": "MASQ",
             "name": "MASQ",
@@ -17733,19 +17720,6 @@
             ]
         },
         {
-            "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
-            "symbol": "1SWAP",
-            "name": "1SWAP",
-            "decimals": 18,
-            "chainId": "1285",
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/moonriver/0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B/logo.png",
-            "coingeckoId": "1swap",
-            "listedIn": [
-                "coingecko",
-                "elkfinance"
-            ]
-        },
-        {
             "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
             "symbol": "WBNB",
             "name": "Wrapped Binance Coin",
@@ -18203,19 +18177,6 @@
             ]
         },
         {
-            "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
-            "symbol": "xVIPER",
-            "name": "xVIPER",
-            "decimals": 18,
-            "chainId": "1666600000",
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
-            "coingeckoId": "viperpit",
-            "listedIn": [
-                "coingecko",
-                "elkfinance"
-            ]
-        },
-        {
             "address": "0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f",
             "symbol": "BAL",
             "name": "Balancer",
@@ -18262,9 +18223,8 @@
             "decimals": 18,
             "chainId": "1666600000",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
-            "coingeckoId": "davinci-token",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "elkfinance"
             ]
@@ -18652,19 +18612,6 @@
             "chainId": "1666600000",
             "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x01A4b054110d57069c1658AFBC46730529A3E326/logo.png",
             "coingeckoId": "openswap-token",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
-            ]
-        },
-        {
-            "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
-            "symbol": "FOX",
-            "name": "FarmersOnly Token2",
-            "decimals": 18,
-            "chainId": "1666600000",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png",
-            "coingeckoId": "farmers-only",
             "listedIn": [
                 "coingecko",
                 "sushiswap"
@@ -19771,6 +19718,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "sushiswap"
+            ]
+        },
+        {
+            "address": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+            "symbol": "MVIXY",
+            "name": "Mirrored ProShares",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mvixy.jpg",
+            "coingeckoId": "mirrored-proshares-vix",
+            "listedIn": [
+                "coingecko",
                 "sushiswap"
             ]
         },
@@ -30299,6 +30259,19 @@
             "listedIn": [
                 "coingecko",
                 "openocean"
+            ]
+        },
+        {
+            "address": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+            "symbol": "WZEC",
+            "name": "Wrapped ZEC",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4A64515E5E1d1073e83f30cB97BEd20400b66E10/logo.png",
+            "coingeckoId": "wrapped-zcash",
+            "listedIn": [
+                "coingecko",
+                "sushiswap"
             ]
         },
         {

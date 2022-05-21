@@ -137,19 +137,6 @@
         ]
     },
     {
-        "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
-        "symbol": "xVIPER",
-        "name": "xVIPER",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
-        "coingeckoId": "viperpit",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    {
         "address": "0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f",
         "symbol": "BAL",
         "name": "Balancer",
@@ -196,9 +183,8 @@
         "decimals": 18,
         "chainId": "1666600000",
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
-        "coingeckoId": "davinci-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "elkfinance"
         ]
@@ -586,19 +572,6 @@
         "chainId": "1666600000",
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x01A4b054110d57069c1658AFBC46730529A3E326/logo.png",
         "coingeckoId": "openswap-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
-        "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
-        "symbol": "FOX",
-        "name": "FarmersOnly Token2",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png",
-        "coingeckoId": "farmers-only",
         "listedIn": [
             "coingecko",
             "sushiswap"

@@ -288,6 +288,19 @@
         ]
     },
     {
+        "address": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+        "symbol": "MVIXY",
+        "name": "Mirrored ProShares",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mvixy.jpg",
+        "coingeckoId": "mirrored-proshares-vix",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "address": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
         "symbol": "BFLY",
         "name": "Butterfly Protocol Governance Token",
@@ -10812,6 +10825,19 @@
         "listedIn": [
             "coingecko",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+        "symbol": "WZEC",
+        "name": "Wrapped ZEC",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4A64515E5E1d1073e83f30cB97BEd20400b66E10/logo.png",
+        "coingeckoId": "wrapped-zcash",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
