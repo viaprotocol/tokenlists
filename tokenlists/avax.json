@@ -1357,6 +1357,19 @@
         ]
     },
     {
+        "address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
+        "symbol": "VTX",
+        "name": "Vector Finance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1653301995083_5171753833585997.png",
+        "coingeckoId": "vector-finance",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8",
         "symbol": "LF",
         "name": "Life",
@@ -1951,15 +1964,16 @@
     },
     {
         "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
-        "symbol": "wMEMO",
-        "name": "Wrapped Memo",
+        "symbol": "WMEMO",
+        "name": "Wonderful Memories",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.jpg",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1653301580734_6192884379415022.png",
         "coingeckoId": "wrapped-memory",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "openocean"
         ]
     },
     {

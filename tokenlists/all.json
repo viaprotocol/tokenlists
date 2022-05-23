@@ -8988,6 +8988,19 @@
             ]
         },
         {
+            "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+            "symbol": "DEUS",
+            "name": "DEUS Finance ",
+            "decimals": 18,
+            "chainId": "250",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1653303621255_2896783371070295.JPG",
+            "coingeckoId": "deus-finance-2",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
             "symbol": "DEI",
             "name": "DEI Token",
@@ -11033,6 +11046,7 @@
                 "coingecko",
                 "1inch",
                 "sushiswap",
+                "openocean",
                 "quickswap"
             ]
         },
@@ -16777,6 +16791,19 @@
             ]
         },
         {
+            "address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
+            "symbol": "VTX",
+            "name": "Vector Finance",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1653301995083_5171753833585997.png",
+            "coingeckoId": "vector-finance",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8",
             "symbol": "LF",
             "name": "Life",
@@ -17371,15 +17398,16 @@
         },
         {
             "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
-            "symbol": "wMEMO",
-            "name": "Wrapped Memo",
+            "symbol": "WMEMO",
+            "name": "Wonderful Memories",
             "decimals": 18,
             "chainId": "43114",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.jpg",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1653301580734_6192884379415022.png",
             "coingeckoId": "wrapped-memory",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "openocean"
             ]
         },
         {
@@ -21252,19 +21280,6 @@
                 "coingecko",
                 "sushiswap",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
-            "symbol": "CNDL",
-            "name": "Candle",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbc138bD20C98186CC0342C8e380953aF0cb48BA8/logo.png",
-            "coingeckoId": "candle",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
             ]
         },
         {
@@ -35730,8 +35745,9 @@
             "decimals": 6,
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
-            "coingeckoId": null,
+            "coingeckoId": "saber",
             "listedIn": [
+                "coingecko",
                 "solanalabs",
                 "1sol"
             ]
@@ -35812,8 +35828,9 @@
             "decimals": 6,
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "solrise-finance",
             "listedIn": [
+                "coingecko",
                 "solanalabs",
                 "1sol"
             ]
@@ -35879,6 +35896,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y/logo.png",
             "coingeckoId": "genesysgo-shadow",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M",
+            "symbol": "SNTR",
+            "name": "Sentre",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
+            "coingeckoId": "sentre",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
@@ -39514,6 +39544,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/Konstellation/DARC_token/main/256darctoken.png",
             "coingeckoId": "darcmatter-coin",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+            "symbol": "COW",
+            "name": "Cash Cow",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+            "coingeckoId": "cashcow",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
@@ -44079,8 +44122,9 @@
             "decimals": 6,
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "synthetify-token",
             "listedIn": [
+                "coingecko",
                 "solanalabs",
                 "1sol"
             ]
