@@ -18,16 +18,17 @@ https://raw.githubusercontent.com/viaprotocol/tokenlists/main/tokenlists/bsc.jso
 ## Providers
 
 We collect tokenlists from github repos or open APIs from various platforms, currently:
-- CoinGecko
-- 1inch
-- Uniswap
-- Sushiswap
-- OpenOcean
-- SolanaLabs
-- ElkFinance
-- OneSol
-- QuickSwap
-- FuseSwap
+- [CoinGecko](https://www.coingecko.com/)
+- [1inch](https://app.1inch.io/)
+- [Uniswap](https://uniswap.org/)
+- [Sushiswap](https://www.sushi.com/)
+- [OpenOcean](https://openocean.finance/)
+- [SolanaLabs](https://solanalabs.com/)
+- [ElkFinance](https://elk.finance/)
+- [OneSol](https://1sol.io/)
+- [QuickSwap](https://quickswap.exchange/#/swap)
+- [FuseSwap](https://beta.fuseswap.com/#/swap)
+- [TrisolarisLabs](https://www.trisolaris.io/#/swap)
 
 Feel free to add new provider if you think it is trusted and if it has opensource tokenlists, on github 
 or in API.
@@ -46,6 +47,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Arbitrum, 72 tokens
 - Gnosis, 58 tokens
 - Harmony, 40 tokens
+- Aurora, 38 tokens
 - Okex, 32 tokens
 - Moonriver, 26 tokens
 - Fuse, 16 tokens
