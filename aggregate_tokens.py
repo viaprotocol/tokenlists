@@ -259,6 +259,14 @@ class FuseSwapTokenLists(TokenListProvider):
     }
 
 
+class TrisolarisLabsLists(TokenListProvider):
+    name = "trisolaris"
+    base_url = "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/lists/{}/list.json"
+    chains = {
+        "1313161554": "1313161554",
+    }
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -269,7 +277,8 @@ tokenlists_providers = [
     ElkFinanceTokenLists,
     OneSolTokenLists,
     QuickSwapTokenLists,
-    FuseSwapTokenLists
+    FuseSwapTokenLists,
+    TrisolarisLabsLists,
 ]
 
 
