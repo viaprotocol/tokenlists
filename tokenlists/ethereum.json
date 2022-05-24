@@ -641,8 +641,9 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "elk-finance",
         "listedIn": [
+            "coingecko",
             "1inch",
             "elkfinance"
         ]
@@ -7106,6 +7107,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "sushiswap"
+        ]
+    },
+    {
+        "address": "0x88536C9B2C4701b8dB824e6A16829D5B5Eb84440",
+        "symbol": "USV",
+        "name": "Universal Store of Value",
+        "decimals": 9,
+        "chainId": "1",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x88536C9B2C4701b8dB824e6A16829D5B5Eb84440/logo.png",
+        "coingeckoId": "atlas-usv",
+        "listedIn": [
+            "coingecko",
             "sushiswap"
         ]
     },
