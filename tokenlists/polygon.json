@@ -1617,6 +1617,19 @@
         ]
     },
     {
+        "address": "0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2",
+        "symbol": "cxBTC",
+        "name": "CelsiusX Wrapped BTC",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://i.ibb.co/3fQ0Vx9/Group-66.png",
+        "coingeckoId": "celsiusx-wrapped-btc",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0xD1A5f2A049343fc4D5F8d478f734eBa51B22375E",
         "symbol": "KEYFI",
         "name": "KeyFi Token",
@@ -2156,6 +2169,19 @@
         "chainId": "137",
         "logoURI": "https://pbs.twimg.com/profile_images/1428328610444742660/4fa6uMzp_400x400.jpg",
         "coingeckoId": "babyquick",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
+        "address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
+        "symbol": "CVOL",
+        "name": "Crypto Volatility Token",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/24008/small/govi-dao.03ef3083.png?1646029661",
+        "coingeckoId": "crypto-volatility-token",
         "listedIn": [
             "coingecko",
             "quickswap"
@@ -5281,6 +5307,19 @@
             "sushiswap",
             "elkfinance",
             "rubic"
+        ]
+    },
+    {
+        "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+        "symbol": "aMATICc",
+        "name": "Ankr MATIC Reward Bearing Certificate",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1653025816005_6583375304974401.png",
+        "coingeckoId": "ankr-reward-earning-matic",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {

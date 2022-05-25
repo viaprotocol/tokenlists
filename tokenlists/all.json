@@ -12938,19 +12938,6 @@
             ]
         },
         {
-            "address": "0x779d5AECf90c724347B6A5a92083DaF57296459E",
-            "symbol": "DUO",
-            "name": "DUO",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x779d5aecf90c724347b6a5a92083daf57296459e/logo.png",
-            "coingeckoId": "duo-2",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x77128DFdD0ac859B33F44050c6fa272F34872B5E",
             "symbol": "CREDIT",
             "name": "Creditum",
@@ -13179,19 +13166,6 @@
             "listedIn": [
                 "sushiswap",
                 "elkfinance"
-            ]
-        },
-        {
-            "address": "0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b",
-            "symbol": "LUX",
-            "name": "Luxor",
-            "decimals": 9,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x6671e20b83ba463f270c8c75dae57e3cc246cb2b/logo.png",
-            "coingeckoId": "luxor",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -14638,6 +14612,19 @@
             "chainId": "250",
             "logoURI": "https://api.rubic.exchange/assets/fantom/0x070eb1a48725622de867a7e3d1dd4f0108966ed1/logo.png",
             "coingeckoId": "poopsicle",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x06ebc9c542357e2129D16717CD02c02FBC835d33",
+            "symbol": "CAGE",
+            "name": "Coinage",
+            "decimals": 18,
+            "chainId": "250",
+            "logoURI": "https://api.rubic.exchange/assets/fantom/0x06ebc9c542357e2129d16717cd02c02fbc835d33/logo.png",
+            "coingeckoId": "coinage-finance",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -16779,6 +16766,19 @@
             ]
         },
         {
+            "address": "0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2",
+            "symbol": "cxBTC",
+            "name": "CelsiusX Wrapped BTC",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://i.ibb.co/3fQ0Vx9/Group-66.png",
+            "coingeckoId": "celsiusx-wrapped-btc",
+            "listedIn": [
+                "coingecko",
+                "quickswap"
+            ]
+        },
+        {
             "address": "0xD1A5f2A049343fc4D5F8d478f734eBa51B22375E",
             "symbol": "KEYFI",
             "name": "KeyFi Token",
@@ -17318,6 +17318,19 @@
             "chainId": "137",
             "logoURI": "https://pbs.twimg.com/profile_images/1428328610444742660/4fa6uMzp_400x400.jpg",
             "coingeckoId": "babyquick",
+            "listedIn": [
+                "coingecko",
+                "quickswap"
+            ]
+        },
+        {
+            "address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
+            "symbol": "CVOL",
+            "name": "Crypto Volatility Token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://assets.coingecko.com/coins/images/24008/small/govi-dao.03ef3083.png?1646029661",
+            "coingeckoId": "crypto-volatility-token",
             "listedIn": [
                 "coingecko",
                 "quickswap"
@@ -20446,6 +20459,19 @@
             ]
         },
         {
+            "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+            "symbol": "aMATICc",
+            "name": "Ankr MATIC Reward Bearing Certificate",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1653025816005_6583375304974401.png",
+            "coingeckoId": "ankr-reward-earning-matic",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
             "symbol": "ERN",
             "name": "Ethernity Chain (PoS)",
@@ -22639,19 +22665,6 @@
             "listedIn": [
                 "coingecko",
                 "1inch"
-            ]
-        },
-        {
-            "address": "0x70b33ebC5544C12691d055b49762D0F8365d99Fe",
-            "symbol": "PAPA",
-            "name": "PAPA",
-            "decimals": 9,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x70b33ebc5544c12691d055b49762d0f8365d99fe/logo.png",
-            "coingeckoId": "papa-dao",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -30134,6 +30147,7 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "openocean",
                 "rubic"
             ]
         },
@@ -49321,6 +49335,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "DsVPH4mAppxKrmdzcizGfPtLYEBAkQGK4eUch32wgaHY",
+            "symbol": "GXE",
+            "name": "Galaxy Essential",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/DarleyGo/token-list/main/assets/mainnet/DsVPH4mAppxKrmdzcizGfPtLYEBAkQGK4eUch32wgaHY/icon.png",
+            "coingeckoId": "galaxy-essential",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {

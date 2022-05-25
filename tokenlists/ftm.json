@@ -1741,19 +1741,6 @@
         ]
     },
     {
-        "address": "0x779d5AECf90c724347B6A5a92083DaF57296459E",
-        "symbol": "DUO",
-        "name": "DUO",
-        "decimals": 18,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x779d5aecf90c724347b6a5a92083daf57296459e/logo.png",
-        "coingeckoId": "duo-2",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x77128DFdD0ac859B33F44050c6fa272F34872B5E",
         "symbol": "CREDIT",
         "name": "Creditum",
@@ -1982,19 +1969,6 @@
         "listedIn": [
             "sushiswap",
             "elkfinance"
-        ]
-    },
-    {
-        "address": "0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b",
-        "symbol": "LUX",
-        "name": "Luxor",
-        "decimals": 9,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x6671e20b83ba463f270c8c75dae57e3cc246cb2b/logo.png",
-        "coingeckoId": "luxor",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3441,6 +3415,19 @@
         "chainId": "250",
         "logoURI": "https://api.rubic.exchange/assets/fantom/0x070eb1a48725622de867a7e3d1dd4f0108966ed1/logo.png",
         "coingeckoId": "poopsicle",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x06ebc9c542357e2129D16717CD02c02FBC835d33",
+        "symbol": "CAGE",
+        "name": "Coinage",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x06ebc9c542357e2129d16717cd02c02fbc835d33/logo.png",
+        "coingeckoId": "coinage-finance",
         "listedIn": [
             "coingecko",
             "rubic"
