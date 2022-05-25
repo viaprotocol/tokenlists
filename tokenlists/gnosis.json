@@ -810,5 +810,18 @@
             "1inch",
             "elkfinance"
         ]
+    },
+    {
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "GNO",
+        "name": "Gnosis Coin",
+        "decimals": 18,
+        "chainId": "100",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x0000000000000000000000000000000000000000/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
+            "rubic"
+        ]
     }
 ]
