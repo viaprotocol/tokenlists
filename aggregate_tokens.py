@@ -19,7 +19,7 @@ class TokenListProvider:
     _tokens_to_list = False
 
     @staticmethod
-    def filter_tokens(tokens: list[Token], chain_id: str) -> list[Token]:
+    def _filter_tokens(tokens: list[Token], chain_id: str) -> list[Token]:
         res = []
         for token in tokens:
             if not token["address"]:
@@ -29,10 +29,9 @@ class TokenListProvider:
                 if token["address"].startswith("0x"):
                     token["address"] = Web3.toChecksumAddress(token["address"])
                 cg_id = coingecko_ids.get(chain_id, {}).get(token["address"].lower())
-                logo = token.get("logoURI") or token.get("icon")
-                if logo:
-                    if logo.startswith('//'):
-                        logo = 'https:' + logo
+                logo = token.get("logoURI") or token.get("icon") or token.get("image")
+                if logo and logo.startswith('//'):
+                    logo = 'https:' + logo
                 t = Token(
                     address=token["address"],
                     symbol=token["symbol"],
@@ -72,7 +71,7 @@ class TokenListProvider:
             if cls._tokens_to_list:
                 tokens = list(tokens.values())
 
-            res[chain_id] = cls.filter_tokens(tokens, chain_id)
+            res[chain_id] = cls._filter_tokens(tokens, chain_id)
             print(f"[{cls.name}] {chain_id} {chain_name} OK")
         return {cls.name: res}
 
@@ -267,6 +266,26 @@ class TrisolarisLabsLists(TokenListProvider):
     }
 
 
+class RubicLists(TokenListProvider):
+    name = "rubic"
+    base_url = "https://api.rubic.exchange/api/tokens/?network={}"
+    chains = {
+        "-2": "near",
+        "-1": "solana",
+        "1": "ethereum",
+        '40': 'telos',
+        "56": "binance-smart-chain",
+        "100": "xdai",
+        "137": "polygon",
+        "250": "fantom",
+        "1285": "moonriver",
+        "42161": "arbitrum",
+        "43114": "avalanche",
+        "1313161554": "aurora",
+        "1666600000": "harmony",
+    }
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -279,6 +298,7 @@ tokenlists_providers = [
     QuickSwapTokenLists,
     FuseSwapTokenLists,
     TrisolarisLabsLists,
+    RubicLists,
 ]
 
 
