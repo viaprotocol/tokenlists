@@ -6480,7 +6480,6 @@
             "coingeckoId": "dego-finance",
             "listedIn": [
                 "coingecko",
-                "1inch",
                 "elkfinance"
             ]
         },
@@ -13133,6 +13132,19 @@
             "listedIn": [
                 "coingecko",
                 "quickswap"
+            ]
+        },
+        {
+            "address": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+            "symbol": "SHACK",
+            "name": "Shack Token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9/logo.png",
+            "coingeckoId": "shack",
+            "listedIn": [
+                "coingecko",
+                "elkfinance"
             ]
         },
         {
@@ -26984,19 +26996,6 @@
                 "coingecko",
                 "1inch",
                 "uniswap"
-            ]
-        },
-        {
-            "address": "0x88EF27e69108B2633F8E1C184CC37940A075cC02",
-            "symbol": "DEGO",
-            "name": "dego.finance",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0x88ef27e69108b2633f8e1c184cc37940a075cc02.png",
-            "coingeckoId": "dego-finance",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
