@@ -1,3 +1,4 @@
+
 # Multi-chain token list standard. 
 
 ## TLDR
@@ -38,25 +39,25 @@ or in API.
 
 Here are chains presented in our tokenlists with current token count. You can find out more in `/tokenlists` folder.
 Token counts are approximate and may vary as providers update their tokenlists.
-- Ethereum, 1131 tokens
-- Solana, 697 tokens
-- Bsc, 526 tokens
-- Polygon, 330 tokens
+
+- Ethereum, 1216 tokens
+- Solana, 956 tokens
+- Bsc, 656 tokens
+- Polygon, 398 tokens
+- Ftm, 263 tokens
+- Avax, 247 tokens
 - Heco, 197 tokens
-- Avax, 123 tokens
-- Ftm, 85 tokens
-- Arbitrum, 72 tokens
-- Gnosis, 58 tokens
-- Harmony, 40 tokens
-- Aurora, 38 tokens
-- Okex, 32 tokens
-- Moonriver, 26 tokens
+- Arbitrum, 132 tokens
+- Aurora, 79 tokens
+- Harmony, 63 tokens
+- Gnosis, 60 tokens
+- Moonriver, 50 tokens
+- Okex, 29 tokens
+- Optimism, 17 tokens
 - Fuse, 16 tokens
-- Optimism, 15 tokens
-- Celo, 12 tokens
-- Cronos, 10 tokens
+- Celo, 14 tokens
+- Cronos, 11 tokens
 - Telos, 10 tokens
-- Boba, 7 tokens
 
 Testnets:
 
@@ -78,6 +79,11 @@ Install requirements
 ```$ pip3 install -r requirements.txt```
 Run the script from repo root folder
 ```python3 aggregate_tokens.py```
+
+## Generate readme.md based on aggregated data
+```bash
+python generate_readme.py
+```
 
 
 ## Contribute
