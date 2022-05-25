@@ -29,6 +29,7 @@ We collect tokenlists from github repos or open APIs from various platforms, cur
 - [QuickSwap](https://quickswap.exchange/#/swap)
 - [FuseSwap](https://beta.fuseswap.com/#/swap)
 - [TrisolarisLabs](https://www.trisolaris.io/#/swap)
+- [Rubic](https://app.rubic.exchange/)
 
 Feel free to add new provider if you think it is trusted and if it has opensource tokenlists, on github 
 or in API.
