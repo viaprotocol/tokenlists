@@ -3251,14 +3251,13 @@
         "name": "Immutable X",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF/logo.png",
         "coingeckoId": "immutable-x",
         "listedIn": [
             "coingecko",
             "1inch",
             "uniswap",
-            "sushiswap",
-            "rubic"
+            "sushiswap"
         ]
     },
     {
@@ -3760,6 +3759,19 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+        "symbol": "DWEB",
+        "name": "DecentraWeb",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xe7f58a92476056627f9fdb92286778abd83b285f.png",
+        "coingeckoId": "decentraweb",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -8793,6 +8805,7 @@
         "coingeckoId": "yel-finance",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -11261,17 +11274,18 @@
     },
     {
         "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
-        "symbol": "FTT",
-        "name": "FTX Token",
+        "symbol": "FTX Token",
+        "name": "FTT",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1637669995775_466788207920493.png",
+        "logoURI": "https://api.rubic.exchange/assets/ethereum/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9/logo.png",
         "coingeckoId": "ftx-token",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "rubic"
         ]
     },
     {
@@ -11582,6 +11596,19 @@
         "listedIn": [
             "coingecko",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+        "symbol": "MYST",
+        "name": "Mysterium",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361.png",
+        "coingeckoId": "mysterium",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
