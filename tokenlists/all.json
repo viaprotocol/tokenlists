@@ -31361,6 +31361,19 @@
             ]
         },
         {
+            "address": "0xF0d33BeDa4d734C72684b5f9abBEbf715D0a7935",
+            "symbol": "NTX",
+            "name": "NuNet Utility Token",
+            "decimals": 6,
+            "chainId": "1",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xf0d33beda4d734c72684b5f9abbebf715d0a7935/logo.png",
+            "coingeckoId": "nunet",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0xF0FAC7104aAC544e4a7CE1A55ADF2B5a25c65bD1",
             "symbol": "PAMP",
             "name": "Pamp Network",
@@ -41117,12 +41130,11 @@
             "name": "GeroWallet",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x3431f91b3a388115f00c5ba9fdb899851d005fb5/logo.png",
+            "logoURI": "https://tokens.1inch.io/0x3431f91b3a388115f00c5ba9fdb899851d005fb5.png",
             "coingeckoId": "gerowallet",
             "listedIn": [
                 "coingecko",
-                "1inch",
-                "rubic"
+                "1inch"
             ]
         },
         {
