@@ -197,6 +197,19 @@
             ]
         },
         {
+            "address": "0xdc7179416c08c15f689d9214A3BeC2Dd003DeABc",
+            "symbol": "KSW",
+            "name": "KillSwitchToken",
+            "decimals": 18,
+            "chainId": "42161",
+            "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xdc7179416c08c15f689d9214a3bec2dd003deabc/logo.png",
+            "coingeckoId": "killswitch",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0xdb96f8efd6865644993505318cc08FF9C42fb9aC",
             "symbol": "Z2O",
             "name": "ZeroTwOhm",
@@ -3823,19 +3836,6 @@
             "listedIn": [
                 "coingecko",
                 "1inch"
-            ]
-        },
-        {
-            "address": "0xF73d8276C15Ce56b2f4AeE5920e62F767A7f3aEA",
-            "symbol": "TCG2",
-            "name": "",
-            "decimals": 9,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xf73d8276c15ce56b2f4aee5920e62f767a7f3aea/logo.png",
-            "coingeckoId": "tcgcoin-2-0",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -9427,19 +9427,6 @@
                 "sushiswap",
                 "openocean",
                 "elkfinance",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x231cF6F78620e42Fe00D0c5C3088b427F355d01c",
-            "symbol": "MOVE",
-            "name": "MarketMove",
-            "decimals": 9,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x231cf6f78620e42fe00d0c5c3088b427f355d01c/logo.png",
-            "coingeckoId": "marketmove",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },
@@ -19876,19 +19863,6 @@
             ]
         },
         {
-            "address": "0x283366bb42ef49a994913BAF22263c6562e588a4",
-            "symbol": "PENT",
-            "name": "PENT",
-            "decimals": 18,
-            "chainId": "137",
-            "logoURI": "https://assets.coingecko.com/coins/images/23493/small/small-logo.png?1644221697",
-            "coingeckoId": "pentagon-finance",
-            "listedIn": [
-                "coingecko",
-                "quickswap"
-            ]
-        },
-        {
             "address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
             "symbol": "mOCEAN",
             "name": "Ocean Token",
@@ -25451,8 +25425,9 @@
             "decimals": 18,
             "chainId": "1313161554",
             "logoURI": "https://api.rubic.exchange/assets/aurora/0xe4eb03598f4dcab740331fa432f4b85ff58aa97e/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "killswitch",
             "listedIn": [
+                "coingecko",
                 "trisolaris",
                 "rubic"
             ]
@@ -34944,6 +34919,19 @@
                 "1inch",
                 "sushiswap",
                 "openocean",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x939A7A577D93ad29B64C1595B1284ce660A479B9",
+            "symbol": "JEJUDOGE",
+            "name": "Jejudoge",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x939a7a577d93ad29b64c1595b1284ce660a479b9/logo.png",
+            "coingeckoId": "jejudoge",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
@@ -48591,6 +48579,19 @@
             ]
         },
         {
+            "address": "EzfnjRUKtc5vweE1GCLdHV4MkDQ3ebSpQXLobSKgQ9RB",
+            "symbol": "CSM",
+            "name": "Cricket Star Manager",
+            "decimals": 6,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfnjRUKtc5vweE1GCLdHV4MkDQ3ebSpQXLobSKgQ9RB/logo.svg",
+            "coingeckoId": "cricket-star-manager",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
             "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "symbol": "FTT",
             "name": "FTX Token (Wormhole)",
@@ -53343,6 +53344,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8z4ghJPp3ccvEtuXZbceGRfoX7AZHhcdwiapYzmsxmyC/logo.png",
             "coingeckoId": "tiger-coin",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "8ymjMjitLchSFU9zkcbjsJENhSXou4YKh7RD2U3yvqdJ",
+            "symbol": "KSW",
+            "name": "KillSwitch (Ethereum)",
+            "decimals": 8,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8ymjMjitLchSFU9zkcbjsJENhSXou4YKh7RD2U3yvqdJ/logo.svg",
+            "coingeckoId": "killswitch",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
