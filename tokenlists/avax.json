@@ -490,19 +490,6 @@
         ]
     },
     {
-        "address": "0xc1333a2e6F4a50Ec20107C19fA73Af9e8cC0419B",
-        "symbol": "BTCP",
-        "name": "BTCP",
-        "decimals": 6,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc1333a2e6f4a50ec20107c19fa73af9e8cc0419b/logo.png",
-        "coingeckoId": "bitcoinprint",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
         "symbol": "BLUE",
         "name": "Blue Token",
@@ -2181,12 +2168,13 @@
         "name": "GMX",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1645441230944_7254220236359488.png",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x62edc0692bd897d2295872a9ffcac5425011c661/logo.png",
         "coingeckoId": "gmx",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "rubic"
         ]
     },
     {
