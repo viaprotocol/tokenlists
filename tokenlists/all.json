@@ -13357,19 +13357,6 @@
             ]
         },
         {
-            "address": "0x5a2e451Fb1b46FDE7718315661013ae1aE68e28C",
-            "symbol": "CGS",
-            "name": "Cougar Token",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x5a2e451fb1b46fde7718315661013ae1ae68e28c/logo.png",
-            "coingeckoId": "cougar-token",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x5E5AabC95380B38C014FDc5e602C5183177fcCa4",
             "symbol": "creditp",
             "name": "Credit Printer",
@@ -20719,19 +20706,6 @@
             ]
         },
         {
-            "address": "0x047fD3B3D2366F9babe105ade4598E263d6c699c",
-            "symbol": "CGS",
-            "name": "Cougar",
-            "decimals": 18,
-            "chainId": "137",
-            "logoURI": "https://api.rubic.exchange/assets/polygon/0x047fd3b3d2366f9babe105ade4598e263d6c699c/logo.png",
-            "coingeckoId": "cougar-token",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x0361BdEAB89DF6BBcc52c43589FABba5143d19dD",
             "symbol": "dTOP",
             "name": "dHEDGE Top Index",
@@ -26580,19 +26554,6 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap"
-            ]
-        },
-        {
-            "address": "0x6cc35220349C444c39b8e26b359757739aAEc952",
-            "symbol": "CGS",
-            "name": "Cougar",
-            "decimals": 18,
-            "chainId": "1666600000",
-            "logoURI": "https://api.rubic.exchange/assets/harmony/0x6cc35220349c444c39b8e26b359757739aaec952/logo.png",
-            "coingeckoId": "cougar-token",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -56480,6 +56441,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3eLpKZBgu6pKG2TSpvTfTeeimT294yxV2AEiBKZdY2ai/logo.png",
             "coingeckoId": "solx-gaming-guild",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "3e9pHUxa2nvAqso2Kr2KqJxYvZaz9qZLjoLaG77uQwB1",
+            "symbol": "BAIL",
+            "name": "BAIL COIN",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/ApeLabsNFT/solpatrol/main/hammer.png",
+            "coingeckoId": "solpatrol-bail",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
