@@ -18168,6 +18168,19 @@
             ]
         },
         {
+            "address": "0x6F3Cc27E17a0f2e52D8e7693FF0d892Cea1854bF",
+            "symbol": "GOO",
+            "name": "Goo",
+            "decimals": 9,
+            "chainId": "137",
+            "logoURI": "https://playgooeys.com/GOO-200x200.png",
+            "coingeckoId": "gooeys",
+            "listedIn": [
+                "coingecko",
+                "quickswap"
+            ]
+        },
+        {
             "address": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
             "symbol": "SHACK",
             "name": "Shack Token",
@@ -22210,19 +22223,6 @@
             "listedIn": [
                 "coingecko",
                 "elkfinance"
-            ]
-        },
-        {
-            "address": "0x9a928D7dcD8D7E5Cb6860B7768eC2D87B8934267",
-            "symbol": "BAMBOO-V2",
-            "name": "BambooToken v2",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x9a928d7dcd8d7e5cb6860b7768ec2d87b8934267/logo.png",
-            "coingeckoId": "bamboo-token-2",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -28014,15 +28014,16 @@
         },
         {
             "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
-            "symbol": "sBTC",
-            "name": "Synth sBTC",
+            "symbol": "SBTC",
+            "name": "sBTC",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6.png",
+            "logoURI": "https://ethapi.openocean.finance/logos/0x309013d55fb0e8c17363bcc79f25d92f711a5802.png",
             "coingeckoId": "sbtc",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "openocean"
             ]
         },
         {

@@ -126,15 +126,16 @@
     },
     {
         "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
-        "symbol": "sBTC",
-        "name": "Synth sBTC",
+        "symbol": "SBTC",
+        "name": "sBTC",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://tokens.1inch.io/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6.png",
+        "logoURI": "https://ethapi.openocean.finance/logos/0x309013d55fb0e8c17363bcc79f25d92f711a5802.png",
         "coingeckoId": "sbtc",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "openocean"
         ]
     },
     {
