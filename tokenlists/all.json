@@ -8488,19 +8488,6 @@
             ]
         },
         {
-            "address": "0x4206931337dc273a630d328dA6441786BfaD668f",
-            "symbol": "DOGE",
-            "name": "Dogecoin",
-            "decimals": 8,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x4206931337dc273a630d328da6441786bfad668f/logo.png",
-            "coingeckoId": "dogecoin",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x4197C6EF3879a08cD51e5560da5064B773aa1d29",
             "symbol": "ACS",
             "name": "ACryptoS",
@@ -9515,7 +9502,7 @@
             "decimals": 4,
             "chainId": "56",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x2222227E22102Fe3322098e4CBfE18cFebD57c95/logo.png",
-            "coingeckoId": "alien-worlds-bsc",
+            "coingeckoId": "alien-worlds",
             "listedIn": [
                 "coingecko",
                 "1inch",
@@ -22195,19 +22182,6 @@
             "chainId": "43114",
             "logoURI": "https://api.rubic.exchange/assets/avalanche/0xa216f344fcd412c129e0c012798a137e332f8955/logo.png",
             "coingeckoId": "avalend-finance",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0xA16693FdA89E0c4dd9f2324eBd47118b57e6BA34",
-            "symbol": "avOHMINU",
-            "name": "Ohm Inu DAO",
-            "decimals": 9,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xa16693fda89e0c4dd9f2324ebd47118b57e6ba34/logo.png",
-            "coingeckoId": "ohm-inu-dao",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -49038,6 +49012,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "EXGqHqvKBs4Z1mCwhiGE7kT2TXGFirAjvQzPSQP8nvuw",
+            "symbol": "STAR",
+            "name": "Star Chain",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXGqHqvKBs4Z1mCwhiGE7kT2TXGFirAjvQzPSQP8nvuw/logo.png",
+            "coingeckoId": "star-chain",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
