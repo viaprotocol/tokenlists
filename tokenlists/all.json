@@ -4140,6 +4140,19 @@
             ]
         },
         {
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "symbol": "oELK",
+            "name": "Old Elk",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+            "coingeckoId": "elk-finance",
+            "listedIn": [
+                "coingecko",
+                "elkfinance"
+            ]
+        },
+        {
             "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
             "symbol": "BELT",
             "name": "Belt",
@@ -6740,6 +6753,19 @@
                 "sushiswap",
                 "openocean",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x723eF00502e76E8501101De1b25ef146C4b571CA",
+            "symbol": "LOCO",
+            "name": "LocoMeta",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x723ef00502e76e8501101de1b25ef146c4b571ca/logo.png",
+            "coingeckoId": "locometa",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -21775,19 +21801,6 @@
             ]
         },
         {
-            "address": "0xD197c8B939F199c7d70d030c1931d3C24442dF60",
-            "symbol": "SLUSH",
-            "name": "Slushie Capital",
-            "decimals": 9,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xd197c8b939f199c7d70d030c1931d3c24442df60/logo.png",
-            "coingeckoId": "slushie-capital",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136",
             "symbol": "BRIBE",
             "name": "Police & Thief Game - BRIBE",
@@ -26127,6 +26140,19 @@
             "coingeckoId": null,
             "listedIn": [
                 "trisolaris",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x184F2C422dc49d0DF6977e6079c73F731B7Bf94e",
+            "symbol": "PEA",
+            "name": "PinkPea",
+            "decimals": 18,
+            "chainId": "1313161554",
+            "logoURI": "https://api.rubic.exchange/assets/aurora/0x184f2c422dc49d0df6977e6079c73f731b7bf94e/logo.png",
+            "coingeckoId": "pinkpea-finance",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
