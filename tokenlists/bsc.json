@@ -1384,19 +1384,6 @@
         ]
     },
     {
-        "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
-        "symbol": "TLOS",
-        "name": "pTokens TLOS",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xb6c53431608e626ac81a9776ac3e999c5556717c/logo.png",
-        "coingeckoId": "wrapped-telos",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xb698AC9bC82C718D8ebA9590564B9a5AA53D58e6",
         "symbol": "LESS",
         "name": "LessToken",
@@ -1873,19 +1860,6 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0xF7B5fb4607ABfe0Ecf332c23cBdCc9E425B443A8",
-        "symbol": "ACK",
-        "name": "AcknoLedger",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xf7b5fb4607abfe0ecf332c23cbdcc9e425b443a8/logo.png",
-        "coingeckoId": "acknoledger",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -5676,16 +5650,15 @@
     {
         "address": "0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3",
         "symbol": "FUSE",
-        "name": "Fuse Token on BSC",
+        "name": "Fuse",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x5857c96dae9cf8511b08cb07f85753c472d36ea3/logo.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1641397590913_0002172988693605049.png",
         "coingeckoId": "fuse-network-token",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean",
-            "rubic"
+            "openocean"
         ]
     },
     {
@@ -6511,6 +6484,19 @@
         ]
     },
     {
+        "address": "0x42bfa18f3f7D82BD7240d8Ce5935d51679C5115d",
+        "symbol": "S2K",
+        "name": "Sports 2K75",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x42bfa18f3f7d82bd7240d8ce5935d51679c5115d/logo.png",
+        "coingeckoId": "sports-2k75",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
         "symbol": "NRV",
         "name": "Nerve Finance",
@@ -6642,6 +6628,19 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x3e9d6430144485873248251fCB92bD856E95D1CD",
+        "symbol": "QUBE",
+        "name": "QUBE TOKEN",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x3e9d6430144485873248251fcb92bd856e95d1cd/logo.png",
+        "coingeckoId": "qube-2",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -7073,19 +7072,6 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
-        ]
-    },
-    {
-        "address": "0x3045d1A840364c3657b8Df6c6F86a4359c23472B",
-        "symbol": "ORI",
-        "name": "Orica",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0x3045d1a840364c3657b8df6c6f86a4359c23472b_1.png",
-        "coingeckoId": "orica",
-        "listedIn": [
-            "coingecko",
-            "1inch"
         ]
     },
     {
