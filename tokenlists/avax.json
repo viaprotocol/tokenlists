@@ -1039,19 +1039,6 @@
         ]
     },
     {
-        "address": "0xC0367f9b1f84Ca8DE127226AC2A994EA4bf1e41b",
-        "symbol": "BRIDGE",
-        "name": "Cross-Chain Bridge Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc0367f9b1f84ca8de127226ac2a994ea4bf1e41b/logo.png",
-        "coingeckoId": "cross-chain-bridge",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
         "symbol": "SNX.e",
         "name": "Synthetix Network Token",
@@ -2885,13 +2872,14 @@
         "name": "Frax Share",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1648904691464_6847375181795985.png",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x214db107654ff987ad859f34125307783fc8e387/logo.png",
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "rubic"
         ]
     },
     {
