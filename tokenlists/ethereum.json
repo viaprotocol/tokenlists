@@ -1670,16 +1670,15 @@
     {
         "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
         "symbol": "FOX",
-        "name": "FOX",
+        "name": "ShapeShift FOX Token",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xc770eefad204b5180df6a14ee197d99d808ee52d/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622",
         "coingeckoId": "shapeshift-fox-token",
         "listedIn": [
             "coingecko",
             "1inch",
-            "uniswap",
-            "rubic"
+            "uniswap"
         ]
     },
     {
@@ -6774,17 +6773,18 @@
     {
         "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
         "symbol": "OCEAN",
-        "name": "Ocean Protocol",
+        "name": "Ocean Token",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1635845473882_17599258515189642.png",
+        "logoURI": "https://api.rubic.exchange/assets/ethereum/0x967da4048cd07ab37855c090aaf366e4ce1b9f48/logo.png",
         "coingeckoId": "ocean-protocol",
         "listedIn": [
             "coingecko",
             "1inch",
             "uniswap",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "rubic"
         ]
     },
     {
