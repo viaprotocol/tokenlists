@@ -4498,7 +4498,7 @@
             "name": "FistToken",
             "decimals": 6,
             "chainId": "56",
-            "logoURI": "https://cloudstorage.openocean.finance/images/1642606493000_668608717747182.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1654508270679_7044954954885956.png",
             "coingeckoId": "fistbump",
             "listedIn": [
                 "coingecko",
@@ -20883,19 +20883,6 @@
             ]
         },
         {
-            "address": "0xf97D917a0ef1Bb6919C36489Eb0Fd00dB41fFBa8",
-            "symbol": "AVAMIM",
-            "name": "AVA MIM",
-            "decimals": 6,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xf97d917a0ef1bb6919c36489eb0fd00db41ffba8/logo.png",
-            "coingeckoId": "ava-mim",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xf6d46849DB378AE01D93732585BEc2C4480D1fD5",
             "symbol": "FORT",
             "name": "Fort",
@@ -25949,6 +25936,20 @@
             "chainId": "1313161554",
             "logoURI": "https://api.rubic.exchange/assets/aurora/0x4148d2ce7816f0ae378d98b40eb3a7211e1fcf0d/logo.png",
             "coingeckoId": "bluebit",
+            "listedIn": [
+                "coingecko",
+                "trisolaris",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x3AC55eA8D2082fAbda674270cD2367dA96092889",
+            "symbol": "ORBITAL",
+            "name": "ORBITAL",
+            "decimals": 18,
+            "chainId": "1313161554",
+            "logoURI": "https://api.rubic.exchange/assets/aurora/0x3ac55ea8d2082fabda674270cd2367da96092889/logo.png",
+            "coingeckoId": "polaris-finance-orbital",
             "listedIn": [
                 "coingecko",
                 "trisolaris",
@@ -37189,6 +37190,19 @@
             "chainId": "1",
             "logoURI": "https://tokens.1inch.io/0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40.png",
             "coingeckoId": "aave-enj-v1",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
+            "address": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8",
+            "symbol": "LUFFY",
+            "name": "LUFFY",
+            "decimals": 9,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8.png",
+            "coingeckoId": "luffy-inu",
             "listedIn": [
                 "coingecko",
                 "1inch"
