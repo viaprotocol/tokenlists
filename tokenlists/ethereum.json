@@ -7471,7 +7471,6 @@
         "logoURI": "https://api.rubic.exchange/assets/ethereum/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "rubic"
         ]
@@ -8513,19 +8512,6 @@
             "openocean",
             "elkfinance",
             "rubic"
-        ]
-    },
-    {
-        "address": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
-        "symbol": "10SET",
-        "name": "10Set Token",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://tokens.1inch.io/0x7ff4169a6b5122b664c51c95727d87750ec07c84.png",
-        "coingeckoId": "tenset",
-        "listedIn": [
-            "coingecko",
-            "1inch"
         ]
     },
     {
@@ -14193,6 +14179,19 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+        "symbol": "SHEESHA",
+        "name": "Sheesha Finance",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x232fb065d9d24c34708eedbf03724f2e95abe768.png",
+        "coingeckoId": "sheesha-finance-erc20",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {

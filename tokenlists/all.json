@@ -2339,19 +2339,6 @@
             ]
         },
         {
-            "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",
-            "symbol": "HPS",
-            "name": "HappinessToken",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://tokens.1inch.io/0xeda21b525ac789eab1a08ef2404dd8505ffb973d.png",
-            "coingeckoId": "happiness-token",
-            "listedIn": [
-                "coingecko",
-                "1inch"
-            ]
-        },
-        {
             "address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
             "symbol": "pBTC",
             "name": "pBTC",
@@ -6172,6 +6159,19 @@
             ]
         },
         {
+            "address": "0x844FA82f1E54824655470970F7004Dd90546bB28",
+            "symbol": "DOP",
+            "name": "Dopple Finance",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x844FA82f1E54824655470970F7004Dd90546bB28/logo.png",
+            "coingeckoId": "dopple-finance",
+            "listedIn": [
+                "coingecko",
+                "elkfinance"
+            ]
+        },
+        {
             "address": "0x8443f091997f06a61670B735ED92734F5628692F",
             "symbol": "BEL",
             "name": "Bella Protocol",
@@ -9452,6 +9452,19 @@
             ]
         },
         {
+            "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+            "symbol": "SHEESHA",
+            "name": "Sheesha Finance",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x232fb065d9d24c34708eedbf03724f2e95abe768.png",
+            "coingeckoId": "sheesha-finance",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x22A213852Cee93EB6d41601133414d180c5684C2",
             "symbol": "0xMR",
             "name": "0xMonero",
@@ -9790,6 +9803,19 @@
             "chainId": "56",
             "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x1ce0c2827e2ef14d5c4f29a091d735a204794041/logo.png",
             "coingeckoId": "binance-peg-avalanche",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x1C6bc8e962427dEb4106aE06A7fA2d715687395c",
+            "symbol": "Charge",
+            "name": "Charge",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x1c6bc8e962427deb4106ae06a7fa2d715687395c/logo.png",
+            "coingeckoId": "chargedefi-charge",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -11282,19 +11308,6 @@
                 "coingecko",
                 "openocean",
                 "elkfinance",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0xf8a363Cf116b6B633faEDF66848ED52895CE703b",
-            "symbol": "LEVL",
-            "name": "Levolution.io Token",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0xf8a363cf116b6b633faedf66848ed52895ce703b/logo.png",
-            "coingeckoId": "levolution",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },
@@ -14322,6 +14335,19 @@
             ]
         },
         {
+            "address": "0x164caf66c45e483F7eE647CcaD275B35B4C75719",
+            "symbol": "KENSHI",
+            "name": "Kenshi",
+            "decimals": 18,
+            "chainId": "250",
+            "logoURI": "https://api.rubic.exchange/assets/fantom/0x164caf66c45e483f7ee647ccad275b35b4c75719/logo.png",
+            "coingeckoId": "kenshi",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05",
             "symbol": "GEL",
             "name": "Gelato Network Token",
@@ -16920,6 +16946,7 @@
             "coingeckoId": "otterclam",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -17726,6 +17753,7 @@
             "coingeckoId": "sheesha-finance-polygon",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -18883,6 +18911,19 @@
             "listedIn": [
                 "coingecko",
                 "quickswap"
+            ]
+        },
+        {
+            "address": "0x51b5619F5180e333d18b6310C8D540AEa43a0371",
+            "symbol": "VHC",
+            "name": "Vault Hill City (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x51b5619f5180e333d18b6310c8d540aea43a0371.png",
+            "coingeckoId": "vault-hill-city",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -35358,7 +35399,6 @@
             "logoURI": "https://api.rubic.exchange/assets/ethereum/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/logo.png",
             "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "rubic"
             ]
@@ -36400,19 +36440,6 @@
                 "openocean",
                 "elkfinance",
                 "rubic"
-            ]
-        },
-        {
-            "address": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
-            "symbol": "10SET",
-            "name": "10Set Token",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0x7ff4169a6b5122b664c51c95727d87750ec07c84.png",
-            "coingeckoId": "tenset",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
@@ -42083,6 +42110,19 @@
             ]
         },
         {
+            "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+            "symbol": "SHEESHA",
+            "name": "Sheesha Finance",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x232fb065d9d24c34708eedbf03724f2e95abe768.png",
+            "coingeckoId": "sheesha-finance-erc20",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
             "symbol": "UNN",
             "name": "UNION Protocol Governance Token",
@@ -45885,6 +45925,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "PRiME7gDoiG1vGr95a3CRMv9xHY7UGjd4JKvfSkmQu2",
+            "symbol": "PRIME",
+            "name": "SolanaPrime",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRiME7gDoiG1vGr95a3CRMv9xHY7UGjd4JKvfSkmQu2/logo.png",
+            "coingeckoId": "solanaprime",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
@@ -50115,6 +50168,19 @@
                 "coingecko",
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "address": "Ch9NFVk5sqEPQHtw2gJVgnHfTm7FW1JspYwc7SxLi6q3",
+            "symbol": "MEND",
+            "name": "Mend",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ch9NFVk5sqEPQHtw2gJVgnHfTm7FW1JspYwc7SxLi6q3/logo.png",
+            "coingeckoId": "mend",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {

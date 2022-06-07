@@ -416,19 +416,6 @@
         ]
     },
     {
-        "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",
-        "symbol": "HPS",
-        "name": "HappinessToken",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0xeda21b525ac789eab1a08ef2404dd8505ffb973d.png",
-        "coingeckoId": "happiness-token",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
         "address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
         "symbol": "pBTC",
         "name": "pBTC",
@@ -4249,6 +4236,19 @@
         ]
     },
     {
+        "address": "0x844FA82f1E54824655470970F7004Dd90546bB28",
+        "symbol": "DOP",
+        "name": "Dopple Finance",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x844FA82f1E54824655470970F7004Dd90546bB28/logo.png",
+        "coingeckoId": "dopple-finance",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
+        ]
+    },
+    {
         "address": "0x8443f091997f06a61670B735ED92734F5628692F",
         "symbol": "BEL",
         "name": "Bella Protocol",
@@ -7529,6 +7529,19 @@
         ]
     },
     {
+        "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+        "symbol": "SHEESHA",
+        "name": "Sheesha Finance",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://tokens.1inch.io/0x232fb065d9d24c34708eedbf03724f2e95abe768.png",
+        "coingeckoId": "sheesha-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x22A213852Cee93EB6d41601133414d180c5684C2",
         "symbol": "0xMR",
         "name": "0xMonero",
@@ -7867,6 +7880,19 @@
         "chainId": "56",
         "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x1ce0c2827e2ef14d5c4f29a091d735a204794041/logo.png",
         "coingeckoId": "binance-peg-avalanche",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x1C6bc8e962427dEb4106aE06A7fA2d715687395c",
+        "symbol": "Charge",
+        "name": "Charge",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x1c6bc8e962427deb4106ae06a7fa2d715687395c/logo.png",
+        "coingeckoId": "chargedefi-charge",
         "listedIn": [
             "coingecko",
             "rubic"
