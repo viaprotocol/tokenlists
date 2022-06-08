@@ -9790,19 +9790,6 @@
         ]
     },
     {
-        "address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
-        "symbol": "KEN",
-        "name": "Kenysians Network",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://tokens.1inch.io/0x6a7ef4998eb9d0f706238756949f311a59e05745.png",
-        "coingeckoId": "keysians-network",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
         "address": "0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B",
         "symbol": "IBY",
         "name": "I Bet You",
@@ -13241,6 +13228,19 @@
         ]
     },
     {
+        "address": "0x33B4fE5e40E4903A0849cA97B3292eac3EB0aA36",
+        "symbol": "HONEY",
+        "name": "Honey",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x33b4fe5e40e4903a0849ca97b3292eac3eb0aa36.png",
+        "coingeckoId": "honey-fancybearsmetaverse",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x33840024177A7DacA3468912363BeD8b425015c5",
         "symbol": "EBOX",
         "name": "ethbox Token",
@@ -14829,19 +14829,6 @@
         ]
     },
     {
-        "address": "0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3",
-        "symbol": "CC10",
-        "name": "Cryptocurrency Top 10 Tokens Index",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://ethapi.openocean.finance/logos/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3.png",
-        "coingeckoId": "cryptocurrency-top-10-tokens-index",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
         "address": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
         "symbol": "RVP",
         "name": "RevolutionPopuli ERC20 Token",
@@ -15789,6 +15776,7 @@
         "coingeckoId": "usdd",
         "listedIn": [
             "coingecko",
+            "1inch",
             "openocean"
         ]
     },

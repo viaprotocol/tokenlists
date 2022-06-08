@@ -278,19 +278,6 @@
         ]
     },
     {
-        "address": "0x947394294F75D7502977AC6813FD99f77C2931ec",
-        "symbol": "ODAO",
-        "name": "ODAO",
-        "decimals": 9,
-        "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x947394294F75D7502977AC6813FD99f77C2931ec/logo.png",
-        "coingeckoId": "onedao-finance",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
         "symbol": "UNI",
         "name": "Uniswap",
@@ -382,19 +369,6 @@
             "coingecko",
             "sushiswap",
             "elkfinance",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x66CF8375fd083E7d103D69378e9AF20F1b46DC59",
-        "symbol": "HPLAY",
-        "name": "Harmony Play",
-        "decimals": 18,
-        "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x66cf8375fd083e7d103d69378e9af20f1b46dc59/logo.png",
-        "coingeckoId": "harmony-play",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -662,9 +636,8 @@
         "decimals": 18,
         "chainId": "1666600000",
         "logoURI": "https://api.rubic.exchange/assets/harmony/0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b/logo.png",
-        "coingeckoId": "tokenjenny",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "elkfinance",
             "rubic"

@@ -107,19 +107,6 @@
         ]
     },
     {
-        "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
-        "symbol": "UART",
-        "name": "UniArts Network Token",
-        "decimals": 12,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/22092/small/3Rx82r_w_400x400.png?1640823145",
-        "coingeckoId": "uniarts",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
         "symbol": "xMARK",
         "name": "Standard",
@@ -196,19 +183,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "address": "0xeFb3009DdAc87E8144803d78E235E7fb4cd36e61",
-        "symbol": "PolyMoon",
-        "name": "PolyMoon",
-        "decimals": 9,
-        "chainId": "137",
-        "logoURI": "https://ethapi.openocean.finance/logos/polygon/0xefb3009ddac87e8144803d78e235e7fb4cd36e61.png",
-        "coingeckoId": "polymoon",
-        "listedIn": [
-            "coingecko",
-            "openocean"
         ]
     },
     {
@@ -1631,6 +1605,19 @@
         ]
     },
     {
+        "address": "0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9",
+        "symbol": "WRLD",
+        "name": "NFT Worlds",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/22112/small/ZyBrRgfO.jpg?1640842284",
+        "coingeckoId": "nft-worlds",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0xD52f6CA48882Be8fbaa98ce390db18e1dbe1062d",
         "symbol": "ORE",
         "name": "pTokens ORE (PoS)",
@@ -1830,19 +1817,6 @@
         "chainId": "137",
         "logoURI": "https://assets.coingecko.com/coins/images/14633/small/macaron.png?1623038435",
         "coingeckoId": "macaronswap",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
-        "address": "0xB9f9e37c2CdbaFF928C3Da730b02F06fE09aE70E",
-        "symbol": "REI",
-        "name": "Zerogoki Token",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921",
-        "coingeckoId": "zerogoki",
         "listedIn": [
             "coingecko",
             "quickswap"
@@ -2180,9 +2154,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://api.rubic.exchange/assets/polygon/0x9c49ba0212bb5db371e66b59d1565b7c06e4894e/logo.png",
-        "coingeckoId": "cryptocurrency-top-10-tokens-index",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "elkfinance",
             "rubic"
@@ -2531,12 +2504,11 @@
         "name": "Sphere Finance",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650033490877_3375525678568654.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
-            "openocean",
-            "quickswap"
+            "openocean"
         ]
     },
     {
@@ -2596,19 +2568,6 @@
         "listedIn": [
             "coingecko",
             "1inch"
-        ]
-    },
-    {
-        "address": "0x87f654c4b347230C60CAD8d7ea9cF0D7238bcc79",
-        "symbol": "YAMP",
-        "name": "YAMP.FINANCE",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://yamp.finance/img/yamp_logo.svg",
-        "coingeckoId": "yamp-finance",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
         ]
     },
     {
@@ -3229,7 +3188,7 @@
         "name": "Cryptomeda",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/17983/small/Profile_picture_white.jpg?1630149169",
+        "logoURI": "https://i.imgur.com/71B4h8s.png",
         "coingeckoId": "cryptomeda",
         "listedIn": [
             "coingecko",
@@ -3993,13 +3952,14 @@
         "name": "Frax",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1649073380384_6210511662882632.png",
+        "logoURI": "https://polygonscan.com/token/images/frax_32.png",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "quickswap"
         ]
     },
     {
@@ -4398,6 +4358,19 @@
             "elkfinance",
             "quickswap",
             "rubic"
+        ]
+    },
+    {
+        "address": "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc",
+        "symbol": "GLTR",
+        "name": "GAX Liquidity Token Reward",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://i.ibb.co/qMMwsK7/gltr-token.png",
+        "coingeckoId": "gax-liquidity-token-reward",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
         ]
     },
     {
@@ -5106,19 +5079,6 @@
         ]
     },
     {
-        "address": "0x1Ba3510A9ceEb72E5CdBa8bcdDe9647E1f20fB4b",
-        "symbol": "DRAX",
-        "name": "Drax",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1Ba3510A9ceEb72E5CdBa8bcdDe9647E1f20fB4b/logo.png",
-        "coingeckoId": "drax",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
         "symbol": "WBTC",
         "name": "(PoS) Wrapped BTC",
@@ -5163,19 +5123,6 @@
             "1inch",
             "sushiswap",
             "quickswap"
-        ]
-    },
-    {
-        "address": "0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64",
-        "symbol": "LICP",
-        "name": "Liquid ICP",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64/logo.png",
-        "coingeckoId": "liquid-icp",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
@@ -5371,7 +5318,6 @@
         "listedIn": [
             "sushiswap",
             "elkfinance",
-            "quickswap",
             "rubic"
         ]
     },
@@ -5569,19 +5515,6 @@
         ]
     },
     {
-        "address": "0x0527c8C43250279D6Eb74dA1078193f5316fc9a0",
-        "symbol": "PYD",
-        "name": "PolyQuity Dollar",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0527c8C43250279D6Eb74dA1078193f5316fc9a0/logo.png",
-        "coingeckoId": "polyquity-dollar",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
         "symbol": "KRILL",
         "name": "Krill",
@@ -5608,19 +5541,6 @@
         "listedIn": [
             "coingecko",
             "quickswap"
-        ]
-    },
-    {
-        "address": "0x0361BdEAB89DF6BBcc52c43589FABba5143d19dD",
-        "symbol": "dTOP",
-        "name": "dHEDGE Top Index",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0361BdEAB89DF6BBcc52c43589FABba5143d19dD/logo.png",
-        "coingeckoId": "dhedge-top-index",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
