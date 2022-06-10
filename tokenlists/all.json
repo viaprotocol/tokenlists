@@ -18238,7 +18238,6 @@
             "logoURI": "https://api.rubic.exchange/assets/polygon/0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c/logo.png",
             "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "sushiswap",
                 "quickswap",
@@ -23541,19 +23540,6 @@
             "chainId": "43114",
             "logoURI": "https://api.rubic.exchange/assets/avalanche/0x2dee42737d769f7444f8e0c0365e0ee1f992a88c/logo.png",
             "coingeckoId": "aananaapegarden",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x2b3A6972a3450697c64a0B50EF0D859dBe657b77",
-            "symbol": "ETHP",
-            "name": "ETHP",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x2b3a6972a3450697c64a0b50ef0d859dbe657b77/logo.png",
-            "coingeckoId": "etherprint",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -35025,9 +35011,8 @@
             "decimals": 9,
             "chainId": "1",
             "logoURI": "https://api.rubic.exchange/assets/ethereum/0x903bef1736cddf2a537176cf3c64579c3867a881/logo.png",
-            "coingeckoId": "ichi-farm",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "sushiswap",
                 "rubic"
@@ -52818,6 +52803,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9iz45n44TQUPyoRymdZXEunqvZUksZyhzS6zQ7sLMadj/logo.png",
             "coingeckoId": "positron-token",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+            "symbol": "USH",
+            "name": "Hedge USD",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6/logo.png",
+            "coingeckoId": "hedge-usd",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
