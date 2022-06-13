@@ -11947,19 +11947,6 @@
             ]
         },
         {
-            "address": "0xF8b234A1CE59991006930de8B0525f9013982746",
-            "symbol": "DNA",
-            "name": "DNA Genesys",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0xf8b234a1ce59991006930de8b0525f9013982746/logo.png",
-            "coingeckoId": "dna-genesys",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xF77864FCFfeC4598813E3378681c9330B771cA88",
             "symbol": "CODE7",
             "name": "Code7 Finance",
@@ -13777,19 +13764,6 @@
             "chainId": "250",
             "logoURI": "https://api.rubic.exchange/assets/fantom/0x40df1ae6074c35047bff66675488aa2f9f6384f3/logo.png",
             "coingeckoId": "wmatic",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x3f97C4c3C907999c8309a0752362e541398198E0",
-            "symbol": "BLOOD",
-            "name": "Blood",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x3f97c4c3c907999c8309a0752362e541398198e0/logo.png",
-            "coingeckoId": "blood-token",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -27634,7 +27608,7 @@
             "decimals": 18,
             "chainId": "100",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x417602f4fbdd471A431Ae29fB5fe0A681964C11b/logo.png",
-            "coingeckoId": "jpyc",
+            "coingeckoId": "jpy-coin",
             "listedIn": [
                 "coingecko",
                 "elkfinance"
@@ -31083,13 +31057,14 @@
             "name": "Immutable X",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF/logo.png",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff/logo.png",
             "coingeckoId": "immutable-x",
             "listedIn": [
                 "coingecko",
                 "1inch",
                 "uniswap",
-                "sushiswap"
+                "sushiswap",
+                "rubic"
             ]
         },
         {
@@ -33601,19 +33576,6 @@
                 "1inch",
                 "sushiswap",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5",
-            "symbol": "BABYDOGE",
-            "name": "BabyDoge Coin",
-            "decimals": 9,
-            "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5/logo.png",
-            "coingeckoId": "babydoge-coin-eth",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -39202,17 +39164,18 @@
         {
             "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
             "symbol": "CVX",
-            "name": "Convex",
+            "name": "Convex Token",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://cloudstorage.openocean.finance/images/1640228886775_4384365746491985.png",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b/logo.png",
             "coingeckoId": "convex-finance",
             "listedIn": [
                 "coingecko",
                 "1inch",
                 "uniswap",
                 "sushiswap",
-                "openocean"
+                "openocean",
+                "rubic"
             ]
         },
         {
@@ -40252,12 +40215,11 @@
             "name": "CARD.STARTER",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9/logo.png",
+            "logoURI": "https://tokens.1inch.io/0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9.png",
             "coingeckoId": "cardstarter",
             "listedIn": [
                 "coingecko",
-                "1inch",
-                "rubic"
+                "1inch"
             ]
         },
         {
