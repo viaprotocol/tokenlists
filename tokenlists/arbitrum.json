@@ -259,9 +259,8 @@
         "decimals": 18,
         "chainId": "42161",
         "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xcd14c3a2ba27819b352aae73414a26e2b366dc50/logo.png",
-        "coingeckoId": "token-dforce-usd",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "rubic"
@@ -483,6 +482,19 @@
             "1inch",
             "sushiswap",
             "openocean",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0xF4fe727C855c2D395852ca43F645caB4b504Af23",
+        "symbol": "HDX",
+        "name": "Hydranet",
+        "decimals": 9,
+        "chainId": "42161",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xf4fe727c855c2d395852ca43f645cab4b504af23/logo.png",
+        "coingeckoId": "hydranet",
+        "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -1183,6 +1195,19 @@
         "listedIn": [
             "coingecko",
             "openocean"
+        ]
+    },
+    {
+        "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+        "symbol": "USX",
+        "name": "dForce USD",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb/logo.png",
+        "coingeckoId": "token-dforce-usd",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {

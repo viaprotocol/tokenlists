@@ -453,19 +453,6 @@
         ]
     },
     {
-        "address": "0xaeDdc4A469acE97e90C605e3F52EB89620e305C0",
-        "symbol": "LAIKA",
-        "name": "LaikaProtocol",
-        "decimals": 9,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xaeddc4a469ace97e90c605e3f52eb89620e305c0/logo.png",
-        "coingeckoId": "laika-protocol",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
         "symbol": "SUSHI",
         "name": "Sushi",
@@ -906,6 +893,19 @@
         ]
     },
     {
+        "address": "0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179",
+        "symbol": "aFTMc",
+        "name": "Ankr FTM Reward Bearing Certificate",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179/logo.png",
+        "coingeckoId": "ankr-reward-bearing-ftm",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0xCEeBDE49eC95E21F7eE63C5c6f98CaB3519570de",
         "symbol": "WSTA",
         "name": "Wrapped STA",
@@ -1035,6 +1035,20 @@
         "coingeckoId": "mushroom-coin",
         "listedIn": [
             "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0xB42bF10ab9Df82f9a47B86dd76EEE4bA848d0Fa2",
+        "symbol": "aFTMb",
+        "name": "Ankr Fantom Reward Earning Bond",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xb42bf10ab9df82f9a47b86dd76eee4ba848d0fa2/logo.png",
+        "coingeckoId": "ankr-reward-earning-ftm",
+        "listedIn": [
+            "coingecko",
+            "openocean",
             "rubic"
         ]
     },
@@ -2706,12 +2720,11 @@
         "name": "Keep3r",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x2a5062d22adcfaafbd5c541d4da82e4b450d4212/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kp3r.jpg",
         "coingeckoId": "keep3rv1",
         "listedIn": [
             "coingecko",
-            "sushiswap",
-            "rubic"
+            "sushiswap"
         ]
     },
     {

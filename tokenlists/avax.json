@@ -242,6 +242,19 @@
         ]
     },
     {
+        "address": "0xe0cCa86B254005889aC3a81e737f56a14f4A38F5",
+        "symbol": "ALTA",
+        "name": "Alta Finance",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xe0cca86b254005889ac3a81e737f56a14f4a38f5/logo.png",
+        "coingeckoId": "alta-finance",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
         "symbol": "ICE",
         "name": "IceToken",
@@ -458,6 +471,19 @@
         "chainId": "43114",
         "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc69eba65e87889f0805db717af06797055a0ba07/logo.png",
         "coingeckoId": "nucleus-vision",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+        "symbol": "aAVAXc",
+        "name": "Ankr Avalanche Reward Bearing Certificate",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc3344870d52688874b06d844e0c36cc39fc727f6/logo.png",
+        "coingeckoId": "ankr-reward-bearing-avax",
         "listedIn": [
             "coingecko",
             "rubic"
@@ -3075,19 +3101,6 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x1111111111182587795eF1098ac7da81a108C97a",
-        "symbol": "BPT",
-        "name": "Bold Point Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x1111111111182587795ef1098ac7da81a108c97a/logo.png",
-        "coingeckoId": "bold-point",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },

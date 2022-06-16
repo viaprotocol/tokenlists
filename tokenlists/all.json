@@ -288,9 +288,8 @@
             "decimals": 18,
             "chainId": "42161",
             "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xcd14c3a2ba27819b352aae73414a26e2b366dc50/logo.png",
-            "coingeckoId": "token-dforce-usd",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "openocean",
                 "rubic"
@@ -512,6 +511,19 @@
                 "1inch",
                 "sushiswap",
                 "openocean",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0xF4fe727C855c2D395852ca43F645caB4b504Af23",
+            "symbol": "HDX",
+            "name": "Hydranet",
+            "decimals": 9,
+            "chainId": "42161",
+            "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xf4fe727c855c2d395852ca43f645cab4b504af23/logo.png",
+            "coingeckoId": "hydranet",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
@@ -1212,6 +1224,19 @@
             "listedIn": [
                 "coingecko",
                 "openocean"
+            ]
+        },
+        {
+            "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+            "symbol": "USX",
+            "name": "dForce USD",
+            "decimals": 18,
+            "chainId": "42161",
+            "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb/logo.png",
+            "coingeckoId": "token-dforce-usd",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -11762,19 +11787,6 @@
             ]
         },
         {
-            "address": "0xaeDdc4A469acE97e90C605e3F52EB89620e305C0",
-            "symbol": "LAIKA",
-            "name": "LaikaProtocol",
-            "decimals": 9,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0xaeddc4a469ace97e90c605e3f52eb89620e305c0/logo.png",
-            "coingeckoId": "laika-protocol",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
             "symbol": "SUSHI",
             "name": "Sushi",
@@ -12215,6 +12227,19 @@
             ]
         },
         {
+            "address": "0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179",
+            "symbol": "aFTMc",
+            "name": "Ankr FTM Reward Bearing Certificate",
+            "decimals": 18,
+            "chainId": "250",
+            "logoURI": "https://api.rubic.exchange/assets/fantom/0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179/logo.png",
+            "coingeckoId": "ankr-reward-bearing-ftm",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0xCEeBDE49eC95E21F7eE63C5c6f98CaB3519570de",
             "symbol": "WSTA",
             "name": "Wrapped STA",
@@ -12344,6 +12369,20 @@
             "coingeckoId": "mushroom-coin",
             "listedIn": [
                 "coingecko",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0xB42bF10ab9Df82f9a47B86dd76EEE4bA848d0Fa2",
+            "symbol": "aFTMb",
+            "name": "Ankr Fantom Reward Earning Bond",
+            "decimals": 18,
+            "chainId": "250",
+            "logoURI": "https://api.rubic.exchange/assets/fantom/0xb42bf10ab9df82f9a47b86dd76eee4ba848d0fa2/logo.png",
+            "coingeckoId": "ankr-reward-earning-ftm",
+            "listedIn": [
+                "coingecko",
+                "openocean",
                 "rubic"
             ]
         },
@@ -14015,12 +14054,11 @@
             "name": "Keep3r",
             "decimals": 18,
             "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x2a5062d22adcfaafbd5c541d4da82e4b450d4212/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kp3r.jpg",
             "coingeckoId": "keep3rv1",
             "listedIn": [
                 "coingecko",
-                "sushiswap",
-                "rubic"
+                "sushiswap"
             ]
         },
         {
@@ -21019,6 +21057,19 @@
             ]
         },
         {
+            "address": "0xe0cCa86B254005889aC3a81e737f56a14f4A38F5",
+            "symbol": "ALTA",
+            "name": "Alta Finance",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xe0cca86b254005889ac3a81e737f56a14f4a38f5/logo.png",
+            "coingeckoId": "alta-finance",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
             "symbol": "ICE",
             "name": "IceToken",
@@ -21235,6 +21286,19 @@
             "chainId": "43114",
             "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc69eba65e87889f0805db717af06797055a0ba07/logo.png",
             "coingeckoId": "nucleus-vision",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+            "symbol": "aAVAXc",
+            "name": "Ankr Avalanche Reward Bearing Certificate",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc3344870d52688874b06d844e0c36cc39fc727f6/logo.png",
+            "coingeckoId": "ankr-reward-bearing-avax",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -23852,19 +23916,6 @@
             "coingeckoId": null,
             "listedIn": [
                 "openocean",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x1111111111182587795eF1098ac7da81a108C97a",
-            "symbol": "BPT",
-            "name": "Bold Point Token",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x1111111111182587795ef1098ac7da81a108c97a/logo.png",
-            "coingeckoId": "bold-point",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },
