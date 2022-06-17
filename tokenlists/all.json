@@ -6751,6 +6751,19 @@
             ]
         },
         {
+            "address": "0x738d96Caf7096659DB4C1aFbf1E1BDFD281f388C",
+            "symbol": "aMATICc",
+            "name": "Ankr MATIC Reward Bearing Certificate",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1653739507057_6345922838275662.png",
+            "coingeckoId": "ankr-reward-earning-matic",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
             "symbol": "bALBT",
             "name": "AllianceBlock",
@@ -11321,19 +11334,6 @@
         }
     ],
     "250": [
-        {
-            "address": "0xfe27133F2E8C8539363883d914Bccb4b21eBd28a",
-            "symbol": "BAKER",
-            "name": "Baker Token",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0xfe27133f2e8c8539363883d914bccb4b21ebd28a/logo.png",
-            "coingeckoId": "baker-guild",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
         {
             "address": "0xfa1FBb8Ef55A4855E5688C0eE13aC3f202486286",
             "symbol": "FHM",
@@ -22771,6 +22771,19 @@
             ]
         },
         {
+            "address": "0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E",
+            "symbol": "pAVAX",
+            "name": "pAVAX",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x6ca558bd3eab53da1b25ab97916dd14bf6cfee4e/logo.png",
+            "coingeckoId": "ripae-avax",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
             "symbol": "CTSI",
             "name": "Cartesi Token",
@@ -23007,6 +23020,19 @@
                 "1inch",
                 "openocean",
                 "elkfinance",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x5E46c4AA8d9284d08e2Ad399b389ea4Cf0D51Bdc",
+            "symbol": "AHE",
+            "name": "AbeatsHeroEnhencementToken",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x5e46c4aa8d9284d08e2ad399b389ea4cf0d51bdc/logo.png",
+            "coingeckoId": "abeatsheroenhencement",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
@@ -23426,19 +23452,6 @@
             "chainId": "43114",
             "logoURI": "https://api.rubic.exchange/assets/avalanche/0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/logo.png",
             "coingeckoId": "uma",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x3A47868beE0B553183222eeA56E82f83adDCd133",
-            "symbol": "AVTIME",
-            "name": "AVATIME",
-            "decimals": 6,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x3a47868bee0b553183222eea56e82f83addcd133/logo.png",
-            "coingeckoId": "ava-time",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -23878,19 +23891,6 @@
                 "sushiswap",
                 "openocean",
                 "elkfinance",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
-            "symbol": "BNPL",
-            "name": "BNPL Pay",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x1263fea931b86f3e8ce8afbf29f66631b7be9347/logo.png",
-            "coingeckoId": "bnpl-pay",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },
@@ -24745,6 +24745,19 @@
             ]
         },
         {
+            "address": "0x1581929770bE3275a82068c1135b6dD59c5334Ed",
+            "symbol": "ALM",
+            "name": "AliumTokenon Moonriver",
+            "decimals": 18,
+            "chainId": "1285",
+            "logoURI": "https://api.rubic.exchange/assets/moonriver/0x1581929770be3275a82068c1135b6dd59c5334ed/logo.png",
+            "coingeckoId": "alium-finance",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
             "symbol": "AVAX",
             "name": "Avalanche Token",
@@ -25078,6 +25091,19 @@
             "listedIn": [
                 "coingecko",
                 "trisolaris",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0xe8532E5514d9F80C7d0B1F29948873ee59Fb5B06",
+            "symbol": "ALM",
+            "name": "AliumTokenon Aurora",
+            "decimals": 18,
+            "chainId": "1313161554",
+            "logoURI": "https://api.rubic.exchange/assets/aurora/0xe8532e5514d9f80c7d0b1f29948873ee59fb5b06/logo.png",
+            "coingeckoId": "alium-finance",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
@@ -41770,6 +41796,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "openocean"
+            ]
+        },
+        {
+            "address": "0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C",
+            "symbol": "aMATICc",
+            "name": "Ankr MATIC Reward Bearing Certificate",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1653739570902_2935634424552658.png",
+            "coingeckoId": "ankr-reward-earning-matic",
+            "listedIn": [
+                "coingecko",
                 "openocean"
             ]
         },

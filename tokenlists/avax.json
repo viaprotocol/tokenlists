@@ -1968,6 +1968,19 @@
         ]
     },
     {
+        "address": "0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E",
+        "symbol": "pAVAX",
+        "name": "pAVAX",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x6ca558bd3eab53da1b25ab97916dd14bf6cfee4e/logo.png",
+        "coingeckoId": "ripae-avax",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
         "symbol": "CTSI",
         "name": "Cartesi Token",
@@ -2204,6 +2217,19 @@
             "1inch",
             "openocean",
             "elkfinance",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x5E46c4AA8d9284d08e2Ad399b389ea4Cf0D51Bdc",
+        "symbol": "AHE",
+        "name": "AbeatsHeroEnhencementToken",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x5e46c4aa8d9284d08e2ad399b389ea4cf0d51bdc/logo.png",
+        "coingeckoId": "abeatsheroenhencement",
+        "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -2623,19 +2649,6 @@
         "chainId": "43114",
         "logoURI": "https://api.rubic.exchange/assets/avalanche/0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/logo.png",
         "coingeckoId": "uma",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x3A47868beE0B553183222eeA56E82f83adDCd133",
-        "symbol": "AVTIME",
-        "name": "AVATIME",
-        "decimals": 6,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x3a47868bee0b553183222eea56e82f83addcd133/logo.png",
-        "coingeckoId": "ava-time",
         "listedIn": [
             "coingecko",
             "rubic"
@@ -3075,19 +3088,6 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
-        "symbol": "BNPL",
-        "name": "BNPL Pay",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x1263fea931b86f3e8ce8afbf29f66631b7be9347/logo.png",
-        "coingeckoId": "bnpl-pay",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
