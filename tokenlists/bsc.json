@@ -2503,17 +2503,18 @@
     {
         "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
         "symbol": "BIFI",
-        "name": "Beefy.finance",
+        "name": "beefy.finance",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xca3f508b8e4dd382ee878a314789373d80a5190a/logo.png",
         "coingeckoId": "beefy-finance",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "elkfinance"
+            "elkfinance",
+            "rubic"
         ]
     },
     {
@@ -4303,19 +4304,6 @@
         ]
     },
     {
-        "address": "0x83A86adf1a7c56e77d36d585B808052e0a2aAD0e",
-        "symbol": "SYA",
-        "name": "SaveYourAssets",
-        "decimals": 9,
-        "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x83a86adf1a7c56e77d36d585b808052e0a2aad0e/logo.png",
-        "coingeckoId": "sya-x-flooz",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
         "symbol": "REVV",
         "name": "REVV",
@@ -5257,7 +5245,7 @@
         "name": "Graviton",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d.png",
+        "logoURI": "https://tokens.1inch.io/0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d_1.png",
         "coingeckoId": "gton-capital",
         "listedIn": [
             "coingecko",
