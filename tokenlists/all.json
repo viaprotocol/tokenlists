@@ -7570,19 +7570,6 @@
             ]
         },
         {
-            "address": "0x59A99b55C6E12d026CfD02Ae3E38f94f102fB46b",
-            "symbol": "MASTER",
-            "name": "Master Floki",
-            "decimals": 9,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x59a99b55c6e12d026cfd02ae3e38f94f102fb46b/logo.png",
-            "coingeckoId": "master-floki",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x5986D5c77c65e5801a5cAa4fAE80089f870A71dA",
             "symbol": "bDIGG",
             "name": "bDIGG",
@@ -27958,7 +27945,7 @@
             "name": "Amp",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xff20817765cb7f73d4bde2e66e067e58d11095c2/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ethereum/0xfF20817765cB7f73d4bde2e66e067E58D11095C2/logo.png",
             "coingeckoId": "amp-token",
             "listedIn": [
                 "coingecko",
@@ -27966,8 +27953,7 @@
                 "uniswap",
                 "sushiswap",
                 "openocean",
-                "elkfinance",
-                "rubic"
+                "elkfinance"
             ]
         },
         {
@@ -28164,19 +28150,6 @@
                 "coingecko",
                 "1inch",
                 "rubic"
-            ]
-        },
-        {
-            "address": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
-            "symbol": "cUSDT",
-            "name": "Compound USDT",
-            "decimals": 8,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9.png",
-            "coingeckoId": "compound-usdt",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
@@ -33673,6 +33646,19 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap"
+            ]
+        },
+        {
+            "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+            "symbol": "QANX",
+            "name": "QANX Token",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa/logo.png",
+            "coingeckoId": "qanplatform",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
