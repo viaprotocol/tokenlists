@@ -2786,15 +2786,16 @@
     {
         "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
         "symbol": "STG",
-        "name": "Stargate Finance",
+        "name": "StargateToken",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1648127698113_5038099020744586.png",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590/logo.png",
         "coingeckoId": "stargate-finance",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "rubic"
         ]
     },
     {
@@ -3134,17 +3135,16 @@
     },
     {
         "address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
-        "symbol": "BLZZ",
+        "symbol": "BLIZZ",
         "name": "Blizz.Finance Protocol Token",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x0f34919404a290e71fc6a510cb4a6acb8d764b24/logo.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1636445213134_6193080826515858.png",
         "coingeckoId": "blizz-finance",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean",
-            "rubic"
+            "openocean"
         ]
     },
     {
