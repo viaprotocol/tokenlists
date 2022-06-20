@@ -3549,19 +3549,6 @@
             ]
         },
         {
-            "address": "0xa5593837af2b99021fe657c80d70d2365F5CfD38",
-            "symbol": "ASGARD",
-            "name": "AsgardToken",
-            "decimals": 9,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xa5593837af2b99021fe657c80d70d2365f5cfd38/logo.png",
-            "coingeckoId": "asgard-dao",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xa4838122c683f732289805FC3C207Febd55BabDD",
             "symbol": "TRIAS",
             "name": "\bTrias Token",
@@ -4285,19 +4272,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
-            "symbol": "QUACK",
-            "name": "RichQUACK.com",
-            "decimals": 9,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xd74b782e05aa25c50e7330af541d46e18f36661c/logo.png",
-            "coingeckoId": "richquack",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -5430,6 +5404,19 @@
             "chainId": "56",
             "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x9aa18a4e73e1016918fa360eed950d9580c9551d/logo.png",
             "coingeckoId": "genx",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x9A257C90Fa239fBA07771ef7da2d554D148c2E89",
+            "symbol": "eYe",
+            "name": "eYe on BSC",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x9a257c90fa239fba07771ef7da2d554d148c2e89/logo.png",
+            "coingeckoId": "media-eye",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -19973,19 +19960,6 @@
             ]
         },
         {
-            "address": "0x263026E7e53DBFDce5ae55Ade22493f828922965",
-            "symbol": "RIC",
-            "name": "RIC",
-            "decimals": 18,
-            "chainId": "137",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x263026E7e53DBFDce5ae55Ade22493f828922965/logo.png",
-            "coingeckoId": "richochet",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
-            ]
-        },
-        {
             "address": "0x2628D301b161DB70E3dBbAc88d9D900cA426fF02",
             "symbol": "bBADGER",
             "name": "Badger Sett Badger (PoS)",
@@ -20884,19 +20858,6 @@
             ]
         },
         {
-            "address": "0xf481Eec738C46F675e077ee966A680a19210Af11",
-            "symbol": "BLANC",
-            "name": "Blanc",
-            "decimals": 9,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xf481eec738c46f675e077ee966a680a19210af11/logo.png",
-            "coingeckoId": "blanc",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xf3EC49ACb3084618121741e4BBB20996D383E9b2",
             "symbol": "KING",
             "name": "KING",
@@ -21306,19 +21267,6 @@
             ]
         },
         {
-            "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
-            "symbol": "BLUE",
-            "name": "Blue Token",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc12e249fabe1c5eb7c558e5f50d187687a244e31/logo.png",
-            "coingeckoId": "tip-blue",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xbeE994aD257dCC84672c0c6e6168A4701041F39f",
             "symbol": "AVXL",
             "name": "AvaXlauncher",
@@ -21523,19 +21471,6 @@
                 "coingecko",
                 "1inch",
                 "elkfinance",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0xa2776A53Da0bf664EA34B8Efa1c8aB4241A10968",
-            "symbol": "BLIZZ",
-            "name": "Blizzard",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xa2776a53da0bf664ea34b8efa1c8ab4241a10968/logo.png",
-            "coingeckoId": "blizzard-network",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },
@@ -22698,6 +22633,19 @@
             ]
         },
         {
+            "address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+            "symbol": "FITFI",
+            "name": "STEP.APP",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x714f020c54cc9d104b6f4f6998c63ce2a31d1888/logo.png",
+            "coingeckoId": "step-app-fitfi",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
             "symbol": "RACEX",
             "name": "RaceX",
@@ -22754,6 +22702,19 @@
                 "1inch",
                 "openocean",
                 "elkfinance",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x6d2f5dBf3a7396FCe32CfE406Aef7a8AFF812Fbb",
+            "symbol": "ASTRO",
+            "name": "100 Days Ventures - v1.1",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x6d2f5dbf3a7396fce32cfe406aef7a8aff812fbb/logo.png",
+            "coingeckoId": "100-days-ventures",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
@@ -23714,6 +23675,19 @@
             ]
         },
         {
+            "address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+            "symbol": "ANKR",
+            "name": "Ankr Network",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x20cf1b6e9d856321ed4686877cf4538f2c84b4de/logo.png",
+            "coingeckoId": "ankr",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D",
             "symbol": "SNO Token",
             "name": "SNO",
@@ -24250,19 +24224,6 @@
                 "coingecko",
                 "sushiswap",
                 "elkfinance",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0xDC151BC48a5F77288cdE9DdbFf2e32e6bcF4791F",
-            "symbol": "H2O",
-            "name": "H2O",
-            "decimals": 18,
-            "chainId": "1285",
-            "logoURI": "https://api.rubic.exchange/assets/moonriver/0xdc151bc48a5f77288cde9ddbff2e32e6bcf4791f/logo.png",
-            "coingeckoId": "hydro-h2o",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },
@@ -56545,9 +56506,8 @@
             "decimals": 8,
             "chainId": "-1",
             "logoURI": "https://cdn.jsdelivr.net/gh/Cryptodoggo97/Looptoken/logo.png",
-            "coingeckoId": "sol-fox",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "solanalabs",
                 "1sol"
             ]

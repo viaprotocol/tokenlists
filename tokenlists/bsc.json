@@ -1600,19 +1600,6 @@
         ]
     },
     {
-        "address": "0xa5593837af2b99021fe657c80d70d2365F5CfD38",
-        "symbol": "ASGARD",
-        "name": "AsgardToken",
-        "decimals": 9,
-        "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xa5593837af2b99021fe657c80d70d2365f5cfd38/logo.png",
-        "coingeckoId": "asgard-dao",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xa4838122c683f732289805FC3C207Febd55BabDD",
         "symbol": "TRIAS",
         "name": "\bTrias Token",
@@ -2336,19 +2323,6 @@
         "listedIn": [
             "coingecko",
             "openocean"
-        ]
-    },
-    {
-        "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
-        "symbol": "QUACK",
-        "name": "RichQUACK.com",
-        "decimals": 9,
-        "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xd74b782e05aa25c50e7330af541d46e18f36661c/logo.png",
-        "coingeckoId": "richquack",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3481,6 +3455,19 @@
         "chainId": "56",
         "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x9aa18a4e73e1016918fa360eed950d9580c9551d/logo.png",
         "coingeckoId": "genx",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x9A257C90Fa239fBA07771ef7da2d554D148c2E89",
+        "symbol": "eYe",
+        "name": "eYe on BSC",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x9a257c90fa239fba07771ef7da2d554d148c2e89/logo.png",
+        "coingeckoId": "media-eye",
         "listedIn": [
             "coingecko",
             "rubic"
