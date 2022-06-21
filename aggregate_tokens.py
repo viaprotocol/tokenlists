@@ -92,6 +92,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "42220": "celo",
         "10": "optimistic-ethereum",
         "137": "polygon-pos",
+        "534": "candle",
         "43114": "avalanche",
         "1285": "moonriver",
         "25": "cronos",
@@ -257,6 +258,12 @@ class FuseSwapTokenLists(TokenListProvider):
         "122": "fuse"
     }
 
+class CarthageTokenLists(TokenListProvider):
+    name = "carthage"
+    base_url = "https://raw.githubusercontent.com/carthageprotocol/token-lists/main/carthage.tokenlist.json"
+    chains = {
+        "534": "candle"
+    }
 
 class TrisolarisLabsLists(TokenListProvider):
     name = "trisolaris"
