@@ -14626,19 +14626,6 @@
             ]
         },
         {
-            "address": "0x070eb1a48725622De867a7E3d1dd4F0108966ED1",
-            "symbol": "POOP",
-            "name": "Poopsicle",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x070eb1a48725622de867a7e3d1dd4f0108966ed1/logo.png",
-            "coingeckoId": "poopsicle",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x06ebc9c542357e2129D16717CD02c02FBC835d33",
             "symbol": "CAGE",
             "name": "Coinage",
@@ -34452,6 +34439,19 @@
                 "1inch",
                 "uniswap",
                 "sushiswap",
+                "openocean"
+            ]
+        },
+        {
+            "address": "0x99534Ef705Df1FFf4e4bD7bbaAF9b0dFf038EbFe",
+            "symbol": "aMATICb",
+            "name": "Ankr MATIC Reward Earning Bond ",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1637331807689_3136114719013714.png",
+            "coingeckoId": "ankr-matic-reward-earning-bond",
+            "listedIn": [
+                "coingecko",
                 "openocean"
             ]
         },
