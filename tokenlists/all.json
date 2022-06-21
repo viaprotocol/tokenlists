@@ -35234,12 +35234,11 @@
             "name": "VLX",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x8c543aed163909142695f2d2acd0d55791a9edb9/logo.png",
+            "logoURI": "https://tokens.1inch.io/0x8c543aed163909142695f2d2acd0d55791a9edb9.png",
             "coingeckoId": "velas",
             "listedIn": [
                 "coingecko",
-                "1inch",
-                "rubic"
+                "1inch"
             ]
         },
         {
@@ -36695,6 +36694,19 @@
                 "1inch",
                 "sushiswap",
                 "openocean"
+            ]
+        },
+        {
+            "address": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
+            "symbol": "XCAD",
+            "name": "XCAD Token",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x7659ce147d0e714454073a5dd7003544234b6aa0/logo.png",
+            "coingeckoId": "xcad-network",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
