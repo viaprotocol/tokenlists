@@ -19947,6 +19947,19 @@
             ]
         },
         {
+            "address": "0x263026E7e53DBFDce5ae55Ade22493f828922965",
+            "symbol": "RIC",
+            "name": "RIC",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x263026E7e53DBFDce5ae55Ade22493f828922965/logo.png",
+            "coingeckoId": "richochet",
+            "listedIn": [
+                "coingecko",
+                "sushiswap"
+            ]
+        },
+        {
             "address": "0x2628D301b161DB70E3dBbAc88d9D900cA426fF02",
             "symbol": "bBADGER",
             "name": "Badger Sett Badger (PoS)",
@@ -25621,6 +25634,19 @@
             "listedIn": [
                 "coingecko",
                 "trisolaris",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x78B65477bBa78fc11735801D559C386611d07529",
+            "symbol": "MFF",
+            "name": "Moonflower Farm",
+            "decimals": 18,
+            "chainId": "1313161554",
+            "logoURI": "https://api.rubic.exchange/assets/aurora/0x78b65477bba78fc11735801d559c386611d07529/logo.png",
+            "coingeckoId": "moonflower-farm",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
