@@ -992,19 +992,6 @@
         ]
     },
     {
-        "address": "0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A",
-        "symbol": "ALN",
-        "name": "Aluna",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/14379/small/uaLoLU8c_400x400_%281%29.png?1627873106",
-        "coingeckoId": "aluna",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0xa7051C5a22d963b81D71C2BA64D46a877fBc1821",
         "symbol": "EROWAN",
         "name": "SifChain (erowan) (PoS)",
@@ -1419,19 +1406,6 @@
         ]
     },
     {
-        "address": "0xE52509181FEb30EB4979E29EC70D50FD5C44D590",
-        "symbol": "ARTH",
-        "name": "ARTH Valuecoin",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538",
-        "coingeckoId": "arth",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128",
         "symbol": "PAR",
         "name": "PAR Stablecoin",
@@ -1684,6 +1658,19 @@
         ]
     },
     {
+        "address": "0xCa7BF3C514d412AC12D10Eff302301A81153F557",
+        "symbol": "LFI",
+        "name": "LunaFi",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/24594/small/lfi.png?1648310927",
+        "coingeckoId": "lunafi",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
         "symbol": "RAZOR",
         "name": "Razor",
@@ -1757,12 +1744,11 @@
         "name": "Otter Clam",
         "decimals": 9,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png?1637548092",
+        "logoURI": "https://tokens.1inch.io/0xc250e9987a032acac293d838726c511e6e1c029d.png",
         "coingeckoId": "otterclam",
         "listedIn": [
             "coingecko",
-            "1inch",
-            "quickswap"
+            "1inch"
         ]
     },
     {
@@ -4061,7 +4047,7 @@
         "name": "Trace Network",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/23266/small/93mryokp_400x400.png?1643413792",
+        "logoURI": "https://assets.coingecko.com/coins/images/23266/small/Token_Icon_02.png?1655797843",
         "coingeckoId": "trace-network-labs",
         "listedIn": [
             "coingecko",
@@ -4907,11 +4893,12 @@
         "name": "USD+",
         "decimals": 6,
         "chainId": "137",
-        "logoURI": "https://tokens.1inch.io/0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267",
         "coingeckoId": "usd",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "quickswap"
         ]
     },
     {
@@ -5422,19 +5409,6 @@
         ]
     },
     {
-        "address": "0x0B6afe834dab840335F87d99b45C2a4bd81A93c7",
-        "symbol": "ANGEL",
-        "name": "Angel",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/17739/small/Polylauncher_-_200_x_200.png?1629121147",
-        "coingeckoId": "polylauncher",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0x0B048D6e01a6b9002C291060bF2179938fd8264c",
         "symbol": "ALPHA",
         "name": "PolyAlpha Finance",
@@ -5471,7 +5445,6 @@
         "listedIn": [
             "coingecko",
             "elkfinance",
-            "quickswap",
             "rubic"
         ]
     },
