@@ -15582,6 +15582,19 @@
             ]
         },
         {
+            "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+            "symbol": "BUSD",
+            "name": "(PoS) Binance USD",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://api.rubic.exchange/assets/polygon/0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7/logo.png",
+            "coingeckoId": "binance-usd",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
             "symbol": "FRM",
             "name": "Ferrum Network Token",
@@ -38316,18 +38329,17 @@
         {
             "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
             "symbol": "RLC",
-            "name": "iEx.ec Network Token",
+            "name": "iExec RLC",
             "decimals": 9,
             "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x607f4c5bb672230e8672085532f7e901544a7375/logo.png",
+            "logoURI": "https://ethapi.openocean.finance/logos/0x607f4c5bb672230e8672085532f7e901544a7375.png",
             "coingeckoId": "iexec-rlc",
             "listedIn": [
                 "coingecko",
                 "1inch",
                 "uniswap",
                 "sushiswap",
-                "openocean",
-                "rubic"
+                "openocean"
             ]
         },
         {
@@ -50762,6 +50774,19 @@
             "listedIn": [
                 "solanalabs",
                 "rubic"
+            ]
+        },
+        {
+            "address": "Boxch4vwBdKjZjE4hixCaoQFvv16P9vwRHTFHWbC5o6f",
+            "symbol": "BOXCH",
+            "name": "Boxch",
+            "decimals": 4,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Boxch4vwBdKjZjE4hixCaoQFvv16P9vwRHTFHWbC5o6f/logo.png",
+            "coingeckoId": "boxch",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
