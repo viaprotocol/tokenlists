@@ -184,19 +184,6 @@
             ]
         },
         {
-            "address": "0xdeBa25AF35e4097146d7629055E0EC3C71706324",
-            "symbol": "DEFI5",
-            "name": "DEFI Top 5 Tokens Index",
-            "decimals": 18,
-            "chainId": "42161",
-            "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xdeba25af35e4097146d7629055e0ec3c71706324/logo.png",
-            "coingeckoId": "defi-top-5-tokens-index",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xdc7179416c08c15f689d9214A3BeC2Dd003DeABc",
             "symbol": "KSW",
             "name": "KillSwitchToken",
@@ -1909,19 +1896,6 @@
             "chainId": "42161",
             "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x078f358208685046a11c85e8ad32895ded33a249/logo.png",
             "coingeckoId": "aave-wbtc",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x04f3636B31c1EA2E48e275aA992d99a7bdbBe738",
-            "symbol": "ARRB",
-            "name": "Arrb Token",
-            "decimals": 18,
-            "chainId": "42161",
-            "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x04f3636b31c1ea2e48e275aa992d99a7bdbbe738/logo.png",
-            "coingeckoId": "arrb-token",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -7866,19 +7840,6 @@
             ]
         },
         {
-            "address": "0x52d86850bc8207b520340B7E39cDaF22561b9E56",
-            "symbol": "SWIRL",
-            "name": "Swirl.Cash",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://tokens.1inch.io/0x52d86850bc8207b520340b7e39cdaf22561b9e56.png",
-            "coingeckoId": "swirl-cash",
-            "listedIn": [
-                "coingecko",
-                "1inch"
-            ]
-        },
-        {
             "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
             "symbol": "COMP",
             "name": "Compound Finance",
@@ -8615,19 +8576,6 @@
             "listedIn": [
                 "coingecko",
                 "1inch"
-            ]
-        },
-        {
-            "address": "0x3fF997eAeA488A082fb7Efc8e6B9951990D0c3aB",
-            "symbol": "WUSD",
-            "name": "WUSD",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3fF997eAeA488A082fb7Efc8e6B9951990D0c3aB/logo.png",
-            "coingeckoId": "wault-usd",
-            "listedIn": [
-                "coingecko",
-                "elkfinance"
             ]
         },
         {
@@ -12751,19 +12699,6 @@
             ]
         },
         {
-            "address": "0x8F9bCCB6Dd999148Da1808aC290F2274b13D7994",
-            "symbol": "SUMMIT",
-            "name": "summit defi",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://cloudstorage.openocean.finance/images/1635386858646_7691864304094242.png",
-            "coingeckoId": "summit-defi",
-            "listedIn": [
-                "coingecko",
-                "openocean"
-            ]
-        },
-        {
             "address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae",
             "symbol": "BASED",
             "name": "BASED",
@@ -13778,19 +13713,6 @@
             "chainId": "250",
             "logoURI": "https://api.rubic.exchange/assets/fantom/0x449f45deb9c57350130732733bd96aad7203342a/logo.png",
             "coingeckoId": "pragma",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x41e3dF7f716aB5AF28c1497B354D79342923196a",
-            "symbol": "aUSD",
-            "name": "aUSD",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x41e3df7f716ab5af28c1497b354d79342923196a/logo.png",
-            "coingeckoId": "ausd",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -17895,9 +17817,8 @@
             "decimals": 18,
             "chainId": "137",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x823CD4264C1b951C9209aD0DeAea9988fE8429bF/logo.png",
-            "coingeckoId": "matic-aave-aave",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "openocean",
                 "elkfinance"
             ]
@@ -19284,9 +19205,8 @@
             "decimals": 18,
             "chainId": "137",
             "logoURI": "https://api.rubic.exchange/assets/polygon/0x42435f467d33e5c4146a4e8893976ef12bbce762/logo.png",
-            "coingeckoId": "defi-top-5-tokens-index",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "openocean",
                 "elkfinance",
                 "rubic"
@@ -21187,9 +21107,8 @@
             "decimals": 9,
             "chainId": "43114",
             "logoURI": "https://api.rubic.exchange/assets/avalanche/0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5/logo.png",
-            "coingeckoId": "ape-x",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "elkfinance",
                 "rubic"
@@ -24546,9 +24465,8 @@
             "decimals": 9,
             "chainId": "1285",
             "logoURI": "https://api.rubic.exchange/assets/moonriver/0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a/logo.png",
-            "coingeckoId": "laika-protocol",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "elkfinance",
                 "rubic"
             ]
@@ -27937,19 +27855,6 @@
             ]
         },
         {
-            "address": "0xfa6de2697D59E88Ed7Fc4dFE5A33daC43565ea41",
-            "symbol": "DEFI5",
-            "name": "DEFI Top 5 Tokens Index",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://cloudstorage.openocean.finance/images/1634696737401_6295364568629955.png",
-            "coingeckoId": "defi-top-5-tokens-index",
-            "listedIn": [
-                "coingecko",
-                "openocean"
-            ]
-        },
-        {
             "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
             "symbol": "COMBO",
             "name": "Furucombo",
@@ -29390,9 +29295,8 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0xcd62b1c403fa761baadfc74c525ce2b51780b184.png",
-            "coingeckoId": "anj",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean"
             ]
@@ -32424,9 +32328,8 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png",
-            "coingeckoId": "nectar-token",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean"
             ]
@@ -32639,9 +32542,8 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0xc76fb75950536d98fa62ea968e1d6b45ffea2a55.png",
-            "coingeckoId": "unit-protocol",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "openocean"
             ]
@@ -44114,19 +44016,6 @@
             "listedIn": [
                 "coingecko",
                 "rubic"
-            ]
-        },
-        {
-            "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
-            "symbol": "LID",
-            "name": "Liquidity Dividends Protocol",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://ethapi.openocean.finance/logos/0x0417912b3a7af768051765040a55bb0925d4ddcf.png",
-            "coingeckoId": "liquidity-dividends-protocol",
-            "listedIn": [
-                "coingecko",
-                "openocean"
             ]
         },
         {

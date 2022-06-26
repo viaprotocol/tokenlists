@@ -79,19 +79,6 @@
         ]
     },
     {
-        "address": "0xfa6de2697D59E88Ed7Fc4dFE5A33daC43565ea41",
-        "symbol": "DEFI5",
-        "name": "DEFI Top 5 Tokens Index",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1634696737401_6295364568629955.png",
-        "coingeckoId": "defi-top-5-tokens-index",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
         "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
         "symbol": "COMBO",
         "name": "Furucombo",
@@ -1532,9 +1519,8 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://ethapi.openocean.finance/logos/0xcd62b1c403fa761baadfc74c525ce2b51780b184.png",
-        "coingeckoId": "anj",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean"
         ]
@@ -4566,9 +4552,8 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://ethapi.openocean.finance/logos/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png",
-        "coingeckoId": "nectar-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean"
         ]
@@ -4781,9 +4766,8 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://ethapi.openocean.finance/logos/0xc76fb75950536d98fa62ea968e1d6b45ffea2a55.png",
-        "coingeckoId": "unit-protocol",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean"
         ]
@@ -16256,19 +16240,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
-        "symbol": "LID",
-        "name": "Liquidity Dividends Protocol",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://ethapi.openocean.finance/logos/0x0417912b3a7af768051765040a55bb0925d4ddcf.png",
-        "coingeckoId": "liquidity-dividends-protocol",
-        "listedIn": [
-            "coingecko",
-            "openocean"
         ]
     },
     {
