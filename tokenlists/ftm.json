@@ -1677,19 +1677,6 @@
         ]
     },
     {
-        "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-        "symbol": "KNC",
-        "name": "KyberNetwork",
-        "decimals": 18,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x765277eebeca2e31912c9946eae1021199b39c61/logo.png",
-        "coingeckoId": "kyber-network",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x75e0eB8e6d92ab832bB11E46c041D06a89aC5F0D",
         "symbol": "BIOS",
         "name": "BIOS",
@@ -3138,6 +3125,19 @@
         "chainId": "250",
         "logoURI": "https://api.rubic.exchange/assets/fantom/0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6/logo.png",
         "coingeckoId": "aquarius-fi",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x0e249130b3545a2a287DE9f27d805CAB95f03DB9",
+        "symbol": "FBA",
+        "name": "Firebird Aggregator",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x0e249130b3545a2a287de9f27d805cab95f03db9/logo.png",
+        "coingeckoId": "firebird-aggregator",
         "listedIn": [
             "coingecko",
             "rubic"

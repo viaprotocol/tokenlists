@@ -12973,19 +12973,6 @@
             ]
         },
         {
-            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-            "symbol": "KNC",
-            "name": "KyberNetwork",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x765277eebeca2e31912c9946eae1021199b39c61/logo.png",
-            "coingeckoId": "kyber-network",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x75e0eB8e6d92ab832bB11E46c041D06a89aC5F0D",
             "symbol": "BIOS",
             "name": "BIOS",
@@ -14434,6 +14421,19 @@
             "chainId": "250",
             "logoURI": "https://api.rubic.exchange/assets/fantom/0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6/logo.png",
             "coingeckoId": "aquarius-fi",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x0e249130b3545a2a287DE9f27d805CAB95f03DB9",
+            "symbol": "FBA",
+            "name": "Firebird Aggregator",
+            "decimals": 18,
+            "chainId": "250",
+            "logoURI": "https://api.rubic.exchange/assets/fantom/0x0e249130b3545a2a287de9f27d805cab95f03db9/logo.png",
+            "coingeckoId": "firebird-aggregator",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -17829,11 +17829,12 @@
             "name": "Meshswap Protocol",
             "decimals": 18,
             "chainId": "137",
-            "logoURI": "https://tokens.1inch.io/0x82362ec182db3cf7829014bc61e9be8a2e82868a.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1656329272711_694526707705986.png",
             "coingeckoId": "meshswap-protocol",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "openocean"
             ]
         },
         {
@@ -25785,8 +25786,9 @@
             "decimals": 18,
             "chainId": "1313161554",
             "logoURI": "https://api.rubic.exchange/assets/aurora/0x5183e1b1091804bc2602586919e6880ac1cf2896/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "usn",
             "listedIn": [
+                "coingecko",
                 "trisolaris",
                 "rubic"
             ]
@@ -29176,7 +29178,7 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://ethapi.openocean.finance/logos/0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988.png",
-            "coingeckoId": "terra-virtua-kolect",
+            "coingeckoId": "the-virtua-kolect",
             "listedIn": [
                 "coingecko",
                 "1inch",
