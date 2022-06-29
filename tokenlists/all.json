@@ -20856,19 +20856,6 @@
             ]
         },
         {
-            "address": "0xee2e2868272FD6D51D78412d849500753f9DD579",
-            "symbol": "ASTRO",
-            "name": "ASTRO",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xee2e2868272fd6d51d78412d849500753f9dd579/logo.png",
-            "coingeckoId": "astronodes",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
             "symbol": "CLY",
             "name": "Colony Token",
@@ -25911,6 +25898,19 @@
             "coingeckoId": null,
             "listedIn": [
                 "trisolaris",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x2ab98d9eA81aF20037AF1a4f43CC3e6977545840",
+            "symbol": "ATO",
+            "name": "Atocha Coin",
+            "decimals": 18,
+            "chainId": "1313161554",
+            "logoURI": "https://api.rubic.exchange/assets/aurora/0x2ab98d9ea81af20037af1a4f43cc3e6977545840/logo.png",
+            "coingeckoId": "atocha-coin",
+            "listedIn": [
+                "coingecko",
                 "rubic"
             ]
         },
@@ -47790,6 +47790,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FoqP7aTaibT5npFKYKQQdyonL99vkW8YALNPwWepdvf5/logo.png",
             "coingeckoId": "the-starship-finance",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "FoXyMu5xwXre7zEoSvzViRk3nGawHUp9kUh97y2NDhcq",
+            "symbol": "FOXY",
+            "name": "Famous Fox Federation",
+            "decimals": 0,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FoXyMu5xwXre7zEoSvzViRk3nGawHUp9kUh97y2NDhcq/logo.png",
+            "coingeckoId": "famous-fox-federation",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
