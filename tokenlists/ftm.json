@@ -664,19 +664,6 @@
         ]
     },
     {
-        "address": "0xF1b8C53dE4A10668330537608d79a8B581439221",
-        "symbol": "KLR",
-        "name": "Kalori",
-        "decimals": 18,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xf1b8c53de4a10668330537608d79a8b581439221/logo.png",
-        "coingeckoId": "kalori",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xEb0a2D1b1a33D95204af5d00f65FD9e349419878",
         "symbol": "FDOGE",
         "name": "FDOGE",
@@ -900,6 +887,19 @@
         "chainId": "250",
         "logoURI": "https://api.rubic.exchange/assets/fantom/0xceebde49ec95e21f7ee63c5c6f98cab3519570de/logo.png",
         "coingeckoId": "wrapped-statera",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0xC8Ca9026Ad0882133Ef126824F6852567c571A4E",
+        "symbol": "MSHARE",
+        "name": "MSHARE",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xc8ca9026ad0882133ef126824f6852567c571a4e/logo.png",
+        "coingeckoId": "mshare",
         "listedIn": [
             "coingecko",
             "rubic"

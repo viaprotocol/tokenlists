@@ -3400,6 +3400,19 @@
             ]
         },
         {
+            "address": "0xb001f1E7c8bda414aC7Cf7Ecba5469fE8d24B6de",
+            "symbol": "UCO",
+            "name": "Archethic",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xb001f1e7c8bda414ac7cf7ecba5469fe8d24b6de/logo.png",
+            "coingeckoId": "archethic",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99",
             "symbol": "WIN",
             "name": "WINk",
@@ -10357,19 +10370,6 @@
             ]
         },
         {
-            "address": "0x0F5d8CD195a4539bcf2eC6118C6dA50287c6d5f5",
-            "symbol": "NGL",
-            "name": "Gold Fever Native Gold [via ChainPort.io]",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x0f5d8cd195a4539bcf2ec6118c6da50287c6d5f5/logo.png",
-            "coingeckoId": "gold-fever-native-gold",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
             "symbol": "ATOM",
             "name": "Cosmos Token",
@@ -11974,19 +11974,6 @@
             ]
         },
         {
-            "address": "0xF1b8C53dE4A10668330537608d79a8B581439221",
-            "symbol": "KLR",
-            "name": "Kalori",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0xf1b8c53de4a10668330537608d79a8b581439221/logo.png",
-            "coingeckoId": "kalori",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xEb0a2D1b1a33D95204af5d00f65FD9e349419878",
             "symbol": "FDOGE",
             "name": "FDOGE",
@@ -12210,6 +12197,19 @@
             "chainId": "250",
             "logoURI": "https://api.rubic.exchange/assets/fantom/0xceebde49ec95e21f7ee63c5c6f98cab3519570de/logo.png",
             "coingeckoId": "wrapped-statera",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0xC8Ca9026Ad0882133Ef126824F6852567c571A4E",
+            "symbol": "MSHARE",
+            "name": "MSHARE",
+            "decimals": 18,
+            "chainId": "250",
+            "logoURI": "https://api.rubic.exchange/assets/fantom/0xc8ca9026ad0882133ef126824f6852567c571a4e/logo.png",
+            "coingeckoId": "mshare",
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -23864,7 +23864,7 @@
             "name": "YUSD Stablecoin",
             "decimals": 18,
             "chainId": "43114",
-            "logoURI": "https://cloudstorage.openocean.finance/images/1650468989477_49131685554495874.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1656578721416_8111554053618262.png",
             "coingeckoId": "yusd-stablecoin",
             "listedIn": [
                 "coingecko",
