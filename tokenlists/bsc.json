@@ -4748,6 +4748,19 @@
         ]
     },
     {
+        "address": "0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617",
+        "symbol": "BLID",
+        "name": "Bolide",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://tokens.1inch.io/0x766afcf83fd5eaf884b3d529b432ca27a6d84617.png",
+        "coingeckoId": "bolide",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
         "symbol": "LINA",
         "name": "Linear Finance",
@@ -6492,6 +6505,7 @@
         "coingeckoId": "xcad-network",
         "listedIn": [
             "coingecko",
+            "1inch",
             "elkfinance"
         ]
     },

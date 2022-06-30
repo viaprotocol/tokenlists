@@ -8906,6 +8906,7 @@
         "coingeckoId": "xcad-network",
         "listedIn": [
             "coingecko",
+            "1inch",
             "rubic"
         ]
     },
@@ -14517,6 +14518,19 @@
             "coingecko",
             "1inch",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+        "symbol": "EUROC",
+        "name": "Euro Coin",
+        "decimals": 6,
+        "chainId": "1",
+        "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420",
+        "coingeckoId": "euro-coin",
+        "listedIn": [
+            "coingecko",
+            "uniswap"
         ]
     },
     {
