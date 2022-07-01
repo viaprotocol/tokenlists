@@ -15080,14 +15080,15 @@
         {
             "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
             "symbol": "VELO",
-            "name": "Velodrome",
+            "name": "Velodrome Finance",
             "decimals": 18,
             "chainId": "10",
-            "logoURI": "https://tokens.1inch.io/0x3c8b650257cfb5f272f799f5e2b4e65093a11a05.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1656664301096_4133387415807357.jpg",
             "coingeckoId": "velodrome-finance",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "openocean"
             ]
         },
         {
@@ -19463,14 +19464,15 @@
         {
             "address": "0x39aB6574c289c3Ae4d88500eEc792AB5B947A5Eb",
             "symbol": "DYST",
-            "name": "Dystopia token",
+            "name": "Dystopia",
             "decimals": 18,
             "chainId": "137",
-            "logoURI": "https://tokens.1inch.io/0x39ab6574c289c3ae4d88500eec792ab5b947a5eb.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1656673019589_6675963284640591.png",
             "coingeckoId": "dystopia",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "openocean"
             ]
         },
         {
@@ -20283,6 +20285,7 @@
                 "coingecko",
                 "1inch",
                 "sushiswap",
+                "openocean",
                 "quickswap"
             ]
         },
@@ -23829,6 +23832,19 @@
             ]
         },
         {
+            "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "decimals": 8,
+            "chainId": "43114",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1656670178703_23116297089352522.svg",
+            "coingeckoId": "bitcoin-avalanche-bridged-btc-b",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
             "symbol": "MIM",
             "name": "Magic Internet Money",
@@ -26169,19 +26185,6 @@
             "coingeckoId": null,
             "listedIn": [
                 "elkfinance",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0xd3a50c0dCE15C12fe64941FFd2B864e887c9B9E1",
-            "symbol": "APE",
-            "name": "HarmonApe",
-            "decimals": 9,
-            "chainId": "1666600000",
-            "logoURI": "https://api.rubic.exchange/assets/harmony/0xd3a50c0dce15c12fe64941ffd2b864e887c9b9e1/logo.png",
-            "coingeckoId": "harmon-ape",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },

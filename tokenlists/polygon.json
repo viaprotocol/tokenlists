@@ -4330,14 +4330,15 @@
     {
         "address": "0x39aB6574c289c3Ae4d88500eEc792AB5B947A5Eb",
         "symbol": "DYST",
-        "name": "Dystopia token",
+        "name": "Dystopia",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://tokens.1inch.io/0x39ab6574c289c3ae4d88500eec792ab5b947a5eb.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1656673019589_6675963284640591.png",
         "coingeckoId": "dystopia",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "openocean"
         ]
     },
     {
@@ -5150,6 +5151,7 @@
             "coingecko",
             "1inch",
             "sushiswap",
+            "openocean",
             "quickswap"
         ]
     },
