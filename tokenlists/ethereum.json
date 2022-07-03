@@ -5231,6 +5231,19 @@
         ]
     },
     {
+        "address": "0xBBa39Fd2935d5769116ce38d46a71bde9cf03099",
+        "symbol": "CHO",
+        "name": "choise.com Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xbba39fd2935d5769116ce38d46a71bde9cf03099/logo.png",
+        "coingeckoId": "choise",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
         "symbol": "AXS",
         "name": "Axie Infinity Shard",
@@ -5793,19 +5806,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
-        ]
-    },
-    {
-        "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
-        "symbol": "QANX",
-        "name": "QANX Token",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa/logo.png",
-        "coingeckoId": "qanplatform",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
