@@ -1646,6 +1646,19 @@
         ]
     },
     {
+        "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+        "symbol": "SFL",
+        "name": "Sunflower Land",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203",
+        "coingeckoId": "sunflower-land",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0xD1A5f2A049343fc4D5F8d478f734eBa51B22375E",
         "symbol": "KEYFI",
         "name": "KeyFi Token",
@@ -5604,6 +5617,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "quickswap",
             "rubic"
         ]
     },
