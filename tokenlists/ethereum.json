@@ -906,9 +906,8 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://cloudstorage.openocean.finance/images/1634701446804_697181923882993.png",
-        "coingeckoId": "sdefi",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean"
         ]
@@ -15798,19 +15797,6 @@
             "coingecko",
             "1inch",
             "openocean"
-        ]
-    },
-    {
-        "address": "0x0BE4447860DdF283884BBaa3702749706750b09e",
-        "symbol": "AGFI",
-        "name": "AggregatedFinance",
-        "decimals": 9,
-        "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0x0be4447860ddf283884bbaa3702749706750b09e/logo.png",
-        "coingeckoId": "aggregatedfinance",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {

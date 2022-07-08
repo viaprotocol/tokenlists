@@ -16852,7 +16852,7 @@
             "decimals": 18,
             "chainId": "137",
             "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c/logo.png",
-            "coingeckoId": "popcorn-2",
+            "coingeckoId": "popcorn",
             "listedIn": [
                 "coingecko",
                 "sushiswap"
@@ -25223,6 +25223,19 @@
             ]
         },
         {
+            "address": "0xa69d9Ba086D41425f35988613c156Db9a88a1A96",
+            "symbol": "USP",
+            "name": "USP",
+            "decimals": 18,
+            "chainId": "1313161554",
+            "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xa69d9Ba086D41425f35988613c156Db9a88a1A96/logo.svg",
+            "coingeckoId": "usp",
+            "listedIn": [
+                "coingecko",
+                "trisolaris"
+            ]
+        },
+        {
             "address": "0xa33C3B53694419824722C10D99ad7cB16Ea62754",
             "symbol": "MECHA",
             "name": "Mecha",
@@ -28707,9 +28720,8 @@
             "decimals": 18,
             "chainId": "1",
             "logoURI": "https://cloudstorage.openocean.finance/images/1634701446804_697181923882993.png",
-            "coingeckoId": "sdefi",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "openocean"
             ]
@@ -43599,19 +43611,6 @@
                 "coingecko",
                 "1inch",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0x0BE4447860DdF283884BBaa3702749706750b09e",
-            "symbol": "AGFI",
-            "name": "AggregatedFinance",
-            "decimals": 9,
-            "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x0be4447860ddf283884bbaa3702749706750b09e/logo.png",
-            "coingeckoId": "aggregatedfinance",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
