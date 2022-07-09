@@ -269,19 +269,6 @@
         ]
     },
     {
-        "address": "0xd7783a275E53FC6746dEDfbAD4a06059937502A4",
-        "symbol": "BIOS",
-        "name": "BIOS",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xd7783a275e53fc6746dedfbad4a06059937502a4/logo.png",
-        "coingeckoId": "bios",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
         "symbol": "BIFI",
         "name": "Beefy Finance",
@@ -1066,6 +1053,19 @@
         ]
     },
     {
+        "address": "0xB648fA7A5f5ED3b3c743140346E3Dc3Fe94a9125",
+        "symbol": "AFINS",
+        "name": "altFINS",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xb648fa7a5f5ed3b3c743140346e3dc3fe94a9125/logo.png",
+        "coingeckoId": "altfins",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
         "symbol": "ANY",
         "name": "Anyswap",
@@ -1433,6 +1433,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x9366d30FeBA284E62900f6295BC28c9906f33172",
+        "symbol": "BioFi",
+        "name": "BioFi",
+        "decimals": 6,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x9366d30feba284e62900f6295bc28c9906f33172/logo.png",
+        "coingeckoId": "biometric-financial",
+        "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -2531,19 +2544,6 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
-        ]
-    },
-    {
-        "address": "0x4480B4DdFb15fE6518817ef024D8B493afF2Db54",
-        "symbol": "BIRD",
-        "name": "BirdToken",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x4480b4ddfb15fe6518817ef024d8b493aff2db54/logo.png",
-        "coingeckoId": "birdy-finance",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {

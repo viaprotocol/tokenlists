@@ -220,11 +220,12 @@
         "name": "USP",
         "decimals": 18,
         "chainId": "1313161554",
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xa69d9Ba086D41425f35988613c156Db9a88a1A96/logo.svg",
+        "logoURI": "https://api.rubic.exchange/assets/aurora/0xa69d9ba086d41425f35988613c156db9a88a1a96/logo.png",
         "coingeckoId": "usp",
         "listedIn": [
             "coingecko",
-            "trisolaris"
+            "trisolaris",
+            "rubic"
         ]
     },
     {
@@ -989,11 +990,12 @@
         "name": "vaporwave.finance",
         "decimals": 18,
         "chainId": "1313161554",
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2451dB68DeD81900C4F16ae1af597E9658689734/logo.svg",
+        "logoURI": "https://api.rubic.exchange/assets/aurora/0x2451db68ded81900c4f16ae1af597e9658689734/logo.png",
         "coingeckoId": "vaporwave",
         "listedIn": [
             "coingecko",
-            "trisolaris"
+            "trisolaris",
+            "rubic"
         ]
     },
     {
