@@ -395,6 +395,7 @@
         "coingeckoId": "dogira",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap"
         ]
     },
@@ -1858,6 +1859,7 @@
         "coingeckoId": "everipedia",
         "listedIn": [
             "coingecko",
+            "1inch",
             "rubic"
         ]
     },
@@ -2550,6 +2552,19 @@
             "coingecko",
             "1inch",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0x8C4476DFEC8e7EEdf2DE3e9E9461B7c14C828d46",
+        "symbol": "UNIX",
+        "name": "UniX Gaming (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x8c4476dfec8e7eedf2de3e9e9461b7c14c828d46.png",
+        "coingeckoId": "unix",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -5615,6 +5630,7 @@
         "coingeckoId": "exchange-genesis-ethlas-medium",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "quickswap"
         ]

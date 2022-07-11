@@ -4144,6 +4144,19 @@
         ]
     },
     {
+        "address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+        "symbol": "UNIX",
+        "name": "UniX Gaming",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8.png",
+        "coingeckoId": "unix",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
         "symbol": "COTI",
         "name": "COTI Token",
@@ -10955,6 +10968,7 @@
         "coingeckoId": "everipedia",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },

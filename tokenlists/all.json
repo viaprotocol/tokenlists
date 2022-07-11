@@ -5949,6 +5949,19 @@
             ]
         },
         {
+            "address": "0x8F49733210700D38098d7375C221c7d02F700cc8",
+            "symbol": "PALLA",
+            "name": "Pallapay",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x8f49733210700d38098d7375c221c7d02f700cc8.png",
+            "coingeckoId": "pallapay",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
             "symbol": "ALPACA",
             "name": "Alpaca",
@@ -14283,19 +14296,6 @@
             ]
         },
         {
-            "address": "0x174c7106AEeCdC11389f7dD21342F05f46CCB40F",
-            "symbol": "DEVIL",
-            "name": "DEVIL Token",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x174c7106aeecdc11389f7dd21342f05f46ccb40f/logo.png",
-            "coingeckoId": "devil-finance",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x164caf66c45e483F7eE647CcaD275B35B4C75719",
             "symbol": "KENSHI",
             "name": "Kenshi",
@@ -15530,6 +15530,7 @@
             "coingeckoId": "dogira",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -16993,6 +16994,7 @@
             "coingeckoId": "everipedia",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "rubic"
             ]
         },
@@ -17685,6 +17687,19 @@
                 "coingecko",
                 "1inch",
                 "sushiswap"
+            ]
+        },
+        {
+            "address": "0x8C4476DFEC8e7EEdf2DE3e9E9461B7c14C828d46",
+            "symbol": "UNIX",
+            "name": "UniX Gaming (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x8c4476dfec8e7eedf2de3e9e9461b7c14c828d46.png",
+            "coingeckoId": "unix",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -20750,6 +20765,7 @@
             "coingeckoId": "exchange-genesis-ethlas-medium",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap",
                 "quickswap"
             ]
@@ -31960,6 +31976,19 @@
             ]
         },
         {
+            "address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+            "symbol": "UNIX",
+            "name": "UniX Gaming",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8.png",
+            "coingeckoId": "unix",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
             "symbol": "COTI",
             "name": "COTI Token",
@@ -38771,6 +38800,7 @@
             "coingeckoId": "everipedia",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
