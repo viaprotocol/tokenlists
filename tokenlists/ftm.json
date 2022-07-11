@@ -1420,19 +1420,6 @@
         ]
     },
     {
-        "address": "0x8B6663725D7e7368B01EeFdDc16Be085e492498E",
-        "symbol": "KISHIMOTO",
-        "name": "Kishimoto Inu",
-        "decimals": 9,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x8b6663725d7e7368b01eefddc16be085e492498e/logo.png",
-        "coingeckoId": "kishimoto-inu",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x89D5e71E275B4bE094Df9551627BCF4E3b24cE22",
         "symbol": "STA",
         "name": "Statera",
@@ -1494,6 +1481,19 @@
         "chainId": "250",
         "logoURI": "https://api.rubic.exchange/assets/fantom/0x8503eb4a136bdbeb323e37aa6e0fa0c772228378/logo.png",
         "coingeckoId": "fbomb",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x84F8D24231DfbBfae7f39415cD09c8f467729fc8",
+        "symbol": "CSC",
+        "name": "CosmicCash",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x84f8d24231dfbbfae7f39415cd09c8f467729fc8/logo.png",
+        "coingeckoId": "cosmic-cash",
         "listedIn": [
             "coingecko",
             "rubic"
