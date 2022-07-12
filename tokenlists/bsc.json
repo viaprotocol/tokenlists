@@ -6709,19 +6709,6 @@
         ]
     },
     {
-        "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
-        "symbol": "DEGO",
-        "name": "Dego.Finance",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC/logo.png",
-        "coingeckoId": "dego-finance",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    {
         "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
         "symbol": "POTS",
         "name": "Moonpot",
@@ -6764,6 +6751,19 @@
             "openocean",
             "elkfinance",
             "rubic"
+        ]
+    },
+    {
+        "address": "0x3Da932456D082CBa208FEB0B096d49b202Bf89c8",
+        "symbol": "DEGOV2",
+        "name": "dego.finance",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://tokens.1inch.io/0x3da932456d082cba208feb0b096d49b202bf89c8.png",
+        "coingeckoId": "dego-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
