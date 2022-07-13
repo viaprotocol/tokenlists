@@ -439,6 +439,7 @@
         "coingeckoId": "orbs",
         "listedIn": [
             "coingecko",
+            "1inch",
             "elkfinance"
         ]
     },
@@ -2023,6 +2024,7 @@
         "coingeckoId": "o3-swap",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "openocean",
             "elkfinance"
@@ -4082,6 +4084,19 @@
             "openocean",
             "elkfinance",
             "rubic"
+        ]
+    },
+    {
+        "address": "0x893169619461d3ABA810A40b5403c62F27e703F9",
+        "symbol": "FWT",
+        "name": "Freeway",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1657704344678_918812933252193.jpg",
+        "coingeckoId": "freeway",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -7175,6 +7190,7 @@
         "coingeckoId": "mask-network",
         "listedIn": [
             "coingecko",
+            "1inch",
             "openocean",
             "elkfinance"
         ]
@@ -8533,6 +8549,19 @@
             "coingecko",
             "openocean",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
+        "symbol": "DATA",
+        "name": "Streamr",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://tokens.1inch.io/0x0864c156b3c5f69824564dec60c629ae6401bf2a.png",
+        "coingeckoId": "streamr",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {

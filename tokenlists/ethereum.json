@@ -2661,6 +2661,19 @@
         ]
     },
     {
+        "address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
+        "symbol": "DUCKER",
+        "name": "Duckereum",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7.png",
+        "coingeckoId": "duckereum",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xa4eF4b0B23C1fc81d3f9ecF93510e64f58A4A016",
         "symbol": "1MIL",
         "name": "1MILNFT",
@@ -10816,6 +10829,19 @@
         ]
     },
     {
+        "address": "0x5CAc718A3AE330d361e39244BF9e67AB17514CE8",
+        "symbol": "COT",
+        "name": "CosplayToken",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x5cac718a3ae330d361e39244bf9e67ab17514ce8.png",
+        "coingeckoId": "cosplay-token-2",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
         "symbol": "DUSD",
         "name": "DefiDollar",
@@ -11794,6 +11820,19 @@
             "1inch",
             "uniswap",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054",
+        "symbol": "XZAR",
+        "name": "South African Tether",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x48f07301e9e29c3c38a80ae8d9ae771f224f1054.png",
+        "coingeckoId": "south-african-tether",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -14555,6 +14594,7 @@
         "coingeckoId": "euro-coin",
         "listedIn": [
             "coingecko",
+            "1inch",
             "uniswap"
         ]
     },

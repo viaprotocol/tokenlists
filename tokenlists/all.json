@@ -2401,6 +2401,7 @@
             "coingeckoId": "orbs",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "elkfinance"
             ]
         },
@@ -3985,6 +3986,7 @@
             "coingeckoId": "o3-swap",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap",
                 "openocean",
                 "elkfinance"
@@ -6044,6 +6046,19 @@
                 "openocean",
                 "elkfinance",
                 "rubic"
+            ]
+        },
+        {
+            "address": "0x893169619461d3ABA810A40b5403c62F27e703F9",
+            "symbol": "FWT",
+            "name": "Freeway",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1657704344678_918812933252193.jpg",
+            "coingeckoId": "freeway",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {
@@ -9137,6 +9152,7 @@
             "coingeckoId": "mask-network",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "openocean",
                 "elkfinance"
             ]
@@ -10495,6 +10511,19 @@
                 "coingecko",
                 "openocean",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
+            "symbol": "DATA",
+            "name": "Streamr",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://tokens.1inch.io/0x0864c156b3c5f69824564dec60c629ae6401bf2a.png",
+            "coingeckoId": "streamr",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -15471,6 +15500,7 @@
             "coingeckoId": "get-token",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -15598,6 +15628,19 @@
             "listedIn": [
                 "elkfinance",
                 "quickswap"
+            ]
+        },
+        {
+            "address": "0xd78C475133731CD54daDCb430F7aAE4F03C1E660",
+            "symbol": "HOPE",
+            "name": "Firebird.Finance",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0xd78c475133731cd54dadcb430f7aae4f03c1e660.png",
+            "coingeckoId": "firebird-finance",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -16444,6 +16487,7 @@
             "coingeckoId": "o3-swap",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -16749,6 +16793,19 @@
             "chainId": "137",
             "logoURI": "https://tokens.1inch.io/0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d.png",
             "coingeckoId": "ptokens-ore",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
+            "address": "0xD4945a3D0De9923035521687D4bf18cC9B0c7c2A",
+            "symbol": "LUXY",
+            "name": "LUXY",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0xd4945a3d0de9923035521687d4bf18cc9b0c7c2a.png",
+            "coingeckoId": "luxy",
             "listedIn": [
                 "coingecko",
                 "1inch"
@@ -17195,8 +17252,22 @@
             "coingeckoId": "polygon-ecosystem-index",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap",
                 "quickswap"
+            ]
+        },
+        {
+            "address": "0xA936e1f747d14fC30d08272D065c8aeF4ab7f810",
+            "symbol": "WLD",
+            "name": "wLitiDAO",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0xa936e1f747d14fc30d08272d065c8aef4ab7f810.png",
+            "coingeckoId": "wlitidao",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -17614,6 +17685,7 @@
             "coingeckoId": "cosplay-token-2",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -18277,6 +18349,7 @@
             "coingeckoId": "nitro-league",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -18421,6 +18494,7 @@
             "coingeckoId": "orbs",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -18987,6 +19061,19 @@
             ]
         },
         {
+            "address": "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
+            "symbol": "jEUR",
+            "name": "Jarvis Synthetic Euro",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c.png",
+            "coingeckoId": "jarvis-synthetic-euro",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
             "symbol": "ICE",
             "name": "Popsicle Finance",
@@ -19362,6 +19449,19 @@
                 "sushiswap",
                 "elkfinance",
                 "rubic"
+            ]
+        },
+        {
+            "address": "0x3a9A81d576d83FF21f26f325066054540720fC34",
+            "symbol": "DATA",
+            "name": "Streamr",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x3a9a81d576d83ff21f26f325066054540720fc34.png",
+            "coingeckoId": "streamr",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -19901,6 +20001,7 @@
             "coingeckoId": "mask-network",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -22175,6 +22276,7 @@
             "logoURI": "https://api.rubic.exchange/assets/avalanche/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7/logo.png",
             "coingeckoId": "tether",
             "listedIn": [
+                "coingecko",
                 "1inch",
                 "openocean",
                 "rubic"
@@ -23453,19 +23555,6 @@
                 "coingecko",
                 "openocean",
                 "elkfinance",
-                "rubic"
-            ]
-        },
-        {
-            "address": "0x37deD665a387a6f170FB60376B3057f09df6c0Ea",
-            "symbol": "$KANDY",
-            "name": "Kandy",
-            "decimals": 9,
-            "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x37ded665a387a6f170fb60376b3057f09df6c0ea/logo.png",
-            "coingeckoId": "kandy",
-            "listedIn": [
-                "coingecko",
                 "rubic"
             ]
         },
@@ -30487,6 +30576,19 @@
             "chainId": "1",
             "logoURI": "https://tokens.1inch.io/0xa58a4f5c4bb043d2cc1e170613b74e767c94189b.png",
             "coingeckoId": "utu-coin",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
+            "address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
+            "symbol": "DUCKER",
+            "name": "Duckereum",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7.png",
+            "coingeckoId": "duckereum",
             "listedIn": [
                 "coingecko",
                 "1inch"
@@ -38648,6 +38750,19 @@
             ]
         },
         {
+            "address": "0x5CAc718A3AE330d361e39244BF9e67AB17514CE8",
+            "symbol": "COT",
+            "name": "CosplayToken",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x5cac718a3ae330d361e39244bf9e67ab17514ce8.png",
+            "coingeckoId": "cosplay-token-2",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
             "symbol": "DUSD",
             "name": "DefiDollar",
@@ -39626,6 +39741,19 @@
                 "1inch",
                 "uniswap",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054",
+            "symbol": "XZAR",
+            "name": "South African Tether",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x48f07301e9e29c3c38a80ae8d9ae771f224f1054.png",
+            "coingeckoId": "south-african-tether",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -42387,6 +42515,7 @@
             "coingeckoId": "euro-coin",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "uniswap"
             ]
         },

@@ -1361,6 +1361,7 @@
         "logoURI": "https://api.rubic.exchange/assets/avalanche/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
+            "coingecko",
             "1inch",
             "openocean",
             "rubic"
@@ -2639,19 +2640,6 @@
             "coingecko",
             "openocean",
             "elkfinance",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x37deD665a387a6f170FB60376B3057f09df6c0Ea",
-        "symbol": "$KANDY",
-        "name": "Kandy",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x37ded665a387a6f170fb60376b3057f09df6c0ea/logo.png",
-        "coingeckoId": "kandy",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
