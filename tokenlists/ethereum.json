@@ -1420,6 +1420,19 @@
         ]
     },
     {
+        "address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
+        "symbol": "ADS",
+        "name": "Adshares",
+        "decimals": 11,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a.png",
+        "coingeckoId": "adshares",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
         "symbol": "FLOKI",
         "name": "FLOKI",
@@ -3587,7 +3600,6 @@
         "coingeckoId": "decentral-games-old",
         "listedIn": [
             "coingecko",
-            "1inch",
             "sushiswap"
         ]
     },
@@ -9446,6 +9458,19 @@
         ]
     },
     {
+        "address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+        "symbol": "IOTX",
+        "name": "IoTeX",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "uniswap"
+        ]
+    },
+    {
         "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
         "symbol": "INST",
         "name": "Instadapp",
@@ -11495,6 +11520,19 @@
         "chainId": "1",
         "logoURI": "https://tokens.1inch.io/0x4c11249814f11b9346808179cf06e71ac328c1b5.png",
         "coingeckoId": "oraichain-token",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x4b520c812E8430659FC9f12f6d0c39026C83588D",
+        "symbol": "DG",
+        "name": "Decentral Games",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x4b520c812e8430659fc9f12f6d0c39026c83588d.png",
+        "coingeckoId": "decentral-games",
         "listedIn": [
             "coingecko",
             "1inch"

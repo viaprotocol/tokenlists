@@ -974,6 +974,19 @@
         ]
     },
     {
+        "address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
+        "symbol": "ADS",
+        "name": "Adshares",
+        "decimals": 11,
+        "chainId": "56",
+        "logoURI": "https://tokens.1inch.io/0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a.png",
+        "coingeckoId": "adshares",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
         "symbol": "XVS",
         "name": "Venus",
@@ -4923,6 +4936,7 @@
         "coingeckoId": "axie-infinity",
         "listedIn": [
             "coingecko",
+            "1inch",
             "openocean",
             "elkfinance"
         ]
