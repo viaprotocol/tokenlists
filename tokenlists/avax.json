@@ -40,6 +40,19 @@
         ]
     },
     {
+        "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+        "symbol": "axlUSDC",
+        "name": "Axelar Wrapped USDC",
+        "decimals": 6,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xfab550568c688d5d8a52c7d794cb93edc26ec0ec/logo.png",
+        "coingeckoId": "axlusdc",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
         "symbol": "PENDLE",
         "name": "Pendle",
@@ -446,6 +459,7 @@
         "coingeckoId": "ankr-reward-bearing-avax",
         "listedIn": [
             "coingecko",
+            "openocean",
             "rubic"
         ]
     },
@@ -2742,19 +2756,6 @@
             "coingecko",
             "sushiswap",
             "openocean",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x2D5433E9D475C78542dbd0d16d7016b9AaB99c1c",
-        "symbol": "BFC",
-        "name": "Big Fund Capital DAO",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x2d5433e9d475c78542dbd0d16d7016b9aab99c1c/logo.png",
-        "coingeckoId": "big-fund-capital-dao",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },

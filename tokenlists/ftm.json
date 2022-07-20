@@ -599,19 +599,6 @@
         ]
     },
     {
-        "address": "0xFA5c941BC491Ee6Dc1E933f38d01d8B5D5637205",
-        "symbol": "FROG",
-        "name": "Frog",
-        "decimals": 18,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xfa5c941bc491ee6dc1e933f38d01d8b5d5637205/logo.png",
-        "coingeckoId": "frog-nation-farm",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xF77864FCFfeC4598813E3378681c9330B771cA88",
         "symbol": "CODE7",
         "name": "Code7 Finance",
@@ -2143,19 +2130,6 @@
         ]
     },
     {
-        "address": "0x4f851750a3e6f80f1E1f89C67B56960Bfc29A934",
-        "symbol": "KALM",
-        "name": "Kalmar Token",
-        "decimals": 18,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x4f851750a3e6f80f1e1f89c67b56960bfc29a934/logo.png",
-        "coingeckoId": "kalmar",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
         "symbol": "TSHARE",
         "name": "TSHARE",
@@ -2837,6 +2811,19 @@
         "chainId": "250",
         "logoURI": "https://api.rubic.exchange/assets/fantom/0x1bcf4dc879979c68fa255f731fe8dcf71970c9bc/logo.png",
         "coingeckoId": "syfin",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+        "symbol": "axlUSDC",
+        "name": "Axelar Wrapped USDC",
+        "decimals": 6,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x1b6382dbdea11d97f24495c9a90b7c88469134a4/logo.png",
+        "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko",
             "rubic"
