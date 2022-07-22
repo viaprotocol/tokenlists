@@ -4518,6 +4518,19 @@
         ]
     },
     {
+        "address": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
+        "symbol": "POP",
+        "name": "Popcorn",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4.png",
+        "coingeckoId": "popcorn",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
         "symbol": "WOOFY",
         "name": "Woofy",
@@ -4528,19 +4541,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
-        ]
-    },
-    {
-        "address": "0xCf8f9555D55CE45a3A33a81D6eF99a2a2E71Dee2",
-        "symbol": "CBIX7",
-        "name": "CBI Index 7",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://ethapi.openocean.finance/logos/0xcf8f9555d55ce45a3a33a81d6ef99a2a2e71dee2.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "openocean"
         ]
     },
     {
@@ -13293,6 +13293,7 @@
         "coingeckoId": "data-economy-index",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -13694,6 +13695,19 @@
             "1inch",
             "openocean",
             "rubic"
+        ]
+    },
+    {
+        "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+        "symbol": "BED",
+        "name": "Bankless BED Index",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6.png",
+        "coingeckoId": "bankless-bed-index",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -15828,6 +15842,19 @@
         "chainId": "1",
         "logoURI": "https://tokens.1inch.io/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb.png",
         "coingeckoId": "sota-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
+        "address": "0x0D97Fee619d955509e54B046c9992B6E9F5B0630",
+        "symbol": "PONY",
+        "name": "PONY Index",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://tokens.1inch.io/0x0d97fee619d955509e54b046c9992b6e9f5b0630.png",
+        "coingeckoId": "pony-index",
         "listedIn": [
             "coingecko",
             "1inch"

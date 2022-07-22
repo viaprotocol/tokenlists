@@ -15700,6 +15700,7 @@
             "coingeckoId": "cyclone-protocol",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -15941,6 +15942,19 @@
             ]
         },
         {
+            "address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
+            "symbol": "jCHF",
+            "name": "Jarvis Synthetic Swiss Franc",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0xbd1463f02f61676d53fd183c2b19282bff93d099.png",
+            "coingeckoId": "jarvis-synthetic-swiss-franc",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
             "symbol": "BANANA",
             "name": "Banana",
@@ -16131,6 +16145,7 @@
             "coingeckoId": "global-coin-research",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "rubic"
             ]
         },
@@ -16763,6 +16778,19 @@
             ]
         },
         {
+            "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
+            "symbol": "FBX",
+            "name": "FireBotToken",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0xd125443f38a69d776177c2b9c041f462936f8218.png",
+            "coingeckoId": "firebot",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
             "symbol": "WOOFY",
             "name": "Woofy",
@@ -16824,6 +16852,7 @@
             "coingeckoId": "popcorn",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -17831,6 +17860,7 @@
             "coingeckoId": "modefi",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap",
                 "rubic"
             ]
@@ -17850,6 +17880,19 @@
                 "elkfinance",
                 "quickswap",
                 "rubic"
+            ]
+        },
+        {
+            "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
+            "symbol": "WNT",
+            "name": "Wicrypt Network Token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689.png",
+            "coingeckoId": "wicrypt",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -18314,7 +18357,21 @@
             "coingeckoId": "shapeshift-fox-token",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
+            ]
+        },
+        {
+            "address": "0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0",
+            "symbol": "BONDLY",
+            "name": "Bondly (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://tokens.1inch.io/0x64ca1571d1476b7a21c5aaf9f1a750a193a103c0.png",
+            "coingeckoId": "bondly",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -18746,6 +18803,7 @@
             "coingeckoId": "auruscoin",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "quickswap"
             ]
         },
@@ -32312,6 +32370,19 @@
             ]
         },
         {
+            "address": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
+            "symbol": "POP",
+            "name": "Popcorn",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4.png",
+            "coingeckoId": "popcorn",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
             "symbol": "WOOFY",
             "name": "Woofy",
@@ -32322,19 +32393,6 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap"
-            ]
-        },
-        {
-            "address": "0xCf8f9555D55CE45a3A33a81D6eF99a2a2E71Dee2",
-            "symbol": "CBIX7",
-            "name": "CBI Index 7",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://ethapi.openocean.finance/logos/0xcf8f9555d55ce45a3a33a81d6ef99a2a2e71dee2.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "1inch",
-                "openocean"
             ]
         },
         {
@@ -41087,6 +41145,7 @@
             "coingeckoId": "data-economy-index",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap"
             ]
         },
@@ -41488,6 +41547,19 @@
                 "1inch",
                 "openocean",
                 "rubic"
+            ]
+        },
+        {
+            "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+            "symbol": "BED",
+            "name": "Bankless BED Index",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6.png",
+            "coingeckoId": "bankless-bed-index",
+            "listedIn": [
+                "coingecko",
+                "1inch"
             ]
         },
         {
@@ -43622,6 +43694,19 @@
             "chainId": "1",
             "logoURI": "https://tokens.1inch.io/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb.png",
             "coingeckoId": "sota-finance",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
+            "address": "0x0D97Fee619d955509e54B046c9992B6E9F5B0630",
+            "symbol": "PONY",
+            "name": "PONY Index",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0x0d97fee619d955509e54b046c9992b6e9f5b0630.png",
+            "coingeckoId": "pony-index",
             "listedIn": [
                 "coingecko",
                 "1inch"

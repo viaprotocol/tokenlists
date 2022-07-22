@@ -626,6 +626,7 @@
         "coingeckoId": "cyclone-protocol",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap"
         ]
     },
@@ -867,6 +868,19 @@
         ]
     },
     {
+        "address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
+        "symbol": "jCHF",
+        "name": "Jarvis Synthetic Swiss Franc",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0xbd1463f02f61676d53fd183c2b19282bff93d099.png",
+        "coingeckoId": "jarvis-synthetic-swiss-franc",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
         "symbol": "BANANA",
         "name": "Banana",
@@ -1057,6 +1071,7 @@
         "coingeckoId": "global-coin-research",
         "listedIn": [
             "coingecko",
+            "1inch",
             "rubic"
         ]
     },
@@ -1689,6 +1704,19 @@
         ]
     },
     {
+        "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
+        "symbol": "FBX",
+        "name": "FireBotToken",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0xd125443f38a69d776177c2b9c041f462936f8218.png",
+        "coingeckoId": "firebot",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
         "symbol": "WOOFY",
         "name": "Woofy",
@@ -1750,6 +1778,7 @@
         "coingeckoId": "popcorn",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
         ]
     },
@@ -2757,6 +2786,7 @@
         "coingeckoId": "modefi",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap",
             "rubic"
         ]
@@ -2776,6 +2806,19 @@
             "elkfinance",
             "quickswap",
             "rubic"
+        ]
+    },
+    {
+        "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
+        "symbol": "WNT",
+        "name": "Wicrypt Network Token",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689.png",
+        "coingeckoId": "wicrypt",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -3240,7 +3283,21 @@
         "coingeckoId": "shapeshift-fox-token",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap"
+        ]
+    },
+    {
+        "address": "0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0",
+        "symbol": "BONDLY",
+        "name": "Bondly (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x64ca1571d1476b7a21c5aaf9f1a750a193a103c0.png",
+        "coingeckoId": "bondly",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -3672,6 +3729,7 @@
         "coingeckoId": "auruscoin",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap"
         ]
     },
