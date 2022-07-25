@@ -49,6 +49,7 @@ class TokenListProvider:
     @classmethod
     async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
         res: dict[ChainId, list[Token]] = defaultdict(list)
+
         for chain_id, chain_name in cls.chains.items():
             resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
             num_retries = 0
@@ -145,6 +146,7 @@ class SushiswapTokenLists(TokenListProvider):
         "137": "matic",
         "1287": "moonbase",
         "1285": "moonriver",
+        "1284": "moonbeam",
         "65": "okex-testnet",
         "66": "okex",
         "11297108109": "palm",
@@ -278,6 +280,7 @@ class RubicLists(TokenListProvider):
         "100": "xdai",
         "137": "polygon",
         "250": "fantom",
+        "1284": "moonbeam",
         "1285": "moonriver",
         "42161": "arbitrum",
         "43114": "avalanche",
