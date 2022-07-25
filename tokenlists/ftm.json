@@ -1830,6 +1830,19 @@
         ]
     },
     {
+        "address": "0x68EFc4716507709691d5e7AD9906a44FaBCdb1CA",
+        "symbol": "GEM",
+        "name": "Mine Empire",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x68efc4716507709691d5e7ad9906a44fabcdb1ca/logo.png",
+        "coingeckoId": "mine-empire",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0x666a3776b3e82F171CB1dFF7428B6808D2Cd7d02",
         "symbol": "aCRV",
         "name": "Aladdin cvxCRV",
@@ -1853,19 +1866,6 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436",
-        "symbol": "KAE",
-        "name": "Kanpeki",
-        "decimals": 18,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x65def5029a0e7591e46b38742bfedd1fb7b24436/logo.png",
-        "coingeckoId": "kanpeki",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
