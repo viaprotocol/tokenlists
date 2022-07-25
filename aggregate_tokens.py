@@ -1,6 +1,8 @@
+import argparse
 import asyncio
 import json
 from collections import defaultdict
+from typing import Optional
 
 import httpx
 from web3 import Web3
@@ -47,9 +49,14 @@ class TokenListProvider:
         return res
 
     @classmethod
-    async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
+    async def get_tokenlists(cls, chain_ids: Optional[list[str]] = None) -> dict[str, dict[ChainId, list[Token]]]:
         res: dict[ChainId, list[Token]] = defaultdict(list)
-        for chain_id, chain_name in cls.chains.items():
+        if chain_ids is not None:
+            filtered_chains = {chain_id: value for chain_id, value in cls.chains.items() if chain_id in chain_ids}
+        else:
+            filtered_chains = cls.chains
+
+        for chain_id, chain_name in filtered_chains.items():
             resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
             num_retries = 0
             while resp.status_code != 200:
@@ -302,8 +309,8 @@ tokenlists_providers = [
 ]
 
 
-async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
-    data = await asyncio.gather(*[provider.get_tokenlists() for provider in tokenlists_providers])
+async def collect_trusted_tokens(chain_ids: Optional[list[str]] = None) -> dict[ChainId, dict[Address, Token]]:
+    data = await asyncio.gather(*[provider.get_tokenlists(chain_ids) for provider in tokenlists_providers])
     provider_data: dict[str, dict[ChainId, list[Token]]] = {}
     for prov in data:
         provider_data |= prov
@@ -346,4 +353,15 @@ async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
 
 
 if __name__ == "__main__":
-    asyncio.run(collect_trusted_tokens())
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        '--chain_ids',
+        metavar='chain_ids',
+        type=str,
+        default=None,
+        help='Comma separated list of chain ids to parse. '
+             'For example, "1,56,137", i.e. Ethereum, BSC, Polygon. '
+             'By default, its None, meaning that all chains are aggregated.'
+    )
+    args = parser.parse_args()
+    asyncio.run(collect_trusted_tokens(chain_ids=args.chain_ids.split(',')))
