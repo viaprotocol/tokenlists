@@ -186,19 +186,6 @@
         ]
     },
     {
-        "address": "0xf8E026dC4C0860771f691EcFFBbdfe2fa51c77CF",
-        "symbol": "BGOV",
-        "name": "BGOV Token",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf.png",
-        "coingeckoId": "bgov",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
         "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
         "symbol": "BRY",
         "name": "Berry",
@@ -1143,9 +1130,8 @@
         "decimals": 18,
         "chainId": "56",
         "logoURI": "https://ethapi.openocean.finance/logos/bsc/0xc2e1acef50ae55661855e8dcb72adb182a3cc259.png",
-        "coingeckoId": "bolt-true-share",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean"
         ]
@@ -1357,19 +1343,6 @@
         "listedIn": [
             "coingecko",
             "1inch"
-        ]
-    },
-    {
-        "address": "0xb698AC9bC82C718D8ebA9590564B9a5AA53D58e6",
-        "symbol": "LESS",
-        "name": "LessToken",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6/logo.png",
-        "coingeckoId": "less-network",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1588,19 +1561,6 @@
         ]
     },
     {
-        "address": "0xa86d305A36cDB815af991834B46aD3d7FbB38523",
-        "symbol": "BR34P",
-        "name": "BR34P",
-        "decimals": 8,
-        "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0xa86d305a36cdb815af991834b46ad3d7fbb38523.png",
-        "coingeckoId": "br34p",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
         "address": "0xa4838122c683f732289805FC3C207Febd55BabDD",
         "symbol": "TRIAS",
         "name": "\bTrias Token",
@@ -1753,32 +1713,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "address": "0xFD9FacA15558eb243aC0012Cf7ACfBf480574668",
-        "symbol": "MVRS",
-        "name": "Meta MVRS ",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1641123160525_6233421079814339.png",
-        "coingeckoId": "meta-mvrs",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0xFB981ED9A92377CA4d75D924b9CA06df163924fd",
-        "symbol": "SA",
-        "name": "Superalgos",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0xfb981ed9a92377ca4d75d924b9ca06df163924fd.png",
-        "coingeckoId": "superalgos",
-        "listedIn": [
-            "coingecko",
-            "1inch"
         ]
     },
     {
@@ -3525,19 +3459,6 @@
         "listedIn": [
             "coingecko",
             "1inch"
-        ]
-    },
-    {
-        "address": "0x988c11625472340b7B36FF1534893780E0d8d841",
-        "symbol": "wCCX",
-        "name": "WrappedConceal",
-        "decimals": 6,
-        "chainId": "56",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0x988c11625472340b7B36FF1534893780E0d8d841/logo.png",
-        "coingeckoId": "wrapped-conceal",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
@@ -5314,9 +5235,8 @@
         "decimals": 6,
         "chainId": "56",
         "logoURI": "https://elk.finance/tokens/logos/bsc/0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F/logo.png",
-        "coingeckoId": "blink",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "sushiswap",
             "elkfinance"
@@ -8316,19 +8236,6 @@
         ]
     },
     {
-        "address": "0x0e6457233baA6477F660666624Dc29d8e88d9fdf",
-        "symbol": "NOC",
-        "name": "NewOriginToken",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x0e6457233baa6477f660666624dc29d8e88d9fdf/logo.png",
-        "coingeckoId": "new-origin",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
         "symbol": "sBDO",
         "name": "bDollar Share",
@@ -8615,19 +8522,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "address": "0x050787DE0cF5Da03D9387b344334D51cAE5DD0Fd",
-        "symbol": "PEKC",
-        "name": "PEACOCKCOIN",
-        "decimals": 9,
-        "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0x050787de0cf5da03d9387b344334d51cae5dd0fd.png",
-        "coingeckoId": "peacockcoin",
-        "listedIn": [
-            "coingecko",
-            "1inch"
         ]
     },
     {
@@ -8920,19 +8814,6 @@
         "listedIn": [
             "coingecko",
             "openocean"
-        ]
-    },
-    {
-        "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
-        "symbol": "CHI",
-        "name": "Chi Gastoken by 1inch",
-        "decimals": 0,
-        "chainId": "56",
-        "logoURI": "https://tokens.1inch.io/0x0000000000004946c0e9f43f4dee607b0ef1fa1c.png",
-        "coingeckoId": "chi-gastoken-bsc",
-        "listedIn": [
-            "coingecko",
-            "1inch"
         ]
     }
 ]
