@@ -24916,11 +24916,12 @@
             "name": "Wrapped ETH",
             "decimals": 18,
             "chainId": "25",
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png",
             "coingeckoId": "weth",
             "listedIn": [
                 "coingecko",
-                "elkfinance"
+                "elkfinance",
+                "cronaswap"
             ]
         },
         {
@@ -24937,16 +24938,56 @@
             ]
         },
         {
+            "address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
+            "symbol": "VSHARE",
+            "name": "VSHARE",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD/logo.png",
+            "coingeckoId": "v3s-share",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xc9FDE867a14376829Ab759F4C4871F67e2d3E441",
+            "symbol": "SPHERE",
+            "name": "SPHERE Token",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc9FDE867a14376829Ab759F4C4871F67e2d3E441/logo.png",
+            "coingeckoId": "cronosphere",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
+            "symbol": "ESSO",
+            "name": "ESSO Token",
+            "decimals": 8,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.svg",
+            "coingeckoId": null,
+            "listedIn": [
+                "elkfinance",
+                "cronaswap"
+            ]
+        },
+        {
             "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
             "symbol": "USDC",
-            "name": "USDC",
+            "name": "USD Coin",
             "decimals": 6,
             "chainId": "25",
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59/logo.png",
             "coingeckoId": "usd-coin",
             "listedIn": [
                 "coingecko",
-                "elkfinance"
+                "elkfinance",
+                "cronaswap"
             ]
         },
         {
@@ -24963,42 +25004,175 @@
             ]
         },
         {
-            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
-            "symbol": "DAI",
-            "name": "DAI",
+            "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+            "symbol": "CRONA",
+            "name": "Crona Token",
             "decimals": 18,
             "chainId": "25",
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xadbd1231fb360047525BEdF962581F3eee7b49fe/logo.png",
+            "coingeckoId": "cronaswap",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353",
+            "symbol": "CROISSANT",
+            "name": "Croissant Games",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353/logo.png",
+            "coingeckoId": "croissant-games",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+            "symbol": "DAI",
+            "name": "Dai Stablecoin",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png",
             "coingeckoId": "dai",
             "listedIn": [
                 "coingecko",
-                "elkfinance"
+                "elkfinance",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651",
+            "symbol": "LHRC",
+            "name": "Lazy Horse Race Club",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651/logo.png",
+            "coingeckoId": "lazy-horse-race-club",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
+            "symbol": "CRYSTL",
+            "name": "CRYSTL Token",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B/logo.png",
+            "coingeckoId": "crystl-finance",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xABd380327Fe66724FFDa91A87c772FB8D00bE488",
+            "symbol": "LIQ",
+            "name": "Liquidus",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xABd380327Fe66724FFDa91A87c772FB8D00bE488/logo.png",
+            "coingeckoId": "liquidus",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0xA4434AFEae0dECb9820D906BF01b13291D00651a",
+            "symbol": "AGL",
+            "name": "Agile",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xA4434AFEae0dECb9820D906BF01b13291D00651a/logo.png",
+            "coingeckoId": "agile",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+            "symbol": "DARK",
+            "name": " DarkCrypto",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5/logo.png",
+            "coingeckoId": "darkcrypto",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00",
+            "symbol": "CRN",
+            "name": "CroNode",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00/logo.png",
+            "coingeckoId": "cronodes",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0x6ef20cA7E493c52095e892DAB78a7FD0e7e2a279",
+            "symbol": "CROSS",
+            "name": "AvtoCROSS",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6ef20cA7E493c52095e892DAB78a7FD0e7e2a279/logo.png",
+            "coingeckoId": "cronos-stable-swap",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0x6B66fCB66Dba37F99876a15303b759c73fc54ed0",
+            "symbol": "cHIBIKI",
+            "name": "Hibiki finance",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6B66fCB66Dba37F99876a15303b759c73fc54ed0/logo.png",
+            "coingeckoId": "hibiki-finance",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
             ]
         },
         {
             "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
             "symbol": "USDT",
-            "name": "USDT",
+            "name": "Tether USD",
             "decimals": 6,
             "chainId": "25",
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png",
             "coingeckoId": "tether",
             "listedIn": [
                 "coingecko",
-                "elkfinance"
+                "elkfinance",
+                "cronaswap"
             ]
         },
         {
             "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
             "symbol": "WCRO",
-            "name": "Wrapped CRO",
+            "name": "WCRO Token",
             "decimals": 18,
             "chainId": "25",
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png",
             "coingeckoId": "wrapped-cro",
             "listedIn": [
                 "coingecko",
-                "elkfinance"
+                "elkfinance",
+                "cronaswap"
             ]
         },
         {
@@ -25007,11 +25181,12 @@
             "name": "CroBank",
             "decimals": 9,
             "chainId": "25",
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC/logo.png",
             "coingeckoId": "crobank",
             "listedIn": [
                 "coingecko",
-                "elkfinance"
+                "elkfinance",
+                "cronaswap"
             ]
         },
         {
@@ -25028,16 +25203,43 @@
             ]
         },
         {
+            "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+            "symbol": "ADA",
+            "name": "ADA Token",
+            "decimals": 6,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0/logo.svg",
+            "coingeckoId": "wrapped-ada",
+            "listedIn": [
+                "coingecko",
+                "cronaswap"
+            ]
+        },
+        {
+            "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+            "symbol": "AUTO",
+            "name": "AUTOv2 Token",
+            "decimals": 18,
+            "chainId": "25",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "elkfinance",
+                "cronaswap"
+            ]
+        },
+        {
             "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
-            "symbol": "wBTC",
+            "symbol": "WBTC",
             "name": "Wrapped BTC",
             "decimals": 8,
             "chainId": "25",
-            "logoURI": "https://elk.finance/tokens/logos/cronos/0x062E66477Faf219F25D27dCED647BF57C3107d52/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x062E66477Faf219F25D27dCED647BF57C3107d52/logo.png",
             "coingeckoId": "wrapped-bitcoin",
             "listedIn": [
                 "coingecko",
-                "elkfinance"
+                "elkfinance",
+                "cronaswap"
             ]
         }
     ],

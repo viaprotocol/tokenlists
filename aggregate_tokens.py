@@ -275,6 +275,7 @@ class RubicLists(TokenListProvider):
         "-2": "near",
         "-1": "solana",
         "1": "ethereum",
+        # "25": "cronos",
         '40': 'telos',
         "56": "binance-smart-chain",
         "100": "xdai",
@@ -287,6 +288,12 @@ class RubicLists(TokenListProvider):
         "1313161554": "aurora",
         "1666600000": "harmony",
     }
+
+
+class CronaSwapLists(TokenListProvider):
+    name = "cronaswap"
+    base_url = "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos.json"
+    chains = {'25': 'cronos'}
 
 
 tokenlists_providers = [
@@ -302,6 +309,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     RubicLists,
+    CronaSwapLists,
 ]
 
 
