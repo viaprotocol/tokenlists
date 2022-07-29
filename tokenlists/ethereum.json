@@ -936,7 +936,6 @@
         "coingeckoId": "cerby-token",
         "listedIn": [
             "coingecko",
-            "1inch",
             "sushiswap"
         ]
     },
@@ -3426,6 +3425,7 @@
         "coingeckoId": "dxsale-network",
         "listedIn": [
             "coingecko",
+            "1inch",
             "rubic"
         ]
     },
@@ -7452,19 +7452,6 @@
         ]
     },
     {
-        "address": "0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F",
-        "symbol": "SAITAMA",
-        "name": "Saitama Inu",
-        "decimals": 9,
-        "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
         "symbol": "AKRO",
         "name": "Akropolis",
@@ -7779,7 +7766,6 @@
         "logoURI": "https://api.rubic.exchange/assets/ethereum/0x8762db106b2c2a0bccb3a80d1ed41273552616e8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
             "sushiswap",
             "openocean",
             "rubic"

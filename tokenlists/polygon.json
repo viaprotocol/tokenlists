@@ -54,6 +54,19 @@
         ]
     },
     {
+        "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+        "symbol": "SYN",
+        "name": "Synapse",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1659091490088_7069071853576678.jpg",
+        "coingeckoId": "synapse-2",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "address": "0xf5EA626334037a2cf0155D49eA6462fDdC6Eff19",
         "symbol": "SPADE",
         "name": "PolygonFarm Finance",
@@ -1400,15 +1413,16 @@
     {
         "address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
         "symbol": "DFX",
-        "name": "DFX Token",
+        "name": "DFX Finance",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395/logo.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1659091862792_3888622196451825.png",
         "coingeckoId": "dfx-finance",
         "listedIn": [
             "coingecko",
             "1inch",
-            "sushiswap"
+            "sushiswap",
+            "openocean"
         ]
     },
     {
@@ -1854,14 +1868,15 @@
     {
         "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
         "symbol": "DFYN",
-        "name": "DFYN Token",
+        "name": "Dfyn Network",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://tokens.1inch.io/0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1659091813351_7113734711591275.png",
         "coingeckoId": "dfyn-network",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "openocean"
         ]
     },
     {
@@ -2308,13 +2323,14 @@
         "name": "Balancer",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3/logo.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1659090722075_30192828471605826.png",
         "coingeckoId": "balancer",
         "listedIn": [
             "coingecko",
             "1inch",
             "uniswap",
-            "sushiswap"
+            "sushiswap",
+            "openocean"
         ]
     },
     {
@@ -2354,6 +2370,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "openocean",
             "elkfinance",
             "rubic"
         ]
@@ -2439,6 +2456,19 @@
         ]
     },
     {
+        "address": "0x9246a5F10A79a5a939b0C2a75A3AD196aAfDB43b",
+        "symbol": "BETS",
+        "name": "BetSwirl Token",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18453.png",
+        "coingeckoId": "betswirl",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0x90F3edc7D5298918F7BB51694134b07356F7d0C7",
         "symbol": "DDAO",
         "name": "DEFI HUNTERS DAO Token",
@@ -2476,6 +2506,19 @@
             "coingecko",
             "1inch",
             "quickswap"
+        ]
+    },
+    {
+        "address": "0x8f6196901a4a153d8eE8F3fa779A042F6092D908",
+        "symbol": "SALE",
+        "name": "DxSale.Network (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x8f6196901a4a153d8ee8f3fa779a042f6092d908.png",
+        "coingeckoId": "dxsale-network",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -2670,6 +2713,19 @@
             "elkfinance",
             "quickswap",
             "rubic"
+        ]
+    },
+    {
+        "address": "0x89eF0900b0A6b5548ab2FF58EF588F9433b5fCf5",
+        "symbol": "CRBN",
+        "name": "Carbon (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x89ef0900b0a6b5548ab2ff58ef588f9433b5fcf5.png",
+        "coingeckoId": "carbon",
+        "listedIn": [
+            "coingecko",
+            "1inch"
         ]
     },
     {
@@ -4175,6 +4231,19 @@
         ]
     },
     {
+        "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+        "symbol": "JPYC",
+        "name": "JPY Coin",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x431d5dff03120afa4bdf332c61a6e1766ef37bdb.png",
+        "coingeckoId": "jpy-coin",
+        "listedIn": [
+            "coingecko",
+            "1inch"
+        ]
+    },
+    {
         "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
         "symbol": "PYR",
         "name": "PYR Token",
@@ -5283,15 +5352,16 @@
     {
         "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
         "symbol": "KNC",
-        "name": "Kyber Network Crystal v2",
+        "name": "Kyber Network Crystal",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C/logo.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1659091376583_2874595764042496.png",
         "coingeckoId": "kyber-network-crystal",
         "listedIn": [
             "coingecko",
             "1inch",
-            "sushiswap"
+            "sushiswap",
+            "openocean"
         ]
     },
     {
@@ -5394,6 +5464,7 @@
             "1inch",
             "uniswap",
             "sushiswap",
+            "openocean",
             "rubic"
         ]
     },
@@ -5607,6 +5678,7 @@
             "coingecko",
             "1inch",
             "sushiswap",
+            "openocean",
             "elkfinance",
             "rubic"
         ]
