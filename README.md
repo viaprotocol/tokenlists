@@ -58,6 +58,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Moonbeam, 22 tokens
 - Optimism, 18 tokens
 - Fuse, 16 tokens
+- Boba, 12 tokens
 - Telos, 10 tokens
 
 Testnets:

@@ -302,6 +302,12 @@ class Ubeswap(TokenListProvider):
     chains = {'42220': 'celo'}
 
 
+class OolongSwap(TokenListProvider):
+    name = "oolongswap"
+    base_url = "https://raw.githubusercontent.com/OolongSwap/boba-community-token-list/main/src/tokens/boba.json"
+    chains = {'288': 'boba'}
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -317,6 +323,7 @@ tokenlists_providers = [
     RubicLists,
     CronaSwapLists,
     Ubeswap,
+    OolongSwap,
 ]
 
 
