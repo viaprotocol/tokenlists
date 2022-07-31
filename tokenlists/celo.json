@@ -384,45 +384,6 @@
         ]
     },
     {
-      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
-      "symbol": "FTM",
-      "name": "Fantom",
-      "decimals": 18,
-      "chainId": "42220",
-      "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png",
-      "coingeckoId": "fantom",
-      "listedIn": [
-          "sushiswap",
-          "ubeswap"
-      ]
-    },
-    {
-      "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
-      "symbol": "BNB",
-      "name": "Binance",
-      "decimals": 18,
-      "chainId": "42220",
-      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
-      "coingeckoId": "binancecoin",
-      "listedIn": [
-          "sushiswap",
-          "ubeswap"
-      ]
-    },
-    {
-      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
-      "symbol": "MATIC",
-      "name": "Matic",
-      "decimals": 18,
-      "chainId": "42220",
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
-      "coingeckoId": "matic-network",
-      "listedIn": [
-          "sushiswap",
-          "ubeswap"
-      ]
-    },
-    {
         "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
         "symbol": "cETH",
         "name": "wrapped.com Ethereum",
@@ -434,19 +395,6 @@
             "coingecko",
             "sushiswap",
             "ubeswap"
-        ]
-    },
-    {
-        "address": "0xB9C8F0d3254007eE4b98970b94544e473Cd610EC",
-        "symbol": "MAI",
-        "name": "Mai Stablecoin",
-        "decimals": 18,
-        "chainId": "42220",
-        "logoURI": "https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png",
-        "coingeckoId": "mimatic",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
