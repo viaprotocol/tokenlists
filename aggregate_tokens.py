@@ -296,6 +296,12 @@ class CronaSwapLists(TokenListProvider):
     chains = {'25': 'cronos'}
 
 
+class Ubeswap(TokenListProvider):
+    name = "ubeswap"
+    base_url = "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json"
+    chains = {'42220': 'celo'}
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -310,6 +316,7 @@ tokenlists_providers = [
     TrisolarisLabsLists,
     RubicLists,
     CronaSwapLists,
+    Ubeswap,
 ]
 
 
