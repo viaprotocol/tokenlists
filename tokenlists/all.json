@@ -5042,19 +5042,6 @@
             ]
         },
         {
-            "address": "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
-            "symbol": "WAULTx",
-            "name": "Wault",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://elk.finance/tokens/logos/bsc/0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21/logo.png",
-            "coingeckoId": "wault",
-            "listedIn": [
-                "coingecko",
-                "elkfinance"
-            ]
-        },
-        {
             "address": "0xB44c63a09adF51f5E62CC7B63628b1B789941FA0",
             "symbol": "RFX",
             "name": "Reflex",
@@ -9951,6 +9938,19 @@
             "listedIn": [
                 "coingecko",
                 "openocean"
+            ]
+        },
+        {
+            "address": "0x1a38F34dF3E4E480BFc57b789F605ce87B807848",
+            "symbol": "NOE",
+            "name": "NOE CRYPTO BANK",
+            "decimals": 9,
+            "chainId": "56",
+            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x1a38f34df3e4e480bfc57b789f605ce87b807848/logo.png",
+            "coingeckoId": "noe-crypto-bank",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -47442,6 +47442,19 @@
             "chainId": "-1",
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bonegFPgrpZ4bfVn3kQK1aMbGYddWtfMAywNt5LsuVE/logo.png",
             "coingeckoId": "soul-dog-city-bones",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
+            ]
+        },
+        {
+            "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+            "symbol": "bSOL",
+            "name": "BlazeStake Staked SOL (bSOL)",
+            "decimals": 9,
+            "chainId": "-1",
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png",
+            "coingeckoId": "blazestake-staked-sol",
             "listedIn": [
                 "coingecko",
                 "solanalabs"
