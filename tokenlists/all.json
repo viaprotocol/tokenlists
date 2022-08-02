@@ -339,7 +339,7 @@
             "decimals": 18,
             "chainId": "42161",
             "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xfa42da1bd08341537a44a4ca9d236d1c00a98b40/logo.png",
-            "coingeckoId": "carbon-finance",
+            "coingeckoId": null,
             "listedIn": [
                 "coingecko",
                 "openocean",
@@ -412,7 +412,7 @@
             "decimals": 9,
             "chainId": "42161",
             "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xeb6f8eebc83d85120f9299b84da558825685570e/logo.png",
-            "coingeckoId": "arbirise-finance",
+            "coingeckoId": null,
             "listedIn": [
                 "coingecko",
                 "rubic"
@@ -21096,6 +21096,19 @@
             ]
         },
         {
+            "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+            "symbol": "ANKR",
+            "name": "Ankr",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1659431576500_25993195283476345.jpg",
+            "coingeckoId": "ankr",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "address": "0x0e98C977B943f06075b2D795794238fBfB9b9a34",
             "symbol": "TOMB",
             "name": "TOMB",
@@ -24212,6 +24225,7 @@
             "coingeckoId": "ankr",
             "listedIn": [
                 "coingecko",
+                "openocean",
                 "rubic"
             ]
         },
