@@ -17,9 +17,10 @@ class TokenListProvider:
     chains: dict[ChainId, str]
     _by_chain_id = False
     _tokens_to_list = False
+    _check_chain_id = False  # True if tokenlist contains all chains at once and we should filter each chain
 
-    @staticmethod
-    def _filter_tokens(tokens: list[Token], chain_id: str) -> list[Token]:
+    @classmethod
+    def _filter_tokens(cls, tokens: list[Token], chain_id: str) -> list[Token]:
         res = []
         for token in tokens:
             if not token["address"]:
@@ -32,16 +33,25 @@ class TokenListProvider:
                 logo = token.get("logoURI") or token.get("icon") or token.get("image")
                 if logo and logo.startswith('//'):
                     logo = 'https:' + logo
-                t = Token(
-                    address=token["address"],
-                    symbol=token["symbol"],
-                    name=token["name"],
-                    decimals=token["decimals"],
-                    chainId=chain_id,
-                    logoURI=logo,
-                    coingeckoId=cg_id
-                )
-                res.append(t)
+
+                add_token = True
+                if cls._check_chain_id:
+                    if 'chainId' in token and str(token['chainId']) != chain_id:
+                        add_token = False
+                    elif 'chain_id' in token and str(token['chain_id']) != chain_id:
+                        add_token = False
+
+                if add_token:
+                    t = Token(
+                        address=token["address"],
+                        symbol=token["symbol"],
+                        name=token["name"],
+                        decimals=token["decimals"],
+                        chainId=chain_id,
+                        logoURI=logo,
+                        coingeckoId=cg_id
+                    )
+                    res.append(t)
             except Exception as exc:
                 print(chain_id, token["address"], exc, token)
         return res
