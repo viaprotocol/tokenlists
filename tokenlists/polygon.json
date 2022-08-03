@@ -19,12 +19,11 @@
         "name": "CelsiusX Wrapped ETH",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://i.ibb.co/VDPBwHS/cx-ETH-128x128.png",
+        "logoURI": "https://tokens.1inch.io/0xfe4546fefe124f30788c4cc1bb9aa6907a7987f9.png",
         "coingeckoId": "celsiusx-wrapped-eth",
         "listedIn": [
             "coingecko",
-            "1inch",
-            "quickswap"
+            "1inch"
         ]
     },
     {
@@ -663,13 +662,12 @@
         "name": "renDOGE",
         "decimals": 8,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/13796/small/renDOGE.png?1611897869",
+        "logoURI": "https://elk.finance/tokens/logos/matic/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png",
         "coingeckoId": "rendoge",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "quickswap"
+            "elkfinance"
         ]
     },
     {
@@ -1063,19 +1061,6 @@
         ]
     },
     {
-        "address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
-        "symbol": "PLR",
-        "name": "PILLAR",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/809/small/v2logo-1.png?1624906282",
-        "coingeckoId": "pillar",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
         "symbol": "GCR",
         "name": "Global Coin Research (PoS)",
@@ -1426,19 +1411,6 @@
         ]
     },
     {
-        "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
-        "symbol": "UST",
-        "name": "Wrapped UST Token",
-        "decimals": 6,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407",
-        "coingeckoId": "terrausd-wormhole",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
         "symbol": "GNS",
         "name": "Gains Network",
@@ -1603,7 +1575,6 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "quickswap",
             "rubic"
         ]
     },
@@ -1689,19 +1660,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "quickswap"
-        ]
-    },
-    {
-        "address": "0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2",
-        "symbol": "cxBTC",
-        "name": "CelsiusX Wrapped BTC",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://i.ibb.co/3fQ0Vx9/Group-66.png",
-        "coingeckoId": "celsiusx-wrapped-btc",
-        "listedIn": [
-            "coingecko",
             "quickswap"
         ]
     },
@@ -1911,19 +1869,6 @@
         ]
     },
     {
-        "address": "0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40",
-        "symbol": "MCRN",
-        "name": "MacaronSwap Token",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/14633/small/macaron.png?1623038435",
-        "coingeckoId": "macaronswap",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
         "symbol": "IQ",
         "name": "Everipedia IQ (PoS)",
@@ -2046,16 +1991,15 @@
     {
         "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
         "symbol": "DINO",
-        "name": "DinoSwap",
+        "name": "DinoSwap (PoS)",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/17103/small/DINO.png?1626244014",
+        "logoURI": "https://ethapi.openocean.finance/logos/polygon/0xaa9654becca45b5bdfa5ac646c939c62b527d394.png",
         "coingeckoId": "dinoswap",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "openocean",
-            "quickswap"
+            "openocean"
         ]
     },
     {
@@ -2145,11 +2089,12 @@
         "name": "wLitiDAO",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://tokens.1inch.io/0xa936e1f747d14fc30d08272d065c8aef4ab7f810.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/24106/small/200px-cmc.png?1646376154",
         "coingeckoId": "wlitidao",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "quickswap"
         ]
     },
     {
@@ -2334,19 +2279,6 @@
         ]
     },
     {
-        "address": "0x9a05D1FF699ea187Dc8523E333eD63503f0d82db",
-        "symbol": "BABYQUICK",
-        "name": "BABYQUICK",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://pbs.twimg.com/profile_images/1428328610444742660/4fa6uMzp_400x400.jpg",
-        "coingeckoId": "babyquick",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
         "symbol": "CVOL",
         "name": "Crypto Volatility Token",
@@ -2385,21 +2317,7 @@
         "coingeckoId": "phoenix-token",
         "listedIn": [
             "coingecko",
-            "quickswap",
             "rubic"
-        ]
-    },
-    {
-        "address": "0x9Bd9aD490dD3a52f096D229af4483b94D63BE618",
-        "symbol": "cxDOGE",
-        "name": "CelsiusX Wrapped DOGE",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://i.ibb.co/FH1GMYX/cx-DOGE-128x128.png",
-        "coingeckoId": "celsiusx-wrapped-doge",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
         ]
     },
     {
@@ -2554,7 +2472,6 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "quickswap",
             "rubic"
         ]
     },
@@ -3370,19 +3287,6 @@
         ]
     },
     {
-        "address": "0x64875Aaa68d1d5521666C67d692Ee0B926b08b2F",
-        "symbol": "cxADA",
-        "name": "CelsiusX Wrapped ADA",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://i.ibb.co/x3RcB6Q/cx-ADA-128x128.png",
-        "coingeckoId": "celsiusx-wrapped-ada",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0x638Df98Ad8069a15569dA5a6b01181804c47e34c",
         "symbol": "DAFI",
         "name": "DAFI Token (PoS)",
@@ -3403,6 +3307,19 @@
         "chainId": "137",
         "logoURI": "https://i.imgur.com/71B4h8s.png",
         "coingeckoId": "cryptomeda",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
+        "address": "0x61f95bd637e3034133335C1baA0148E518D438ad",
+        "symbol": "MHUNT",
+        "name": "MetaShooter",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/24985/small/200x200.png?1649681575",
+        "coingeckoId": "metashooter",
         "listedIn": [
             "coingecko",
             "quickswap"
@@ -4271,19 +4188,6 @@
         ]
     },
     {
-        "address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
-        "symbol": "MEM",
-        "name": "Memecoin",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png",
-        "coingeckoId": "memecoin",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
         "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
         "symbol": "PSP",
         "name": "ParaSwap",
@@ -4358,19 +4262,6 @@
         "chainId": "137",
         "logoURI": "https://assets.coingecko.com/coins/images/24736/small/fud.png?1648769512",
         "coingeckoId": "aavegotchi-fud",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
-        ]
-    },
-    {
-        "address": "0x3fB256CFefedb6A54De7465c0EE86dC574AE464D",
-        "symbol": "EMT",
-        "name": "Emanate",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/4152/small/emanate.png?1558422824",
-        "coingeckoId": "emanate",
         "listedIn": [
             "coingecko",
             "quickswap"
@@ -4710,6 +4601,19 @@
         ]
     },
     {
+        "address": "0x346404079b3792a6c548B072B9C4DDdFb92948d5",
+        "symbol": "IUX",
+        "name": "GeniuX",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/26078/small/coin.png?1655886774",
+        "coingeckoId": "geniux",
+        "listedIn": [
+            "coingecko",
+            "quickswap"
+        ]
+    },
+    {
         "address": "0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518",
         "symbol": "PS1",
         "name": "PolysportsToken",
@@ -4746,19 +4650,6 @@
         "listedIn": [
             "elkfinance",
             "rubic"
-        ]
-    },
-    {
-        "address": "0x31042A4E66eDa0d12143ffc8cC1552D611dA4cbA",
-        "symbol": "MITx",
-        "name": "Morpheus Infrastructure Token",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/3164/small/mitx.png?1604888269",
-        "coingeckoId": "morpheus-labs",
-        "listedIn": [
-            "coingecko",
-            "quickswap"
         ]
     },
     {
@@ -5083,19 +4974,6 @@
         "listedIn": [
             "elkfinance",
             "rubic"
-        ]
-    },
-    {
-        "address": "0x2628568509E87c4429fBb5c664Ed11391BE1BD29",
-        "symbol": "renDGB",
-        "name": "renDGB",
-        "decimals": 8,
-        "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/renDGB.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "quickswap"
         ]
     },
     {
