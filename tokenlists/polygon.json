@@ -562,7 +562,7 @@
     {
         "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
         "symbol": "VOXEL",
-        "name": "VOXEL Token",
+        "name": "VOXEL",
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://assets.coingecko.com/coins/images/21260/small/voxies.png?1638789903",
@@ -572,7 +572,8 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "quickswap"
+            "quickswap",
+            "xyfinance"
         ]
     },
     {
@@ -823,10 +824,10 @@
     {
         "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
         "symbol": "USDT",
-        "name": "(PoS) Tether USD",
+        "name": "USDT",
         "decimals": 6,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
@@ -836,7 +837,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -960,10 +962,10 @@
     {
         "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
         "symbol": "UNI",
-        "name": "Uniswap (PoS)",
+        "name": "UNI",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0xb33eaad8d922b1083446dc23f610c2567fb5180f/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604",
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
@@ -973,7 +975,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1089,11 +1092,11 @@
     },
     {
         "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
-        "symbol": "MAI",
-        "name": "MAI",
+        "symbol": "MIMATIC",
+        "name": "MIMATIC",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
@@ -1101,7 +1104,8 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "quickswap"
+            "quickswap",
+            "xyfinance"
         ]
     },
     {
@@ -1411,6 +1415,19 @@
         ]
     },
     {
+        "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+        "symbol": "UST",
+        "name": "UST",
+        "decimals": 6,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/21150/small/UST_wh_small.png?1644223065",
+        "coingeckoId": "terrausd-wormhole",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
         "symbol": "GNS",
         "name": "Gains Network",
@@ -1594,10 +1611,10 @@
     {
         "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
         "symbol": "AAVE",
-        "name": "Aave (PoS)",
+        "name": "AAVE",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0xd6df932a45c0f255f85145f286ea0b292b21c90b/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110",
         "coingeckoId": "aave",
         "listedIn": [
             "coingecko",
@@ -1607,7 +1624,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1865,7 +1883,8 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "quickswap"
+            "quickswap",
+            "xyfinance"
         ]
     },
     {
@@ -2167,10 +2186,10 @@
     {
         "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
         "symbol": "MANA",
-        "name": "(PoS) Decentraland MANA",
+        "name": "MANA",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745",
         "coingeckoId": "decentraland",
         "listedIn": [
             "coingecko",
@@ -2179,7 +2198,8 @@
             "sushiswap",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -2265,17 +2285,18 @@
     {
         "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
         "symbol": "BAL",
-        "name": "Balancer",
+        "name": "BAL",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1659090722075_30192828471605826.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/11683/small/Balancer.png?1592792958",
         "coingeckoId": "balancer",
         "listedIn": [
             "coingecko",
             "1inch",
             "uniswap",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
@@ -2442,10 +2463,10 @@
     {
         "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
         "symbol": "DAI",
-        "name": "(PoS) Dai Stablecoin",
+        "name": "DAI",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
@@ -2455,7 +2476,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -2781,10 +2803,10 @@
     {
         "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
         "symbol": "QUICK",
-        "name": "Quickswap",
+        "name": "QUICK",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x831753dd7087cac61ab5644b308642cc1c33dc13/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/13970/small/1_pOU6pBMEmiL-ZJVb0CYRjQ.png?1613386659",
         "coingeckoId": "quick",
         "listedIn": [
             "coingecko",
@@ -2792,7 +2814,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -2865,10 +2888,10 @@
     {
         "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "symbol": "WETH",
-        "name": "Wrapped Ether",
+        "name": "WETH",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
@@ -2878,7 +2901,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -3450,17 +3474,18 @@
     {
         "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
         "symbol": "GRT",
-        "name": "Graph Token (PoS)",
+        "name": "GRT",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x5fe2b58c013d7601147dcdd68c143a77499f5531/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566",
         "coingeckoId": "the-graph",
         "listedIn": [
             "coingecko",
             "1inch",
             "uniswap",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -3679,17 +3704,18 @@
     {
         "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
         "symbol": "QI",
-        "name": "Qi Dao",
+        "name": "QI",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/qi.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/15329/small/qi.png?1620540969",
         "coingeckoId": "qi-dao",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "elkfinance",
-            "quickswap"
+            "quickswap",
+            "xyfinance"
         ]
     },
     {
@@ -3759,6 +3785,19 @@
         ]
     },
     {
+        "address": "0x55555555A687343C6Ce28C8E1F6641dc71659fAd",
+        "symbol": "XY",
+        "name": "XY",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/21541/small/xy.png?1639913622",
+        "coingeckoId": "xy-finance",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
         "symbol": "$ANRX",
         "name": "AnRKey X (PoS)",
@@ -3776,10 +3815,10 @@
     {
         "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
         "symbol": "LINK",
-        "name": "ChainLink Token",
+        "name": "LINK",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
         "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko",
@@ -3789,13 +3828,14 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
         "address": "0x5314bA045a459f63906Aa7C76d9F337DcB7d6995",
         "symbol": "FODL",
-        "name": "Fodl",
+        "name": "FODL",
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://assets.coingecko.com/coins/images/19040/small/new.jpg?1634559024",
@@ -3803,7 +3843,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "quickswap"
+            "quickswap",
+            "xyfinance"
         ]
     },
     {
@@ -3875,17 +3916,18 @@
     {
         "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
         "symbol": "SNX",
-        "name": "Synthetix Network Token (PoS)",
+        "name": "SNX",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x50b728d8d964fd00c2d0aad81718b71311fef68a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png?1598631139",
         "coingeckoId": "havven",
         "listedIn": [
             "coingecko",
             "1inch",
             "uniswap",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -4108,17 +4150,18 @@
     {
         "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
         "symbol": "FRAX",
-        "name": "Frax",
+        "name": "FRAX",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://polygonscan.com/token/images/frax_32.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png?1608476506",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "quickswap"
+            "quickswap",
+            "xyfinance"
         ]
     },
     {
@@ -4158,6 +4201,19 @@
         "listedIn": [
             "coingecko",
             "1inch"
+        ]
+    },
+    {
+        "address": "0x431CD3C9AC9Fc73644BF68bF5691f4B83F9E104f",
+        "symbol": "RBW",
+        "name": "RBW",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/24498/small/icon_rbw.png?1648019306",
+        "coingeckoId": "rainbow-token-2",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -4709,7 +4765,7 @@
     {
         "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
         "symbol": "TUSD",
-        "name": "TrueUSD",
+        "name": "TUSD",
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665",
@@ -4718,7 +4774,8 @@
             "coingecko",
             "1inch",
             "sushiswap",
-            "quickswap"
+            "quickswap",
+            "xyfinance"
         ]
     },
     {
@@ -4876,6 +4933,19 @@
         ]
     },
     {
+        "address": "0x28accA4ed2F6186c3D93e20e29e6e6a9Af656341",
+        "symbol": "ERP",
+        "name": "ERP",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/19633/small/erp.PNG?1635715161",
+        "coingeckoId": "entropyfi",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
         "symbol": "amWETH",
         "name": "Aave Matic Market WETH",
@@ -4920,10 +4990,10 @@
     {
         "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
         "symbol": "USDC",
-        "name": "USD Coin (PoS)",
+        "name": "USDC",
         "decimals": 6,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x2791bca1f2de4661ed88a30c99a7a9449aa84174/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
@@ -4933,7 +5003,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -5174,16 +5245,17 @@
     {
         "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
         "symbol": "FXS",
-        "name": "Frax Share",
+        "name": "FXS",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1649073312321_4011823693934131.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989",
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
@@ -5245,10 +5317,10 @@
     {
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
         "symbol": "WBTC",
-        "name": "(PoS) Wrapped BTC",
+        "name": "WBTC",
         "decimals": 8,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
@@ -5258,7 +5330,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -5332,10 +5405,10 @@
     {
         "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
         "symbol": "CRV",
-        "name": "CRV (PoS)",
+        "name": "CRV",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x172370d5cd63279efa6d502dab29171933a610af/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484",
         "coingeckoId": "curve-dao-token",
         "listedIn": [
             "coingecko",
@@ -5343,7 +5416,8 @@
             "uniswap",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -5528,10 +5602,10 @@
     {
         "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "symbol": "WMATIC",
-        "name": "Wrapped Matic",
+        "name": "WMATIC",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png?1624446912",
         "coingeckoId": "wmatic",
         "listedIn": [
             "coingecko",
@@ -5541,7 +5615,8 @@
             "openocean",
             "elkfinance",
             "quickswap",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -5560,10 +5635,10 @@
     {
         "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
         "symbol": "SUSHI",
-        "name": "SushiToken (PoS)",
+        "name": "SUSHI",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688",
         "coingeckoId": "sushi",
         "listedIn": [
             "coingecko",
@@ -5571,7 +5646,8 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -5656,14 +5732,15 @@
     {
         "address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
         "symbol": "GFC",
-        "name": "GCOIN",
+        "name": "GFC",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://tokens.1inch.io/0x071ac29d569a47ebffb9e57517f855cb577dcc4c.png",
+        "logoURI": "https://polygonscan.com/token/images/galaxyfightclub_32.png",
         "coingeckoId": "galaxy-fight-club",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "xyfinance"
         ]
     },
     {

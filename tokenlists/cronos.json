@@ -1,5 +1,18 @@
 [
     {
+        "address": "0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa",
+        "symbol": "MSHARE",
+        "name": "MSHARE",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24035/small/SVN_LOGO_%281%29.png?1646117686",
+        "coingeckoId": "meerkat-shares",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
         "symbol": "ELK",
         "name": "Elk",
@@ -13,6 +26,32 @@
         ]
     },
     {
+        "address": "0xeBAceB7F193955b946cC5dd8f8724a80671a1F2F",
+        "symbol": "bCRO",
+        "name": "bCRO",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/bcro.png",
+        "coingeckoId": "bonded-cronos",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
+        "symbol": "BIFI",
+        "name": "BIFI",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182",
+        "coingeckoId": "beefy-finance",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
         "symbol": "WETH",
         "name": "Wrapped ETH",
@@ -23,20 +62,22 @@
         "listedIn": [
             "coingecko",
             "elkfinance",
+            "xyfinance",
             "cronaswap"
         ]
     },
     {
         "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
         "symbol": "CRX",
-        "name": "Crodex Token",
+        "name": "CRX",
         "decimals": 18,
         "chainId": "25",
-        "logoURI": "https://elk.finance/tokens/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/21771/small/j9UTZnAh_400x400.jpg?1639996557",
         "coingeckoId": "crodex",
         "listedIn": [
             "coingecko",
-            "elkfinance"
+            "elkfinance",
+            "xyfinance"
         ]
     },
     {
@@ -89,6 +130,7 @@
         "listedIn": [
             "coingecko",
             "elkfinance",
+            "xyfinance",
             "cronaswap"
         ]
     },
@@ -115,7 +157,21 @@
         "coingeckoId": "cronaswap",
         "listedIn": [
             "coingecko",
+            "xyfinance",
             "cronaswap"
+        ]
+    },
+    {
+        "address": "0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964",
+        "symbol": "CLMRS",
+        "name": "CLMRS",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/CLMRS.png",
+        "coingeckoId": "crolon-mars",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -128,6 +184,7 @@
         "coingeckoId": "croissant-games",
         "listedIn": [
             "coingecko",
+            "xyfinance",
             "cronaswap"
         ]
     },
@@ -142,6 +199,7 @@
         "listedIn": [
             "coingecko",
             "elkfinance",
+            "xyfinance",
             "cronaswap"
         ]
     },
@@ -159,6 +217,32 @@
         ]
     },
     {
+        "address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
+        "symbol": "NESS",
+        "name": "NESS",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24247/small/ness.png?1647094614",
+        "coingeckoId": "darkness-share",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2",
+        "symbol": "TONIC",
+        "name": "TONIC",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/21982/small/TONIC_logo.png?1640575290",
+        "coingeckoId": "tectonic",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
         "symbol": "CRYSTL",
         "name": "CRYSTL Token",
@@ -169,6 +253,32 @@
         "listedIn": [
             "coingecko",
             "cronaswap"
+        ]
+    },
+    {
+        "address": "0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9",
+        "symbol": "CROGE",
+        "name": "CROGE",
+        "decimals": 9,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24903/small/transparent.png?1649335022",
+        "coingeckoId": "crogecoin",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878",
+        "symbol": "METF",
+        "name": "METF",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24282/small/METF_Token-svg.png?1647221647",
+        "coingeckoId": "mad-meerkat-etf",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -198,6 +308,45 @@
         ]
     },
     {
+        "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
+        "symbol": "SKY",
+        "name": "SKY",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/22517/small/logo-token-2.e9c15b63.png?1641968423",
+        "coingeckoId": "darkcrypto-share",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
+        "symbol": "MMF",
+        "name": "MMF",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/22273/small/g7GDg3bv_400x400.jpg?1641344286",
+        "coingeckoId": "mmfinance",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x95aEaF383E2e86A47c11CffdE1F7944eCB2C38C2",
+        "symbol": "MUSD",
+        "name": "MUSD",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/25480/small/musd.png?1652010034",
+        "coingeckoId": "mad-usd",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
         "symbol": "DARK",
         "name": " DarkCrypto",
@@ -207,6 +356,7 @@
         "coingeckoId": "darkcrypto",
         "listedIn": [
             "coingecko",
+            "xyfinance",
             "cronaswap"
         ]
     },
@@ -220,6 +370,7 @@
         "coingeckoId": "cronodes",
         "listedIn": [
             "coingecko",
+            "xyfinance",
             "cronaswap"
         ]
     },
@@ -260,7 +411,34 @@
         "listedIn": [
             "coingecko",
             "elkfinance",
+            "xyfinance",
             "cronaswap"
+        ]
+    },
+    {
+        "address": "0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a",
+        "symbol": "DUSD",
+        "name": "DUSD",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24319/small/DUSD_Logo.png?1647355734",
+        "coingeckoId": "darkness-dollar",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x654bAc3eC77d6dB497892478f854cF6e8245DcA9",
+        "symbol": "SVN",
+        "name": "SVN",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/23692/small/SVN_LOGO.png?1645080153",
+        "coingeckoId": "savanna",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -274,7 +452,21 @@
         "listedIn": [
             "coingecko",
             "elkfinance",
+            "xyfinance",
             "cronaswap"
+        ]
+    },
+    {
+        "address": "0x57d06bB1e3B60C875cD3A4445a53217F9B44d390",
+        "symbol": "PHNX",
+        "name": "PHNX",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24551/small/pf-200.png?1648134213",
+        "coingeckoId": "phenix-finance",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -292,6 +484,71 @@
         ]
     },
     {
+        "address": "0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7",
+        "symbol": "MMO",
+        "name": "MMO",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/22367/small/MMO.png?1641763762",
+        "coingeckoId": "mad-meerkat-optimizer",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x4c76a10A658d71AdB6431765a0a3cA13B6e2D491",
+        "symbol": "CROTAMA",
+        "name": "CROTAMA",
+        "decimals": 2,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24923/small/crotamalogo-200x200.png?1651745551",
+        "coingeckoId": "crotama",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x49ab7ca4D2Cf6777c8C56C5E9Edb7D1218AE1299",
+        "symbol": "BURROW",
+        "name": "BURROW",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/25492/small/BURROW.png?1652075351",
+        "coingeckoId": "mmf-money",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa",
+        "symbol": "ARGO",
+        "name": "ARGO",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/25381/small/argo-protocol.jpeg?1651468819",
+        "coingeckoId": "argo-finance",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+        "symbol": "VVS",
+        "name": "VVS",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/20210/small/8glAYOTM_400x400.jpg?1636667919",
+        "coingeckoId": "vvs-finance",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
         "symbol": "MAI",
         "name": "miMatic",
@@ -302,6 +559,19 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x212331e1435A8df230715dB4C02B2a3A0abF8c61",
+        "symbol": "MAD",
+        "name": "MAD",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/24770/small/mmt_200x200.png?1648817945",
+        "coingeckoId": "mad-bucks",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -331,6 +601,32 @@
         ]
     },
     {
+        "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
+        "symbol": "SINGLE",
+        "name": "SINGLE",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/22616/small/single.png?1642313588",
+        "coingeckoId": "single-finance",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
+        "address": "0x065DE42E28E42d90c2052a1B49e7f83806Af0e1F",
+        "symbol": "CRK",
+        "name": "CRK",
+        "decimals": 9,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/22667/small/Logo_200x200.png?1642403624",
+        "coingeckoId": "croking",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
         "symbol": "WBTC",
         "name": "Wrapped BTC",
@@ -341,7 +637,21 @@
         "listedIn": [
             "coingecko",
             "elkfinance",
+            "xyfinance",
             "cronaswap"
+        ]
+    },
+    {
+        "address": "0x00D7699b71290094CcB1a5884cD835bD65a78c17",
+        "symbol": "VERSA",
+        "name": "VERSA",
+        "decimals": 18,
+        "chainId": "25",
+        "logoURI": "https://assets.coingecko.com/coins/images/25491/small/versa_token_96_96.png?1652074785",
+        "coingeckoId": "versagames",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     }
 ]

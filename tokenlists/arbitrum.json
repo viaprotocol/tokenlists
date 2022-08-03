@@ -31,17 +31,18 @@
     {
         "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
         "symbol": "LINK",
-        "name": "ChainLink Token",
+        "name": "LINK",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xf97f4df75117a78c1a5a0dbb814af92458539fb4/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
         "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -213,17 +214,18 @@
     {
         "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
         "symbol": "SUSHI",
-        "name": "SushiToken",
+        "name": "SUSHI",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xd4d42f0b6def4ce0383636770ef773390d85c61a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688",
         "coingeckoId": "sushi",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -409,10 +411,10 @@
     {
         "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
         "symbol": "USDT",
-        "name": "Tether USD",
+        "name": "USDT",
         "decimals": 6,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
@@ -420,7 +422,8 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -442,10 +445,10 @@
     {
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "symbol": "USDC",
-        "name": "USD Coin Arb1",
+        "name": "USDC",
         "decimals": 6,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
@@ -453,23 +456,25 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
         "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
         "symbol": "MIM",
-        "name": "Magic Internet Money",
+        "name": "MIM",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png?1624979612",
         "coingeckoId": "magic-internet-money",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -555,10 +560,10 @@
     {
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "symbol": "DAI",
-        "name": "Dai Stablecoin",
+        "name": "DAI",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
@@ -566,7 +571,8 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -933,14 +939,15 @@
     {
         "address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
         "symbol": "gOHM",
-        "name": "Governance OHM",
+        "name": "gOHM",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/21129/small/token_wsOHM_logo.png?1638764900",
         "coingeckoId": "governance-ohm",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "xyfinance"
         ]
     },
     {
@@ -1015,10 +1022,10 @@
     {
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "symbol": "WETH",
-        "name": "Wrapped Ether",
+        "name": "WETH",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
@@ -1026,7 +1033,8 @@
             "sushiswap",
             "openocean",
             "elkfinance",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1142,16 +1150,17 @@
     {
         "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
         "symbol": "DPX",
-        "name": "Dopex Governance Token",
+        "name": "DPX",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16652/small/DPX_%281%29.png?1624598630",
         "coingeckoId": "dopex",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1294,13 +1303,14 @@
         "name": "MAGIC",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x539bde0d7dbd336b79148aa742883198bbf60342/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18623/small/Magic.png?1635755672",
         "coingeckoId": "magic",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1322,14 +1332,15 @@
     {
         "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
         "symbol": "PLS",
-        "name": "Plutus",
+        "name": "PLS",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x51318b7d00db7acc4026c88c3952b66278b6a67f/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/25326/small/M6nUndNU_400x400.jpg?1651233987",
         "coingeckoId": "plutusdao",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1437,17 +1448,18 @@
     {
         "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
         "symbol": "SPELL",
-        "name": "Spell Token",
+        "name": "SPELL",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/15861/small/abracadabra-3.png?1622544862",
         "coingeckoId": "spell-token",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1537,16 +1549,17 @@
     {
         "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
         "symbol": "RDPX",
-        "name": "Dopex Rebate Token",
+        "name": "RDPX",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x32eb7902d4134bf98a28b963d26de779af92a212/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16659/small/rDPX_200x200_Coingecko.png?1624614475",
         "coingeckoId": "dopex-rebate-token",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1580,17 +1593,18 @@
     {
         "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
         "symbol": "WBTC",
-        "name": "Wrapped BTC",
+        "name": "WBTC",
         "decimals": 8,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {
@@ -1719,15 +1733,16 @@
     {
         "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
         "symbol": "FRAX",
-        "name": "Frax ",
+        "name": "FRAX",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1648904910983_5811737493655886.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png?1608476506",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
@@ -1792,15 +1807,16 @@
     {
         "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
         "symbol": "JONES",
-        "name": "Jones DAO",
+        "name": "JONES",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x10393c20975cf177a3513071bc110f7962cd67da/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/23290/small/3c8c2ed8-afb3-4b67-9937-5493acd88b50.jpg?1648597625",
         "coingeckoId": "jones-dao",
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic"
+            "rubic",
+            "xyfinance"
         ]
     },
     {

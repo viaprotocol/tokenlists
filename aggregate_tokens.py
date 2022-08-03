@@ -329,7 +329,18 @@ class Multichain(TokenListProvider):
 class XyFinance(TokenListProvider):
     name = "xyfinance"
     base_url = "https://token-list-v2.xy.finance/"
-    chains = {'592': '592'}
+    chains = {
+        '1': '1',
+        '56': '56',
+        '137': '137',
+        '250': '250',
+        '25': '25',
+        '43114': '43114',
+        '42161': '42161',
+        '10': '10',
+        '1285': '1285',
+        '592': '592'
+    }
     _check_chain_id = True
 
 

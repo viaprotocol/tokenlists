@@ -1,5 +1,18 @@
 [
     {
+        "address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
+        "symbol": "ZIP",
+        "name": "ZIP",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://assets.coingecko.com/coins/images/22910/small/zip.png?1642949795",
+        "coingeckoId": "zipswap",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
         "symbol": "KROM",
         "name": "Kromatika",
@@ -29,15 +42,16 @@
     {
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "symbol": "DAI",
-        "name": "Dai Stablecoin",
+        "name": "DAI",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172514904_1271845238895899.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
@@ -57,15 +71,16 @@
     {
         "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
         "symbol": "USDT",
-        "name": "Tether",
+        "name": "USDT",
         "decimals": 6,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172160526_45958392576006246.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
@@ -112,29 +127,31 @@
     {
         "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
         "symbol": "USDC",
-        "name": "USD Coin",
+        "name": "USDC",
         "decimals": 6,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172240797_3452267574610799.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
         "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
         "symbol": "WBTC",
-        "name": "Wrapped BTC",
+        "name": "WBTC",
         "decimals": 8,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172330747_23432317374066436.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
@@ -168,15 +185,16 @@
     {
         "address": "0x4200000000000000000000000000000000000042",
         "symbol": "OP",
-        "name": "Optimism",
+        "name": "OP",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1654017945318_14513263361194806.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/25244/small/OP.jpeg?1651026279",
         "coingeckoId": "optimism",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
@@ -185,12 +203,13 @@
         "name": "WETH",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1643008048410_5915818120018643.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "xyfinance"
         ]
     },
     {
