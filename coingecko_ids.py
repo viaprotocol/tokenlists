@@ -9,6 +9,7 @@ def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
     chain_id_to_coingecko_platform = {
         "1284": "moonbeam",
         "361": "theta",
+        "592": "astar",
         "70": "hoo-smart-chain",
         "122": "fuse",
         "42262": "oasis",

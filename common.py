@@ -34,6 +34,7 @@ CHAIN_NAMES_BY_ID = {
     '43113': 'fuji',
     '43114': 'avax',
     '4689': 'iotex',
+    '592': 'astar',
     '5': 'goerli',
     '56': 'bsc',
     '65': 'okex-testnet',

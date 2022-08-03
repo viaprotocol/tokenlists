@@ -91,6 +91,7 @@ class CoinGeckoTokenLists(TokenListProvider):
     name = "coingecko"
     base_url = "https://tokens.coingecko.com/{}/all.json"
     chains = {
+        "592": "astar",
         "1284": "moonbeam",
         "361": "theta",
         "70": "hoo-smart-chain",
@@ -318,6 +319,20 @@ class OolongSwap(TokenListProvider):
     chains = {'288': 'boba'}
 
 
+class Multichain(TokenListProvider):
+    name = 'multichain'
+    base_url = "https://bridgeapi.anyswap.exchange/v4/poollist/{}"
+    chains = {'592': '592'}
+    _tokens_to_list = True
+
+
+class XyFinance(TokenListProvider):
+    name = "xyfinance"
+    base_url = "https://token-list-v2.xy.finance/"
+    chains = {'592': '592'}
+    _check_chain_id = True
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -331,6 +346,8 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     RubicLists,
+    Multichain,
+    XyFinance,
     CronaSwapLists,
     Ubeswap,
     OolongSwap,
