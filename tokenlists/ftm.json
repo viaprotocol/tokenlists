@@ -199,9 +199,8 @@
         "decimals": 18,
         "chainId": "250",
         "logoURI": "https://api.rubic.exchange/assets/fantom/0xdef1fac7bf08f173d286bbbdcbeeade695129840/logo.png",
-        "coingeckoId": "cerby-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "rubic"
         ]
@@ -2933,19 +2932,6 @@
         "chainId": "250",
         "logoURI": "https://api.rubic.exchange/assets/fantom/0x131c7afb4e5f5c94a27611f7210dfec2215e85ae/logo.png",
         "coingeckoId": "power-nodes",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x11319cD0bA5e4ce6c302B275b613962B5cC00aDe",
-        "symbol": "FROG",
-        "name": "Frog",
-        "decimals": 9,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x11319cd0ba5e4ce6c302b275b613962b5cc00ade/logo.png",
-        "coingeckoId": "frog",
         "listedIn": [
             "coingecko",
             "rubic"

@@ -3135,19 +3135,6 @@
             ]
         },
         {
-            "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-            "symbol": "CERBY",
-            "name": "Cerby Token",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
-            "coingeckoId": "cerby-token",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
-            ]
-        },
-        {
             "address": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
             "symbol": "NFTB",
             "name": "NFTB",
@@ -4823,19 +4810,6 @@
                 "coingecko",
                 "1inch",
                 "openocean"
-            ]
-        },
-        {
-            "address": "0xD0dff49De3E314FDFD3f93c5EEee7D5d2F5515cD",
-            "symbol": "ZBTC",
-            "name": "ZBTC",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://tokens.1inch.io/0xd0dff49de3e314fdfd3f93c5eeee7d5d2f5515cd.png",
-            "coingeckoId": "zetta-bitcoin-hashrate-token",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
@@ -11996,9 +11970,8 @@
             "decimals": 18,
             "chainId": "250",
             "logoURI": "https://api.rubic.exchange/assets/fantom/0xdef1fac7bf08f173d286bbbdcbeeade695129840/logo.png",
-            "coingeckoId": "cerby-token",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "rubic"
             ]
@@ -14736,19 +14709,6 @@
             ]
         },
         {
-            "address": "0x11319cD0bA5e4ce6c302B275b613962B5cC00aDe",
-            "symbol": "FROG",
-            "name": "Frog",
-            "decimals": 9,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x11319cd0ba5e4ce6c302b275b613962b5cc00ade/logo.png",
-            "coingeckoId": "frog",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x112dF7E3b4B7Ab424F07319D4E92F41e6608c48B",
             "symbol": "PFTM",
             "name": "pFTM",
@@ -16172,19 +16132,6 @@
             "chainId": "137",
             "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe0ce60af0850bf54072635e66e79df17082a1109/logo.png",
             "coingeckoId": "payrue",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
-            ]
-        },
-        {
-            "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-            "symbol": "CERBY",
-            "name": "Cerby Token",
-            "decimals": 18,
-            "chainId": "137",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
-            "coingeckoId": "cerby-token",
             "listedIn": [
                 "coingecko",
                 "sushiswap"
@@ -21949,19 +21896,6 @@
             ]
         },
         {
-            "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-            "symbol": "CERBY",
-            "name": "Cerby Token",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
-            "coingeckoId": "cerby-token",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
-            ]
-        },
-        {
             "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
             "symbol": "mYAK",
             "name": "MiniYAK",
@@ -23816,19 +23750,6 @@
             ]
         },
         {
-            "address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
-            "symbol": "avWBTC",
-            "name": "Aave Avalanche Market WBTC",
-            "decimals": 8,
-            "chainId": "43114",
-            "logoURI": "https://tokens.1inch.io/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656.png",
-            "coingeckoId": "avwbtc",
-            "listedIn": [
-                "coingecko",
-                "1inch"
-            ]
-        },
-        {
             "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
             "symbol": "HUSKY",
             "name": "Husky Avalanche",
@@ -24103,19 +24024,6 @@
                 "coingecko",
                 "openocean",
                 "rubic"
-            ]
-        },
-        {
-            "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
-            "symbol": "avWETH",
-            "name": "Aave Avalanche Market WETH",
-            "decimals": 18,
-            "chainId": "43114",
-            "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
-            "coingeckoId": "avweth",
-            "listedIn": [
-                "coingecko",
-                "1inch"
             ]
         },
         {
@@ -30229,19 +30137,6 @@
             ]
         },
         {
-            "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-            "symbol": "CERBY",
-            "name": "Cerby Token",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
-            "coingeckoId": "cerby-token",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
-            ]
-        },
-        {
             "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
             "symbol": "KNC",
             "name": "Kyber Network Crystal v2",
@@ -33740,6 +33635,19 @@
             ]
         },
         {
+            "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+            "symbol": "RPL",
+            "name": "Rocket Pool Protocol",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0xd33526068d116ce69f19a9ee46f0bd304f21a51f.png",
+            "coingeckoId": "rocket-pool",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
             "symbol": "SOL",
             "name": "SOL Wormhole ",
@@ -33956,6 +33864,19 @@
             ]
         },
         {
+            "address": "0xCE3f08e664693ca792caCE4af1364D5e220827B2",
+            "symbol": "SAITAMA",
+            "name": "SAITAMA",
+            "decimals": 9,
+            "chainId": "1",
+            "logoURI": "https://tokens.1inch.io/0xce3f08e664693ca792cace4af1364d5e220827b2.png",
+            "coingeckoId": "saitama-inu",
+            "listedIn": [
+                "coingecko",
+                "1inch"
+            ]
+        },
+        {
             "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
             "symbol": "SLP",
             "name": "Smooth Love Potion",
@@ -34150,19 +34071,6 @@
             "chainId": "1",
             "logoURI": "https://tokens.1inch.io/0xc53342fd7575f572b0ff4569e31941a5b821ac76.png",
             "coingeckoId": "ethereum-volatility-index-token",
-            "listedIn": [
-                "coingecko",
-                "1inch"
-            ]
-        },
-        {
-            "address": "0xC52C326331E9Ce41F04484d3B5E5648158028804",
-            "symbol": "ZCX",
-            "name": "ZEN Exchange Token",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xc52c326331e9ce41f04484d3b5e5648158028804.png",
-            "coingeckoId": "unizen",
             "listedIn": [
                 "coingecko",
                 "1inch"
@@ -34853,7 +34761,6 @@
             "logoURI": "https://api.rubic.exchange/assets/ethereum/0xb4efd85c19999d84251304bda99e90b92300bd93/logo.png",
             "coingeckoId": null,
             "listedIn": [
-                "1inch",
                 "openocean",
                 "rubic"
             ]
@@ -35227,6 +35134,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch"
+            ]
+        },
+        {
+            "address": "0xA67b8e40111A0EDD30C3210b77aadb86AD234c43",
+            "symbol": "Bandex",
+            "name": "Banana Index",
+            "decimals": 9,
+            "chainId": "1",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xa67b8e40111a0edd30c3210b77aadb86ad234c43/logo.png",
+            "coingeckoId": "banana-index",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
