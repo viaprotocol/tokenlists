@@ -3175,19 +3175,6 @@
         ]
     },
     {
-        "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
-        "symbol": "PDEX",
-        "name": "Polkadex",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xf59ae934f6fe444afc309586cc60a84a0f89aaea/logo.png",
-        "coingeckoId": "polkadex",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
         "symbol": "IMX",
         "name": "IMX",
@@ -5715,11 +5702,12 @@
         "name": "Pawthereum",
         "decimals": 9,
         "chainId": "1",
-        "logoURI": "https://tokens.1inch.io/0xaecc217a749c2405b5ebc9857a16d58bdc1c367f.png",
+        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xaecc217a749c2405b5ebc9857a16d58bdc1c367f/logo.png",
         "coingeckoId": "pawthereum",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "rubic"
         ]
     },
     {

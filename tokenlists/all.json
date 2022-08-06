@@ -3111,15 +3111,14 @@
         {
             "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
             "symbol": "CEEK",
-            "name": "CEEK",
+            "name": "CEEK  VR",
             "decimals": 18,
             "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66/logo.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1637894925614_37089909940283383.png",
             "coingeckoId": "ceek",
             "listedIn": [
                 "coingecko",
-                "openocean",
-                "rubic"
+                "openocean"
             ]
         },
         {
@@ -9647,6 +9646,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch"
+            ]
+        },
+        {
+            "address": "0x2A48eCe377b87ce941406657B9278b4459595E06",
+            "symbol": "LunaT",
+            "name": "Lunatics",
+            "decimals": 9,
+            "chainId": "56",
+            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x2a48ece377b87ce941406657b9278b4459595e06/logo.png",
+            "coingeckoId": "lunatics",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -32395,19 +32407,6 @@
             ]
         },
         {
-            "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
-            "symbol": "PDEX",
-            "name": "Polkadex",
-            "decimals": 18,
-            "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xf59ae934f6fe444afc309586cc60a84a0f89aaea/logo.png",
-            "coingeckoId": "polkadex",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
             "symbol": "IMX",
             "name": "IMX",
@@ -34935,11 +34934,12 @@
             "name": "Pawthereum",
             "decimals": 9,
             "chainId": "1",
-            "logoURI": "https://tokens.1inch.io/0xaecc217a749c2405b5ebc9857a16d58bdc1c367f.png",
+            "logoURI": "https://api.rubic.exchange/assets/ethereum/0xaecc217a749c2405b5ebc9857a16d58bdc1c367f/logo.png",
             "coingeckoId": "pawthereum",
             "listedIn": [
                 "coingecko",
-                "1inch"
+                "1inch",
+                "rubic"
             ]
         },
         {

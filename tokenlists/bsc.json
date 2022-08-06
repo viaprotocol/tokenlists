@@ -688,15 +688,14 @@
     {
         "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
         "symbol": "CEEK",
-        "name": "CEEK",
+        "name": "CEEK  VR",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66/logo.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1637894925614_37089909940283383.png",
         "coingeckoId": "ceek",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "rubic"
+            "openocean"
         ]
     },
     {
@@ -7224,6 +7223,19 @@
         "listedIn": [
             "coingecko",
             "1inch"
+        ]
+    },
+    {
+        "address": "0x2A48eCe377b87ce941406657B9278b4459595E06",
+        "symbol": "LunaT",
+        "name": "Lunatics",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x2a48ece377b87ce941406657b9278b4459595e06/logo.png",
+        "coingeckoId": "lunatics",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
