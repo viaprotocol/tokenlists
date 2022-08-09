@@ -32,12 +32,12 @@
         "name": "Elk",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
         "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -46,12 +46,12 @@
         "name": "RiverBoat",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0xbd90a6125a84e5c512129d622a75cdde176ade5e/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0xbD90A6125a84E5C512129D622a75CDDE176aDE5E/logo.png",
         "coingeckoId": "riverboat",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -69,17 +69,17 @@
     },
     {
         "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
-        "symbol": "FTM",
-        "name": "Fantom Token",
+        "symbol": "WFTM",
+        "name": "Wrapped Fantom Token",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0xad12dab5959f30b9ff3c2d6709f53c335dc39908/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0xaD12daB5959f30b9fF3c2d6709f53C335dC39908/logo.png",
         "coingeckoId": "fantom",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -111,17 +111,17 @@
     {
         "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
         "symbol": "USDC",
-        "name": "USDC",
+        "name": "USDC Coin",
         "decimals": 6,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -156,12 +156,12 @@
         "name": "MoonBeans",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0xc2392dd3e3fed2c8ed9f7f0bdf6026fcd1348453/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -180,17 +180,17 @@
     {
         "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
         "symbol": "USDT",
-        "name": "USDT",
+        "name": "Tether USD",
         "decimals": 6,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -199,13 +199,13 @@
         "name": "Relay Token",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0xad7f1844696652dda7959a49063bffccafafefe7/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
         "coingeckoId": "relay-token",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -237,16 +237,16 @@
     {
         "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
         "symbol": "WMOVR",
-        "name": "WMOVR",
+        "name": "Wrapped MOVR",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/17984/small/9285.png?16300286200",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x98878B06940aE243284CA214f92Bb71a2b032B8A/logo.png",
         "coingeckoId": "moonriver",
         "listedIn": [
             "coingecko",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -278,17 +278,17 @@
     {
         "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
         "symbol": "DAI",
-        "name": "DAI",
+        "name": "Dai Stablecoin",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -322,75 +322,75 @@
     {
         "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
         "symbol": "SOLAR",
-        "name": "SOLAR",
+        "name": "Solarbeam Token",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/18260/small/solarbeamlogo.png?1636080005",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B/logo.png",
         "coingeckoId": "solarbeam",
         "listedIn": [
             "coingecko",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
         "symbol": "WBTC",
-        "name": "WBTC",
+        "name": "Wrapped BTC",
         "decimals": 8,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
-        "symbol": "MATIC",
-        "name": "Matic Token",
+        "symbol": "WMATIC",
+        "name": "WMatic",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x682f81e57eaa716504090c3ecba8595fb54561d8/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x682F81e57EAa716504090C3ECBa8595fB54561D8/logo.png",
         "coingeckoId": "matic-network",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
         "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
         "symbol": "LAIKA",
-        "name": "LaikaProtocol",
-        "decimals": 9,
+        "name": "Laika Protocol",
+        "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
         "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
         "symbol": "WETH",
-        "name": "WETH",
+        "name": "Wrapped Ethereum",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -399,13 +399,13 @@
         "name": "Binance-Peg BUSD Token",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x5d9ab5522c64e1f6ef5e3627eccc093f56167818/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/logo.png",
         "coingeckoId": "binance-usd",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -425,14 +425,14 @@
     {
         "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
         "symbol": "KAFE",
-        "name": "MOONKAFE",
+        "name": "MoonKafe",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x52f04c806eb82930f40d410259b7af8e18d3bdc9/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x52f04C806EB82930F40D410259b7AF8E18d3BDc9/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -455,11 +455,11 @@
         "name": "KusaMOON",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x480cd4fa911eeeff93cb11135c97237455617862/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x480CD4Fa911eeEFf93cB11135C97237455617862/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -491,29 +491,29 @@
     {
         "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
         "symbol": "1SWAP",
-        "name": "1Swap Token",
+        "name": "1SWAP",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x3516a7588c2e6ffa66c9507ef51853eb85d76e5b/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
         "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-        "symbol": "BNB",
-        "name": "BNB",
+        "symbol": "WBNB",
+        "name": "Wrapped Binance Coin",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png?1600947313",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png",
         "coingeckoId": "wbnb",
         "listedIn": [
             "coingecko",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -573,18 +573,18 @@
     },
     {
         "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
-        "symbol": "AVAX",
-        "name": "AVAX",
+        "symbol": "WAVAX",
+        "name": "Wrapped Avalanche",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x14a0243C333A5b238143068dC3A7323Ba4C30ECB/logo.png",
         "coingeckoId": "avalanche-2",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -619,13 +619,13 @@
         "name": "Magic Internet Money",
         "decimals": 18,
         "chainId": "1285",
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x0cae51e1032e8461f4806e26332c030e34de3adb/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x0caE51e1032e8461f4806e26332c030E34De3aDb/logo.png",
         "coingeckoId": "magic-internet-money",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     }
 ]

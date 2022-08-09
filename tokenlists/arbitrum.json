@@ -369,33 +369,33 @@
         "name": "Gnosis Token",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xa0b862f60edef4452f25b4160f177db44deb6cf1/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1/logo.png",
         "coingeckoId": "gnosis",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
         "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
         "symbol": "USDT",
-        "name": "USDT",
+        "name": "Tether USD",
         "decimals": 6,
         "chainId": "42161",
-        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+        "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -417,19 +417,19 @@
     {
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "symbol": "USDC",
-        "name": "USDC",
+        "name": "USD Coin Arb1",
         "decimals": 6,
         "chainId": "42161",
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+        "logoURI": "https://elk.finance/tokens/logos/arbitrum/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -532,19 +532,19 @@
     {
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "symbol": "DAI",
-        "name": "DAI",
+        "name": "Dai stable coin",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -993,19 +993,19 @@
     {
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "symbol": "WETH",
-        "name": "WETH",
+        "name": "Wrapped Ether",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
+        "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -1405,15 +1405,15 @@
     {
         "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
         "symbol": "MAI",
-        "name": "Mai Stablecoin",
+        "name": "miMatic",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x3f56e0c36d275367b8c502090edf38289b3dea0d/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -1553,12 +1553,12 @@
         "name": "Cartesi Token",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x319f865b287fcc10b30d8ce6144e8b6d1b476999/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
         "coingeckoId": "cartesi",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -1738,15 +1738,15 @@
         "name": "Curve DAO Token",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x11cdb42b0eb46d95f990bedd4695a6e3fa034978/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/arbitrum/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978/logo.png",
         "coingeckoId": "curve-dao-token",
         "listedIn": [
             "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {

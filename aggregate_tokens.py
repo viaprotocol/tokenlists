@@ -71,7 +71,11 @@ class TokenListProvider:
                 print(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
                 await asyncio.sleep(sleep_time)
                 resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
-            tokenlist = resp.json()
+
+            try:
+                tokenlist = resp.json()
+            except:
+                tokenlist = json.loads(resp.text)
             if "tokens" in tokenlist:
                 tokens = tokenlist["tokens"]
             elif "data" in tokenlist:
@@ -339,9 +343,16 @@ class XyFinance(TokenListProvider):
         '42161': '42161',
         '10': '10',
         '1285': '1285',
-        '592': '592'
+        '592': '592',
+        '321': '321',
     }
     _check_chain_id = True
+
+
+class MojitoSwap(TokenListProvider):
+    name = "mojitoswap"
+    base_url = "https://raw.githubusercontent.com/MojitoFinance/mjtTokenList/461d2ca814d12c37516b986fabfcd21446283ed7/mjtTokenList.json"
+    chains = {'321': '321'}
 
 
 tokenlists_providers = [
@@ -351,14 +362,15 @@ tokenlists_providers = [
     SushiswapTokenLists,
     OpenOceanTokenLists,
     SolanaLabsTokenLists,
-    ElkFinanceTokenLists,
     OneSolTokenLists,
     QuickSwapTokenLists,
     FuseSwapTokenLists,
     TrisolarisLabsLists,
+    MojitoSwap,
     RubicLists,
-    Multichain,
     XyFinance,
+    ElkFinanceTokenLists,
+    Multichain,
     CronaSwapLists,
     Ubeswap,
     OolongSwap,

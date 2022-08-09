@@ -14,32 +14,32 @@
     },
     {
         "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
-        "symbol": "MIMATIC",
-        "name": "MIMATIC",
+        "symbol": "MAI",
+        "name": "QiDAO",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882",
         "symbol": "ELITE",
-        "name": "https://t.me/FTM1337",
+        "name": "ftm.guru",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xf43cc235e686d7bc513f53fbffb61f760c3a1882/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882/logo.png",
         "coingeckoId": "ftm-guru",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -48,14 +48,14 @@
         "name": "IceToken",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xf16e81dce15b08f326220742020379b855b87df9/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png",
         "coingeckoId": "ice-token",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -90,12 +90,12 @@
         "name": "Elk",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
         "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -237,17 +237,17 @@
     {
         "address": "0xdDcb3fFD12750B45d32E084887fdf1aABAb34239",
         "symbol": "ANY",
-        "name": "ANY",
+        "name": "Anyswap",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/12242/small/anyswap.jpg?1598443880",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xdDcb3fFD12750B45d32E084887fdf1aABAb34239/logo.png",
         "coingeckoId": "anyswap",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -373,16 +373,16 @@
     {
         "address": "0xbFaf328Fe059c53D936876141f38089df0D1503D",
         "symbol": "MM",
-        "name": "MMToken",
+        "name": "MM Token",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xbfaf328fe059c53d936876141f38089df0d1503d/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xbFaf328Fe059c53D936876141f38089df0D1503D/logo.png",
         "coingeckoId": "mm-token",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -413,19 +413,19 @@
     },
     {
         "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
-        "symbol": "LINK",
-        "name": "LINK",
+        "symbol": "WLINK",
+        "name": "Wrapped ChainLink Token",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo.png",
         "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -434,29 +434,29 @@
         "name": "Frax",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xaf319e5789945197e365e7f7fbfc56b130523b33/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xaf319E5789945197e365E7f7fbFc56B130523B33/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
         "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
-        "symbol": "SUSHI",
-        "name": "SUSHI",
+        "symbol": "WSUSHI",
+        "name": "Wrapped SushiToken",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC/logo.png",
         "coingeckoId": "sushi",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -737,17 +737,17 @@
     },
     {
         "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
-        "symbol": "BNB",
-        "name": "Binance",
+        "symbol": "WBNB",
+        "name": "Wrapped Binance Coin",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
         "coingeckoId": "wbnb",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -797,13 +797,13 @@
         "name": "Woofy",
         "decimals": 12,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xd0660cd418a64a1d44e9214ad8e459324d8157f1/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xD0660cD418a64a1d44E9214ad8e459324D8157f1/logo.png",
         "coingeckoId": "woofy",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -1008,17 +1008,17 @@
     {
         "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
         "symbol": "COVER",
-        "name": "Cover Protocol Governance",
+        "name": "Cover Protocol",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xb01e8419d842beebf1b70a7b5f7142abbaf7159d/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xB01E8419d842beebf1b70A7b5f7142abbaf7159D/logo.png",
         "coingeckoId": "cover-protocol",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -1027,14 +1027,14 @@
         "name": "Fantom USD",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xad84341756bf337f5a0164515b1f6f993d194e1f/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xAd84341756Bf337f5a0164515b1f6F993D194E1f/logo.png",
         "coingeckoId": "fantom-usd",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -1052,16 +1052,16 @@
     },
     {
         "address": "0xA9937092c4E2B0277C16802Cc8778D252854688A",
-        "symbol": "fOLIVE",
-        "name": "OliveCash Token",
+        "symbol": "FOLIVE",
+        "name": "fOLIVE",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xa9937092c4e2b0277c16802cc8778d252854688a/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0xA9937092c4E2B0277C16802Cc8778D252854688A/logo.png",
         "coingeckoId": "olivecash",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -1348,18 +1348,18 @@
     {
         "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
         "symbol": "DAI",
-        "name": "DAI",
+        "name": "Dai Stablecoin",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -1471,17 +1471,17 @@
     {
         "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
         "symbol": "BOO",
-        "name": "BOO",
+        "name": "SpookySwap",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/15223/small/logo_200x200.png?1621992076",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE/logo.png",
         "coingeckoId": "spookyswap",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -1639,29 +1639,29 @@
         "name": "Badger",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x753fbc5800a8c8e3fb6dc6415810d627a387dfc9/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9/logo.png",
         "coingeckoId": "badger-dao",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
         "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
         "symbol": "WETH",
-        "name": "WETH",
+        "name": "Wrapped Ether",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -1748,19 +1748,19 @@
     },
     {
         "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
-        "symbol": "AAVE",
-        "name": "AAVE",
+        "symbol": "WAAVE",
+        "name": "Wrapped Aave",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B/logo.png",
         "coingeckoId": "aave",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -1862,14 +1862,14 @@
         "name": "Cream",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x657a1861c15a3ded9af0b6799a195a249ebdcbc6/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6/logo.png",
         "coingeckoId": "cream-2",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -1956,13 +1956,13 @@
         "name": "SpiritSwap Token",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x5cc61a78f164885776aa610fb0fe1257df78e59b/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x5Cc61A78F164885776AA610fb0FE1257df78E59B/logo.png",
         "coingeckoId": "spiritswap",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -2022,17 +2022,17 @@
     {
         "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
         "symbol": "SNX",
-        "name": "Synthetix Network",
+        "name": "Synthetix Network Token",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc/logo.png",
         "coingeckoId": "havven",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -2052,14 +2052,14 @@
     {
         "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
         "symbol": "SING",
-        "name": "Sing Token",
+        "name": "Singular.Farm",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x53d831e1db0947c74e8a52618f662209ec5de0ce/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x53D831e1db0947c74e8a52618f662209ec5dE0cE/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -2199,16 +2199,16 @@
     {
         "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
         "symbol": "BAND",
-        "name": "Band",
+        "name": "Band Protocol",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5/logo.png",
         "coingeckoId": "band-protocol",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -2428,18 +2428,18 @@
     {
         "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
         "symbol": "WBTC",
-        "name": "WBTC",
+        "name": "Wrapped BTC",
         "decimals": 8,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -2527,14 +2527,14 @@
         "name": "yearn.finance",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x29b0da86e484e1c0029b56e817912d778ac0ec69/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x29b0Da86e484E1C0029B56e817912d778aC0EC69/logo.png",
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -2659,18 +2659,18 @@
     {
         "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
         "symbol": "WFTM",
-        "name": "WFTM",
+        "name": "Wrapped FTM",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/16036/small/Fantom.png?1622679930",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
         "coingeckoId": "wrapped-fantom",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -2741,18 +2741,18 @@
     {
         "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
         "symbol": "CRV",
-        "name": "CRV",
+        "name": "Curve DAO",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png",
         "coingeckoId": "curve-dao-token",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
@@ -3034,16 +3034,16 @@
     {
         "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
         "symbol": "ZOO",
-        "name": "ZOO",
+        "name": "ZooCoin",
         "decimals": 0,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x09e145a1d53c0045f41aeef25d8ff982ae74dd56/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56/logo.png",
         "coingeckoId": "zoo-coin",
         "listedIn": [
             "coingecko",
             "openocean",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "elkfinance"
         ]
     },
     {
@@ -3141,35 +3141,35 @@
     {
         "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
         "symbol": "FUSDT",
-        "name": "FUSDT",
+        "name": "Frapped USDT",
         "decimals": 6,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/21949/small/frapped.png?1640322203",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
         "symbol": "USDC",
-        "name": "USDC",
+        "name": "USD Coin",
         "decimals": 6,
         "chainId": "250",
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+        "logoURI": "https://elk.finance/tokens/logos/ftm/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "openocean",
-            "elkfinance",
             "rubic",
-            "xyfinance"
+            "xyfinance",
+            "elkfinance"
         ]
     },
     {
