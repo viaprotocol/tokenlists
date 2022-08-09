@@ -57,7 +57,7 @@ Testnets:
 
 ## How are tokenlists formed
 
-We collect many tokenlists from many providers, than we aggregate them by chains and tokens addresses. 
+We collect many tokenlists from many providers, then we aggregate them by chains and tokens addresses. 
 For each token we check whether it is listed in 2 or more tokenlists from different providers. If so, 
 we add it to our trusted tokenlist.
 
@@ -90,7 +90,7 @@ def _count_tokens(json_file_name: str, file) -> dict[str, int]:
     return {name_without_json.capitalize(): len(tokens)}
 
 
-MIN_TOKEN_COUNT_TO_INCLUDE_IN_DOCS = 10
+MIN_TOKEN_COUNT_TO_INCLUDE_IN_DOCS = 5
 
 
 def generate_readme() -> None:
