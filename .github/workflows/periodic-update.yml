@@ -18,7 +18,7 @@ jobs:
 
       - name: Run script that collects tokens
         run: |
-          python3 aggregate_tokens.py
+          python3 aggregate_tokens.py && python3 generate_readme.py
 
       - name: Commit changes
         if: success()
