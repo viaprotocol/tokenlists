@@ -42,11 +42,16 @@ class TokenListProvider:
                         add_token = False
 
                 if add_token:
+                    if 'tokenDecimal' in token:
+                        decimals = token['tokenDecimal']
+                    else:
+                        decimals = token['decimals']
+
                     t = Token(
                         address=token["address"],
                         symbol=token["symbol"],
                         name=token["name"],
-                        decimals=token["decimals"],
+                        decimals=decimals,
                         chainId=chain_id,
                         logoURI=logo,
                         coingeckoId=cg_id
@@ -345,6 +350,7 @@ class XyFinance(TokenListProvider):
         '1285': '1285',
         '592': '592',
         '321': '321',
+        '1818': '1818',
     }
     _check_chain_id = True
 
@@ -353,6 +359,12 @@ class MojitoSwap(TokenListProvider):
     name = "mojitoswap"
     base_url = "https://raw.githubusercontent.com/MojitoFinance/mjtTokenList/461d2ca814d12c37516b986fabfcd21446283ed7/mjtTokenList.json"
     chains = {'321': '321'}
+
+
+class CapricornFinance(TokenListProvider):
+    name = "capricorn_finance"
+    base_url = "https://raw.githubusercontent.com/capricorn-finance/info-blist/main/list.json"
+    chains = {'1818': '1818'}
 
 
 tokenlists_providers = [
@@ -374,6 +386,7 @@ tokenlists_providers = [
     CronaSwapLists,
     Ubeswap,
     OolongSwap,
+    CapricornFinance,
 ]
 
 

@@ -22,6 +22,7 @@ def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
         "250": "fantom",
         "88": "tomochain",
         "82": "meter",
+        "1818": "cube-network",
         "42220": "celo",
         "10": "optimistic-ethereum",
         "137": "polygon-pos",

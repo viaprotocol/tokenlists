@@ -37,6 +37,7 @@ CHAIN_NAMES_BY_ID = {
     '592': 'astar',
     '5': 'goerli',
     '56': 'bsc',
+    '1818': 'cube',
     '65': 'okex-testnet',
     '66': 'okex',
     '70': 'hoo',
