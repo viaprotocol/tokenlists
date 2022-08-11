@@ -456,6 +456,14 @@ class Optimism(TokenListProvider):
     chains = {'1': 1, '10': 10, }
 
 
+class SpookySwap(TokenListProvider):
+    name = "SpookySwap"
+    base_url = "https://raw.githubusercontent.com/SpookySwap/spooky-info/master/src/constants/token/spookyswap.json"
+    _check_chain_id = True
+
+    chains = {'250': 250}
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -468,6 +476,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     Dfyn,
+    SpookySwap,
     Optimism,
     ArbitrumBridge,
     TraderJoe,
