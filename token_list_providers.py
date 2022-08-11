@@ -448,6 +448,14 @@ class ArbitrumBridge(TokenListProvider):
     chains = {'42161': 42161, "1": 1}
 
 
+class Optimism(TokenListProvider):
+    name = "optimism"
+    base_url = "https://static.optimism.io/optimism.tokenlist.json"
+    _check_chain_id = True
+
+    chains = {'1': 1, '10': 10, }
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -460,6 +468,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     Dfyn,
+    Optimism,
     ArbitrumBridge,
     TraderJoe,
     Pangolin,
