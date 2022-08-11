@@ -432,6 +432,14 @@ class Pangolin(TokenListProvider):
     chains = {'43114': 43114}
 
 
+class TraderJoe(TokenListProvider):
+    name = "joe"
+    base_url = "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json"
+    _check_chain_id = True
+
+    chains = {'43114': 43114}
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -444,6 +452,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     Dfyn,
+    TraderJoe,
     Pangolin,
     PancakeSwap,
     MojitoSwap,
