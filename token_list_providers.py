@@ -440,6 +440,14 @@ class TraderJoe(TokenListProvider):
     chains = {'43114': 43114}
 
 
+class ArbitrumBridge(TokenListProvider):
+    name = "arbitrum_bridge"
+    base_url = "https://bridge.arbitrum.io/token-list-42161.json"
+    _check_chain_id = True
+
+    chains = {'42161': 42161, "1": 1}
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -452,6 +460,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     Dfyn,
+    ArbitrumBridge,
     TraderJoe,
     Pangolin,
     PancakeSwap,
