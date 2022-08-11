@@ -43,13 +43,13 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Ethereum, 1680 tokens
 - Bsc, 1183 tokens
 - Solana, 927 tokens
-- Polygon, 679 tokens
-- Avax, 338 tokens
+- Polygon, 691 tokens
+- Avax, 341 tokens
 - Ftm, 312 tokens
 - Gnosis, 204 tokens
 - Heco, 197 tokens
 - Arbitrum, 156 tokens
-- Harmony, 84 tokens
+- Harmony, 85 tokens
 - Aurora, 84 tokens
 - Celo, 65 tokens
 - Cronos, 63 tokens

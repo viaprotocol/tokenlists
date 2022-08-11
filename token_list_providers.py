@@ -399,6 +399,23 @@ class Lifinance(TokenListProvider):
     }
 
 
+class Dfyn(TokenListProvider):
+    name = "dfyn"
+    base_url = "https://raw.githubusercontent.com/dfyn/new-host/main/list-token.tokenlist.json"
+    _check_chain_id = True
+
+    chains = {
+        '1': '1',
+        '10': '10',
+        '25': '25',
+        '56': '56',
+        '137': '137',
+        '250': '250',
+        '43114': '43114',
+        '1666600000': '1666600000',
+    }
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -410,6 +427,7 @@ tokenlists_providers = [
     QuickSwapTokenLists,
     FuseSwapTokenLists,
     TrisolarisLabsLists,
+    Dfyn,
     MojitoSwap,
     RubicLists,
     Lifinance,
