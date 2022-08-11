@@ -25,6 +25,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
+            "RouterProtocol",
             "SpookySwap",
             "rubic",
             "lifinance",
@@ -3007,6 +3008,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "RouterProtocol",
             "rubic",
             "lifinance"
         ]
@@ -3444,6 +3446,19 @@
         "listedIn": [
             "SpookySwap",
             "lifinance"
+        ]
+    },
+    {
+        "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+        "symbol": "EVO",
+        "name": "EVO",
+        "decimals": "18",
+        "chainId": "250",
+        "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135",
+        "coingeckoId": null,
+        "listedIn": [
+            "dfyn",
+            "RouterProtocol"
         ]
     },
     {

@@ -35,6 +35,7 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
+            "RouterProtocol",
             "lifinance"
         ]
     },
@@ -414,6 +415,19 @@
         "listedIn": [
             "coingecko",
             "optimism"
+        ]
+    },
+    {
+        "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+        "symbol": "EVO",
+        "name": "EVO",
+        "decimals": "18",
+        "chainId": "10",
+        "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135",
+        "coingeckoId": null,
+        "listedIn": [
+            "dfyn",
+            "RouterProtocol"
         ]
     },
     {

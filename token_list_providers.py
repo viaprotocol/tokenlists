@@ -464,6 +464,24 @@ class SpookySwap(TokenListProvider):
     chains = {'250': 250}
 
 
+class RouterProtocol(TokenListProvider):
+    name = "RouterProtocol"
+    base_url = "https://raw.githubusercontent.com/router-protocol/reserve-asset-list/main/router-reserve-asset.json"
+    _check_chain_id = True
+
+    chains = {
+        '1': 1,
+        '10': 10,
+        '25': 25,
+        '56': 56,
+        '137': 137,
+        '250': 250,
+        '42161': 42161,
+        '1313161554': 1313161554,
+        '1666600000': 1666600000,
+    }
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -476,6 +494,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     Dfyn,
+    RouterProtocol,
     SpookySwap,
     Optimism,
     ArbitrumBridge,

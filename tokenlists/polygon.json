@@ -1805,6 +1805,7 @@
             "openocean",
             "quickswap",
             "dfyn",
+            "RouterProtocol",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -6087,6 +6088,19 @@
         ]
     },
     {
+        "address": "0x5EEE4d55961705Eb55D12Cb6FA70EB93c4063216",
+        "symbol": "BSGG",
+        "name": "Betswap.gg",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/22496/large/betswap.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "RouterProtocol",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x5E430F88D1BE82EB3eF92b6fF06125168fD5DCf2",
         "symbol": "MODA",
         "name": "moda",
@@ -6777,6 +6791,19 @@
         ]
     },
     {
+        "address": "0x4AF5ff1A60a6eF6C7c8f9C4E304cD9051fCa3Ec0",
+        "symbol": "RGP",
+        "name": "RIGEL PROTOCOL",
+        "decimals": "18",
+        "chainId": "137",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9225.png",
+        "coingeckoId": "rigel-protocol",
+        "listedIn": [
+            "coingecko",
+            "RouterProtocol"
+        ]
+    },
+    {
         "address": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
         "symbol": "ICE",
         "name": "Iron Finance ICE Token",
@@ -7163,6 +7190,7 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn",
+            "RouterProtocol",
             "lifinance"
         ]
     },

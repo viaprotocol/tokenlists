@@ -1348,6 +1348,19 @@
         ]
     },
     {
+        "address": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638",
+        "symbol": "BSGG",
+        "name": "Betswap.gg",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://assets.coingecko.com/coins/images/22496/large/betswap.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "RouterProtocol",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
         "symbol": "wsOHM",
         "name": "Wrapped sOHM",
@@ -1805,6 +1818,7 @@
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
+            "RouterProtocol",
             "rubic",
             "lifinance",
             "elkfinance"

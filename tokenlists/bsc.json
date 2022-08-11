@@ -3257,6 +3257,19 @@
         ]
     },
     {
+        "address": "0xFA262F303Aa244f9CC66f312F0755d89C3793192",
+        "symbol": "RGP",
+        "name": "RIGEL PROTOCOL",
+        "decimals": "18",
+        "chainId": "56",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9225.png",
+        "coingeckoId": "rigel-protocol",
+        "listedIn": [
+            "coingecko",
+            "RouterProtocol"
+        ]
+    },
+    {
         "address": "0xF9d906a8dD25c4A4966bC075cdc946702219E62C",
         "symbol": "YIELD",
         "name": "Yield Protocol [via ChainPort.io]",
@@ -11837,6 +11850,19 @@
         ]
     },
     {
+        "address": "0x496E80Cad8712025dAfc5b2C96FC36c395af684a",
+        "symbol": "BSGG",
+        "name": "Betswap.gg",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://assets.coingecko.com/coins/images/22496/large/betswap.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "RouterProtocol",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x49277cC5be56b519901E561096bfD416277b4F6d",
         "symbol": "OCT",
         "name": "Octree Finance",
@@ -12019,6 +12045,19 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+        "symbol": "UNO",
+        "name": "Uno Re",
+        "decimals": "18",
+        "chainId": "56",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8875.png",
+        "coingeckoId": "uno-re",
+        "listedIn": [
+            "coingecko",
+            "RouterProtocol"
         ]
     },
     {
@@ -12768,6 +12807,7 @@
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
+            "RouterProtocol",
             "lifinance",
             "elkfinance"
         ]
