@@ -1,5 +1,57 @@
 [
     {
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "symbol": "ELK",
+        "name": "Elk",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/329f2280839ba8930e112bae1f61cbb9.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+        "symbol": "MAI",
+        "name": "Mai Stablecoin",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/cb30de2ca105456fbb279ef6297cf1dd.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+        "symbol": "sLINK",
+        "name": "Synth sLINK",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0xc5db22719a06418028a40a9b5e9a7c02959d0d08/2c51a53f0965c34055a18185bc5d6f5c.png",
+        "coingeckoId": "slink",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
+        "symbol": "ROOBEE",
+        "name": "ROOBEE",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://assets.coingecko.com/coins/images/8791/large/Group_11.png",
+        "coingeckoId": "roobee",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
         "symbol": "ZIP",
         "name": "ZIP",
@@ -18,11 +70,12 @@
         "name": "Kromatika",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://tokens.1inch.io/0xf98dcd95217e15e05d8638da4c91125e59590b07.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0xf98dcd95217e15e05d8638da4c91125e59590b07/d97d32749c368bb0fff58bba15b3b8d9.png",
         "coingeckoId": "kromatika",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -31,12 +84,13 @@
         "name": "Synth sETH",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172884504_4971130019263712.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49/4d8f63489087690a39948eb1b32cc3ec.png",
         "coingeckoId": "seth",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -51,6 +105,7 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -60,12 +115,13 @@
         "name": "Perpetual Protocol",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1652169404561_5337774432128011.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x9e1028f5f1d5ede59748ffcee5532509976840e0/f70e08dbc055f3728e7fb8053612906d.png",
         "coingeckoId": "perpetual-protocol",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -80,6 +136,7 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -89,12 +146,13 @@
         "name": "Synth sUSD",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1657090432548_3716826713316883.svg",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9/9882b42b09b0931b300f85e395950f5b.png",
         "coingeckoId": "nusd",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -103,12 +161,13 @@
         "name": "Synthetix Network Token",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172648754_42693222182948.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x8700daec35af8ff88c16bdf0418774cb3d7599b4/04464abd08b056378b08412be2c2d214.png",
         "coingeckoId": "havven",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -121,7 +180,8 @@
         "coingeckoId": "rai",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -136,7 +196,21 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6fd9d7ad17242c41f7131d257212c54a0e816691/7ae820078682b6eb89b6279ef81dd2e9.png",
+        "coingeckoId": "uniswap",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -151,35 +225,38 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance",
             "xyfinance"
         ]
     },
     {
         "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
         "symbol": "AELIN",
-        "name": "Aelin",
+        "name": "Aelin Token",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1642998662068_5577728369600954.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x61baadcf22d2565b0f471b291c475db5555e0b76/37adc4ae948f8c2fd7c88a348b38da6d.png",
         "coingeckoId": "aelin",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
         "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
         "symbol": "LYRA",
-        "name": "Lyra Finance",
+        "name": "Lyra Token",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1642997856559_7937039572432529.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x50c5725949a6f0c72e6c4a641f24049a917db0cb/89f0083a9e05132ce6aef77940f624f2.png",
         "coingeckoId": "lyra-finance",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -194,6 +271,7 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -209,21 +287,23 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance",
             "xyfinance"
         ]
     },
     {
         "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
         "symbol": "VELO",
-        "name": "Velodrome Finance",
+        "name": "Velodrome",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1656664301096_4133387415807357.jpg",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x3c8b650257cfb5f272f799f5e2b4e65093a11a05/c4c559ac018aed6e227405a73455fe5d.png",
         "coingeckoId": "velodrome-finance",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -232,12 +312,26 @@
         "name": "ChainLink Token",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172448604_2771152502797545.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6/1566b9c9b1c7177c0a853e4d2e8e1ab2.png",
         "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x2e3d870790dc77a83dd1d18184acc7439a53f475/e0e9ffc1db546a0f23ef7038466d5b04.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -256,14 +350,15 @@
     {
         "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
         "symbol": "THALES",
-        "name": "Optimistic Thales Token",
+        "name": "Thales",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://tokens.1inch.io/0x217d47011b23bb961eb6d93ca9945b7501a5bb11.png",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x217d47011b23bb961eb6d93ca9945b7501a5bb11/274d0c313fd4cf480ff9f98ce1355a7f.png",
         "coingeckoId": "thales",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     }
 ]

@@ -14,6 +14,7 @@ class TokenListProvider:
     base_url: str
     chains: dict[ChainId, str]
     _by_chain_id = False
+    _get_chain_id_key = False
     _tokens_to_list = False
     _check_chain_id = False  # True if tokenlist contains all chains at once and we should filter each chain
 
@@ -64,7 +65,12 @@ class TokenListProvider:
         res: dict[ChainId, list[Token]] = defaultdict(list)
 
         for chain_id, chain_name in cls.chains.items():
-            resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+            try:
+                resp = await httpx.AsyncClient().get(
+                    cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+            except httpx.ReadTimeout:
+                await asyncio.sleep(0.5)
+                continue
             num_retries = 0
             while resp.status_code != 200:
                 if num_retries > 60:
@@ -85,6 +91,9 @@ class TokenListProvider:
                 tokens = tokenlist["data"]
             else:
                 tokens = tokenlist
+
+            if cls._get_chain_id_key and str(chain_id) in tokens:
+                tokens = tokens[str(chain_id)]
 
             if cls._tokens_to_list:
                 tokens = list(tokens.values())
@@ -120,7 +129,8 @@ class CoinGeckoTokenLists(TokenListProvider):
         "1666600000": "harmony-shard-0",
         "100": "xdai",
         "1": "ethereum",
-        "-1": "solana"
+        "-1": "solana",
+        "9001": "evmos",
         # sora
     }
 
@@ -364,6 +374,31 @@ class CapricornFinance(TokenListProvider):
     chains = {'1818': '1818'}
 
 
+class Lifinance(TokenListProvider):
+    name = "lifinance"
+    base_url = "https://li.quest/v1/tokens"
+    _get_chain_id_key = True
+
+    chains = {
+        '1': '1',
+        '10': '10',
+        '25': '25',
+        '56': '56',
+        '66': '66',
+        '100': '100',
+        '122': '122',
+        '137': '137',
+        '250': '250',
+        '1284': '1284',
+        '1285': '1285',
+        '9001': '9001',
+        '42161': '42161',
+        '42220': '42220',
+        '43114': '43114',
+        '1666600000': '1666600000',
+    }
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -377,6 +412,7 @@ tokenlists_providers = [
     TrisolarisLabsLists,
     MojitoSwap,
     RubicLists,
+    Lifinance,
     XyFinance,
     ElkFinanceTokenLists,
     Multichain,

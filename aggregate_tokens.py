@@ -8,7 +8,6 @@ from token_list_providers import tokenlists_providers
 TOKENLISTS_FOLDER = "tokenlists"
 
 
-
 async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
     data = await asyncio.gather(*[provider.get_tokenlists() for provider in
                                   tokenlists_providers])

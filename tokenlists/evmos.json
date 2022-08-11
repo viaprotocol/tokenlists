@@ -1,0 +1,80 @@
+[
+    {
+        "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": 18,
+        "chainId": "9001",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0xd8176865dd0d672c6ab4a427572f80a72b4b4a9c/c89aca6896b4ce681c06829ca38c4d38.png",
+        "coingeckoId": "frax-share",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": 18,
+        "chainId": "9001",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8/0df22754441275abbc3810bd384c1bca.png",
+        "coingeckoId": "frax",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+        "symbol": "WEVMOS",
+        "name": "Wrapped Evmos",
+        "decimals": 18,
+        "chainId": "9001",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0xd4949664cd82660aae99bedc034a0dea8a0bd517/26e038b4d5475d5a4b92f7fc08bdabc9.png",
+        "coingeckoId": "evmos",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
+        "symbol": "USDC",
+        "name": "USDC",
+        "decimals": 6,
+        "chainId": "9001",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x51e44ffad5c2b122c8b635671fcc8139dc636e82/43cebbf7a996ebbb31c6b1513e282f0b.png",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
+        "symbol": "DIFF",
+        "name": "Diffusion",
+        "decimals": 18,
+        "chainId": "9001",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x3f75ceabcdfed1aca03257dc6bdc0408e2b4b026/dbedd920d3e7e5c76f502f837730d6f6.png",
+        "coingeckoId": "diffusion",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x1488346419FFc85C6D54E71be80a222971fb2240",
+        "symbol": "CRN",
+        "name": "Cronus Finance",
+        "decimals": 18,
+        "chainId": "9001",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x1488346419ffc85c6d54e71be80a222971fb2240/a921757f9981e9545899c37371946528.png",
+        "coingeckoId": "cronus-finance",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    }
+]

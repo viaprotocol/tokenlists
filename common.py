@@ -44,7 +44,8 @@ CHAIN_NAMES_BY_ID = {
     '80001': 'mumbai',
     '82': 'meter',
     '88': 'tomochain',
-    '97': 'bsc-testnet'
+    '97': 'bsc-testnet',
+    '9001': 'evmos',
 }
 
 Address = NewType('Address', str)
