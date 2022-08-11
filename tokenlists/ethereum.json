@@ -6374,11 +6374,12 @@
         "name": "Woofy",
         "decimals": 12,
         "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/woofy.jpg",
+        "logoURI": null,
         "coingeckoId": "woofy",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -11291,19 +11292,6 @@
         ]
     },
     {
-        "address": "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820",
-        "symbol": "WKDA",
-        "name": "Wrapped Kadena",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x85D7bdfc9c3426b33A684241eEEE70385Bc42820/logo.png",
-        "coingeckoId": "wrapped-kadena",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "address": "0x85759961b116f1D36fD697855c57A6ae40793D9B",
         "symbol": "cr1INCH",
         "name": "Cream 1INCH Token",
@@ -14451,6 +14439,19 @@
         ]
     },
     {
+        "address": "0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
+        "symbol": "OLT",
+        "name": "Oneledger Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": null,
+        "coingeckoId": "one-ledger",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",
         "symbol": "eXRD",
         "name": "E-RADIX",
@@ -15267,9 +15268,8 @@
         "decimals": 18,
         "chainId": "1",
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831/55ef4f6618ed4ad39cd061bb65594756.png",
-        "coingeckoId": "defidollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "sushiswap",
             "lifinance"
@@ -20211,19 +20211,6 @@
         ]
     },
     {
-        "address": "0x24E79e946dEa5482212c38aaB2D0782F04cdB0E0",
-        "symbol": "palStkAAVE",
-        "name": "Paladin stkAAVE",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x24e79e946dea5482212c38aab2d0782f04cdb0e0/add608fe8a15b03368f48fb40a42d8cf.png",
-        "coingeckoId": "paladin-stkaave",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "address": "0x24E3794605C84E580EEA4972738D633E8a7127c8",
         "symbol": "KTLYO",
         "name": "Katalyo Token",
@@ -21008,6 +20995,19 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C",
+        "symbol": "USDT",
+        "name": "USDT (Wormhole)",
+        "decimals": 6,
+        "chainId": "1",
+        "logoURI": null,
+        "coingeckoId": "tether-usd-wormhole",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

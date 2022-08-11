@@ -424,6 +424,14 @@ class PancakeSwap(TokenListProvider):
     chains = {'56': '56'}
 
 
+class Pangolin(TokenListProvider):
+    name = "pangolin"
+    base_url = "https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json"
+    _check_chain_id = True
+
+    chains = {'43114': 43114}
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -436,6 +444,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     Dfyn,
+    Pangolin,
     PancakeSwap,
     MojitoSwap,
     RubicLists,

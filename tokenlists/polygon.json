@@ -1366,19 +1366,6 @@
         ]
     },
     {
-        "address": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
-        "symbol": "GBTS",
-        "name": "GemBites",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d/c618b140ea998399174f9bfbeb87dab7.png",
-        "coingeckoId": "gembites",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "address": "0xbc7cB585346f4F59d07121Bb9Ed7358076243539",
         "symbol": "SILVER",
         "name": "Silver",
@@ -5603,6 +5590,19 @@
         ]
     },
     {
+        "address": "0x64060aB139Feaae7f06Ca4E63189D86aDEb51691",
+        "symbol": "UNIM",
+        "name": "Unicorn Milk",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": null,
+        "coingeckoId": "unicorn-milk",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x638Df98Ad8069a15569dA5a6b01181804c47e34c",
         "symbol": "DAFI",
         "name": "DAFI Token (PoS)",
@@ -7456,9 +7456,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x3bfce6d6f0d3d3f1326d86abdbe2845b4740dc2e/253b7de48e74ffeaef1f6b82ac2d0b7b.png",
-        "coingeckoId": "maticpad",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "dfyn",
             "lifinance"
         ]

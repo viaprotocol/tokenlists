@@ -3331,6 +3331,19 @@
         ]
     },
     {
+        "address": "0xF899E83E6c6dF1a0d4887CF0209193aA97236322",
+        "symbol": "MBD",
+        "name": "MBD Financials",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "mbd-financials",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xF7b6d7E3434cB9441982F9534E6998C43eEF144a",
         "symbol": "ASVA",
         "name": "Asva Finance",
@@ -4768,6 +4781,19 @@
         ]
     },
     {
+        "address": "0xC6759a4Fc56B3ce9734035a56B36e8637c45b77E",
+        "symbol": "Grimace",
+        "name": "GrimaceCoin",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "grimace-coin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xC64c9B30C981fc2eE4e13d0CA3f08258e725fd24",
         "symbol": "POLAR",
         "name": "Polar Sync",
@@ -4783,14 +4809,15 @@
     {
         "address": "0xC54A4640907044283e8E4885090E205992B9813e",
         "symbol": "FORS",
-        "name": "Forus",
+        "name": "FORUS",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xc54a4640907044283e8e4885090e205992b9813e/logo.png",
+        "logoURI": null,
         "coingeckoId": "forus",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -8764,6 +8791,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x75f53011f6d51c60e6dcbf54a8b1bcb54f07f0c9/d867f3f237316376577fb88672cf48c6.png",
         "coingeckoId": "glimpse",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x75aFA9915B2210Cd6329E820af0365e932bC1dd5",
+        "symbol": "SMURF",
+        "name": "Smurfs INU",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "smurfsinu",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -13260,6 +13300,19 @@
         ]
     },
     {
+        "address": "0x3279510E89600ee1767a037DBD0aD49c974063AE",
+        "symbol": "NFTBS",
+        "name": "NFTBOOKS",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "nftbooks",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x324E8E649A6A3dF817F97CdDBED2b746b62553dD",
         "symbol": "XUSD",
         "name": "XUSD",
@@ -16140,6 +16193,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x09607078980cbb0665aba9c6d1b84b8ead246aa0/f2d7f1dbff280d8085c31b301ed5fe0b.png",
         "coingeckoId": "pet-games",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x08bd7F9849f8EEC12fd78c9fED6ba4e47269e3d5",
+        "symbol": "bDOT",
+        "name": "BabyDot",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "babydot",
         "listedIn": [
             "coingecko",
             "lifinance"
