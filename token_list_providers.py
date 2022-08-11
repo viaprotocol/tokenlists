@@ -416,6 +416,14 @@ class Dfyn(TokenListProvider):
     }
 
 
+class PancakeSwap(TokenListProvider):
+    name = "pancake"
+    base_url = "https://tokens.pancakeswap.finance/pancakeswap-extended.json"
+    _check_chain_id = True
+
+    chains = {'56': '56'}
+
+
 tokenlists_providers = [
     CoinGeckoTokenLists,
     OneInchTokenLists,
@@ -428,6 +436,7 @@ tokenlists_providers = [
     FuseSwapTokenLists,
     TrisolarisLabsLists,
     Dfyn,
+    PancakeSwap,
     MojitoSwap,
     RubicLists,
     Lifinance,
