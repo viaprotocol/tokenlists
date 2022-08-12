@@ -64,7 +64,7 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xfa4b6db72a650601e7bd50a0a9f537c9e98311b2/b6cbbb5280d4cf915dcec512b539149a.png",
-        "coingeckoId": "harmes-shares",
+        "coingeckoId": null,
         "listedIn": [
             "1inch",
             "pangolin",
@@ -132,9 +132,8 @@
         "decimals": 6,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xf69c2fcd9128d49dfa22348c69177f9380438eb8/448ba3329bba24bebecf414d09dd40b3.png",
-        "coingeckoId": "nft-soccer-games",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "lifinance"
         ]
@@ -445,19 +444,6 @@
         ]
     },
     {
-        "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
-        "symbol": "mYAK",
-        "name": "MiniYAK",
-        "decimals": 12,
-        "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0xddaaad7366b455aff8e7c82940c43ceb5829b604.png",
-        "coingeckoId": "miniyak",
-        "listedIn": [
-            "coingecko",
-            "1inch"
-        ]
-    },
-    {
         "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
         "symbol": "MORE",
         "name": "More Token",
@@ -469,6 +455,19 @@
             "coingecko",
             "joe",
             "pangolin",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xd7a5197b78E6c139531C3D2Ff064215902B72c2E",
+        "symbol": "iEUROS",
+        "name": "Inflation Adjusted Spice EUR",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xd7a5197b78e6c139531c3d2ff064215902b72c2e/a611b4438f5ce9cbeb7b8e36f50951bb.png",
+        "coingeckoId": "inflation-adjusted-euro",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -771,28 +770,14 @@
         ]
     },
     {
-        "address": "0xc16A1b60175d16be6F2ED0bA506ca0e6EfBA8e08",
-        "symbol": "CHAD",
-        "name": "GigaChad",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xc16a1b60175d16be6f2ed0ba506ca0e6efba8e08/logo.png",
-        "coingeckoId": "gigachad",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
         "symbol": "BLUE",
         "name": "Blue Token",
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xc12e249fabe1c5eb7c558e5f50d187687a244e31/51738a834c5e1b27cb3c3f929a579d7c.png",
-        "coingeckoId": "tip-blue",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "lifinance"
         ]
@@ -1140,9 +1125,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://elk.finance/tokens/logos/avax/0xa1144a6A1304bd9cbb16c800F7a867508726566E/logo.png",
-        "coingeckoId": "baguette",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "rubic",
             "elkfinance"
@@ -1187,19 +1171,6 @@
             "coingecko",
             "rubic",
             "lifinance"
-        ]
-    },
-    {
-        "address": "0xF9A075C9647e91410bF6C402bDF166e1540f67F0",
-        "symbol": "SING",
-        "name": "Sing Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xf9a075c9647e91410bf6c402bdf166e1540f67f0/logo.png",
-        "coingeckoId": "sing-token-avalanche",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1387,19 +1358,6 @@
         ]
     },
     {
-        "address": "0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF",
-        "symbol": "ZABU",
-        "name": "Zabu Token",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://elk.finance/tokens/logos/avax/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF/logo.png",
-        "coingeckoId": "zabu-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
-        ]
-    },
-    {
         "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
         "symbol": "FRAX",
         "name": "Frax",
@@ -1534,9 +1492,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xce2fbed816e320258161ced52c2d0cebcdfd8136/5d53e1df6801d4dbcd883c4c3da115b6.png",
-        "coingeckoId": "bribe-token-2",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "lifinance"
         ]
@@ -1595,9 +1552,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://api.rubic.exchange/assets/avalanche/0xcc2f1d827b18321254223df4e84de399d9ff116c/logo.png",
-        "coingeckoId": "smartcoin-2",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "rubic"
         ]
@@ -1726,19 +1682,6 @@
             "rubic",
             "lifinance",
             "xyfinance"
-        ]
-    },
-    {
-        "address": "0xB669c71431bc4372140bC35Aa1962C4B980bA507",
-        "symbol": "a.BEE",
-        "name": "HoneyBee",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xb669c71431bc4372140bc35aa1962c4b980ba507/logo.png",
-        "coingeckoId": "avalanche-honeybee",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1917,19 +1860,6 @@
             "coingecko",
             "rubic",
             "lifinance"
-        ]
-    },
-    {
-        "address": "0xA9D633A1ac5Aa995C5e4F7d915ADe1Be565A97e8",
-        "symbol": "AURORA",
-        "name": "Aurora",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8/logo.png",
-        "coingeckoId": "arctic-finance",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2413,9 +2343,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://api.rubic.exchange/assets/avalanche/0x924157b5dbb387a823719916b25256410a4ad470/logo.png",
-        "coingeckoId": "snowtomb-lot",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "rubic"
         ]
@@ -2442,9 +2371,8 @@
         "decimals": 9,
         "chainId": "43114",
         "logoURI": "https://elk.finance/tokens/logos/avax/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
-        "coingeckoId": "good-bridging",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "pangolin",
             "rubic",
@@ -2563,9 +2491,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf/edc0c58e9c8b97893e02c1f57d902fd1.png",
-        "coingeckoId": "canary",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "rubic",
             "lifinance"
@@ -2593,9 +2520,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://elk.finance/tokens/logos/avax/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
-        "coingeckoId": "orcadao",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "rubic",
             "lifinance",
@@ -2789,9 +2715,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x7f041ce89a2079873693207653b24c15b5e6a293/7eebaa0bbb2649557e94c84b313e49b1.png",
-        "coingeckoId": "police-and-thief-game",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "pangolin",
             "rubic",
@@ -2848,9 +2773,8 @@
         "decimals": 9,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x7c08413cbf02202a1c13643db173f2694e0f73f0/46fd68d545f4b8a09b4d01f4377ed3be.png",
-        "coingeckoId": "maximizer",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "pangolin",
             "lifinance"
@@ -3293,9 +3217,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://api.rubic.exchange/assets/avalanche/0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b/logo.png",
-        "coingeckoId": "storm-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "rubic"
         ]
@@ -3523,7 +3446,7 @@
         "name": "Build Token",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://assets.coingecko.com/coins/images/26533/large/BUILD.png",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x5f018e73c185ab23647c82bd039e762813877f0e/7c26ba1d23dbbce2661876dde75b6af6.png",
         "coingeckoId": "build",
         "listedIn": [
             "coingecko",
@@ -3797,9 +3720,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x4fbf0429599460d327bd5f55625e30e4fc066095/f7711baf3d6cc769a88494b1345e0f42.png",
-        "coingeckoId": "teddy-dollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean",
             "pangolin",
@@ -3866,19 +3788,6 @@
         "listedIn": [
             "pangolin",
             "lifinance"
-        ]
-    },
-    {
-        "address": "0x4Aca0ad6357b918e3d06BB1a0BCC403619177523",
-        "symbol": "SONIC",
-        "name": "AVAXRush",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://elk.finance/tokens/logos/avax/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523/logo.png",
-        "coingeckoId": "sonic-token",
-        "listedIn": [
-            "coingecko",
-            "elkfinance"
         ]
     },
     {
@@ -4636,9 +4545,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://elk.finance/tokens/logos/avax/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
-        "coingeckoId": "tundra-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "rubic",
             "lifinance",
@@ -4751,19 +4659,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance"
-        ]
-    },
-    {
-        "address": "0x1d60109178C48E4A937D8AB71699D8eBb6F7c5dE",
-        "symbol": "MAG",
-        "name": "Magnet",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x1d60109178c48e4a937d8ab71699d8ebb6f7c5de/711c3085741d4f9a44d21315f975ed58.png",
-        "coingeckoId": "magnet-dao",
-        "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -4912,6 +4807,19 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x1556e2d8ff76DFbC5946aE18260e78A6ed745FED",
+        "symbol": "EUROS",
+        "name": "Spice EUR",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x1556e2d8ff76dfbc5946ae18260e78a6ed745fed/4860dd0437f72f3b9c81e439aefdf6ae.png",
+        "coingeckoId": "spiceeuro",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -5110,27 +5018,13 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://elk.finance/tokens/logos/avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
-        "coingeckoId": "teddy",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "pangolin",
             "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "address": "0x094BFaC9894d2A2A35771D0BD6d2447689190F32",
-        "symbol": "CAT",
-        "name": "CAT",
-        "decimals": 18,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x094bfac9894d2a2a35771d0bd6d2447689190f32/logo.png",
-        "coingeckoId": "cat",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {

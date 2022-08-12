@@ -626,7 +626,7 @@
         "name": "Entity",
         "decimals": 5,
         "chainId": "56",
-        "logoURI": null,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xeef6020b7720f4e000476b017fc4e224dfc0aa36/cdf88a7011916e02d59c3c9fa842b247.png",
         "coingeckoId": "entity",
         "listedIn": [
             "coingecko",
@@ -1417,6 +1417,19 @@
         ]
     },
     {
+        "address": "0xd73F32833B6D5D9c8070c23e599e283a3039823C",
+        "symbol": "WTF",
+        "name": "Waterfall Governance Token",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xd73f32833b6d5d9c8070c23e599e283a3039823c/1939c256d375f6dec66e5d858f3ac676.png",
+        "coingeckoId": "waterfall-governance-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xd72aA9e1cDDC2F6D6e0444580002170fbA1f8eED",
         "symbol": "MDA",
         "name": "Moeda Loyalty Points",
@@ -1926,9 +1939,8 @@
         "decimals": 18,
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xc4daa5a9f2b832ed0f9bc579662883cd53ea9d61/5abc9c3db01964ec17e78d00026f3af7.png",
-        "coingeckoId": "brickchain-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -2620,6 +2632,19 @@
         ]
     },
     {
+        "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+        "symbol": "TOON",
+        "name": "PontoonToken",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaee433adebe0fbb88daa47ef0c1a513caa52ef02/b3b07c0da2807d2ec85aa6daa86afc82.png",
+        "coingeckoId": "pontoon",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
         "symbol": "MCRN",
         "name": "MacaronSwap",
@@ -3048,6 +3073,19 @@
             "pancake",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0xa045E37a0D1dd3A45fefb8803D22457abc0A728a",
+        "symbol": "GHNY",
+        "name": "Grizzly Honey",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xa045e37a0d1dd3a45fefb8803d22457abc0a728a/14c1622e8f5abb1de9bb969b74ffc523.png",
+        "coingeckoId": "grizzly-honey",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3989,14 +4027,14 @@
     {
         "address": "0xE4182E57EEb29FBc2B3469e45C9e385CEa8995AB",
         "symbol": "FTE",
-        "name": "FITE",
+        "name": "FTE",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1660186363893_29599713732839183.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe4182e57eeb29fbc2b3469e45c9e385cea8995ab/74ffed13859024fa1311e9c813bb0eff.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -4600,7 +4638,6 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic",
             "lifinance"
         ]
     },
@@ -4984,6 +5021,20 @@
             "pancake",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0xC0ECB8499D8dA2771aBCbF4091DB7f65158f1468",
+        "symbol": "SWTH",
+        "name": "Carbon Protocol",
+        "decimals": 8,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xc0ecb8499d8da2771abcbf4091db7f65158f1468/5846a64b6f88900c3db093f20e54d391.png",
+        "coingeckoId": "switcheo",
+        "listedIn": [
+            "coingecko",
+            "pancake",
+            "lifinance"
         ]
     },
     {
@@ -5508,9 +5559,8 @@
         "decimals": 18,
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaf44400a99a9693bf3c2e89b02652babacc5cdb9/ecad679f4a75b41c168d7133575dc49e.png",
-        "coingeckoId": "mafacoin",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -5526,6 +5576,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884",
+        "symbol": "GMR",
+        "name": "GAMER",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xadca52302e0a6c2d5d68edcdb4ac75deb5466884/3fe6f86aad94f9f41ff387a071aaeba2.png",
+        "coingeckoId": "gamer",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -6099,7 +6162,7 @@
         "name": "SpookyShiba",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x9c2b1b3780a8b36b695f0b2781668664ac1bf25a/cadcacdbf47931c61da400b555893003.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x9c2b1b3780a8b36b695f0b2781668664ac1bf25a/9cd58fe2c591f2d3ac1c23d98741346f.png",
         "coingeckoId": "spookyshiba-2",
         "listedIn": [
             "coingecko",
@@ -6252,6 +6315,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x9ba6a67a6f3b21705a46b380a1b97373a33da311/78dba9cce97ba14ee9692dfb22400a04.png",
         "coingeckoId": "fear",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+        "symbol": "PROPEL",
+        "name": "Propel",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x9b44df3318972be845d83f961735609137c4c23c/a3c1145f0c03e212e20624a766904b85.png",
+        "coingeckoId": "payrue",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -6637,6 +6713,19 @@
             "pancake",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "address": "0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8",
+        "symbol": "PHUB",
+        "name": "PegHub.com",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x95a6772a2272b9822d4b3dfeeaedf732f1d28db8/c6424c706baddec7e7c8067f51c3e470.png",
+        "coingeckoId": "peghub-com",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9057,7 +9146,7 @@
         "name": "Meta Apes Peel",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://tokens.pancakeswap.finance/images/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x734548a9e43d2d564600b1b2ed5be9c2b911c6ab/7a2244d7140cff76fe139fb50fb94e1e.png",
         "coingeckoId": "meta-apes-peel",
         "listedIn": [
             "coingecko",
@@ -9432,6 +9521,19 @@
         ]
     },
     {
+        "address": "0x6a59e047Bd8AFa31a175B2056b44D1235AD4D852",
+        "symbol": "ECON",
+        "name": "Recession Coin",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x6a59e047bd8afa31a175b2056b44d1235ad4d852/1e7d8d60dc13af9298dd11057466d6b2.png",
+        "coingeckoId": "recession-coin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x6a0b66710567b6beb81A71F7e9466450a91a384b",
         "symbol": "PEX",
         "name": "PearDAO",
@@ -9796,9 +9898,8 @@
         "decimals": 8,
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x67d012f731c23f0313cea1186d0121779c77fcfe/a316479aa7af626a6f02c6e546fc0db2.png",
-        "coingeckoId": "apoyield",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -10049,6 +10150,19 @@
             "pancake",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x63290fC683d11ea077abA09596Ff7387D49dF912",
+        "symbol": "RAM",
+        "name": "Ramifi Token",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x63290fc683d11ea077aba09596ff7387d49df912/cc90399b7f8c933a2f754377191065e1.png",
+        "coingeckoId": "ramifi",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -11283,6 +11397,19 @@
         ]
     },
     {
+        "address": "0x4fD6b4DA1773C25D8904FC27f91085f235b4Ed0A",
+        "symbol": "LINKIES",
+        "name": "Sergey's BigMac Fund",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x4f39c3319188A723003670c3F9B9e7EF991E52F3",
         "symbol": "FIGHT",
         "name": "Fight Token",
@@ -11733,7 +11860,7 @@
         "name": "pStake Finance",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://tokens.pancakeswap.finance/images/0x4C882ec256823eE773B25b414d36F92ef58a7c0C.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x4c882ec256823ee773b25b414d36f92ef58a7c0c/5163ad5ac41051712717c90c05c4720a.png",
         "coingeckoId": "pstake-finance",
         "listedIn": [
             "coingecko",
@@ -14160,7 +14287,7 @@
         "name": "Rare Fnd",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": null,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x264387ad73d19408e34b5d5e13a93174a35cea33/da8f88a67a12d50138b75dd9332ac24f.png",
         "coingeckoId": "rare-fnd",
         "listedIn": [
             "coingecko",
@@ -14301,7 +14428,6 @@
         "listedIn": [
             "1inch",
             "openocean",
-            "pancake",
             "lifinance",
             "elkfinance"
         ]

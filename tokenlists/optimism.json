@@ -106,6 +106,19 @@
         ]
     },
     {
+        "address": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
+        "symbol": "MKR",
+        "name": "Maker",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
         "symbol": "BAL",
         "name": "Balancer",
@@ -352,6 +365,19 @@
             "optimism",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+        "symbol": "AAVE",
+        "name": "Aave Token",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
         ]
     },
     {

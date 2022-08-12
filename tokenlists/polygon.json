@@ -182,9 +182,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xf5ea626334037a2cf0155d49ea6462fddc6eff19/d87fed4d66d537c6209d462d21a0779e.png",
-        "coingeckoId": "polygonfarm-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -473,7 +472,7 @@
         "name": "Build Token",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://assets.coingecko.com/coins/images/26533/large/BUILD.png",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xe94845ac6782a2e71c407abe4d5201445c26a62b/c579cd2cdf2a4548d4e3e24b6287c0ce.png",
         "coingeckoId": "build",
         "listedIn": [
             "coingecko",
@@ -2902,9 +2901,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xcb898b0efb084df14dd8e018da37b4d0f06ab26d/c173dd70443acfdc8072a75d4dfee414.png",
-        "coingeckoId": "sing-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "dfyn",
             "lifinance"
         ]
@@ -2944,9 +2942,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xc68e83a305b0fad69e264a1769a0a070f190d2d6/52079f2f4d4cb61186f9ba1ac1c02977.png",
-        "coingeckoId": "polyroll",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -3195,19 +3192,6 @@
         "listedIn": [
             "quickswap",
             "lifinance"
-        ]
-    },
-    {
-        "address": "0xB6509Cbd9e2D1CeC787a7357eB1578B86a0c702d",
-        "symbol": "DRK",
-        "name": "Drakoin (PoS)",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0xb6509cbd9e2d1cec787a7357eb1578b86a0c702d/logo.png",
-        "coingeckoId": "drakoin",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -4249,9 +4233,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc/9f11f8d44beb64b87dc913612bc6d658.png",
-        "coingeckoId": "polypup-collar-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -6020,6 +6003,19 @@
         ]
     },
     {
+        "address": "0x5c947eB80D096A5e332bF79bfDc9feb3D0a201d7",
+        "symbol": "SPIT",
+        "name": "Spit Token",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x5c947eb80d096a5e332bf79bfdc9feb3d0a201d7/6c4d548929c2146c0283a327f525533e.png",
+        "coingeckoId": "llamaverse",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
         "symbol": "BNB",
         "name": "Binance Token",
@@ -6329,19 +6325,6 @@
             "coingecko",
             "sushiswap",
             "lifinance"
-        ]
-    },
-    {
-        "address": "0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D",
-        "symbol": "DUST",
-        "name": "Distant Universe Stardust Token",
-        "decimals": 8,
-        "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d/logo.png",
-        "coingeckoId": "dust-token",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -7413,9 +7396,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea/f0e7b1fc1223183e3b1362291498e27f.png",
-        "coingeckoId": "xdollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "dfyn",
             "lifinance"
         ]
@@ -8395,19 +8377,6 @@
         ]
     },
     {
-        "address": "0x245e5ddb65eFea6522Fa913229dF1f4957fB2e21",
-        "symbol": "EGG",
-        "name": "LoserchickEgg",
-        "decimals": 18,
-        "chainId": "137",
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x245e5ddb65efea6522fa913229df1f4957fb2e21/61eccb0c6e6e374b13a5df29a8d6a33b.png",
-        "coingeckoId": "loserchick-egg",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "address": "0x23fE1Ee2f536427B7e8aC02FB037A7f867037Fe8",
         "symbol": "TORN",
         "name": "Tornado Cash",
@@ -9375,9 +9344,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01/957da4c08106fbb902f98b4207e510a3.png",
-        "coingeckoId": "auroratoken",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "dfyn",
             "lifinance"
         ]
@@ -9530,9 +9498,8 @@
         "decimals": 18,
         "chainId": "137",
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0b048d6e01a6b9002c291060bf2179938fd8264c/c3ef7925884169266c3d80ce80374c97.png",
-        "coingeckoId": "polyalpha-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
