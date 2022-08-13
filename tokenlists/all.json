@@ -549,9 +549,8 @@
             "decimals": 18,
             "chainId": "1284",
             "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x19d2f0cf1fc41de2b8fd4a98065ab9284e05cf29/aba90e4a1caf50857be16cae55c08f0b.png",
-            "coingeckoId": "1beam",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "rubic",
                 "lifinance"
             ]
@@ -5847,6 +5846,19 @@
             ]
         },
         {
+            "address": "0xaa3387B36a4aCd9D2c1326a7f10658d7051b73a6",
+            "symbol": "BSCB",
+            "name": "BSCBAY",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaa3387b36a4acd9d2c1326a7f10658d7051b73a6/fc7c8b39bdc6d54af3cb198420ad983d.png",
+            "coingeckoId": "bscbay",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xaFF9084f2374585879e8B434C399E29E80ccE635",
             "symbol": "FLUX",
             "name": "Flux",
@@ -8441,6 +8453,19 @@
             ]
         },
         {
+            "address": "0xB72bA371c900aa68bb9Fa473e93CfbE212030fCb",
+            "symbol": "PSR",
+            "name": "Pandora Spirit",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xb72ba371c900aa68bb9fa473e93cfbe212030fcb/46ccd067e4a3788d5ed9ed1f1918d791.png",
+            "coingeckoId": "pandora-spirit",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xB72842D6F5feDf91D22d56202802Bb9A79C6322E",
             "symbol": "MOMA",
             "name": "MOchi MArket",
@@ -8748,6 +8773,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0xAE1107fC7CeF1294F09185aC475c9886527DcD8a",
+            "symbol": "ADAL",
+            "name": "ADAL Token",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xae1107fc7cef1294f09185ac475c9886527dcd8a/797d13fae0c1f5c5623cc7e0e9c6927b.png",
+            "coingeckoId": "adalend",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -12578,6 +12616,19 @@
             "listedIn": [
                 "coingecko",
                 "pancake",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+            "symbol": "MYRA",
+            "name": "Mytheria",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x6ef238e9e8cd2a96740897761c18894fc086b9d0/a3a603a7e14a92547d434571cbd8c026.png",
+            "coingeckoId": "mytheria",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -16822,6 +16873,19 @@
             ]
         },
         {
+            "address": "0x317eb4ad9cfaC6232f0046831322E895507bcBeb",
+            "symbol": "TDX",
+            "name": "Tidex Token",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x317eb4ad9cfac6232f0046831322e895507bcbeb/e9320836dba57c94fafbd689e6952a86.png",
+            "coingeckoId": "tidex-token",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x31471E0791fCdbE82fbF4C44943255e923F1b794",
             "symbol": "PVU",
             "name": "Plant vs Undead Token",
@@ -17686,6 +17750,19 @@
                 "coingecko",
                 "openocean",
                 "rubic",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x24802247bD157d771b7EFFA205237D8e9269BA8A",
+            "symbol": "THC",
+            "name": "Thetan Coin",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x24802247bd157d771b7effa205237d8e9269ba8a/e412469ad6355e2000cbff3a53e7e3b2.png",
+            "coingeckoId": "thetan-coin",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -33168,7 +33245,7 @@
             "name": "Reverse",
             "decimals": 9,
             "chainId": "137",
-            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x5dd175a4242afe19e5c1051d8cd13fc8979f2329/ab452e85cfaecbd309378be5bdd7355c.png",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x5dd175a4242afe19e5c1051d8cd13fc8979f2329/3b819c5c0675e85f0551027faf00a21c.png",
             "coingeckoId": "reverse",
             "listedIn": [
                 "coingecko",
@@ -46662,6 +46739,19 @@
             ]
         },
         {
+            "address": "0x0007E7f456A6Bb854606f04cc16989aCFe42F2F2",
+            "symbol": "VITC",
+            "name": "Vitamin Coin",
+            "decimals": 18,
+            "chainId": "1666600000",
+            "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x0007e7f456a6bb854606f04cc16989acfe42f2f2/e3a2e716931a9d57d02a8d279e3576df.png",
+            "coingeckoId": "vitamin-coin",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x0000000000000000000000000000000000000000",
             "symbol": "ONE",
             "name": "ONE",
@@ -58940,7 +59030,7 @@
             "name": "MAGIC",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a/61c96b5ee0f6a412d55528a87681c511.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a/e50b983bc909e7c1002169d9f5488ced.png",
             "coingeckoId": "magic",
             "listedIn": [
                 "coingecko",
