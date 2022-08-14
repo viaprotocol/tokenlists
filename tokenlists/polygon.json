@@ -56,6 +56,19 @@
         ]
     },
     {
+        "address": "0xfd0cbdDec28a93bB86B9db4A62258F5EF25fEfdE",
+        "symbol": "BITT",
+        "name": "BITTOKEN (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xfd0cbddec28a93bb86b9db4a62258f5ef25fefde/d975e245158b1ac10a9397566fd0ed7c.png",
+        "coingeckoId": "bittoken",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xfc39742Fe9420a7Af23757Fc7E78D1c3AE4A9474",
         "symbol": "eUSDT",
         "name": "Easy USDT",
@@ -1485,6 +1498,19 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "address": "0xb4228798fF437ecD8fa43429664e9992256fe6Ac",
+        "symbol": "KITTY",
+        "name": "Kitty Coin",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb4228798ff437ecd8fa43429664e9992256fe6ac/a8280eb1271c606abab9f1dfb91a300a.png",
+        "coingeckoId": "kittycoin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -6639,14 +6665,15 @@
     {
         "address": "0x4d8181f051E617642e233Be09Cea71Cc3308ffD4",
         "symbol": "DIGI",
-        "name": "Digible",
+        "name": "Digi",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x4d8181f051e617642e233be09cea71cc3308ffd4/logo.png",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x4d8181f051e617642e233be09cea71cc3308ffd4/2ebd0f72cea8a4988c324e98193616c8.png",
         "coingeckoId": "digible",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -8513,6 +8540,19 @@
         "listedIn": [
             "coingecko",
             "quickswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x22a31bD4cB694433B6de19e0aCC2899E553e9481",
+        "symbol": "MMF",
+        "name": "Mad Meerkat Finance",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://assets.coingecko.com/coins/images/22273/small/MMF200X200.png",
+        "coingeckoId": "mmfinance-polygon",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
