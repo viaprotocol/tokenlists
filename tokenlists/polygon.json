@@ -2947,6 +2947,19 @@
         ]
     },
     {
+        "address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
+        "symbol": "FTM",
+        "name": "Fantom Token (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
         "symbol": "RAZOR",
         "name": "Razor",
@@ -8315,6 +8328,19 @@
         ]
     },
     {
+        "address": "0x26d326B1fc702260baeB62334d7c1Da6f1a2C386",
+        "symbol": "GTPS",
+        "name": "Gtps.Finance",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://elk.finance/tokens/logos/matic/0x26d326B1fc702260baeB62334d7c1Da6f1a2C386/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "address": "0x268Ad27C28601D28b79c792C14e95BD2b7A030F8",
         "symbol": "JULIEN",
         "name": "Julien",
@@ -9686,11 +9712,12 @@
         "name": "Amp Token (PoS)",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://api.rubic.exchange/assets/polygon/0x0621d647cecbfb64b79e44302c1933cb4f27054d/logo.png",
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {

@@ -487,6 +487,19 @@
         ]
     },
     {
+        "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
+        "symbol": "MORK",
+        "name": "Mork",
+        "decimals": 4,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf552b656022c218c26dad43ad88881fc04116f76/a705e2b3cc45c1112c32e038d40916b4.png",
+        "coingeckoId": "mork",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xf54B304e2e4b28c7E46619D1A340F9b2B72383D7",
         "symbol": "KRZ",
         "name": "Kranz Token",
@@ -1027,11 +1040,12 @@
         "name": "Rainicorn",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed/logo.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed/28c182d359264f551c158371f4f99867.png",
         "coingeckoId": "rainicorn",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3170,11 +3184,12 @@
         "name": "Hina Inu",
         "decimals": 9,
         "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xbd0a4bf098261673d5e6e600fd87ddcd756e6764/logo.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xbd0a4bf098261673d5e6e600fd87ddcd756e6764/8e42e69d7b277b1e4fcb8596a62e13cd.png",
         "coingeckoId": "hina-inu",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -10141,11 +10156,12 @@
         "name": "Jejudoge",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0x939a7a577d93ad29b64c1595b1284ce660a479b9/logo.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x939a7a577d93ad29b64c1595b1284ce660a479b9/df9a624585a0fff079b4aa03a86c75c5.png",
         "coingeckoId": "jejudoge",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11004,6 +11020,19 @@
         ]
     },
     {
+        "address": "0x8B660dA0F7C74d2464A19A3D67e202dcB6BCFDAF",
+        "symbol": "FREE",
+        "name": "Freedom",
+        "decimals": 9,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8b660da0f7c74d2464a19a3d67e202dcb6bcfdaf/9ac3c732870508087aed877144ce489b.png",
+        "coingeckoId": "freedom-22-dao",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
         "symbol": "PKF",
         "name": "PolkaFoundry",
@@ -11023,7 +11052,7 @@
         "name": "Saitama Inu",
         "decimals": 9,
         "chainId": "1",
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/a3e3bc55f022a67e9c9848b689ab1123.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/7a69647caac81a8de361248b64e7c01b.png",
         "coingeckoId": null,
         "listedIn": [
             "rubic",
@@ -14370,6 +14399,19 @@
         ]
     },
     {
+        "address": "0x698C6aC9CA5f16cAbC5a636D3a619329c0958cBA",
+        "symbol": "Saja",
+        "name": "Saja",
+        "decimals": 9,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x698c6ac9ca5f16cabc5a636d3a619329c0958cba/dd9d3a17498d2a96214a60c037a8e038.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x697256CAA3cCaFD62BB6d3Aa1C7C5671786A5fD9",
         "symbol": "crLINK",
         "name": "Cream ChainLink Token",
@@ -14394,6 +14436,19 @@
             "coingecko",
             "sushiswap",
             "RouterProtocol",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x692eb773E0b5B7A79EFac5A015C8b36A2577F65c",
+        "symbol": "SWISS",
+        "name": "Swiss Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x692eb773e0b5b7a79efac5a015c8b36a2577f65c/ed8e36eaaf9ef7c8f3bb858a3af1f966.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
@@ -14958,6 +15013,19 @@
         ]
     },
     {
+        "address": "0x62959c699A52eC647622c91e79CE73344e4099f5",
+        "symbol": "DFA",
+        "name": "DeFine Art",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x62959c699a52ec647622c91e79ce73344e4099f5/eab42674315a907288a1aa0fc0ae4712.png",
+        "coingeckoId": "define",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
         "symbol": "AIOZ",
         "name": "AIOZ Network",
@@ -15177,11 +15245,12 @@
         "name": "PIKA",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0x60f5672a271c7e39e787427a18353ba59a4a3578/logo.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x60f5672a271c7e39e787427a18353ba59a4a3578/f30cc82862f121b5d9f054d6d1ce4367.png",
         "coingeckoId": "pikachu",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -18359,6 +18428,7 @@
         "coingeckoId": "xmon",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
