@@ -96,6 +96,19 @@
         ]
     },
     {
+        "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
+        "symbol": "CPIE",
+        "name": "CremePieSwap Token",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
         "symbol": "MaticX",
         "name": "Liquid Staking Matic (PoS)",
@@ -105,6 +118,7 @@
         "coingeckoId": "stader-maticx",
         "listedIn": [
             "coingecko",
+            "1inch",
             "quickswap",
             "lifinance"
         ]
@@ -988,6 +1002,19 @@
         "coingeckoId": "mimir-token",
         "listedIn": [
             "coingecko",
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
+        "symbol": "YELD",
+        "name": "PolyYeld Token",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xd0f3121a190d85de0ab6131f2bcecdbfcfb38891/6aff061533ce710dba1f091c7a258941.png",
+        "coingeckoId": null,
+        "listedIn": [
             "rubic",
             "lifinance"
         ]

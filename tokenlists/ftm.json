@@ -1537,9 +1537,8 @@
         "decimals": 18,
         "chainId": "250",
         "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xa882ceac81b22fc2bef8e1a82e823e3e9603310b/9c0a10bb7cec5c3030ea6120d2c75662.png",
-        "coingeckoId": "panicswap",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -3380,6 +3379,19 @@
         "listedIn": [
             "dfyn",
             "RouterProtocol"
+        ]
+    },
+    {
+        "address": "0x41e3dF7f716aB5AF28c1497B354D79342923196a",
+        "symbol": "aUSD",
+        "name": "aUSD",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x41e3df7f716ab5af28c1497b354d79342923196a/cce33c0a9018f1794edb5221e9638609.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     },
     {

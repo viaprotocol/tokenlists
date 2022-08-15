@@ -1202,11 +1202,12 @@
         "name": "Agave",
         "decimals": 18,
         "chainId": "42161",
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x848e0ba28b637e8490d88bae51fa99c87116409b/logo.png",
+        "logoURI": null,
         "coingeckoId": "agave-token",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
