@@ -125,8 +125,9 @@
         "decimals": 18,
         "chainId": "10",
         "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921/1fb0106c7a38e4a32b6950171856046b.png",
-        "coingeckoId": null,
+        "coingeckoId": "balancer",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]

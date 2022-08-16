@@ -490,6 +490,7 @@
         "coingeckoId": "binance-coin-wormhole",
         "listedIn": [
             "coingecko",
+            "dfyn",
             "lifinance"
         ]
     },
@@ -2367,6 +2368,19 @@
         ]
     },
     {
+        "address": "0xE631FfAA2cF4d91aac3E9589a5d5B390C82A032E",
+        "symbol": "oWBTC",
+        "name": "Orbit Bridge Polygon Wrapped BTC",
+        "decimals": 8,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0xe631ffaa2cf4d91aac3e9589a5d5b390c82a032e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xE613a914bbb433855378183c3aB13003285da40A",
         "symbol": "B2M",
         "name": "Bit2Me",
@@ -2934,6 +2948,19 @@
         ]
     },
     {
+        "address": "0xCc2a9051E904916047c26C90f41c000D4f273456",
+        "symbol": "oXRP",
+        "name": "Orbit Bridge Polygon XRP Token",
+        "decimals": 6,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0xcc2a9051e904916047c26c90f41c000d4f273456.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xCa7BF3C514d412AC12D10Eff302301A81153F557",
         "symbol": "LFI",
         "name": "LunaFi",
@@ -3161,6 +3188,7 @@
             "sushiswap",
             "openocean",
             "quickswap",
+            "dfyn",
             "lifinance",
             "xyfinance"
         ]
@@ -3971,6 +3999,19 @@
         ]
     },
     {
+        "address": "0x957da9EbbCdC97DC4a8C274dD762EC2aB665E15F",
+        "symbol": "oUSDT",
+        "name": "Orbit Bridge Polygon Tether USD",
+        "decimals": 6,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x957da9ebbcdc97dc4a8c274dd762ec2ab665e15f.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
         "symbol": "Guard",
         "name": "Helmet.insure on Polygon",
@@ -4289,6 +4330,19 @@
             "coingecko",
             "1inch",
             "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x8Ece0a50A025A7E13398212a5BEd2ded11959949",
+        "symbol": "oDAI",
+        "name": "Orbit Bridge Polygon Dai",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x8ece0a50a025a7e13398212a5bed2ded11959949.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
             "lifinance"
         ]
     },
@@ -6123,6 +6177,19 @@
         ]
     },
     {
+        "address": "0x5bEF2617eCCA9a39924c09017c5F1E25Efbb3bA8",
+        "symbol": "oUSDC",
+        "name": "Orbit Bridge Polygon USD Coin",
+        "decimals": 6,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x5bef2617ecca9a39924c09017c5f1e25efbb3ba8.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
         "symbol": "PYQ",
         "name": "PYQ",
@@ -6962,6 +7029,19 @@
         ]
     },
     {
+        "address": "0x48C97cf0A3837106Cb58009D308DF4DfAbe441C7",
+        "symbol": "VERSE",
+        "name": "Verse",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x48c97cf0a3837106cb58009d308df4dfabe441c7/006c6f2ef7fda2a4c3b3ca4dd4c79697.png",
+        "coingeckoId": "verse",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
         "symbol": "BELUGA",
         "name": "BelugaToken",
@@ -7244,6 +7324,19 @@
         ]
     },
     {
+        "address": "0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F",
+        "symbol": "FBIRD",
+        "name": "Firebird DAO (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
         "symbol": "EVO",
         "name": "EVO",
@@ -7479,6 +7572,19 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x3D3B92Fe0B4c26b74F8fF13A32dD764F4DFD8b51",
+        "symbol": "oKSP",
+        "name": "Orbit Bridge Polygon KlaySwap Protocol",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x3d3b92fe0b4c26b74f8ff13a32dd764f4dfd8b51.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
             "lifinance"
         ]
     },
@@ -9647,6 +9753,32 @@
         "listedIn": [
             "coingecko",
             "dfyn",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0A02D33031917d836Bd7Af02F9f7F6c74d67805F",
+        "symbol": "oKLAY",
+        "name": "Orbit Bridge Polygon Klay",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://tokens.1inch.io/0x0a02d33031917d836bd7af02f9f7f6c74d67805f.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x09C5a4BCA808bD1ba2b8E6B3aAF7442046B4ca5B",
+        "symbol": "VSP",
+        "name": "VesperToken (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x09c5a4bca808bd1ba2b8e6b3aaf7442046b4ca5b/3050418a803e9a188324a853e214b648.png",
+        "coingeckoId": "vesper-finance",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
