@@ -11523,9 +11523,8 @@
             "decimals": 18,
             "chainId": "56",
             "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x81e4d494b85a24a58a6ba45c9b418b32a4e039de/f4fa74ff96c0e7b3c78b658a1ad5515a.png",
-            "coingeckoId": "moontoken",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "lifinance"
             ]
@@ -13608,6 +13607,19 @@
             ]
         },
         {
+            "address": "0x6458df5d764284346c19D88A104Fd3D692471499",
+            "symbol": "iUSDS",
+            "name": "Inflation Adjusted Spice USD",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x6458df5d764284346c19d88a104fd3d692471499/89c3457b0b3d7bd755d5ea338d2170e3.png",
+            "coingeckoId": "inflation-adjusted-euro",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x6451C6484D23889003C20BE51819D6Aa7dbd2b35",
             "symbol": "PS1",
             "name": "PolysportsToken",
@@ -14512,6 +14524,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54",
+            "symbol": "BTH",
+            "name": "Bit Hotel Token",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x57bc18f6177cdaffb34ace048745bc913a1b1b54/cb7ba38123823dc8e2a4458354b1fdfd.png",
+            "coingeckoId": "bit-hotel",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -19986,6 +20011,19 @@
                 "rubic",
                 "lifinance",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x0Fc812b96De7e910878039121938f6d5471b73Dc",
+            "symbol": "TARAL",
+            "name": "Tarality",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0fc812b96de7e910878039121938f6d5471b73dc/8174503d51c5516ca89321d4e9267c58.png",
+            "coingeckoId": "tarality",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -25663,19 +25701,6 @@
             ]
         },
         {
-            "address": "0x1e2a499fAefb88B2d085d7036f3f7895542b09De",
-            "symbol": "GEMMINE",
-            "name": "GemMine DAO",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x1e2a499faefb88b2d085d7036f3f7895542b09de/logo.png",
-            "coingeckoId": "gemmine",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x1e1085eFaA63EDFE74aaD7C05a28EAE4ef917C3F",
             "symbol": "KNC",
             "name": "Kyber Network Crystal v2",
@@ -29314,9 +29339,8 @@
             "decimals": 18,
             "chainId": "137",
             "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xbae28251b2a4e621aa7e20538c06dee010bc06de/24209209fe1958888910fda1cd716908.png",
-            "coingeckoId": "dhedge-stablecoin-yield",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "lifinance"
             ]
@@ -30430,7 +30454,7 @@
             "name": "Ren BTC",
             "decimals": 8,
             "chainId": "137",
-            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xdbf31df14b66535af65aac99c32e9ea844e14501/a5f568ee284b55a25fb2ce001e034300.png",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xdbf31df14b66535af65aac99c32e9ea844e14501/7ec502c1a24ea6d4cee9f31595acf6d7.png",
             "coingeckoId": "renbtc",
             "listedIn": [
                 "coingecko",
@@ -52791,6 +52815,19 @@
             ]
         },
         {
+            "address": "0xeCe8531550Fc599ccB2c7734494FBc358d0a9483",
+            "symbol": "PP",
+            "name": "PP",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": null,
+            "coingeckoId": "phoenix-protocol-b7a9513c-36e9-4a6b-b6ae-6a1a76bb913e",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xeB953eDA0DC65e3246f43DC8fa13f35623bDd5eD",
             "symbol": "RAINI",
             "name": "Rainicorn",
@@ -62860,7 +62897,7 @@
             "name": "Saitama Inu",
             "decimals": 9,
             "chainId": "1",
-            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/7a69647caac81a8de361248b64e7c01b.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f/00902dc55a9e2accf47dc442e1214389.png",
             "coingeckoId": null,
             "listedIn": [
                 "rubic",
@@ -63754,6 +63791,19 @@
             "chainId": "1",
             "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8254c1c134436f74047f79eaaea97e3324ef78b5/404ba00480186024f638f291bdb37633.png",
             "coingeckoId": "ichigo-inu",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x824E35f7A75324f99300aFAC75ECF7354E17Ea26",
+            "symbol": "TIA",
+            "name": "Tia Token",
+            "decimals": 9,
+            "chainId": "1",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x824e35f7a75324f99300afac75ecf7354e17ea26/e991d925c900bf99ba092af9dc6f3b49.png",
+            "coingeckoId": "tia",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -68001,6 +68051,19 @@
             ]
         },
         {
+            "address": "0x547b2F82ceCfAb9C2B1D36fddA96eF9F58C63B8C",
+            "symbol": "TXT",
+            "name": "Taxa Token",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x547b2f82cecfab9c2b1d36fdda96ef9f58c63b8c/5e84ab88ab6b211d773d46137cb7f8ef.png",
+            "coingeckoId": "taxa-token",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
             "symbol": "INSUR",
             "name": "InsurAce",
@@ -68966,6 +69029,19 @@
             "chainId": "1",
             "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4b7ee45f30767f36f06f79b32bf1fca6f726deda/6bf5d1ca8ed293ff12c1b2689d0ef6c4.png",
             "coingeckoId": "ethereum-wrapped-filecoin",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x4B5f49487ea7B3609b1aD05459BE420548789f1f",
+            "symbol": "LEVER",
+            "name": "Lever",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4b5f49487ea7b3609b1ad05459be420548789f1f/424b019d8e7f67a1a0307f25272e0c39.png",
+            "coingeckoId": "lever",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -72170,6 +72246,19 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap"
+            ]
+        },
+        {
+            "address": "0x2B645A57e82123796c3EA7d78DE27c3e3ff7f016",
+            "symbol": "MINER",
+            "name": "Meta Miner",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": null,
+            "coingeckoId": "meta-miner",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {

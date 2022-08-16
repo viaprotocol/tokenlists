@@ -8377,9 +8377,8 @@
         "decimals": 18,
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x81e4d494b85a24a58a6ba45c9b418b32a4e039de/f4fa74ff96c0e7b3c78b658a1ad5515a.png",
-        "coingeckoId": "moontoken",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -10462,6 +10461,19 @@
         ]
     },
     {
+        "address": "0x6458df5d764284346c19D88A104Fd3D692471499",
+        "symbol": "iUSDS",
+        "name": "Inflation Adjusted Spice USD",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x6458df5d764284346c19d88a104fd3d692471499/89c3457b0b3d7bd755d5ea338d2170e3.png",
+        "coingeckoId": "inflation-adjusted-euro",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x6451C6484D23889003C20BE51819D6Aa7dbd2b35",
         "symbol": "PS1",
         "name": "PolysportsToken",
@@ -11366,6 +11378,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54",
+        "symbol": "BTH",
+        "name": "Bit Hotel Token",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x57bc18f6177cdaffb34ace048745bc913a1b1b54/cb7ba38123823dc8e2a4458354b1fdfd.png",
+        "coingeckoId": "bit-hotel",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -16840,6 +16865,19 @@
             "rubic",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x0Fc812b96De7e910878039121938f6d5471b73Dc",
+        "symbol": "TARAL",
+        "name": "Tarality",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0fc812b96de7e910878039121938f6d5471b73dc/8174503d51c5516ca89321d4e9267c58.png",
+        "coingeckoId": "tarality",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
