@@ -7955,7 +7955,7 @@
         "name": "GeniuX",
         "decimals": 18,
         "chainId": "137",
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x346404079b3792a6c548b072b9c4dddfb92948d5/9580f9cd5bcca5ad5c4ce4b8cc140c82.png",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x346404079b3792a6c548b072b9c4dddfb92948d5/9f79471be474f9d321d90a579e3b7690.png",
         "coingeckoId": "geniux",
         "listedIn": [
             "coingecko",
@@ -10212,6 +10212,19 @@
             "sushiswap",
             "quickswap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x013F9c3fAc3e2759d7e90AcA4F9540F75194A0d7",
+        "symbol": "USDN",
+        "name": "Neutrino USD",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7/8dd28b5a12a58a030bbd8e883a643e9a.png",
+        "coingeckoId": "neutrino",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
