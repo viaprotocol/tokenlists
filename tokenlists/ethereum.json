@@ -1165,6 +1165,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "rubic",
             "lifinance"
         ]
     },
@@ -1645,6 +1646,19 @@
         ]
     },
     {
+        "address": "0xdF96bDE075d59e9143b325C75aF38e208c986E6F",
+        "symbol": "YETIC",
+        "name": "YetiCoin",
+        "decimals": 9,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdf96bde075d59e9143b325c75af38e208c986e6f/eef7aabf41aa172480d1c78ec3aebea4.png",
+        "coingeckoId": "yeticoin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xdF9307DFf0a1B57660F60f9457D32027a55ca0B2",
         "symbol": "mETH",
         "name": "DMM: ETH",
@@ -1979,6 +1993,19 @@
         "chainId": "1",
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a/e0214c63ef3498adaf92a7cb0d63a2b0.png",
         "coingeckoId": "populous",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183",
+        "symbol": "XRPC",
+        "name": "XRP CLASSIC",
+        "decimals": 8,
+        "chainId": "1",
+        "logoURI": null,
+        "coingeckoId": "xrp-classic",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -3774,6 +3801,19 @@
         ]
     },
     {
+        "address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
+        "symbol": "TRXC",
+        "name": "TRONCLASSIC",
+        "decimals": 0,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e/7ed648e3fc5b7620ccd2f2d814374336.png",
+        "coingeckoId": "tronclassic",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
         "symbol": "aENJ",
         "name": "Aave interest bearing ENJ",
@@ -3871,6 +3911,19 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
+        "symbol": "ODEX",
+        "name": "One DEX",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa960d2ba7000d58773e7fa5754dec3bb40a069d5/1cc867d5ecd14e6a6e49e3b11cf1c6a2.png",
+        "coingeckoId": "one-dex",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -4131,6 +4184,19 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xa3C22370de5f9544f0c4De126b1e46cEadF0A51B",
+        "symbol": "WSTRAX",
+        "name": "WrappedStrax",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b/acbbcbec32e5d479833c7ec9c82cbbe2.png",
+        "coingeckoId": "stratis",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -6132,6 +6198,19 @@
         ]
     },
     {
+        "address": "0xDD2a36AE937bc134ea694d77fC7e2E36f5d86dE0",
+        "symbol": "WELD",
+        "name": "Weld.Money",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0/47693ba45e2bf64642662f5ce1650136.png",
+        "coingeckoId": "weld",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xDC59ac4FeFa32293A95889Dc396682858d52e5Db",
         "symbol": "BEAN",
         "name": "Bean",
@@ -6487,6 +6566,7 @@
             "1inch",
             "sushiswap",
             "openocean",
+            "rubic",
             "lifinance"
         ]
     },
@@ -9079,6 +9159,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xA0AFec7853385740C4431bEC4EaB36dffaF41f78",
+        "symbol": "GOPX2",
+        "name": "Game On Players",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa0afec7853385740c4431bec4eab36dffaf41f78/e3e4d469e83293d63b0c7b5e0274b386.png",
+        "coingeckoId": "game-on-players",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -12177,6 +12270,19 @@
         ]
     },
     {
+        "address": "0x80D55c03180349Fff4a229102F62328220A96444",
+        "symbol": "OPUL",
+        "name": "OpulousToken",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x80d55c03180349fff4a229102f62328220a96444/fa1e449202480b6cacdcad4f777876e3.png",
+        "coingeckoId": "opulous",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
         "symbol": "CLV",
         "name": "Clover Finance",
@@ -13738,11 +13844,12 @@
         "name": "Source",
         "decimals": 18,
         "chainId": "1",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E/logo.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7118057ff0f4fd0994fb9d2d94de8231d5cca79e/834489d742cc7da5bb387b464a4396cb.png",
         "coingeckoId": "resource-protocol",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -15096,6 +15203,19 @@
             "sushiswap",
             "optimism",
             "arbitrum_bridge",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x638F24096fF33e047E05E59fabc76325207090dc",
+        "symbol": "SLIME",
+        "name": "SlimeCoin",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x638f24096ff33e047e05e59fabc76325207090dc/e81341a18a0515020f89ef4cff203d1c.png",
+        "coingeckoId": "squishiverse",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -21139,19 +21259,6 @@
         ]
     },
     {
-        "address": "0x24E3794605C84E580EEA4972738D633E8a7127c8",
-        "symbol": "KTLYO",
-        "name": "Katalyo Token",
-        "decimals": 18,
-        "chainId": "1",
-        "logoURI": "https://api.rubic.exchange/assets/ethereum/0x24e3794605c84e580eea4972738d633e8a7127c8/logo.png",
-        "coingeckoId": "katalyo",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
         "symbol": "BANK",
         "name": "Float Bank",
@@ -22499,7 +22606,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance"
         ]
     },
@@ -23472,6 +23578,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
+        "symbol": "OJA",
+        "name": "Ojamu Token",
+        "decimals": 18,
+        "chainId": "1",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0aa7efe4945db24d95ca6e117bba65ed326e291a/3d8173954decd8d7f1c0adcce91c61ae.png",
+        "coingeckoId": "ojamu",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

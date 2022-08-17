@@ -1323,6 +1323,19 @@
         ]
     },
     {
+        "address": "0x76b44e0Cf9bD024dbEd09E1785DF295D59770138",
+        "symbol": "deUSDС+2P3CRV-f",
+        "name": "Curve.fi Factory USD Metapool: deBridge-USDC",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x76b44e0cf9bd024dbed09e1785df295d59770138/logo.png",
+        "coingeckoId": "deusdc",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
         "symbol": "SDL",
         "name": "Saddle DAO",
@@ -1772,6 +1785,19 @@
             "arbitrum_bridge",
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "address": "0x46D06cf8052eA6FdbF71736AF33eD23686eA1452",
+        "symbol": "ETHRISE",
+        "name": "ETH Leverage Risedle",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x46d06cf8052ea6fdbf71736af33ed23686ea1452/logo.png",
+        "coingeckoId": "ethrise",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -2227,6 +2253,19 @@
             "rubic",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x115D8bF0a53e751f8A472F88D587944EC1C8CA6D",
+        "symbol": "pBTC",
+        "name": "pTokens BTC",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x115d8bf0a53e751f8a472f88d587944ec1c8ca6d/logo.png",
+        "coingeckoId": "ptokens-btc-2",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {

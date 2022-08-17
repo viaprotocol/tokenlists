@@ -268,6 +268,7 @@
         "coingeckoId": "cargox",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -6473,6 +6474,19 @@
         ]
     },
     {
+        "address": "0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D",
+        "symbol": "DUST",
+        "name": "Distant Universe Stardust Token",
+        "decimals": 8,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d/852bddae11c8ac68e7e2340f80bef7d7.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
         "symbol": "ZRX",
         "name": "0x Protocol Token (PoS)",
@@ -7113,6 +7127,19 @@
             "quickswap",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "address": "0x4597c8A59Ab28B36840B82B3A674994A279593D0",
+        "symbol": "COVAL",
+        "name": "Circuits of Value V2",
+        "decimals": 8,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x4597c8a59ab28b36840b82b3a674994a279593d0/2548c6df7124ad6f77ec6f3fb0718c69.png",
+        "coingeckoId": "circuits-of-value",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -7977,6 +8004,19 @@
             "rubic",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x311434160D7537be358930def317AfB606C0D737",
+        "symbol": "NAKA",
+        "name": "Nakamoto.Games",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x311434160d7537be358930def317afb606c0d737/e31d7ff21e39edd44ceece1a1c4b97ee.png",
+        "coingeckoId": "nakamoto-games",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {

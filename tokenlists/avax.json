@@ -1128,7 +1128,6 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "rubic",
             "elkfinance"
         ]
     },
@@ -2950,11 +2949,12 @@
         "name": "ElasticSwap Tic Token",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://tokens.1inch.io/0x75739a693459f33b1fbcc02099eea3ebcf150cbe.png",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x75739a693459f33b1fbcc02099eea3ebcf150cbe/5fb77caa871f740d84ab84653665d5e1.png",
         "coingeckoId": "elasticswap",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -3503,6 +3503,19 @@
         "chainId": "43114",
         "logoURI": "https://api.rubic.exchange/assets/avalanche/0x5e46c4aa8d9284d08e2ad399b389ea4cf0d51bdc/logo.png",
         "coingeckoId": "abeatsheroenhencement",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x59B18817CA9f4ad2dEE6FBf30132dF6AEb9D763d",
+        "symbol": "AVIC",
+        "name": "Victory",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x59b18817ca9f4ad2dee6fbf30132df6aeb9d763d/logo.png",
+        "coingeckoId": "victory",
         "listedIn": [
             "coingecko",
             "rubic"
@@ -4372,19 +4385,6 @@
         ]
     },
     {
-        "address": "0x2dee42737d769f7444F8E0C0365E0EE1f992A88c",
-        "symbol": "BAG",
-        "name": "BananaApeGarden",
-        "decimals": 9,
-        "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x2dee42737d769f7444f8e0c0365e0ee1f992a88c/logo.png",
-        "coingeckoId": "aananaapegarden",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
         "symbol": "SAVAX",
         "name": "SAVAX",
@@ -4889,6 +4889,19 @@
         "listedIn": [
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+        "symbol": "av3CRV",
+        "name": "Curve.fi avDAI/avUSDC/avUSDT",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x1337bedc9d22ecbe766df105c9623922a27963ec/logo.png",
+        "coingeckoId": "lp-3pool-curve",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {

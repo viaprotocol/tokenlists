@@ -494,6 +494,19 @@
         ]
     },
     {
+        "address": "0xc6E3f3083a15468350976369898381Eec5cfE10f",
+        "symbol": "ICEBRK",
+        "name": "IceBreak-R",
+        "decimals": 9,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xc6e3f3083a15468350976369898381eec5cfe10f/logo.png",
+        "coingeckoId": "icebreak-r",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0xc60D7067dfBc6f2caf30523a064f416A5Af52963",
         "symbol": "TREEB",
         "name": "Treeb",
@@ -824,6 +837,19 @@
             "SpookySwap",
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "address": "0xa6097a4DbEF3EB44c50bad6286a5ED2bc4418AA2",
+        "symbol": "BUILD",
+        "name": "Build Token",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xa6097a4dbef3eb44c50bad6286a5ed2bc4418aa2/logo.png",
+        "coingeckoId": "build",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -2846,19 +2872,6 @@
         ]
     },
     {
-        "address": "0x5b2AF7fd27E2Ea14945c82Dd254c79d3eD34685e",
-        "symbol": "JEFE",
-        "name": "JEFE TOKEN",
-        "decimals": 9,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x5b2af7fd27e2ea14945c82dd254c79d3ed34685e/logo.png",
-        "coingeckoId": "jefe",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x5a2e451Fb1b46FDE7718315661013ae1aE68e28C",
         "symbol": "CGS",
         "name": "Cougar Token",
@@ -3533,19 +3546,6 @@
         ]
     },
     {
-        "address": "0x37C045bE4641328DFEB625f1Dde610D061613497",
-        "symbol": "JUST",
-        "name": "JustYours",
-        "decimals": 10,
-        "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x37c045be4641328dfeb625f1dde610d061613497/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean",
-            "rubic"
-        ]
-    },
-    {
         "address": "0x37863ea4bf6ef836bC8bE909221BAF09A2aF43d7",
         "symbol": "DRACO",
         "name": "DRACO",
@@ -3791,6 +3791,19 @@
         ]
     },
     {
+        "address": "0x27E611FD27b276ACbd5Ffd632E5eAEBEC9761E40",
+        "symbol": "DAI+USDC",
+        "name": "Curve.fi DAI/USDC",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x27e611fd27b276acbd5ffd632e5eaebec9761e40/logo.png",
+        "coingeckoId": "curve-fi-dai-usdc",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0x2787BEa3366335068bF8B4a253044d09eA4E1C96",
         "symbol": "GINSPIRIT",
         "name": "GinSpirit",
@@ -3824,9 +3837,8 @@
         "decimals": 9,
         "chainId": "250",
         "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x27746007e821aeec6f9c65cbfda04870c236346c/1e6b57396cffe19eace219f683fe9901.png",
-        "coingeckoId": "metavault",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
