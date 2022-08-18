@@ -147,7 +147,6 @@
         "coingeckoId": "impermax",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -1114,15 +1113,27 @@
         ]
     },
     {
+        "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+        "symbol": "DEI",
+        "name": "DEI",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xde1e704dae0b4051e80dabb26ab6ad6c12262da0/logo.png",
+        "coingeckoId": "dei-token",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
         "symbol": "DEI",
         "name": "DEI",
         "decimals": 18,
         "chainId": "250",
         "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3/703f7f276b9670fe240ab5baed1b4d94.png",
-        "coingeckoId": "dei-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "SpookySwap",
             "rubic",

@@ -18,7 +18,7 @@
         "name": "0xBitcoin",
         "decimals": 8,
         "chainId": "10",
-        "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
         "coingeckoId": "oxbitcoin",
         "listedIn": [
             "coingecko",
@@ -190,6 +190,19 @@
         ]
     },
     {
+        "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+        "symbol": "ETH",
+        "name": "Ether",
+        "decimals": 18,
+        "chainId": "10",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "symbol": "DAI",
         "name": "DAI",
@@ -225,7 +238,7 @@
         "name": "Rari Governance Token",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://ethereum-optimism.github.io/logos/RGT.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/RGT/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -342,7 +355,7 @@
         "name": "Erica Social Token",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
         "coingeckoId": "erica-social-token",
         "listedIn": [
             "coingecko",
@@ -463,7 +476,7 @@
         "name": "BitANT",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
         "coingeckoId": "bitant",
         "listedIn": [
             "coingecko",
@@ -567,7 +580,7 @@
         "name": "Synthetic Bitcoin",
         "decimals": 18,
         "chainId": "10",
-        "logoURI": "https://ethereum-optimism.github.io/logos/sBTC.svg",
+        "logoURI": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -608,7 +621,7 @@
         "name": "Dentacoin",
         "decimals": 0,
         "chainId": "10",
-        "logoURI": "https://ethereum-optimism.github.io/logos/dcn.svg",
+        "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
         "coingeckoId": "dentacoin",
         "listedIn": [
             "coingecko",
