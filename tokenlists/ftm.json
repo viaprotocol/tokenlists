@@ -48,6 +48,19 @@
         ]
     },
     {
+        "address": "0xf899e3909B4492859d44260E1de41A9E663e70F5",
+        "symbol": "RADIO",
+        "name": "RadioShack Token",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://i.ibb.co/Mhf5JL7/android-chrome-256x256.png",
+        "coingeckoId": "radioshack",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xf6036DD216B6B97482510CB647c5D1fEB83cE910",
         "symbol": "PSHARE",
         "name": "PSHARE",
@@ -211,11 +224,12 @@
         "name": "Aave Fantom WETH",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8/logo.png",
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8/a27c1def8d782e2f73f2cad6b752406f.png",
         "coingeckoId": "aave-weth",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -518,6 +532,19 @@
             "openocean",
             "SpookySwap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C",
+        "symbol": "LINSPIRIT",
+        "name": "linSpirit",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xc5713b6a0f26bf0fdc1c52b90cd184d950be515c/0f1220ef0cab968dbf041b70e5a49464.png",
+        "coingeckoId": "linspirit",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -844,11 +871,12 @@
         "name": "Build Token",
         "decimals": 18,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xa6097a4dbef3eb44c50bad6286a5ed2bc4418aa2/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/26533/large/BUILD.png",
         "coingeckoId": "build",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2252,6 +2280,19 @@
         ]
     },
     {
+        "address": "0x814c66594a22404e101FEcfECac1012D8d75C156",
+        "symbol": "cLQDR",
+        "name": "cLQDR",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x814c66594a22404e101fecfecac1012d8d75c156/ae587a2d4c1a7d74ddc7b20be9138b94.png",
+        "coingeckoId": "clqdr",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x803e78269f7F013b7D13ba13243Be10C66418a70",
         "symbol": "$NODAC",
         "name": "Node Aggregator Capital",
@@ -3309,6 +3350,19 @@
             "openocean",
             "SpookySwap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x462Fa81050f0fF732D59df121BFd9b8Bab072018",
+        "symbol": "SHACK",
+        "name": "Shack Token",
+        "decimals": 18,
+        "chainId": "250",
+        "logoURI": "https://assets.coingecko.com/coins/images/25699/large/shack_no_bg_no_pad3.png",
+        "coingeckoId": "shack",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

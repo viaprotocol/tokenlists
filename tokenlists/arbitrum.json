@@ -577,9 +577,8 @@
         "decimals": 6,
         "chainId": "42161",
         "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xf0b5ceefc89684889e5f7e0a7775bd100fcd3709/61faf1a640efc3e2f146cb010451b606.png",
-        "coingeckoId": "digitaldollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "rubic",
             "lifinance"
@@ -672,6 +671,19 @@
         "listedIn": [
             "sushiswap",
             "lifinance"
+        ]
+    },
+    {
+        "address": "0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe",
+        "symbol": "MYC",
+        "name": "Mycelium",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xc74fe4c715510ec2f8c61d70d397b32043f55abe/logo.png",
+        "coingeckoId": "mycelium",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -1899,6 +1911,19 @@
             "coingecko",
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "address": "0x39A49bc5017Fc668299Cd32e734C9269aCc35295",
+        "symbol": "PHONON",
+        "name": "Phonon DAO",
+        "decimals": 18,
+        "chainId": "42161",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x39a49bc5017fc668299cd32e734c9269acc35295/logo.png",
+        "coingeckoId": "phonon-dao",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
