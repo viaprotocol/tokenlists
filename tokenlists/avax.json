@@ -652,6 +652,19 @@
         ]
     },
     {
+        "address": "0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB",
+        "symbol": "OBX",
+        "name": "Openblox Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB/logo.png",
+        "coingeckoId": "openblox",
+        "listedIn": [
+            "coingecko",
+            "joe"
+        ]
+    },
+    {
         "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
         "symbol": "GLDB",
         "name": "BiAltin",
@@ -2672,8 +2685,9 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x827eb4bada6cb76c90f887969b3fe5faD585FFe3/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "xeta",
         "listedIn": [
+            "coingecko",
             "pangolin",
             "lifinance"
         ]

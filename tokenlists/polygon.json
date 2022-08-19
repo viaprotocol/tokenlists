@@ -1815,6 +1815,19 @@
         ]
     },
     {
+        "address": "0xa6083abe845fbB8649d98B8586cBF50b7f233612",
+        "symbol": "PCR",
+        "name": "Paycer",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa6083abe845fbb8649d98b8586cbf50b7f233612/5dc03da1eaeca06e7ebf1fb3c8d62be6.png",
+        "coingeckoId": "paycer-protocol",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xa5Eb60CA85898f8b26e18fF7c7E43623ccbA772C",
         "symbol": "COSMIC",
         "name": "CosmicSwap",
@@ -6873,6 +6886,19 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x4E8dc2149EaC3f3dEf36b1c281EA466338249371",
+        "symbol": "INJ",
+        "name": "Injective Token (PoS)",
+        "decimals": 18,
+        "chainId": "137",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
             "lifinance"
         ]
     },
