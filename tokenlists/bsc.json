@@ -440,7 +440,7 @@
         "name": "Cellframe Token",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xf3e1449ddb6b218da2c9463d4594ceccc8934346/815adc0896e176a8e1b2bd9a132078c6.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xf3e1449ddb6b218da2c9463d4594ceccc8934346/4d8ee3523ddfca915232aa5295415f42.png",
         "coingeckoId": "cellframe",
         "listedIn": [
             "coingecko",
@@ -881,6 +881,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+        "symbol": "USD+",
+        "name": "USD+",
+        "decimals": 6,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65/58363c9095ed5998f48688b3c52c78c7.png",
+        "coingeckoId": "usd",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -1705,7 +1718,7 @@
         "decimals": 18,
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xd10fe9d371c22416df34340287cd5d9029842fc3/2a9582a4ebd32ae68a53f4e0043d0d2f.png",
-        "coingeckoId": "galaxy-heroes-coin-2",
+        "coingeckoId": "galaxy-heroes",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -10067,6 +10080,19 @@
         ]
     },
     {
+        "address": "0x7120f43220D1C77cb821DDE0420293491d03F854",
+        "symbol": "ALT",
+        "name": "AltCoin",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x7120f43220d1c77cb821dde0420293491d03f854/5619885bd7e03f84f03b4e34d2ca26b6.png",
+        "coingeckoId": "alt-coin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x70905594023Cb2f37F3103fDc70315ad1601D6EF",
         "symbol": "POLARv3",
         "name": "Polaris",
@@ -12044,6 +12070,19 @@
             "pancake",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0x56156Fb7860d7EB0B4b1a5356C5354b295194A45",
+        "symbol": "SPRT",
+        "name": "Sportium Token (Wormhole)",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x56156fb7860d7eb0b4b1a5356c5354b295194a45/61f52919d29230a938a63cfbb5a35906.png",
+        "coingeckoId": "sportium",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -16270,6 +16309,19 @@
         "listedIn": [
             "1inch",
             "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x1d9a278a0f84cb13CebF154FaF766a98F63B7b12",
+        "symbol": "CORNX",
+        "name": "ChainCorn",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x1d9a278a0f84cb13cebf154faf766a98f63b7b12/d8fa4187745ed540f2619ff09803e9c9.png",
+        "coingeckoId": "chaincorn",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
