@@ -844,6 +844,19 @@
         ]
     },
     {
+        "address": "0xe8A8db73f7fb1Ab5F05C619A8a631c8930c782Ae",
+        "symbol": "Future of Fintech",
+        "name": "FOF",
+        "decimals": 8,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe8a8db73f7fb1ab5f05c619a8a631c8930c782ae/c8f2e96a8bc28b33b8200777b47c4801.png",
+        "coingeckoId": "future-of-fintech",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xe898EDc43920F357A93083F1d4460437dE6dAeC2",
         "symbol": "TITAN",
         "name": "TitanSwap",
@@ -3732,6 +3745,19 @@
         ]
     },
     {
+        "address": "0xF7B5fb4607ABfe0Ecf332c23cBdCc9E425B443A8",
+        "symbol": "ACK",
+        "name": "AcknoLedger",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xf7b5fb4607abfe0ecf332c23cbdcc9e425b443a8/55a25f702b6dc5a61998defa063d7158.png",
+        "coingeckoId": "acknoledger",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xF78D2e7936F5Fe18308A3B2951A93b6c4a41F5e2",
         "symbol": "OM",
         "name": "MANTRA DAO",
@@ -5127,11 +5153,12 @@
         "name": "srnArtGallery Tokenized Arts",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xca6d25c10dad43ae8be0bc2af4d3cd1114583c08/logo.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xca6d25c10dad43ae8be0bc2af4d3cd1114583c08/39885d985c070c7b1a3e59a315a0b87f.png",
         "coingeckoId": "srnartgallery-tokenized-arts",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -11541,6 +11568,19 @@
         ]
     },
     {
+        "address": "0x5CA42204cDaa70d5c773946e69dE942b85CA6706",
+        "symbol": "POSI",
+        "name": "Position Token",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x5ca42204cdaa70d5c773946e69de942b85ca6706/f4f312ffdbfe5605653ce7f6e1171e75.png",
+        "coingeckoId": "position-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
         "symbol": "CART",
         "name": "CryptoArt.ai",
@@ -11907,6 +11947,19 @@
         ]
     },
     {
+        "address": "0x570B17ADA7CfaF5c9dEb08b923125982BF817c63",
+        "symbol": "3.7C",
+        "name": "3.7Protocol",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "37protocol",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
         "symbol": "SOL",
         "name": "SOLANA",
@@ -12201,6 +12254,19 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x52EC25E58a9e144ff002625BB2AA58Cc6DA24Cb2",
+        "symbol": "ACK",
+        "name": "ArcadeKingdoms",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "arcade-kingdoms",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -15268,6 +15334,19 @@
         ]
     },
     {
+        "address": "0x284AC5aF363BDe6eF5296036aF8fb0e9Cc347B41",
+        "symbol": "HUSL",
+        "name": "The HUSL [via ChainPort.io]",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x284ac5af363bde6ef5296036af8fb0e9cc347b41/c7dbc06ea7d513f6dfdc1baeb8d99964.png",
+        "coingeckoId": "the-husl",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4",
         "symbol": "SALT",
         "name": "Salt Token",
@@ -15412,6 +15491,19 @@
         "listedIn": [
             "coingecko",
             "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x26e0AcB5C0f17cB13658820a7457De91d9439F94",
+        "symbol": "3QT",
+        "name": "3QT",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "3qt",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

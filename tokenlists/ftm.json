@@ -4198,11 +4198,12 @@
         "name": "Axelar Wrapped USDC",
         "decimals": 6,
         "chainId": "250",
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x1b6382dbdea11d97f24495c9a90b7c88469134a4/logo.png",
+        "logoURI": null,
         "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
