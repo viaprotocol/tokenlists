@@ -169,6 +169,19 @@
         ]
     },
     {
+        "address": "0xfDFD27aE39cebefDBaAc8615F18aa68DDD0F15f5",
+        "symbol": "GHD",
+        "name": "Giftedhands on BSC",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xfdfd27ae39cebefdbaac8615f18aa68ddd0f15f5/72898a9afebda8575d897acca8b6ac86.png",
+        "coingeckoId": "giftedhands",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xfD799ddCCA8ab5c1ad8a3D64a58d4e907C9d0B71",
         "symbol": "TAP",
         "name": "TAP",
@@ -2883,6 +2896,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaf2052d2933a117c5d21314662bacb53839aedc9/635bcab05ca01bba0c3b3bcf1cad0f1f.png",
         "coingeckoId": "sona-network",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xaf0bd10E1b6B995E54F342C78DACd25291e0d3B2",
+        "symbol": "SPR",
+        "name": "Spring V2",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaf0bd10e1b6b995e54f342c78dacd25291e0d3b2/86b3d0de576b5ec558845b68761fa060.png",
+        "coingeckoId": "spring-game",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -11383,6 +11409,19 @@
         ]
     },
     {
+        "address": "0x5f2Caa99Fc378248Ac02CbbAaC27e3Fa155Ed2C4",
+        "symbol": "JNTR",
+        "name": "Jointer",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4/bcdfc779b069706035ef41e43c5b1ef6.png",
+        "coingeckoId": "jointer",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd",
         "symbol": "ALLOY",
         "name": "HyperAlloy",
@@ -11964,9 +12003,8 @@
         "decimals": 18,
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x57bb0f40479d7dd0caa67f2a579273a8e9c038ee/9e218fde1eb280b96285de64fc8d5608.png",
-        "coingeckoId": "rug-busters",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -12459,6 +12497,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x518445f0db93863e5e93a7f70617c05afa8048f1/d975e245158b1ac10a9397566fd0ed7c.png",
         "coingeckoId": "bittoken",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x5175334d05FEb677b0910fb902454aeE10Fe96fd",
+        "symbol": "KFC",
+        "name": "Kentucky Fried Crypto",
+        "decimals": 2,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x5175334d05feb677b0910fb902454aee10fe96fd/49d2a92e80dd3dc7e2769b6f2ade0448.png",
+        "coingeckoId": "kentucky-fried-crypto",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -13376,19 +13427,6 @@
         "listedIn": [
             "coingecko",
             "RouterProtocol",
-            "lifinance"
-        ]
-    },
-    {
-        "address": "0x471f883BBd2c705F418Ba3d6667ef05342C4ee05",
-        "symbol": "SPONGS",
-        "name": "SpongeBob Square",
-        "decimals": 9,
-        "chainId": "56",
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x471f883bbd2c705f418ba3d6667ef05342c4ee05/3cb8b8a1413add8d9284f07dff55ae28.png",
-        "coingeckoId": "spongebob-square",
-        "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
