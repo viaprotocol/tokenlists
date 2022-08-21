@@ -71,6 +71,19 @@
         ]
     },
     {
+        "address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+        "symbol": "SHILL",
+        "name": "Shill",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xfb9c339b4bace4fe63ccc1dd9a3c3c531441d5fe/dc0709b08eb3f94cc8e6fdb872b1d889.png",
+        "coingeckoId": "shill-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xfb7400707dF3D76084FBEae0109f41b178f71c02",
         "symbol": "DOWS",
         "name": "Shadows",
@@ -818,6 +831,19 @@
         ]
     },
     {
+        "address": "0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5",
+        "symbol": "RDT",
+        "name": "Ridotto",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe9c64384deb0c2bf06d991a8d708c77eb545e3d5/b06e988ecc73c9ba23f096ea872dca1d.png",
+        "coingeckoId": "ridotto",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xe91a8D2c584Ca93C7405F15c22CdFE53C29896E3",
         "symbol": "DEXT",
         "name": "DEXTools",
@@ -1121,6 +1147,19 @@
             "openocean",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "address": "0xe486a69E432Fdc29622bF00315f6b34C99b45e80",
+        "symbol": "SPACE",
+        "name": "Space Token",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe486a69e432fdc29622bf00315f6b34c99b45e80/ef68e8d9c083e72d0fa2b75f5f8ca7c9.png",
+        "coingeckoId": "space-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -6488,12 +6527,13 @@
         "name": "COR Token",
         "decimals": 18,
         "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xa4b6573c9ae09d81e4d1360e6402b81f52557098/logo.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xa4b6573c9ae09d81e4d1360e6402b81f52557098/3b9fa8371c80889823ed03d11153d9cb.png",
         "coingeckoId": "coreto",
         "listedIn": [
             "coingecko",
             "dfyn",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -10995,6 +11035,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x63a18BC38D1101DB7F0efCbCBdCbe927A5879039",
+        "symbol": "EARN",
+        "name": "Yearn Classic",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x63a18bc38d1101db7f0efcbcbdcbe927a5879039/e1c4b35135086faa591665721116c665.png",
+        "coingeckoId": "yearn-classic-finance",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -17315,6 +17368,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x11fd9ed04f1eb43ef9df6425a6990609f2468895/5e38ffff4d1d83177ec1ee4e13f57666.png",
         "coingeckoId": "smartfi",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x114597F4260CAf4cDe1eeB0B9D9865B0B7b9a46a",
+        "symbol": "AGF",
+        "name": "Augmented Finance",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x114597f4260caf4cde1eeb0b9d9865b0b7b9a46a/8f8209746f7dbcb0636403ea83385df9.png",
+        "coingeckoId": "augmented-finance",
         "listedIn": [
             "coingecko",
             "lifinance"
