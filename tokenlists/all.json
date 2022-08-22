@@ -668,6 +668,19 @@
             ]
         },
         {
+            "address": "0xfaC38532829fDD744373fdcd4708Ab90fA0c4078",
+            "symbol": "tLPT",
+            "name": "tender LPT",
+            "decimals": 18,
+            "chainId": "42161",
+            "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xfac38532829fdd744373fdcd4708ab90fa0c4078/logo.png",
+            "coingeckoId": "tlpt",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "address": "0xfa42DA1bd08341537a44a4ca9D236D1c00A98b40",
             "symbol": "CARBON",
             "name": "Carbon",
@@ -4003,6 +4016,19 @@
             "listedIn": [
                 "coingecko",
                 "xyfinance"
+            ]
+        },
+        {
+            "address": "0xeC13736FFB2A50F3A4817E5797C8A8A777A147CB",
+            "symbol": "BLOOP",
+            "name": "Baby Loop",
+            "decimals": 9,
+            "chainId": "56",
+            "logoURI": null,
+            "coingeckoId": "baby-loop",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -8630,6 +8656,19 @@
             ]
         },
         {
+            "address": "0xC62eF0d8e137499833AbB05Dee47007D2b334bA6",
+            "symbol": "GMX",
+            "name": "GAMEX",
+            "decimals": 9,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xc62ef0d8e137499833abb05dee47007d2b334ba6/557e4617bee106012b6ec9de2aa6c288.png",
+            "coingeckoId": "gamex",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xC54A4640907044283e8E4885090E205992B9813e",
             "symbol": "FORS",
             "name": "FORUS",
@@ -9370,7 +9409,7 @@
             "name": "PULI INU",
             "decimals": 9,
             "chainId": "56",
-            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc/ad27972b255e7d88a63c93acee20ba6a.png",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc/b8930d8990fe2d6b82cce28fda20d887.png",
             "coingeckoId": "puli-inu",
             "listedIn": [
                 "coingecko",
@@ -10359,6 +10398,19 @@
             "coingeckoId": null,
             "listedIn": [
                 "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+            "symbol": "LDO",
+            "name": "Lido DAO Token (Wormhole)",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x986854779804799c1d68867f5e03e601e781e41b/3a1a90da5ccd4849de3e83755f1fd8b5.png",
+            "coingeckoId": "lido-dao-wormhole",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -11743,11 +11795,12 @@
             "name": "Investdex",
             "decimals": 18,
             "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x853a8ab1c365ea54719eb13a54d6b22f1fbe7feb/logo.png",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x853a8ab1c365ea54719eb13a54d6b22f1fbe7feb/a92dc92758a96f4b5e997a3ccb47b342.png",
             "coingeckoId": "investdex",
             "listedIn": [
                 "coingecko",
-                "rubic"
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -12638,14 +12691,15 @@
         {
             "address": "0x7AE5709c585cCFB3e61fF312EC632C21A5F03F70",
             "symbol": "DogeDash",
-            "name": "",
+            "name": "DogeDash",
             "decimals": 18,
             "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70/logo.png",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70/596e61387145acdb9c83b6ea51f5ceb5.png",
             "coingeckoId": "doge-dash",
             "listedIn": [
                 "coingecko",
-                "rubic"
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -14170,6 +14224,19 @@
             "chainId": "56",
             "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x66109633715d2110dda791e64a7b2afadb517abb/c3331ba34d19017f150805eccff602c4.png",
             "coingeckoId": "gamestarter",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC",
+            "symbol": "GFX",
+            "name": "GamyFi",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x65ad6a2288b2dd23e466226397c8f5d1794e58fc/60d542fc7be5b9c54b59fa8b298b5f76.png",
+            "coingeckoId": "gamyfi-token",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -18922,7 +18989,7 @@
             "name": "Rare Fnd",
             "decimals": 18,
             "chainId": "56",
-            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x264387ad73d19408e34b5d5e13a93174a35cea33/da8f88a67a12d50138b75dd9332ac24f.png",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x264387ad73d19408e34b5d5e13a93174a35cea33/594c1c5bfc30a78d1a449e9cdd7289a7.png",
             "coingeckoId": "rare-fnd",
             "listedIn": [
                 "coingecko",
@@ -19351,19 +19418,6 @@
             "listedIn": [
                 "coingecko",
                 "lifinance"
-            ]
-        },
-        {
-            "address": "0x225d0236Ce8C9d753dFAe9CD0265dA2d2699Ba4F",
-            "symbol": "BGL",
-            "name": "BGL Token",
-            "decimals": 18,
-            "chainId": "56",
-            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x225d0236ce8c9d753dfae9cd0265da2d2699ba4f/logo.png",
-            "coingeckoId": "bgl-token",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -19963,6 +20017,19 @@
                 "pancake",
                 "lifinance",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0x1D1cB8997570e73949930c01Fe5796C88d7336c6",
+            "symbol": "PBR",
+            "name": "PolkaBridge",
+            "decimals": 18,
+            "chainId": "56",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x1d1cb8997570e73949930c01fe5796c88d7336c6/a6c988630ff31d379f7c231514323609.png",
+            "coingeckoId": "polkabridge",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -20850,7 +20917,7 @@
             "name": "Dinger Token",
             "decimals": 9,
             "chainId": "56",
-            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0d3843f92d622468ba67df5a6a4149b484a75af3/753c86b7d295d6461ffa510b186953cf.png",
+            "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0d3843f92d622468ba67df5a6a4149b484a75af3/638658bb6effa1eb7b746e97dc4bdb54.png",
             "coingeckoId": "dinger-token",
             "listedIn": [
                 "coingecko",
@@ -23165,7 +23232,7 @@
             "name": "Treeb",
             "decimals": 18,
             "chainId": "250",
-            "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xc60d7067dfbc6f2caf30523a064f416a5af52963/74d9b7364e1fdc439875c202088089e9.png",
+            "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xc60d7067dfbc6f2caf30523a064f416a5af52963/fbdd8bc61240f2d29edb476f3030a6ac.png",
             "coingeckoId": "treeb",
             "listedIn": [
                 "coingecko",
@@ -27348,19 +27415,6 @@
             ]
         },
         {
-            "address": "0x00cD9937cac40Ced12E00728B104961d59add366",
-            "symbol": "FEAR",
-            "name": "SpookyVerse",
-            "decimals": 18,
-            "chainId": "250",
-            "logoURI": "https://api.rubic.exchange/assets/fantom/0x00cd9937cac40ced12e00728b104961d59add366/logo.png",
-            "coingeckoId": "fear-token",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
             "symbol": "IB",
             "name": "IronBank",
@@ -29964,6 +30018,19 @@
             ]
         },
         {
+            "address": "0xd0e9c8f5Fae381459cf07Ec506C1d2896E8b5df6",
+            "symbol": "IOEN",
+            "name": "Internet of Energy Network",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xd0e9c8f5fae381459cf07ec506c1d2896e8b5df6/c25c617f988a4a6d3054e3915cc10228.png",
+            "coingeckoId": "internet-of-energy-network",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
             "symbol": "VOXEL",
             "name": "VOXEL",
@@ -30095,6 +30162,19 @@
                 "coingecko",
                 "1inch",
                 "quickswap",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0xcD0D64C971AF8B477042130c5e6cD2A6f7842869",
+            "symbol": "BZN",
+            "name": "Benzene (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
                 "lifinance"
             ]
         },
@@ -30546,6 +30626,19 @@
             ]
         },
         {
+            "address": "0xaf9444bc9D6117121Aa108fC6c45835Be60E7d07",
+            "symbol": "AAH",
+            "name": "AAH (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xadBe0eac80F955363f4Ff47B0f70189093908c04",
             "symbol": "XMT",
             "name": "MetalSwap",
@@ -30714,6 +30807,19 @@
             ]
         },
         {
+            "address": "0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A",
+            "symbol": "ALN",
+            "name": "Aluna (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a/6dbfcefd91657ec5d6603859550cc894.png",
+            "coingeckoId": "aluna",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xa7051C5a22d963b81D71C2BA64D46a877fBc1821",
             "symbol": "EROWAN",
             "name": "SifChain",
@@ -30817,6 +30923,19 @@
                 "lifinance",
                 "xyfinance",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0xa353dEb6Fb81dF3844D8bd614D33d040fDBb8188",
+            "symbol": "MST",
+            "name": "MagicStone",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa353deb6fb81df3844d8bd614d33d040fdbb8188/df2d894c45532cd87624b1b66a8150db.png",
+            "coingeckoId": "idle-mystic",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -31007,6 +31126,19 @@
                 "rubic",
                 "lifinance",
                 "elkfinance"
+            ]
+        },
+        {
+            "address": "0xFCf1E2fC0A398925ddb09222842b376E3A7D573B",
+            "symbol": "ACPT",
+            "name": "Crypto Accept (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -31236,6 +31368,19 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0xED0bb69f9F96E8C5FffdF16c468eceC385134eA5",
+            "symbol": "ELIXIR",
+            "name": "Starchi Liquid Luck",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xed0bb69f9f96e8c5fffdf16c468ecec385134ea5/347edf274cf971b4c33c9c8e224b918b.png",
+            "coingeckoId": "starchi",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -32117,6 +32262,19 @@
             ]
         },
         {
+            "address": "0xBe319A08eBE5da37C5A8ce8a0D8463ff6750e53B",
+            "symbol": "ARDU",
+            "name": "Circolo Arduino Token (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xBbbe128568222623D21299f019a978C8587B33dC",
             "symbol": "SWISE",
             "name": "StakeWise",
@@ -32199,6 +32357,19 @@
                 "coingecko",
                 "1inch",
                 "rubic",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0xB8bDB98AF8C987336B9476Fd8a98BdF190b6f10E",
+            "symbol": "LMT",
+            "name": "LuckyMeta Token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb8bdb98af8c987336b9476fd8a98bdf190b6f10e/bf436f40f5e1ff0092e113cd9a28303f.png",
+            "coingeckoId": "luckymeta",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -32698,6 +32869,19 @@
             ]
         },
         {
+            "address": "0x9d600c84f5C9cCfe36c03Cb34D63Ea834CC335D8",
+            "symbol": "AKT",
+            "name": "akash.network (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x9d5565dA88e596730522CbC5a918d2A89dbC16d9",
             "symbol": "OOE",
             "name": "OpenOcean",
@@ -33021,6 +33205,19 @@
             ]
         },
         {
+            "address": "0x92A9C92C215092720C731c96D4Ff508c831a714f",
+            "symbol": "RAILPOLY",
+            "name": "RAIL Polygon",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x92a9c92c215092720c731c96d4ff508c831a714f/4443918ae04f7f51fc714a3ee3c56c6a.png",
+            "coingeckoId": "rail-polygon",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x92868A5255C628dA08F550a858A802f5351C5223",
             "symbol": "BRIDGE",
             "name": "Cross-Chain Bridge Token",
@@ -33181,6 +33378,19 @@
             "listedIn": [
                 "coingecko",
                 "quickswap",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+            "symbol": "TXL",
+            "name": "Tixl Token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41/579e5904f61e6c942455dad79802aaaa.png",
+            "coingeckoId": "autobahn-network",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -33766,6 +33976,19 @@
             ]
         },
         {
+            "address": "0x800eB319e3F0E962d3ca8D625C871B8F1bdf2bC8",
+            "symbol": "AGI",
+            "name": "SingularityNET Token (PoS)",
+            "decimals": 8,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
             "symbol": "OPU",
             "name": "Opu Coin",
@@ -34125,6 +34348,19 @@
                 "coingecko",
                 "1inch",
                 "quickswap",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
+            "symbol": "HANU",
+            "name": "Hanu Yokia (PoS)",
+            "decimals": 12,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x709a4b6217584188ddb93c82f5d716d969acce1c/e9ca33ca1545543c506c624d6d19904a.png",
+            "coingeckoId": "hanu-yokia",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -36124,6 +36360,32 @@
             ]
         },
         {
+            "address": "0x454E1Ec2F58ee542B75d2AB713Ed53Cd33Ba4308",
+            "symbol": "300",
+            "name": "Spartan (PoS)",
+            "decimals": 7,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x4535E52cdF3AB787B379b7b72B5990767E6747E4",
+            "symbol": "MYT",
+            "name": "Mytrade Token (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x4535e52cdf3ab787b379b7b72b5990767e6747e4/7a92e3e5e34ee21a80667612b8a2847d.png",
+            "coingeckoId": "mytrade",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x44d09156c7b4ACf0C64459Fbcced7613F5519918",
             "symbol": "$KMC",
             "name": "$KMC",
@@ -36214,6 +36476,7 @@
             "coingeckoId": "rainbow-token-2",
             "listedIn": [
                 "coingecko",
+                "lifinance",
                 "xyfinance"
             ]
         },
@@ -36756,6 +37019,19 @@
             ]
         },
         {
+            "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
+            "symbol": "JM",
+            "name": "JustMoney",
+            "decimals": 8,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x388d819724dd6d71760a38f00dc01d310d879771/097c4b8e1700f6bd9e212242f8540e05.png",
+            "coingeckoId": "justmoney-2",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
             "symbol": "GHST",
             "name": "GHST Token",
@@ -37041,6 +37317,19 @@
             ]
         },
         {
+            "address": "0x30A8e1c256143AD440faa9042722929B0BC0Fc7D",
+            "symbol": "bat",
+            "name": "bat token (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x3068382885602FC0089aeC774944b5ad6123ae60",
             "symbol": "PDSHARE",
             "name": "PolyDoge Share",
@@ -37162,6 +37451,19 @@
             "chainId": "137",
             "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x2df54842cd85c60f21b4871e09bcc6047b2dcc4d/fe0ad18caa47941e9a9edb6a91a41b82.png",
             "coingeckoId": "immortl",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
+            "symbol": "MOT",
+            "name": "Mobius Token",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x2db0db271a10661e7090b6758350e18f6798a49d/d4de3fa1efc1baba0392fa55d4141e15.png",
+            "coingeckoId": "mobius-finance",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -38018,6 +38320,19 @@
             ]
         },
         {
+            "address": "0x1D545D7ff917e08D7Bf26320343b16BdF51FdBb6",
+            "symbol": "CELL",
+            "name": "Cellframe Token (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
             "symbol": "KNC",
             "name": "Kyber Network Crystal v2 (PoS)",
@@ -38122,6 +38437,19 @@
             "coingeckoId": null,
             "listedIn": [
                 "dfyn",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x1A47E3316282d57DF146F87c58A1FB4b26992Bbf",
+            "symbol": "BMI",
+            "name": "Bridge Mutual (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
                 "lifinance"
             ]
         },
@@ -38452,6 +38780,19 @@
             ]
         },
         {
+            "address": "0x12255b2DaDC7E18Fd34353DAa161974cC917C8dd",
+            "symbol": "DIGG",
+            "name": "Digg (PoS)",
+            "decimals": 9,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9",
             "symbol": "AXMATIC",
             "name": "axMatic",
@@ -38651,6 +38992,19 @@
             ]
         },
         {
+            "address": "0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41",
+            "symbol": "PYM",
+            "name": "Playermon",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0bd49815ea8e2682220bcb41524c0dd10ba71d41/7fc96c29481fcaf7e87a35ca62e9b3ed.png",
+            "coingeckoId": "playermon",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x0b68782eFF3177f1F9240B64A7e2F8E0497e2454",
             "symbol": "ATLX",
             "name": "Atlantis",
@@ -38759,6 +39113,19 @@
             "chainId": "137",
             "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0b91b07beb67333225a5ba0259d55aee10e3a578/58c5f0b2d5cb2c4c985c8caea8b5a231.png",
             "coingeckoId": "minereum",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x0B6afe834dab840335F87d99b45C2a4bd81A93c7",
+            "symbol": "ANGEL",
+            "name": "Angel (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0b6afe834dab840335f87d99b45c2a4bd81a93c7/17d565cc55f5e5a88c9b72b1a0b35f8b.png",
+            "coingeckoId": "polylauncher",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -39222,6 +39589,19 @@
             ]
         },
         {
+            "address": "0x01fA5b3A5d77BcF705DD505bBcBb34bce310E7FE",
+            "symbol": "AXI",
+            "name": "Axioms (PoS)",
+            "decimals": 18,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
             "symbol": "ALGB",
             "name": "Algebra",
@@ -39275,6 +39655,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x000DE668684839F97d4845f32a43E913366ec08C",
+            "symbol": "BOND",
+            "name": "BOND (PoS)",
+            "decimals": 8,
+            "chainId": "137",
+            "logoURI": null,
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
                 "lifinance"
             ]
         },
@@ -39348,7 +39741,6 @@
             "coingeckoId": "axlusdc",
             "listedIn": [
                 "coingecko",
-                "rubic",
                 "lifinance"
             ]
         },
@@ -39459,9 +39851,8 @@
             "decimals": 18,
             "chainId": "43114",
             "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xf3ec49acb3084618121741e4bbb20996d383e9b2/a7a1d53bb0399c8b2c124ddd2c173ad6.png",
-            "coingeckoId": "king-finance",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "pangolin",
                 "rubic",
                 "lifinance"
@@ -39615,16 +40006,16 @@
             ]
         },
         {
-            "address": "0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875",
-            "symbol": "SNOSHARES Token",
-            "name": "SNOSHARE",
+            "address": "0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B",
+            "symbol": "hJoe",
+            "name": "hJoe v2",
             "decimals": 18,
             "chainId": "43114",
-            "logoURI": "https://api.rubic.exchange/assets/avalanche/0xe7a102fbc8ab3581d62830ddb599eccaae5e7875/logo.png",
-            "coingeckoId": "snoshares",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
-                "rubic"
+                "joe",
+                "lifinance"
             ]
         },
         {
@@ -41279,6 +41670,20 @@
             ]
         },
         {
+            "address": "0xA1AfCC973d44cE1C65a21D9e644CB82489d26503",
+            "symbol": "RUX",
+            "name": "RunBlox Token",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xa1afcc973d44ce1c65a21d9e644cb82489d26503/2ea09e840b5e38593ce1724daab67db7.png",
+            "coingeckoId": "runblox",
+            "listedIn": [
+                "coingecko",
+                "joe",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
             "symbol": "DEG",
             "name": "DegisToken",
@@ -41567,9 +41972,8 @@
             "decimals": 18,
             "chainId": "43114",
             "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x94d649e017625de1aa04733aa046de0161df18ef/df6eb7cfb1b645d702b93ebc929fd1d3.png",
-            "coingeckoId": "king-share",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "pangolin",
                 "lifinance"
             ]
@@ -42561,6 +42965,20 @@
             ]
         },
         {
+            "address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
+            "symbol": "avWBTC",
+            "name": "Aave Avalanche Market WBTC",
+            "decimals": 8,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d/logo.png",
+            "coingeckoId": "avwbtc",
+            "listedIn": [
+                "coingecko",
+                "1inch",
+                "rubic"
+            ]
+        },
+        {
             "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
             "symbol": "HUSKY",
             "name": "Husky",
@@ -42999,6 +43417,20 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
+                "rubic"
+            ]
+        },
+        {
+            "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
+            "symbol": "avWETH",
+            "name": "Aave Avalanche Market WETH",
+            "decimals": 18,
+            "chainId": "43114",
+            "logoURI": "https://api.rubic.exchange/assets/avalanche/0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21/logo.png",
+            "coingeckoId": "avweth",
+            "listedIn": [
+                "coingecko",
+                "1inch",
                 "rubic"
             ]
         },
@@ -43947,9 +44379,8 @@
             "decimals": 18,
             "chainId": "43114",
             "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x1fe4869f2c5181b9cd780a7e16194fa2c4c4293d/76ec87c8a7ec0c5851e7d9f3b0004e15.png",
-            "coingeckoId": "snowy-owl",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "rubic",
                 "lifinance"
             ]
@@ -48226,6 +48657,19 @@
             "coingeckoId": "comfy",
             "listedIn": [
                 "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x6cc35220349C444c39b8e26b359757739aAEc952",
+            "symbol": "CGS",
+            "name": "Cougar Token",
+            "decimals": 18,
+            "chainId": "1666600000",
+            "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x6cc35220349c444c39b8e26b359757739aaec952/40b0b77c20fe0adbb0f21ae261c41786.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "rubic",
                 "lifinance"
             ]
         },
@@ -53345,7 +53789,7 @@
             "name": "hoge.finance",
             "decimals": 9,
             "chainId": "1",
-            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfad45e47083e4607302aa43c65fb3106f1cd7607/ae13f74a3cfe24635383b2256c3ccf01.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfad45e47083e4607302aa43c65fb3106f1cd7607/abb209b910fa0aa917e68b42de767631.png",
             "coingeckoId": "hoge-finance",
             "listedIn": [
                 "coingecko",
@@ -57650,6 +58094,19 @@
             ]
         },
         {
+            "address": "0xFe4BEb9217cdDf2422d4bd65449b76d807b30fe1",
+            "symbol": "WHITE",
+            "name": "White Ethereum",
+            "decimals": 9,
+            "chainId": "1",
+            "logoURI": null,
+            "coingeckoId": "white-ethereum",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0xFe459828c90c0BA4bC8b42F5C5D44F316700B430",
             "symbol": "BBS",
             "name": "BBS",
@@ -59465,7 +59922,7 @@
             "name": "Bezoge Earth",
             "decimals": 9,
             "chainId": "1",
-            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc349913d53b446485e98b76800b6254f43df695/2a9110859719f5617775ac617da36935.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc349913d53b446485e98b76800b6254f43df695/7e7ddd566ff2280039acaf1b5edf8600.png",
             "coingeckoId": "bezoge-earth",
             "listedIn": [
                 "coingecko",
@@ -60166,7 +60623,7 @@
             "name": "SAITAMA",
             "decimals": 9,
             "chainId": "1",
-            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xce3f08e664693ca792cace4af1364d5e220827b2/2a5595284e55960c5b9e434bfd6e5778.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xce3f08e664693ca792cace4af1364d5e220827b2/7a69647caac81a8de361248b64e7c01b.png",
             "coingeckoId": "saitama-inu",
             "listedIn": [
                 "coingecko",
@@ -62587,7 +63044,7 @@
             "name": "Dinger Token",
             "decimals": 9,
             "chainId": "1",
-            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68/753c86b7d295d6461ffa510b186953cf.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68/638658bb6effa1eb7b746e97dc4bdb54.png",
             "coingeckoId": "dinger-token",
             "listedIn": [
                 "coingecko",
@@ -64468,7 +64925,7 @@
             "name": "Swipe",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/95ba9802d41e7286c1028ff0adc5f2ef.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/85195ab6e5dfced6fd8e3acb19cc65df.png",
             "coingeckoId": "swipe",
             "listedIn": [
                 "coingecko",
@@ -65568,6 +66025,19 @@
             "chainId": "1",
             "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x824e35f7a75324f99300afac75ecf7354e17ea26/e991d925c900bf99ba092af9dc6f3b49.png",
             "coingeckoId": "tia",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "address": "0x823556202e86763853b40e9cDE725f412e294689",
+            "symbol": "ASTO",
+            "name": "Altered State Machine Utility Token",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x823556202e86763853b40e9cde725f412e294689/023b8022f27399eedd15e5fbdef8ee42.png",
+            "coingeckoId": "altered-state-token",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -72474,6 +72944,19 @@
             ]
         },
         {
+            "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
+            "symbol": "kSEED",
+            "name": "KUSH.FINANCE",
+            "decimals": 18,
+            "chainId": "1",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3f09400313e83d53366147e3ea0e4e2279d80850/858e84775127a735311767b6828b80af.png",
+            "coingeckoId": "kush-finance",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "address": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
             "symbol": "aUSDT",
             "name": "Aave interest bearing USDT",
@@ -73402,9 +73885,8 @@
             "decimals": 9,
             "chainId": "1",
             "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x343e59d9d835e35b07fe80f5bb544f8ed1cd3b11/5093a9992e7c91e4745ab9724e39a7ab.png",
-            "coingeckoId": "magic-ethereum-money",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "rubic",
                 "lifinance"
             ]
@@ -74788,15 +75270,16 @@
         },
         {
             "address": "0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3",
-            "symbol": "lml",
-            "name": "Link Machine Learning",
+            "symbol": "LML",
+            "name": "LML",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://api.rubic.exchange/assets/ethereum/0x25b6325f5bb1c1e03cfbc3e53f470e1f1ca022e3/logo.png",
+            "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x25b6325f5bb1c1e03cfbc3e53f470e1f1ca022e3/8d779eecad9e6c336f9ccc03b83a5e2b.png",
             "coingeckoId": "link-machine-learning",
             "listedIn": [
                 "coingecko",
-                "rubic"
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -75413,14 +75896,15 @@
         {
             "address": "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
             "symbol": "WAVES",
-            "name": "Waves",
+            "name": "WAVES",
             "decimals": 18,
             "chainId": "1",
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/waves.jpg",
+            "logoURI": "https://static.debank.com/image/token/logo_url/0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a/14bdc8ac39fd6dfd41fe00a411600da3.png",
             "coingeckoId": "waves",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "lifinance"
             ]
         },
         {

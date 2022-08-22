@@ -54,7 +54,6 @@
         "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -165,9 +164,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xf3ec49acb3084618121741e4bbb20996d383e9b2/a7a1d53bb0399c8b2c124ddd2c173ad6.png",
-        "coingeckoId": "king-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "rubic",
             "lifinance"
@@ -321,16 +319,16 @@
         ]
     },
     {
-        "address": "0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875",
-        "symbol": "SNOSHARES Token",
-        "name": "SNOSHARE",
+        "address": "0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B",
+        "symbol": "hJoe",
+        "name": "hJoe v2",
         "decimals": 18,
         "chainId": "43114",
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xe7a102fbc8ab3581d62830ddb599eccaae5e7875/logo.png",
-        "coingeckoId": "snoshares",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -1985,6 +1983,20 @@
         ]
     },
     {
+        "address": "0xA1AfCC973d44cE1C65a21D9e644CB82489d26503",
+        "symbol": "RUX",
+        "name": "RunBlox Token",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xa1afcc973d44ce1c65a21d9e644cb82489d26503/2ea09e840b5e38593ce1724daab67db7.png",
+        "coingeckoId": "runblox",
+        "listedIn": [
+            "coingecko",
+            "joe",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
         "symbol": "DEG",
         "name": "DegisToken",
@@ -2273,9 +2285,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x94d649e017625de1aa04733aa046de0161df18ef/df6eb7cfb1b645d702b93ebc929fd1d3.png",
-        "coingeckoId": "king-share",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "lifinance"
         ]
@@ -3267,6 +3278,20 @@
         ]
     },
     {
+        "address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
+        "symbol": "avWBTC",
+        "name": "Aave Avalanche Market WBTC",
+        "decimals": 8,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d/logo.png",
+        "coingeckoId": "avwbtc",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "rubic"
+        ]
+    },
+    {
         "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
         "symbol": "HUSKY",
         "name": "Husky",
@@ -3705,6 +3730,20 @@
         "listedIn": [
             "coingecko",
             "openocean",
+            "rubic"
+        ]
+    },
+    {
+        "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
+        "symbol": "avWETH",
+        "name": "Aave Avalanche Market WETH",
+        "decimals": 18,
+        "chainId": "43114",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21/logo.png",
+        "coingeckoId": "avweth",
+        "listedIn": [
+            "coingecko",
+            "1inch",
             "rubic"
         ]
     },
@@ -4653,9 +4692,8 @@
         "decimals": 18,
         "chainId": "43114",
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x1fe4869f2c5181b9cd780a7e16194fa2c4c4293d/76ec87c8a7ec0c5851e7d9f3b0004e15.png",
-        "coingeckoId": "snowy-owl",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "rubic",
             "lifinance"
         ]
