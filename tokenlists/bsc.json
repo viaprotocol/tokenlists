@@ -1414,11 +1414,12 @@
         "name": "CHEEMSINU",
         "decimals": 9,
         "chainId": "56",
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71/logo.png",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71/261018f051cbfb78329ac2fc99891e3d.png",
         "coingeckoId": "cheems-inu",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2179,6 +2180,19 @@
         ]
     },
     {
+        "address": "0xc3ee300e716978F36CFDca73CbdB6Fb690bCb94e",
+        "symbol": "$LUNAPE",
+        "name": "Luna Ape Protocol",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "luna-ape-protocol",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xc342774492b54ce5F8ac662113ED702Fc1b34972",
         "symbol": "BGEO",
         "name": "BinanceGeoDBCoin",
@@ -2393,6 +2407,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xbcDE162a6f7a45Fbb6913b296E325fe1267A1E9F",
+        "symbol": "MONX",
+        "name": "Monster Of God",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xbcde162a6f7a45fbb6913b296e325fe1267a1e9f/83262cc587f6e34ca19d4682af9860f2.png",
+        "coingeckoId": "monster-of-god",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -3104,6 +3131,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xae936f3f89d2e8a86163f6fdbfef8ae6b2ba6437/019cd1eabb5a161ae700e2030b5969e1.png",
         "coingeckoId": "vince-chain",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xaE459484c895a335ceC08058290D94551DBf5fbB",
+        "symbol": "WEFIN",
+        "name": "Wrapped EFIN",
+        "decimals": 8,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xae459484c895a335cec08058290d94551dbf5fbb/1dc5939af2c07ccd56d7b963c45c4862.png",
+        "coingeckoId": "efin-decentralized",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -9331,6 +9371,19 @@
         ]
     },
     {
+        "address": "0x7E839641381701b8b13671155FB774B1290fbd30",
+        "symbol": "PETH",
+        "name": "PetsHelp Coin",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x7e839641381701b8b13671155fb774b1290fbd30/5ac0a44b07d943b5dd6db6d38635e29a.png",
+        "coingeckoId": "petshelp",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x7E35D0e9180bF3A1fc47b0d110bE7a21A10B41Fe",
         "symbol": "OVR",
         "name": "OVR",
@@ -10229,19 +10282,6 @@
             "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "address": "0x7015A4b6eC17b64E09252A99F9f6E7fEEe6c37eb",
-        "symbol": "RELI",
-        "name": "Relite",
-        "decimals": 18,
-        "chainId": "56",
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x7015a4b6ec17b64e09252a99f9f6e7feee6c37eb/1754ebb01ca58243c581474eb6fed1d2.png",
-        "coingeckoId": "relite-finance",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -12038,6 +12078,19 @@
         ]
     },
     {
+        "address": "0x580655E2C6D4fC125C0B2D37B2a3e56219bF9f78",
+        "symbol": "GAL",
+        "name": "Gallant",
+        "decimals": 9,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x580655e2c6d4fc125c0b2d37b2a3e56219bf9f78/56c1af308fe49d995c3f81e907dbc091.png",
+        "coingeckoId": "gallant",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x57c56665B2bcdf3CB86E40A9D3DC21f5b0AeD7Ad",
         "symbol": "EVM",
         "name": "EverMars",
@@ -12595,6 +12648,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x509a51394CC4D6bb474FeFB2994b8975A55A6e79",
+        "symbol": "FUFU",
+        "name": "FUFU",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x509a51394cc4d6bb474fefb2994b8975a55a6e79/0e35ca88c720919d87fe91e21415d189.png",
+        "coingeckoId": "fufu",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -14708,6 +14774,19 @@
         ]
     },
     {
+        "address": "0x340724464cf51a551106cC6657606Ee7d87B28b9",
+        "symbol": "STC",
+        "name": "Satoshi Island Coin",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "satoshi-island",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0x33aa7797ac6CB8B4652B68E33e5ADd8Ad1218A8D",
         "symbol": "AQDC",
         "name": "AQDC",
@@ -14901,6 +14980,19 @@
         "chainId": "56",
         "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x324e8e649a6a3df817f97cddbed2b746b62553dd/159f6dbe55976c4e48b9dc338d1f6923.png",
         "coingeckoId": "xusd-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x3249fA9E11EfeCe7cb03b4Ad2994F46e54a35843",
+        "symbol": "CLCT",
+        "name": "CollectCoin",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x3249fa9e11efece7cb03b4ad2994f46e54a35843/c2f6f7dda6df721a21b455b07d6a9b44.png",
+        "coingeckoId": "collectcoin-2",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -17642,6 +17734,19 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0dDef12012eD645f12AEb1B845Cb5ad61C7423F5",
+        "symbol": "AEQ",
+        "name": "Aequinox",
+        "decimals": 18,
+        "chainId": "56",
+        "logoURI": null,
+        "coingeckoId": "aequinox",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
