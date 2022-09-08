@@ -1,5 +1,17 @@
 [
     {
+        "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+        "symbol": "USD+",
+        "name": "USD+",
+        "decimals": 6,
+        "chainId": "43114",
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65/d88620efa8460878104fb2fa8a3ebc00.png",
+        "coingeckoId": usdplus,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "address": "0xff579d6259dEDcc80488c9b89d2820bCb5609160",
         "symbol": "LVT",
         "name": "Louverture",
@@ -8,7 +20,7 @@
         "logoURI": "https://cloudstorage.openocean.finance/images/1640173289337_8609771459843021.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
+            "coingecko",
             "openocean"
         ]
     },
