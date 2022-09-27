@@ -477,6 +477,19 @@
         ]
     },
     {
+        "symbol": "FLUAN",
+        "name": "FanLuan",
+        "address": "0xcbA3307C80Ba758c5A0f0BFdcf1E3029B5C473D8",
+        "decimals": "18",
+        "chainId": 250,
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xcba3307c80ba758c5a0f0bfdcf1e3029b5c473d8/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "RGT",
         "name": "Rari Governance",
         "address": "0xcF726A06f3dcEc8eF2b033336D138CaA0EAe5af2",
@@ -515,7 +528,19 @@
         "coingeckoId": "0xdao-v2",
         "listedIn": [
             "coingecko",
-            "rubic",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "LINSPIRIT",
+        "name": "linSpirit",
+        "address": "0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C",
+        "decimals": "18",
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/22634/thumb/pirate.4fb08b14.png?1642344628",
+        "coingeckoId": "linspirit",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -1028,19 +1053,6 @@
         ]
     },
     {
-        "symbol": "MAKI",
-        "name": "MakiSwap",
-        "address": "0xEDf5e2Ac09002094Cc51B597CebE58C70182ADC5",
-        "decimals": "18",
-        "chainId": 250,
-        "logoURI": "https://assets.coingecko.com/coins/images/16051/thumb/makiswap.jpg?1622691783",
-        "coingeckoId": "makiswap",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "WIGO",
         "name": "WigoSwap",
         "address": "0xE992bEAb6659BFF447893641A378FbbF031C5bD6",
@@ -1424,7 +1436,8 @@
         "coingeckoId": "projectmars",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -2292,8 +2305,7 @@
         "coingeckoId": "grimtoken",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -2394,19 +2406,6 @@
             "coingecko",
             "SpookySwap",
             "rubic",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "KNCL",
-        "name": "Kyber Network Crystal Legacy",
-        "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-        "decimals": "18",
-        "chainId": 250,
-        "logoURI": "https://assets.coingecko.com/coins/images/947/thumb/logo-kncl.png?1618984814",
-        "coingeckoId": "kyber-network",
-        "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -2661,6 +2660,19 @@
         ]
     },
     {
+        "symbol": "ENERGY",
+        "name": "ENERGY Token",
+        "address": "0x6F65b9ee6cafa95b641488f3188f937Fc1a4772A",
+        "decimals": "18",
+        "chainId": 250,
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x6f65b9ee6cafa95b641488f3188f937fc1a4772a/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DSHARE",
         "name": "DShares",
         "address": "0x6E209329A33a63C463dbb65AE2d6655Fe5C98411",
@@ -2675,6 +2687,19 @@
         ]
     },
     {
+        "symbol": "MENSA",
+        "name": "Mensa",
+        "address": "0x6B77d8B9be440FcbfE72CB4104d98bBd7cF91B14",
+        "decimals": "18",
+        "chainId": 250,
+        "logoURI": "https://ethapi.openocean.finance/logos/fantom/0x6b77d8b9be440fcbfe72cb4104d98bbd7cf91b14.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "sFTM",
         "name": "Staked FTM",
         "address": "0x69c744D3444202d35a2783929a0F930f2FBB05ad",
@@ -2684,7 +2709,6 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3464,19 +3488,6 @@
         ]
     },
     {
-        "symbol": "SOL",
-        "name": "Wrapped Solana",
-        "address": "0x44F7237df00E386af8e79B817D05ED9f6FE0f296",
-        "decimals": "18",
-        "chainId": 250,
-        "logoURI": "https://assets.coingecko.com/coins/images/21629/thumb/solana.jpg?1639626543",
-        "coingeckoId": "wrapped-solana",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "HEGIC",
         "name": "Hegic",
         "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
@@ -3567,7 +3578,8 @@
         "coingeckoId": "solidsex-tokenized-vesolid",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4292,7 +4304,8 @@
         "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {

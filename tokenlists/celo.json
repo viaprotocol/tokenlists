@@ -40,19 +40,6 @@
         ]
     },
     {
-        "symbol": "USDTv1",
-        "name": "Optics USDT v1",
-        "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
-        "decimals": "6",
-        "chainId": 42220,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CMETA",
         "name": "MetaCelo",
         "address": "0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61",
@@ -62,18 +49,6 @@
         "coingeckoId": "metacelo",
         "listedIn": [
             "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
-        "symbol": "WETHv1",
-        "name": "Optics WETH v1",
-        "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
-        "decimals": "18",
-        "chainId": 42220,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
-        "coingeckoId": null,
-        "listedIn": [
             "sushiswap",
             "lifinance"
         ]
@@ -189,19 +164,6 @@
         ]
     },
     {
-        "symbol": "cDEFI",
-        "name": "Celo Defi Index",
-        "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
-        "decimals": "18",
-        "chainId": 42220,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "ubeswap"
-        ]
-    },
-    {
         "symbol": "ETHIX",
         "name": "EthicHub",
         "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
@@ -251,6 +213,7 @@
         "coingeckoId": "moola-celo-dollars",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -375,6 +338,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -429,7 +393,8 @@
         "coingeckoId": "celolaunch",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -598,6 +563,19 @@
         ]
     },
     {
+        "symbol": "SOL",
+        "name": "SOL",
+        "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
+        "decimals": "18",
+        "chainId": 42220,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "Optics WETH v2",
         "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
@@ -622,6 +600,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -635,7 +614,6 @@
         "coingeckoId": "poofcash",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "ubeswap"
         ]
     }

@@ -384,7 +384,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -628,7 +629,8 @@
         "coingeckoId": "minato",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -717,8 +719,7 @@
         "coingeckoId": "sperax-usd",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -757,8 +758,7 @@
         "coingeckoId": "mycelium",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -849,7 +849,8 @@
         "listedIn": [
             "coingecko",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -877,7 +878,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1163,6 +1165,19 @@
         ]
     },
     {
+        "symbol": "LIQD",
+        "name": "Liquid Finance",
+        "address": "0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/27056/thumb/liqd.png?1661513443",
+        "coingeckoId": "liquid-finance",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AMY",
         "name": "Amy Finance Token",
         "address": "0x8Fbd420956FDD301f4493500fd0BCaAa80f2389C",
@@ -1215,7 +1230,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1462,7 +1478,8 @@
         "coingeckoId": "aave-usdt",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1783,19 +1800,6 @@
             "openocean",
             "arbitrum_bridge",
             "rubic",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "NISHIB",
-        "name": "NitroShiba",
-        "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
-        "decimals": "18",
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/27288/thumb/nishib_logo.png?1663143249",
-        "coingeckoId": "nitroshiba",
-        "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -2223,8 +2227,7 @@
         "coingeckoId": "deri-protocol",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -2433,7 +2436,8 @@
         "coingeckoId": "radiant-capital",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {

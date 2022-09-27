@@ -91,6 +91,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -739,18 +740,6 @@
         ]
     },
     {
-        "symbol": "anyETHK",
-        "name": "ETHK",
-        "address": "0x6F058086D91a181007C2325e5b285425cA84d615",
-        "decimals": "18",
-        "chainId": 66,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "GWT",
         "name": "Galaxy War",
         "address": "0x65511cE6980418dB9dB829b669E7dFD653dae420",
@@ -771,8 +760,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22263/thumb/jswap.PNG?1641335953",
         "coingeckoId": "jswap-finance",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -1186,14 +1174,13 @@
     },
     {
         "symbol": "OKFly",
-        "name": "Okex Fly",
+        "name": "OKFly",
         "address": "0x02F093513b7872CdFC518e51eD67f88F0e469592",
         "decimals": "9",
         "chainId": 66,
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x02f093513b7872cdfc518e51ed67f88f0e469592/7f68fcd1e43ba8a49068f270272b4d6b.png",
+        "logoURI": "https://elk.finance/tokens/logos/okex/0x02F093513b7872CdFC518e51eD67f88F0e469592/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },

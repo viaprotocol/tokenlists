@@ -189,8 +189,7 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0xeb6c08ccb4421b6088e581ce04fcfbed15893ac3/logo.png",
         "coingeckoId": "frax",
         "listedIn": [
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -302,6 +301,18 @@
         ]
     },
     {
+        "symbol": "tq1WBTC",
+        "name": "Tranquil 1WBTC",
+        "address": "0xd9c0D8Ad06ABE10aB29655ff98DcAAA0E059184A",
+        "decimals": "8",
+        "chainId": 1666600000,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "FRM",
         "name": "Ferrum Network Token",
         "address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
@@ -396,8 +407,7 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0xd3a50c0dce15c12fe64941ffd2b864e887c9b9e1/logo.png",
         "coingeckoId": "harmon-ape",
         "listedIn": [
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -699,6 +709,18 @@
         ]
     },
     {
+        "symbol": "SWAP",
+        "name": "SeeSwap Protocol Token",
+        "address": "0xb1f4fceAeF8667Ae868926c4e0817B07EDc5a938",
+        "decimals": "18",
+        "chainId": 1666600000,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AVAX",
         "name": "Avalanche",
         "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
@@ -843,6 +865,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1093,6 +1116,7 @@
             "coingecko",
             "sushiswap",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1191,7 +1215,8 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0xe59aa7f9e91b4cc6c25d3542cecb851e0316138c/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1291,7 +1316,8 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0xdfb01a88d1e6099b42c9bae38f8070027143b850/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1474,6 +1500,18 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn"
+        ]
+    },
+    {
+        "symbol": "ONEMOON",
+        "name": "OneMoon",
+        "address": "0xCB35e4945c7F463c5CCBE3BF9f0389ab9321248F",
+        "decimals": "9",
+        "chainId": 1666600000,
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xcb35e4945c7f463c5ccbe3bf9f0389ab9321248f/2c76ce13e316125a49b23616fc5dc2d3.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1661,6 +1699,18 @@
         ]
     },
     {
+        "symbol": "ARANK",
+        "name": "ARANK",
+        "address": "0xBD16b0B2eB520b7Ff4A4156d367Ee359Ac19c531",
+        "decimals": "18",
+        "chainId": 1666600000,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "HT",
         "name": "Huobi",
         "address": "0xBAA0974354680B0e8146d64bB27Fb92C03C4A2f2",
@@ -1795,6 +1845,18 @@
         ]
     },
     {
+        "symbol": "xJEWEL",
+        "name": "xJewels",
+        "address": "0xA9cE83507D872C5e1273E745aBcfDa849DAA654F",
+        "decimals": "18",
+        "chainId": 1666600000,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "EPS",
         "name": "Ellipsis",
         "address": "0xA7f552078dcC247C2684336020c03648500C6d9F",
@@ -1852,6 +1914,18 @@
         "coingeckoId": "coreto",
         "listedIn": [
             "dfyn"
+        ]
+    },
+    {
+        "symbol": "oneminer.finance",
+        "name": "oneminer.finance",
+        "address": "0xA32fAD9962499Bee76b5b96DaA3F6d2CE648aADA",
+        "decimals": "18",
+        "chainId": 1666600000,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1936,7 +2010,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1989,7 +2062,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18395/thumb/fuzz.PNG?1631764255",
         "coingeckoId": "fuzz-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2306,7 +2380,8 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0x85a1dd919cd605aa2ead4b01ff1190504bcab609/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2392,7 +2467,8 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2479,6 +2555,18 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn"
+        ]
+    },
+    {
+        "symbol": "SEED",
+        "name": "SEED",
+        "address": "0x793DAC3Ec4969A5BEE684BcF4290d52feB8F51b4",
+        "decimals": "6",
+        "chainId": 1666600000,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -2936,6 +3024,18 @@
         ]
     },
     {
+        "symbol": "SWAP",
+        "name": "SeeSwap Protocol Token",
+        "address": "0x637e4Dda7d97E785f3d2f93BFfFc66811b912f11",
+        "decimals": "18",
+        "chainId": 1666600000,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BSGG",
         "name": "BETSWAP.GG",
         "address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
@@ -3017,7 +3117,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3415,18 +3514,6 @@
         ]
     },
     {
-        "symbol": "aUST",
-        "name": "Wrapped Anchor UST Token",
-        "address": "0x4D9d9653367FD731Df8412C74aDA3E1c9694124a",
-        "decimals": "18",
-        "chainId": 1666600000,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "RMAI",
         "name": "RMAI",
         "address": "0x4D3e9D28676B061EC8d0DF663de609b4eAC1037F",
@@ -3519,7 +3606,8 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0x491614c6d1a7cc8b0a3ed0bbdecd35a0110c11e6/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3737,7 +3825,8 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0x40f5c9b19472b2d7ee4dc080ae1be4de2f402bfe/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3815,7 +3904,6 @@
             "coingecko",
             "RouterProtocol",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3853,7 +3941,8 @@
         "coingeckoId": "kuro-shiba",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3918,7 +4007,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -4066,7 +4154,8 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0x340042552d19211795dbe55d84fa2e63bc49b890/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4182,12 +4271,13 @@
             "coingecko",
             "sushiswap",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
     {
         "symbol": "WETH",
-        "name": "Wrapped Ether",
+        "name": "WrappedEther",
         "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
         "decimals": "18",
         "chainId": 1666600000,
@@ -4517,6 +4607,7 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4529,7 +4620,8 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0x1c0869a9ee9e866288fd4a62342bfe8941dacf94/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4711,7 +4803,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4845,7 +4938,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20054/thumb/euphoria-512x512.png?1636443725",
         "coingeckoId": "euphoria-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -4992,7 +5086,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0D625029E21540aBdfAFa3BFC6FD44fB4e0A66d0/logo.png",
         "coingeckoId": "marscolony",
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
