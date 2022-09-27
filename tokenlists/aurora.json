@@ -118,6 +118,7 @@
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
+            "RouterProtocol",
             "rubic"
         ]
     },
@@ -637,13 +638,13 @@
         ]
     },
     {
-        "address": "0x78B65477bBa78fc11735801D559C386611d07529",
-        "symbol": "MFF",
-        "name": "Moonflower Farm",
+        "address": "0x7EA2be2df7BA6E54B1A9C70676f668455E329d29",
+        "symbol": "0xMR",
+        "name": "0xMonero",
         "decimals": 18,
         "chainId": "1313161554",
-        "logoURI": "https://api.rubic.exchange/assets/aurora/0x78b65477bba78fc11735801d559c386611d07529/logo.png",
-        "coingeckoId": "moonflower-farm",
+        "logoURI": "https://api.rubic.exchange/assets/aurora/0x7ea2be2df7ba6e54b1a9c70676f668455e329d29/logo.png",
+        "coingeckoId": "0xmonero",
         "listedIn": [
             "coingecko",
             "rubic"
@@ -1061,19 +1062,6 @@
         "listedIn": [
             "coingecko",
             "trisolaris",
-            "rubic"
-        ]
-    },
-    {
-        "address": "0x0fAD0ED848A7A16526E8a7574e418B015Dbf41B5",
-        "symbol": "PAD",
-        "name": "smartpad token",
-        "decimals": 18,
-        "chainId": "1313161554",
-        "logoURI": "https://api.rubic.exchange/assets/aurora/0x0fad0ed848a7a16526e8a7574e418b015dbf41b5/logo.png",
-        "coingeckoId": "smartpad",
-        "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },

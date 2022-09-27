@@ -34,15 +34,18 @@ CHAIN_NAMES_BY_ID = {
     '43113': 'fuji',
     '43114': 'avax',
     '4689': 'iotex',
+    '592': 'astar',
     '5': 'goerli',
     '56': 'bsc',
+    '1818': 'cube',
     '65': 'okex-testnet',
     '66': 'okex',
     '70': 'hoo',
     '80001': 'mumbai',
     '82': 'meter',
     '88': 'tomochain',
-    '97': 'bsc-testnet'
+    '97': 'bsc-testnet',
+    '9001': 'evmos',
 }
 
 Address = NewType('Address', str)

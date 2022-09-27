@@ -1,15 +1,55 @@
 [
     {
+        "address": "0xf498a433819a5DB3DFCc110100527CF4bFcAFe47",
+        "symbol": "1YLDY",
+        "name": "Yieldly",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": null,
+        "coingeckoId": "yieldly",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xeB6C08ccB4421b6088e581ce04fcFBed15893aC3",
+        "symbol": "1FRAX",
+        "name": "Frax",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xdc54046c0451f9269FEe1840aeC808D36015697d",
+        "symbol": "1BTC",
+        "name": "1BTC",
+        "decimals": 8,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xdc54046c0451f9269fee1840aec808d36015697d/ed6d39af4cdeca39b6d19dab162b5c02.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
         "address": "0xd754ae7bb55fEB0c4BA6bC037b4A140f14ebE018",
         "symbol": "TEM",
         "name": "TEmplar Token",
         "decimals": 9,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xd754ae7bb55fEB0c4BA6bC037b4A140f14ebE018/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xd754ae7bb55feb0c4ba6bc037b4a140f14ebe018/19eb8baf609a047e644904c08f20e2eb.png",
         "coingeckoId": "templardao",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -18,11 +58,25 @@
         "name": "Cosmos Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xd6bad903e550822d51073afb79581bf5aae9243f/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xd6bAd903e550822d51073AFb79581BF5aAE9243F/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xd3a50c0dCE15C12fe64941FFd2B864e887c9B9E1",
+        "symbol": "APE",
+        "name": "HarmonApe",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xd3a50c0dce15c12fe64941ffd2b864e887c9b9e1/a705d7eac4336781f8a179427d4e57b9.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -31,41 +85,71 @@
         "name": "Wrapped ONE",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xcf664087a5bb0237a0bad6742852ec6c8d69a27a/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a/logo.png",
         "coingeckoId": "wrapped-one",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "RouterProtocol",
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
-        "symbol": "1AAVE",
+        "symbol": "AAVE",
         "name": "Aave Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xcf323aad9e522b93f11c352caa519ad0e14eb40f/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F/logo.png",
         "coingeckoId": "aave",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xc1873199284B4490A4AACbE7CD6710Dc6aA95e08",
+        "symbol": "ONEUSD",
+        "name": "ONEUSD",
+        "decimals": 8,
+        "chainId": "1666600000",
+        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ONEUSD.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xb1f6E61E1e113625593a22fa6aa94F8052bc39E0",
+        "symbol": "bscBNB",
+        "name": "Binance BNB",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xb1f6E61E1e113625593a22fa6aa94F8052bc39E0/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0xa7a22299918828D791240f9Ec310c2E066592053",
-        "symbol": "1xSUSHI",
+        "symbol": "xSUSHI",
         "name": "xSUSHI",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xa7a22299918828d791240f9ec310c2e066592053/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xa7a22299918828D791240f9Ec310c2E066592053/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -74,11 +158,12 @@
         "name": "yearn.finance",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xa0dc05F84A27FcCBD341305839019aB86576bc07/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xa0dc05F84A27FcCBD341305839019aB86576bc07/logo.png",
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -88,26 +173,41 @@
         "name": "Frax",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xfa7191d292d5633f702b0bd7e3e3bccc0e633200/7e37ac1371c1217c7e2177b0e77f8e83.png",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xF38593388079F7f5130d605E38aBF6090D981eC2",
+        "symbol": "sWAGMI",
+        "name": "Staked WAGMI",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/sWAGMI.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     },
     {
         "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
-        "symbol": "1DAI",
+        "symbol": "DAI",
         "name": "Dai Stablecoin",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xef977d2f931c1978db5f6747666fa1eacb0d0339/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xEf977d2f931C1978Db5F6747666fa1eACB0d0339/logo.png",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -116,13 +216,14 @@
         "name": "Viper",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79/logo.png",
         "coingeckoId": "viper",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -131,11 +232,11 @@
         "name": "Reverse Protocol",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE/logo.png",
-        "coingeckoId": "reverse-protocol",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xed0b4b0f0e2c17646682fc98ace09feb99af3ade/4fb321b0a7f86dd9538a4847b56ac0e3.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -144,12 +245,26 @@
         "name": "Wise Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xE7e3C4D1cFc722b45A428736845B6AfF862842a1/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xE7e3C4D1cFc722b45A428736845B6AfF862842a1/logo.png",
         "coingeckoId": "wise-token11",
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "address": "0xE59AA7f9e91B4Cc6C25D3542CEcb851e0316138c",
+        "symbol": "YIN",
+        "name": "YIN",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -158,13 +273,27 @@
         "name": "Binance USD",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xe176ebe47d621b984a73036b9da5d834411ef734/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xE176EBE47d621b984a73036B9DA5d834411ef734/logo.png",
         "coingeckoId": "binance-usd",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
+        "symbol": "xVIPER",
+        "name": "xVIPER",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -173,10 +302,11 @@
         "name": "Balancer",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xDc5f76104D0B8D2bF2c2Bbe06CDFE17004E9010f/logo.png",
         "coingeckoId": "balancer",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -186,26 +316,54 @@
         "name": "Tranquil",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xCf1709Ad76A79d5a60210F23e81cE2460542A836/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xcf1709ad76a79d5a60210f23e81ce2460542a836/f5f5937c86f0108a83eae6c7f84e0991.png",
         "coingeckoId": "tranquil-finance",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xBbD83eF0c9D347C85e60F1b5D2c58796dBE1bA0d",
+        "symbol": "CHEEZ",
+        "name": "Cheese",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xbbd83ef0c9d347c85e60f1b5d2c58796dbe1ba0d/924dc5307253955e4c009b54ac12498a.png",
+        "coingeckoId": "cheesedao",
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0xBb948620Fa9cD554eF9A331B13eDeA9B181F9D45",
+        "symbol": "wsWAGMI",
+        "name": "Wrapped sWAGMI",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/wsWAGMI.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     },
     {
         "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
-        "symbol": "1SUSHI",
+        "symbol": "SUSHI",
         "name": "SushiToken",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xbec775cb42abfa4288de81f387a9b1a3c4bc552a/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A/logo.png",
         "coingeckoId": "sushi",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -214,12 +372,13 @@
         "name": "DaVinci Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0xb8e0497018c991e86311b64efd9d57b06aedbbae/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -228,26 +387,28 @@
         "name": "Tether USD Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x9a89d0e1b051640c6704dde4df881f73adfef39a/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
-        "symbol": "1USDC",
+        "symbol": "USDC",
         "name": "USD Coin",
         "decimals": 6,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x985458e523db3d53125813ed68c274899e9dfab4/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x985458E523dB3d53125813eD68c274899e9DfAb4/logo.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -256,12 +417,26 @@
         "name": "Wrapped LUNA Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x95ce547d730519a90def30d647f37d9e5359b6ae/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x95CE547D730519A90dEF30d647F37D9E5359B6Ae/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x947394294F75D7502977AC6813FD99f77C2931ec",
+        "symbol": "ODAO",
+        "name": "ODAO",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x947394294f75d7502977ac6813fd99f77c2931ec/e619a4706b8e0b72e749c37110ce9e1e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -270,11 +445,12 @@
         "name": "Uniswap",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x90D81749da8867962c760414C1C25ec926E889b6/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x90D81749da8867962c760414C1C25ec926E889b6/logo.png",
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -284,24 +460,25 @@
         "name": "Magic",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x892D81221484F690C0a97d3DD18B9144A3ECDFB7/logo.png",
-        "coingeckoId": "cosmic-universe-magic-token",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x892d81221484f690c0a97d3dd18b9144a3ecdfb7/f9b01701b6f2280676e25770106fe29d.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
         "address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
         "symbol": "LMA",
-        "name": "LMA - Art - Gallery",
+        "name": "LMA-Art-Gallery",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x7d0546dbb1dca8108d99aa389a8e9ce0c40b2370/logo.png",
+        "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/LMA.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -310,11 +487,12 @@
         "name": "Synthetix Network Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x7b9c523d59AeFd362247Bd5601A89722e3774dD2/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x7b9c523d59AeFd362247Bd5601A89722e3774dD2/logo.png",
         "coingeckoId": "havven",
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -324,11 +502,25 @@
         "name": "Ethereum Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x783ee3e955832a3d52ca4050c4c251731c156020/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x783EE3E955832a3D52CA4050c4C251731c156020/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+        "symbol": "JEWEL",
+        "name": "Jewels",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x72cb10c6bfa5624dd07ef608027e366bd690048f/066eb34f522851f37d1da7b31393eb60.png",
+        "coingeckoId": "defi-kingdoms",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -337,26 +529,67 @@
         "name": "Metatr.one",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x725553bc9Aa0939362671407dfDEb162DD37d168/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x725553bc9aa0939362671407dfdeb162dd37d168/32ae35138cd3751cfa6fac6d37bd263e.png",
         "coingeckoId": "metatrone",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x702f78E81Cf3DfaE89648b5a9e2e1aa8db1De546",
+        "symbol": "COMFY",
+        "name": "Comfy",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x702f78e81cf3dfae89648b5a9e2e1aa8db1de546/367707e7b7887003394cbac4a98ab537.png",
+        "coingeckoId": "comfy",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x6cc35220349C444c39b8e26b359757739aAEc952",
+        "symbol": "CGS",
+        "name": "Cougar Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x6cc35220349c444c39b8e26b359757739aaec952/40b0b77c20fe0adbb0f21ae261c41786.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "symbol": "BIFI",
+        "name": "beefy.finance",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8/4f68c7424e017ddf28f09996cace5334.png",
+        "coingeckoId": "beefy-finance",
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
         "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
-        "symbol": "1ETH",
-        "name": "ETH",
+        "symbol": "ETH",
+        "name": "Ether",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x6983d1e6def3690c4d616b13597a09e6193ea013/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x6983D1E6DEf3690C4d616b13597A09e6193EA013/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -365,24 +598,53 @@
         "name": "Yield Guild Games Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x63cf309500d8be0b9fdb8f1fb66c821236c0438c/0f4b148ccb06e1daa68e124ae8dd0d8e.png",
         "coingeckoId": "yield-guild-games",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
         "address": "0x5c99F47e749d2Fb9F6002a2945df5Ea3F7162dFe",
-        "symbol": "1CREAM",
+        "symbol": "CREAM",
         "name": "Cream",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x5c99f47e749d2fb9f6002a2945df5ea3f7162dfe/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x5c99F47e749d2Fb9F6002a2945df5Ea3F7162dFe/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F",
+        "symbol": "EVO",
+        "name": "EVO",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x5b747e23a9e4c509dd06fbd2c0e3cb8b846e398f/bdc6d725bb1028b97e47838c584d3782.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "dfyn",
+            "RouterProtocol",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x59fA612968F54080aba370Fd822343c43F23C874",
+        "symbol": "WARU",
+        "name": "Waru Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x59fa612968f54080aba370fd822343c43f23c874/3e1f16a3f87216f5ae230df820c1e1f8.png",
+        "coingeckoId": "waru",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -391,11 +653,12 @@
         "name": "1INCH Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x58f1b044d8308812881a1433d9Bbeff99975e70C/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x58f1b044d8308812881a1433d9Bbeff99975e70C/logo.png",
         "coingeckoId": "1inch",
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -405,11 +668,12 @@
         "name": "Cardano Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c/logo.png",
         "coingeckoId": "binance-peg-cardano",
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -419,24 +683,52 @@
         "name": "Immortl",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x550d9923693998a6fe20801abe3f1a78e0d75089/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x550d9923693998a6fe20801abe3f1a78e0d75089/d4f1d084927ec8768a5e8b17e42d0331.png",
         "coingeckoId": "immortl",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x52274a3aF646153faB00b8605E1F6F7072ce71F3",
+        "symbol": "fRENT",
+        "name": "Fraterium Rent ",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     },
     {
         "address": "0x50aE1ABA372B836523C982d8CE88E89AA8A92863",
-        "symbol": "1TEL",
+        "symbol": "TEL",
         "name": "Telcoin",
         "decimals": 2,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x50ae1aba372b836523c982d8ce88e89aa8a92863/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x50aE1ABA372B836523C982d8CE88E89AA8A92863/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x44cED87b9F1492Bf2DCf5c16004832569f7f6cBa",
+        "symbol": "bscUSDC",
+        "name": "USD Coin Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x44cED87b9F1492Bf2DCf5c16004832569f7f6cBa/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -445,25 +737,27 @@
         "name": "Ellipsis",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x4261b6a6e3ca6d186c0fe7d0510e707aaf30a42b/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x4261b6a6e3Ca6D186C0fE7d0510e707aaf30A42b/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x40d2f81bD135B5282CB2aA18F19cF7098079D012",
-        "symbol": "Ikura",
-        "name": "Ikura Token",
+        "symbol": "IKURA",
+        "name": "Ikura",
         "decimals": 9,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x40d2f81bd135b5282cb2aa18f19cf7098079d012/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x40d2f81bd135b5282cb2aa18f19cf7098079d012/561f443fc7f01f3628822966c7d23496.png",
         "coingeckoId": "ikura-token",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -472,25 +766,28 @@
         "name": "PancakeSwap Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x3e9d32580b0bf3ae72afcbebc68710d2fd9a18f0/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x3e9D32580B0BF3aE72AFCBEbC68710d2Fd9a18F0/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
         "symbol": "MAI",
-        "name": "MAI",
+        "name": "miMatic",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x3f56e0c36d275367b8c502090edf38289b3dea0d/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
-            "elkfinance",
-            "rubic"
+            "RouterProtocol",
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -499,26 +796,41 @@
         "name": "Kuro Shiba",
         "decimals": 9,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b/2f38f4e39a1ab93c28841130075133ab.png",
         "coingeckoId": "kuro-shiba",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x3CB98cacd44Ee77eb35E99EB74Ace91bF550c964",
+        "symbol": "CSHARE",
+        "name": "Comfy Share",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x3cb98cacd44ee77eb35e99eb74ace91bf550c964/18e5d47ea83ae1758d3c322eb8d51c39.png",
+        "coingeckoId": "comfy-share",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
         "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
-        "symbol": "1USDT",
+        "symbol": "USDT",
         "name": "Tether USD",
         "decimals": 6,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -527,24 +839,26 @@
         "name": "COBRA",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x3aa9470bdf720d7ff3d3fb78231803431970a329/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x3Aa9470bdf720D7FF3D3fB78231803431970A329/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x352cd428EFd6F31B5cae636928b7B84149cF369F",
-        "symbol": "1CRV",
+        "symbol": "CRV",
         "name": "Curve DAO Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x352cd428efd6f31b5cae636928b7b84149cf369f/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x352cd428EFd6F31B5cae636928b7B84149cF369F/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -553,10 +867,11 @@
         "name": "DSLA",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734/logo.png",
         "coingeckoId": "stacktical",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -566,10 +881,11 @@
         "name": "BTCB Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x34224dCF981dA7488FdD01c7fdd64E74Cd55DcF7/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x34224dCF981dA7488FdD01c7fdd64E74Cd55DcF7/logo.png",
         "coingeckoId": "binance-bitcoin",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -579,41 +895,44 @@
         "name": "Compound",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x32137b9275EA35162812883582623cd6f6950958/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x32137b9275EA35162812883582623cd6f6950958/logo.png",
         "coingeckoId": "compound-governance-token",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
     {
         "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
-        "symbol": "1WBTC",
+        "symbol": "WBTC",
         "name": "Wrapped BTC",
         "decimals": 8,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x3095c7557bcb296ccc6e363de01b760ba031f2d9/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x3095c7557bCb296ccc6e363DE01b760bA031F2d9/logo.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
-        "symbol": "1MATIC",
+        "symbol": "MATIC",
         "name": "Matic Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x301259f392b551ca8c592c9f676fcd2f9a0a84c5/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x301259f392B551CA8c592C9f676FCD2f9A0A84C5/logo.png",
         "coingeckoId": "matic-network",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -622,12 +941,26 @@
         "name": "TokenJenny",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x2A719aF848bf365489E548BE5edbEC1D65858e59",
+        "symbol": "FIRA",
+        "name": "Fira",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x2a719af848bf365489e548be5edbec1d65858e59/8d21669c72dd99a6e3e108fe9541b202.png",
+        "coingeckoId": "fira",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -636,11 +969,12 @@
         "name": "Staked One",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x22d62b19b7039333ad773b7185bb61294f3adc19/2f50553aafc56d830f636a2d67487786.png",
         "coingeckoId": "tranquil-staked-one",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -649,12 +983,13 @@
         "name": "Wrapped UST Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x224e64ec1bdce3870a6a6c777edd450454068fec/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x224e64ec1BDce3870a6a6c777eDd450454068FEC/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -663,13 +998,14 @@
         "name": "ChainLink Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x218532a12a389a4a92fc0c5fb22901d1c19198aa/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x218532a12a389a4a92fC0C5Fb22901D1c19198aA/logo.png",
         "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -678,25 +1014,53 @@
         "name": "Dai Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x1d374ed0700a0ad3cd4945d66a5b1e08e5db20a8/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x1d374ED0700a0aD3cd4945D66a5B1e08e5db20A8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x1c0869a9ee9e866288Fd4A62342BFe8941DACf94",
+        "symbol": "LOGE",
+        "name": "Logecoin",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x1b2bc2683F85bFb9c4C90e8322d62A20B97cF87D",
+        "symbol": "MM",
+        "name": "Million",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x1b2bc2683F85bFb9c4C90e8322d62A20B97cF87D/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
         "address": "0x14A7B318fED66FfDcc80C1517C172c13852865De",
-        "symbol": "1AXS",
+        "symbol": "AXS",
         "name": "Axie Infinity Shard",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x14a7b318fed66ffdcc80c1517c172c13852865de/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x14a7b318fed66ffdcc80c1517c172c13852865de/1c5014bd0ce6eb830151da2db995b345.png",
         "coingeckoId": "axie-infinity",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -705,11 +1069,38 @@
         "name": "Hundred Finance",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x10010078a54396f62c96df8532dc2b4847d47ed3/3693fa0bd77bffb15bd97a23e01a2773.png",
         "coingeckoId": "hundred-finance",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0dc78c79B4eB080eaD5C1d16559225a46b580694",
+        "symbol": "WAGMI",
+        "name": "Euphoria",
+        "decimals": 9,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x0dc78c79b4eb080ead5c1d16559225a46b580694/38f33ffa2522d10873a25bc43f526bb4.png",
+        "coingeckoId": "euphoria-2",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
+        "symbol": "hMOCHI",
+        "name": "MochiSwap Token",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -718,12 +1109,26 @@
         "name": "BUSD Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x0ab43550a6915f9f67d0c454c2e90385e6497eaa/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x0aB43550A6915F9f67d0c454C2E90385E6497EaA/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "address": "0x0D625029E21540aBdfAFa3BFC6FD44fB4e0A66d0",
+        "symbol": "CLNY",
+        "name": "ColonyToken",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x0d625029e21540abdfafa3bfc6fd44fb4e0a66d0/4d1906c27c82e840ac10bbe4a6f1cb22.png",
+        "coingeckoId": "marscolony",
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -732,12 +1137,13 @@
         "name": "Polkadot Token",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x08cb2917245bbe75c8c9c6dc4a7b3765dae02b31/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x08CB2917245BBE75C8C9c6Dc4a7B3765Dae02b31/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -746,11 +1152,12 @@
         "name": "Frax Share",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x0767d8e1b05efa8d6a301a65b324b6b66a1cc14c/606b85af55178ace1c229f9fdc0a5a35.png",
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -759,11 +1166,12 @@
         "name": "Venus",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x04f308c988ec1c5a4e4a99d3d2a5b8f4287260bd/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x04f308C988ec1C5A4e4A99d3d2A5B8F4287260bD/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -772,11 +1180,12 @@
         "name": "ANY Bitcoin",
         "decimals": 8,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x03732a1b4297ec285999402a9129cfad62a65463/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x03732a1b4297eC285999402A9129CFaD62a65463/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -785,25 +1194,66 @@
         "name": "Zilliqa",
         "decimals": 12,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x0341d02c0fd5439576742750e6f2a2c0993a520b/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/harmony/0x0341D02C0fD5439576742750e6F2a2C0993A520b/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "elkfinance",
-            "rubic"
+            "rubic",
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
         "symbol": "OpenX",
-        "name": "OpenSwapX Token",
+        "name": "OpenSwap",
         "decimals": 18,
         "chainId": "1666600000",
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x01a4b054110d57069c1658afbc46730529a3e326/logo.png",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x01a4b054110d57069c1658afbc46730529a3e326/ae7a524bdfd3af8bea940ed24a160bd1.png",
         "coingeckoId": "openswap-token",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
+        "symbol": "FOX",
+        "name": "FarmersOnly Token2",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x0159ed2e06ddcd46a25e74eb8e159ce666b28687/ea998506a22165fbba37ea039e68dd6f.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0007E7f456A6Bb854606f04cc16989aCFe42F2F2",
+        "symbol": "VITC",
+        "name": "Vitamin Coin",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x0007e7f456a6bb854606f04cc16989acfe42f2f2/e3a2e716931a9d57d02a8d279e3576df.png",
+        "coingeckoId": "vitamin-coin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ONE",
+        "name": "ONE",
+        "decimals": 18,
+        "chainId": "1666600000",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/hmy/734c003023531e31c636ae25d5a73172.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
         ]
     }
 ]

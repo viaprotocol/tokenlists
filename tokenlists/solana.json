@@ -402,19 +402,6 @@
         ]
     },
     {
-        "address": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
-        "symbol": "CEL",
-        "name": "Celsius (Portal)",
-        "decimals": 4,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69/logo.png",
-        "coingeckoId": "celsius-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
         "symbol": "mSOL",
         "name": "Marinade staked SOL (mSOL)",
@@ -441,19 +428,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "kiTkNc7nYAu8dLKjQFYPx3BqdzwagZGBUrcb7d4nbN5",
-        "symbol": "KI",
-        "name": "Genopets Ki",
-        "decimals": 9,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kiTkNc7nYAu8dLKjQFYPx3BqdzwagZGBUrcb7d4nbN5/logo.png",
-        "coingeckoId": "genopet-ki",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -586,9 +560,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://api.rubic.exchange/assets/solana/gq2norj1kbembp3mpfkgaumhmmmnfmy4zeyi26trcxfb/logo.png",
-        "coingeckoId": "ankr-network-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "rubic"
         ]
@@ -668,9 +641,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://api.rubic.exchange/assets/solana/ehkqvjgu48ydka4d3rivrknytjtksdos32uafxsx1yak/logo.png",
-        "coingeckoId": "ampleforth-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "rubic"
         ]
@@ -722,9 +694,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://api.rubic.exchange/assets/solana/d559hwgjygdysxpmfukxhftewutvs9sya1kxiycvogcv/logo.png",
-        "coingeckoId": "amp-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "rubic"
         ]
@@ -809,15 +780,27 @@
         ]
     },
     {
+        "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+        "symbol": "bSOL",
+        "name": "BlazeStake Staked SOL (bSOL)",
+        "decimals": 9,
+        "chainId": "-1",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png",
+        "coingeckoId": "blazestake-staked-sol",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
+        ]
+    },
+    {
         "address": "ajkpkq3nsyde1ykcbyzt7n4ak4evv9om9tzhqd3wsrc",
         "symbol": "1INCH",
         "name": "1INCH Token (Wormhole)",
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://api.rubic.exchange/assets/solana/ajkpkq3nsyde1ykcbyzt7n4ak4evv9om9tzhqd3wsrc/logo.png",
-        "coingeckoId": "1inch-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "rubic"
         ]
@@ -1149,6 +1132,19 @@
         ]
     },
     {
+        "address": "SQRNmMb9mKjjkihQS7fCmAwo3gVs1FSQBVeDZzA7CP3",
+        "symbol": "SQR",
+        "name": "Magic Square Token",
+        "decimals": 8,
+        "chainId": "-1",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SQRNmMb9mKjjkihQS7fCmAwo3gVs1FSQBVeDZzA7CP3/logo.svg",
+        "coingeckoId": "magic-square",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
+        ]
+    },
+    {
         "address": "SNSNkV9zfG5ZKWQs6x4hxvBRV6s8SqMfSGCtECDvdMd",
         "symbol": "SNS",
         "name": "SynesisOne",
@@ -1306,19 +1302,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
-        "symbol": "ROSE",
-        "name": "ROSE (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo/logo.png",
-        "coingeckoId": "rose-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -1503,6 +1486,19 @@
         "listedIn": [
             "solanalabs",
             "rubic"
+        ]
+    },
+    {
+        "address": "NGK3iHqqQkyRZUj4uhJDQqEyKKcZ7mdawWpqwMffM3s",
+        "symbol": "YAKU",
+        "name": "Yaku",
+        "decimals": 0,
+        "chainId": "-1",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EK58dp4mxsKwwuySWQW826i3fwcvUK69jPph22VUcd2H/logo.png",
+        "coingeckoId": "yaku",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
         ]
     },
     {
@@ -1754,9 +1750,8 @@
         "decimals": 9,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-        "coingeckoId": "saber-wrapped-usd-coin",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -1875,7 +1870,7 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK/logo.png",
-        "coingeckoId": "hxro-wormhole",
+        "coingeckoId": "hxro",
         "listedIn": [
             "coingecko",
             "solanalabs"
@@ -2011,19 +2006,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH",
-        "symbol": "CREAM",
-        "name": "Cream (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH/logo.png",
-        "coingeckoId": "cream-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -2172,19 +2154,6 @@
         ]
     },
     {
-        "address": "HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx",
-        "symbol": "RPL",
-        "name": "Rocket Pool (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx/logo.png",
-        "coingeckoId": "rocket-pool-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "HRhaNssoyv5tKFRcbPg69ULEbcD8DPv99GdXLcdkgc1A",
         "symbol": "ALTBULL",
         "name": "ALTBULL",
@@ -2195,19 +2164,6 @@
         "listedIn": [
             "solanalabs",
             "rubic"
-        ]
-    },
-    {
-        "address": "HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1",
-        "symbol": "MIMet",
-        "name": "Magic Internet Money (Portal from Ethereum)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1/logo.png",
-        "coingeckoId": "magic-internet-money-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -2359,19 +2315,6 @@
         ]
     },
     {
-        "address": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
-        "symbol": "LRC",
-        "name": "LoopringCoin V2 (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1/logo.png",
-        "coingeckoId": "loopringcoin-v2-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "HC9qZTgTYf12cFPaK3dK2HZJ9M47r2JenrsvQ1Ewnds8",
         "symbol": "C999",
         "name": "Cosmogol 999",
@@ -2477,19 +2420,6 @@
         "listedIn": [
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
-        "symbol": "stETH",
-        "name": "Lido Staked ETH",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png",
-        "coingeckoId": "lido-staked-ether-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -2863,19 +2793,6 @@
         ]
     },
     {
-        "address": "GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U",
-        "symbol": "UFO",
-        "name": "UFO Gaming (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U/logo.png",
-        "coingeckoId": "ufo-gaming-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "GV6n9Uow3XzMWSs8vwTCML8SvMA6ozbidaEfdPoSoraQ",
         "symbol": "SVIZ",
         "name": "Space Vizsla",
@@ -2965,19 +2882,6 @@
         "listedIn": [
             "solanalabs",
             "rubic"
-        ]
-    },
-    {
-        "address": "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY",
-        "symbol": "ZRX",
-        "name": "ZRX (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY/logo.png",
-        "coingeckoId": "0x-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -3681,32 +3585,6 @@
         ]
     },
     {
-        "address": "FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7",
-        "symbol": "gOHM",
-        "name": "Governance OHM (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7/logo.png",
-        "coingeckoId": "governance-ohm-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq",
-        "symbol": "UBXT",
-        "name": "UpBots (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq/logo.png",
-        "coingeckoId": "upbots-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "FTkj421DxbS1wajE74J34BJ5a1o9ccA97PkK6mYq9hNQ",
         "symbol": "MINECRAFT",
         "name": "Synex Coin",
@@ -3780,7 +3658,7 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png",
-        "coingeckoId": "frax-wormhole",
+        "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "solanalabs",
@@ -3888,7 +3766,7 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA/logo.png",
-        "coingeckoId": "usd-coin-wormhole-from-bsc",
+        "coingeckoId": null,
         "listedIn": [
             "solanalabs",
             "1sol"
@@ -3986,19 +3864,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK",
-        "symbol": "YGG",
-        "name": "Yield Guild Games Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK/logo.png",
-        "coingeckoId": "yield-guild-games-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -4173,9 +4038,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o/logo.png",
-        "coingeckoId": "dai-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -4382,19 +4246,6 @@
         ]
     },
     {
-        "address": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
-        "symbol": "ENJ",
-        "name": "Enjin (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq/logo.png",
-        "coingeckoId": "enjin-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "EWS2ATMt5fQk89NWLJYNRmGaNoji8MhFZkUB4DiWCCcz",
         "symbol": "SOLBERRY",
         "name": "SOLBERRY",
@@ -4460,19 +4311,6 @@
             "solanalabs",
             "1sol",
             "rubic"
-        ]
-    },
-    {
-        "address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
-        "symbol": "BAT",
-        "name": "Basic Attention Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz/logo.png",
-        "coingeckoId": "basic-attention-token-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -4574,19 +4412,6 @@
         "chainId": "-1",
         "logoURI": "http://avocadocoin.com/public/AvocadoCoin-logo-128.png",
         "coingeckoId": "avocadocoin",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs",
-        "symbol": "BNT",
-        "name": "Bancor (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs/logo.png",
-        "coingeckoId": "bancor-wormhole",
         "listedIn": [
             "coingecko",
             "solanalabs"
@@ -4873,19 +4698,6 @@
         ]
     },
     {
-        "address": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
-        "symbol": "CRO",
-        "name": "Crypto.com Coin (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA/logo.png",
-        "coingeckoId": "cronos-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz",
         "symbol": "CRP",
         "name": "CropperFinance",
@@ -5060,19 +4872,6 @@
         ]
     },
     {
-        "address": "DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km",
-        "symbol": "ICE",
-        "name": "IceToken (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km/logo.png",
-        "coingeckoId": "ice-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "Dhg9XnzJWzSQqH2aAnhPTEJHGQAkALDfD98MA499A7pa",
         "symbol": "SHIBA",
         "name": "Shibalana",
@@ -5097,32 +4896,6 @@
         "listedIn": [
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "Dg46mekhjFiKhCEG94wZyV1fsKLTyM98LeGfXPHGta7w",
-        "symbol": "ERA",
-        "name": "The Alliance of Eragard",
-        "decimals": 0,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dg46mekhjFiKhCEG94wZyV1fsKLTyM98LeGfXPHGta7w/logo.png",
-        "coingeckoId": "the-alliance-of-eragard",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5",
-        "symbol": "BTSL",
-        "name": "Bitsol Finance",
-        "decimals": 9,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5/logo.png",
-        "coingeckoId": "bitsol-finance",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -5229,19 +5002,6 @@
         "listedIn": [
             "solanalabs",
             "rubic"
-        ]
-    },
-    {
-        "address": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
-        "symbol": "TRIBE",
-        "name": "Tribe (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE/logo.png",
-        "coingeckoId": "tribe-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -5511,19 +5271,6 @@
         ]
     },
     {
-        "address": "CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm",
-        "symbol": "JOE",
-        "name": "JoeToken (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png",
-        "coingeckoId": "joe-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "CpFE715P5DnDoJj9FbCRcuyHHeTXNdRnvzNkHvq1o23U",
         "symbol": "DARC",
         "name": "DARC Token",
@@ -5610,7 +5357,7 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj/logo.png",
-        "coingeckoId": "sushi-wormhole",
+        "coingeckoId": "sushi",
         "listedIn": [
             "coingecko",
             "solanalabs",
@@ -5693,19 +5440,6 @@
         "chainId": "-1",
         "logoURI": "https://solthirsty.io/images/chug.png",
         "coingeckoId": "chug-token",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q",
-        "symbol": "MATH",
-        "name": "MATH Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q/logo.png",
-        "coingeckoId": "math-token-wormhole",
         "listedIn": [
             "coingecko",
             "solanalabs"
@@ -6056,32 +5790,6 @@
         ]
     },
     {
-        "address": "C7gENDPyayjE2iw6p55J5ELtcDYzQbe91JEhLjH2yxAR",
-        "symbol": "SRD",
-        "name": "SolRider",
-        "decimals": 6,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C7gENDPyayjE2iw6p55J5ELtcDYzQbe91JEhLjH2yxAR/logo.png",
-        "coingeckoId": "solrider",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h",
-        "symbol": "MATICet",
-        "name": "Matic (Portal from Ethereum)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h/logo.png",
-        "coingeckoId": "matic-wormhole-from-ethereum",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "C7MnWhwB4JyA21bo6wnomQA5jJtd31WoaiCSKbVTHq5n",
         "symbol": "$PDSGT",
         "name": "-PDS- Golden Token",
@@ -6320,19 +6028,6 @@
         ]
     },
     {
-        "address": "Boxch4vwBdKjZjE4hixCaoQFvv16P9vwRHTFHWbC5o6f",
-        "symbol": "BOXCH",
-        "name": "Boxch",
-        "decimals": 4,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Boxch4vwBdKjZjE4hixCaoQFvv16P9vwRHTFHWbC5o6f/logo.png",
-        "coingeckoId": "boxch",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
         "symbol": "ahBTC",
         "name": "Wrapped BTC (Allbridge from HECO)",
@@ -6507,19 +6202,6 @@
         ]
     },
     {
-        "address": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
-        "symbol": "YFI",
-        "name": "yearn.finance (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX/logo.png",
-        "coingeckoId": "yearn-finance-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
         "symbol": "abBUSD-USDC",
         "name": "Saber abBUSD-USDC LP",
@@ -6623,19 +6305,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz",
-        "symbol": "CVX",
-        "name": "Convex Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz/logo.png",
-        "coingeckoId": "convex-finance-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -6770,13 +6439,13 @@
         ]
     },
     {
-        "address": "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
-        "symbol": "SPELL",
-        "name": "Spell Token (Portal)",
-        "decimals": 8,
+        "address": "BBZbqM7RPKzncqaC26gtq6Z4dkm5ksZXib4nJYjk8L3X",
+        "symbol": "NUGGET",
+        "name": "Degen Islands NUGGET Token",
+        "decimals": 9,
         "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U/logo.png",
-        "coingeckoId": "spell-token-wormhole",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BBZbqM7RPKzncqaC26gtq6Z4dkm5ksZXib4nJYjk8L3X/logo.png",
+        "coingeckoId": "degen-nugget",
         "listedIn": [
             "coingecko",
             "solanalabs"
@@ -6902,19 +6571,6 @@
         ]
     },
     {
-        "address": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
-        "symbol": "COMP",
-        "name": "Compound (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom/logo.png",
-        "coingeckoId": "compound-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "Aw8qLRHGhMcKq7rxs5XBNCd9oe3BvoAhpNMVz7AdGmty",
         "symbol": "PANDA",
         "name": "Panda Coin",
@@ -6939,19 +6595,6 @@
         "listedIn": [
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF",
-        "symbol": "GALA",
-        "name": "Gala (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF/logo.png",
-        "coingeckoId": "gala-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -7018,19 +6661,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh",
-        "symbol": "NXM",
-        "name": "Nexus Mutual (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh/logo.png",
-        "coingeckoId": "nexus-mutual-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -7124,19 +6754,6 @@
         "listedIn": [
             "solanalabs",
             "rubic"
-        ]
-    },
-    {
-        "address": "Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ",
-        "symbol": "OHM_v1",
-        "name": "Olympus V1 (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://cloudflare-ipfs.com/ipfs/QmcDGyz7Ag6PJB7zHQt1uMnJkFjvawAGwWp2UbmoEAtpXp/",
-        "coingeckoId": "olympus-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -7379,19 +6996,6 @@
             "solanalabs",
             "1sol",
             "rubic"
-        ]
-    },
-    {
-        "address": "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe",
-        "symbol": "RGT",
-        "name": "Rari Governance Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe/logo.png",
-        "coingeckoId": "rari-governance-token-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -7896,19 +7500,6 @@
             "solanalabs",
             "1sol",
             "rubic"
-        ]
-    },
-    {
-        "address": "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8",
-        "symbol": "GT",
-        "name": "GateChainToken (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8/logo.png",
-        "coingeckoId": "gatechain-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -8694,19 +8285,6 @@
         ]
     },
     {
-        "address": "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn",
-        "symbol": "PERP",
-        "name": "Perpetual (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn/logo.png",
-        "coingeckoId": "perpetual-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "9BYwEQ3aEDmnXaF8t4mPLCfRCiGzBBVPWcZAL6KYJxRx",
         "symbol": "APHD",
         "name": "Applehead",
@@ -8717,19 +8295,6 @@
         "listedIn": [
             "solanalabs",
             "rubic"
-        ]
-    },
-    {
-        "address": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
-        "symbol": "ALICE",
-        "name": "My Neighbor Alice (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg/logo.png",
-        "coingeckoId": "my-neighbor-alice-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -8922,7 +8487,7 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv/logo.png",
-        "coingeckoId": "tether-usd-wormhole-from-bsc",
+        "coingeckoId": null,
         "listedIn": [
             "solanalabs",
             "1sol"
@@ -9007,26 +8572,13 @@
         ]
     },
     {
-        "address": "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN",
-        "symbol": "FTMet",
-        "name": "Fantom Token (Portal from Ethereum)",
-        "decimals": 8,
+        "address": "8c71AvjQeKKeWRe8jtTGG1bJ2WiYXQdbjqFbUfhHgSVk",
+        "symbol": "$GARY",
+        "name": "GARY",
+        "decimals": 9,
         "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN/logo.png",
-        "coingeckoId": "fantom-token-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
-        "symbol": "SNX",
-        "name": "Synthetix Network Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56/logo.png",
-        "coingeckoId": "synthetix-network-token-wormhole",
+        "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/GARY_coin.jpg",
+        "coingeckoId": "gary",
         "listedIn": [
             "coingecko",
             "solanalabs"
@@ -9098,19 +8650,6 @@
             "solanalabs",
             "1sol",
             "rubic"
-        ]
-    },
-    {
-        "address": "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
-        "symbol": "ILV",
-        "name": "Illuvium (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g/logo.png",
-        "coingeckoId": "illuvium-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -9627,19 +9166,6 @@
         ]
     },
     {
-        "address": "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs",
-        "symbol": "CRV",
-        "name": "Curve DAO Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs/logo.png",
-        "coingeckoId": "curve-dao-token-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "7fCzz6ZDHm4UWC9Se1RPLmiyeuQ6kStxpcAP696EuE1E",
         "symbol": "SHBL",
         "name": "Shoebill Coin",
@@ -9687,9 +9213,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png",
-        "coingeckoId": "huobi-btc-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -9729,9 +9254,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
-        "coingeckoId": "husd-stablecoin-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -9840,19 +9364,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "7Jimij6hkEjjgmf3HamW44d2Cf5kj2gHnfCDDPGxWut",
-        "symbol": "GIG",
-        "name": "GIGCO",
-        "decimals": 9,
-        "chainId": "-1",
-        "logoURI": "https://gigco.com/images/new-gqo-logo.png",
-        "coingeckoId": "gigco",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -10299,19 +9810,6 @@
         ]
     },
     {
-        "address": "6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE",
-        "symbol": "SOS",
-        "name": "SOS (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE/logo.png",
-        "coingeckoId": "opendao-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "6PBEGe6YaKmDPw1Ebza823SuvQWQgGZ2NTANBgaKdxHq",
         "symbol": "GOLEM",
         "name": "Golem",
@@ -10357,7 +9855,7 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
-        "coingeckoId": "frax-share-wormhole",
+        "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
             "solanalabs"
@@ -10452,19 +9950,6 @@
         "chainId": "-1",
         "logoURI": "https://www.protorealitygames.com/images/PRGC_Token.png",
         "coingeckoId": "protoreality-games",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh",
-        "symbol": "KEEP",
-        "name": "Keep Network (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh/logo.png",
-        "coingeckoId": "keep-network-wormhole",
         "listedIn": [
             "coingecko",
             "solanalabs"
@@ -10727,19 +10212,6 @@
         ]
     },
     {
-        "address": "5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo",
-        "symbol": "SWAG",
-        "name": "Swag Token (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo/logo.png",
-        "coingeckoId": "swag-finance-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "5gs8nf4wojB5EXgDUWNLwXpknzgV2YWDhveAeBZpVLbp",
         "symbol": "XTAG",
         "name": "xHashtag Token",
@@ -10834,19 +10306,6 @@
         ]
     },
     {
-        "address": "5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6",
-        "symbol": "LUA",
-        "name": "LuaToken (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6/logo.png",
-        "coingeckoId": "luatoken-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "5WWRMYPchxgh3VmYGPqoq2kfzCtBLxXB9vFH2TeFeR9m",
         "symbol": "TPC",
         "name": "TOYPOODLE COIN",
@@ -10871,32 +10330,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "5U93vfnWJ4NKDhm7k1X7J6D15nJim2odivn9MmfCWwPU",
-        "symbol": "CHUM",
-        "name": "Chum Coin",
-        "decimals": 9,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5U93vfnWJ4NKDhm7k1X7J6D15nJim2odivn9MmfCWwPU/logo.png",
-        "coingeckoId": "chum-coin",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
-        "address": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
-        "symbol": "CHZ",
-        "name": "Chiliz (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG/logo.png",
-        "coingeckoId": "chiliz-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -10932,10 +10365,23 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2/logo.png",
-        "coingeckoId": "binance-usd-wormhole-from-bsc",
+        "coingeckoId": null,
         "listedIn": [
             "solanalabs",
             "1sol"
+        ]
+    },
+    {
+        "address": "5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy",
+        "symbol": "HDG",
+        "name": "Hedge Token",
+        "decimals": 9,
+        "chainId": "-1",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy/logo.png",
+        "coingeckoId": "hedge-protocol",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
         ]
     },
     {
@@ -11276,19 +10722,6 @@
         ]
     },
     {
-        "address": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
-        "symbol": "SLP",
-        "name": "Smooth Love Potion (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4/logo.png",
-        "coingeckoId": "smooth-love-potion-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "4hJ6sjwmsvvFag6TKL97yhWiBSDX9BABWoiXgb3EPXxB",
         "symbol": "GTON",
         "name": "Graviton",
@@ -11561,19 +10994,6 @@
         ]
     },
     {
-        "address": "4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP",
-        "symbol": "DAIpo",
-        "name": "Dai Stablecoin (Portal from Polygon)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP/logo.png",
-        "coingeckoId": "dai-stablecoin-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "4D2umdRkmjgsFj4Vf9foJGMkTjNQ41jXaGuAL3xb4dQj",
         "symbol": "FLX",
         "name": "Fluxx",
@@ -11674,9 +11094,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",
-        "coingeckoId": "usdk-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -11780,9 +11199,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://api.rubic.exchange/assets/solana/3ucmisnkcnkpe1pgq5ggpcbv6dxgvuy16tmmue1wpg9x/logo.png",
-        "coingeckoId": "aleph-im-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "rubic"
         ]
@@ -12014,19 +11432,6 @@
         ]
     },
     {
-        "address": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
-        "symbol": "KP3R",
-        "name": "Keep3rV1 (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq/logo.png",
-        "coingeckoId": "keep3rv1-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "3Ztt53vwGhQGoEp3n1RjSu4CFnGRfqzwo6L8KN8gmXfd",
         "symbol": "METAS",
         "name": "METASEER",
@@ -12157,19 +11562,6 @@
         ]
     },
     {
-        "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
-        "symbol": "WBTC",
-        "name": "Wrapped BTC (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png",
-        "coingeckoId": "wrapped-btc-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "3LCSAo9Hf64cxtPbArLog3PKkwGkZFN7Ttz1zLdPWPTS",
         "symbol": "MORN",
         "name": "GoodMorning Token",
@@ -12252,19 +11644,6 @@
         ]
     },
     {
-        "address": "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX",
-        "symbol": "TOKE",
-        "name": "Tokemak (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX/logo.png",
-        "coingeckoId": "tokemak-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
-        ]
-    },
-    {
         "address": "3DHPqxdMXogNNnpqBMF8N4Zs4dn1WR31H7UjWq6FExwG",
         "symbol": "DAWG",
         "name": "DAWG",
@@ -12276,19 +11655,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z",
-        "symbol": "SXP",
-        "name": "Swipe (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z/logo.png",
-        "coingeckoId": "swipe-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -12338,9 +11704,8 @@
         "decimals": 8,
         "chainId": "-1",
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
-        "coingeckoId": "binance-usd-wormhole",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "solanalabs",
             "1sol"
         ]
@@ -12400,6 +11765,19 @@
         ]
     },
     {
+        "address": "2zzC22UBgJGCYPdFyo7GDwz7YHq5SozJc1nnBqLU8oZb",
+        "symbol": "1SP",
+        "name": "1SPACE",
+        "decimals": 9,
+        "chainId": "-1",
+        "logoURI": "https://1space.me/images/1SP_logo.png",
+        "coingeckoId": "onespace",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
+        ]
+    },
+    {
         "address": "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX",
         "symbol": "LINK",
         "name": "ChainLink Token (Portal)",
@@ -12438,19 +11816,6 @@
             "coingecko",
             "solanalabs",
             "1sol"
-        ]
-    },
-    {
-        "address": "2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD",
-        "symbol": "HGET",
-        "name": "Hedget (Portal)",
-        "decimals": 8,
-        "chainId": "-1",
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD/logo.png",
-        "coingeckoId": "hedget-wormhole",
-        "listedIn": [
-            "coingecko",
-            "solanalabs"
         ]
     },
     {
@@ -12760,6 +12125,19 @@
         ]
     },
     {
+        "address": "2Giihhh4rD5QMF49EExf5k8qbxftaqRWzLi4tS6YcrvR",
+        "symbol": "DGOLD",
+        "name": "Degen Gold",
+        "decimals": 9,
+        "chainId": "-1",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Giihhh4rD5QMF49EExf5k8qbxftaqRWzLi4tS6YcrvR/logo.png",
+        "coingeckoId": "degen-gold",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
+        ]
+    },
+    {
         "address": "2FkuyFr3N9RzvVahPqzXKfa8H9KhYpChwQZSeMKkkVPJ",
         "symbol": "SMBT",
         "name": "Monke Token",
@@ -12905,6 +12283,19 @@
             "coingecko",
             "solanalabs",
             "1sol"
+        ]
+    },
+    {
+        "address": "23WuycvPjEuzJTsBPBZqnbFZFcBtBKAMTowUDHwagkuD",
+        "symbol": "GEAR",
+        "name": "Starbots GEAR",
+        "decimals": 0,
+        "chainId": "-1",
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/23WuycvPjEuzJTsBPBZqnbFZFcBtBKAMTowUDHwagkuD/logo.png",
+        "coingeckoId": "starbots-gear",
+        "listedIn": [
+            "coingecko",
+            "solanalabs"
         ]
     },
     {

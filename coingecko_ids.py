@@ -9,6 +9,7 @@ def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
     chain_id_to_coingecko_platform = {
         "1284": "moonbeam",
         "361": "theta",
+        "592": "astar",
         "70": "hoo-smart-chain",
         "122": "fuse",
         "42262": "oasis",
@@ -21,6 +22,7 @@ def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
         "250": "fantom",
         "88": "tomochain",
         "82": "meter",
+        "1818": "cube-network",
         "42220": "celo",
         "10": "optimistic-ethereum",
         "137": "polygon-pos",
@@ -36,6 +38,7 @@ def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
         "32659": "fusion-network",
         "40": "telos",
         "-1": "solana",
+        "9001": "evmos"
     }
     coingecko_platform_to_chain_id = {v: k for k, v in chain_id_to_coingecko_platform.items()}
     coins = httpx.get('https://api.coingecko.com/api/v3/coins/list', params={'include_platform': True}).json()
