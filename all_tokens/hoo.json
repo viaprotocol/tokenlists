@@ -85,13 +85,14 @@
     },
     {
         "symbol": "PUD",
-        "name": "PuddingSwap Token",
+        "name": "PuddingSwap",
         "address": "0xbE8D16084841875a1f398E6C3eC00bBfcbFa571b",
         "decimals": "18",
         "chainId": 70,
-        "logoURI": "https://elk.finance/tokens/logos/hoo/0xbE8D16084841875a1f398E6C3eC00bBfcbFa571b/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/23528/thumb/puddingswap.jpg?1644374687",
         "coingeckoId": "puddingswap",
         "listedIn": [
+            "coingecko",
             "elkfinance"
         ]
     },
@@ -425,9 +426,10 @@
         "address": "0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87",
         "decimals": "18",
         "chainId": 70,
-        "logoURI": "https://elk.finance/tokens/logos/hoo/0x3EFF9D389D13D6352bfB498BCF616EF9b1BEaC87/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/23537/thumb/hooo.jpg?1644389420",
         "coingeckoId": "wrapped-hoo",
         "listedIn": [
+            "coingecko",
             "elkfinance"
         ]
     },

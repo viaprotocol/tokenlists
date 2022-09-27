@@ -1,13 +1,14 @@
 [
     {
-        "symbol": "LTC",
-        "name": "LTC",
+        "symbol": "LTCK",
+        "name": "OEC LTC",
         "address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ltc.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/18582/thumb/ltck.png?1632493721",
         "coingeckoId": "oec-ltc",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -33,9 +34,10 @@
         "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_okb.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/4463/thumb/WeChat_Image_20220118095654.png?1642471050",
         "coingeckoId": "okb",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -48,22 +50,37 @@
         "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdk.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/8824/thumb/usdk.png?1563418517",
         "coingeckoId": "usdk",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "elkfinance"
         ]
     },
     {
+        "symbol": "FLUX",
+        "name": "Flux Protocol",
+        "address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://assets.coingecko.com/coins/images/15002/thumb/logo.dabc411c.png?1619402947",
+        "coingeckoId": "flux-protocol",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
         "symbol": "USDC",
-        "name": "USDC",
+        "name": "USD Coin",
         "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -141,14 +158,28 @@
         ]
     },
     {
-        "symbol": "ETH",
-        "name": "ETH",
+        "symbol": "PLATO",
+        "name": "Plato Game",
+        "address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://assets.coingecko.com/coins/images/24725/thumb/16085.png?1648700698",
+        "coingeckoId": "plato-game",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ETHK",
+        "name": "OEC ETH",
         "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/18537/thumb/0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c.png?1632304986",
         "coingeckoId": "oec-eth",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -251,13 +282,14 @@
     },
     {
         "symbol": "WOKT",
-        "name": "Wrapped OKExChain",
+        "name": "Wrapped OKT",
         "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/okt.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/17575/thumb/WeChat_Image_20220118095654.png?1642471082",
         "coingeckoId": "wrapped-okt",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -293,13 +325,14 @@
     },
     {
         "symbol": "CHE",
-        "name": "CherrySwapToken",
+        "name": "CherrySwap",
         "address": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x8179d97eb6488860d816e3ecafe694a4153f216c.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/17502/thumb/cherry.PNG?1628036541",
         "coingeckoId": "cherryswap",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance"
         ]
@@ -358,14 +391,28 @@
         ]
     },
     {
+        "symbol": "JF",
+        "name": "Jswap Finance",
+        "address": "0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://assets.coingecko.com/coins/images/22263/thumb/jswap.PNG?1641335953",
+        "coingeckoId": "jswap-finance",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CELT",
         "name": "Celestial",
         "address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1653317525254_8707126684867288.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18683/thumb/celt.png?1632966755",
         "coingeckoId": "celestial",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance",
             "elkfinance"
@@ -386,14 +433,15 @@
         ]
     },
     {
-        "symbol": "BTC",
-        "name": "BTC",
+        "symbol": "BTCK",
+        "name": "OEC BTC",
         "address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/18527/thumb/11134.png?1632279146",
         "coingeckoId": "oec-btc",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -414,14 +462,15 @@
         ]
     },
     {
-        "symbol": "FIL",
-        "name": "FIL",
+        "symbol": "FILK",
+        "name": "OEC FIL",
         "address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/18607/thumb/filk.png?1632655922",
         "coingeckoId": "oec-fil",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -443,13 +492,14 @@
     },
     {
         "symbol": "USDT",
-        "name": "USDT",
+        "name": "Tether",
         "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
-        "decimals": "18",
+        "decimals": "6",
         "chainId": 66,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707",
         "coingeckoId": "tether",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -458,13 +508,14 @@
     },
     {
         "symbol": "BUSD",
-        "name": "Binance-Peg BUSD Token",
+        "name": "Binance USD",
         "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x332730a4f6e03d9c55829435f10360e13cfa41ff.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
         "coingeckoId": "binance-usd",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance",
             "elkfinance"
@@ -567,16 +618,30 @@
     },
     {
         "symbol": "BCHK",
-        "name": "BCHK",
+        "name": "OEC BCH",
         "address": "0x18D103b7066AEedb6005B78A462Ef9027329b1EA",
         "decimals": "18",
         "chainId": 66,
-        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x18d103b7066aeedb6005b78a462ef9027329b1ea.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18602/thumb/bchk.png?1632654525",
         "coingeckoId": "oec-bch",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "RACA",
+        "name": "Radio Caca",
+        "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://assets.coingecko.com/coins/images/17841/thumb/ez44_BSs_400x400.jpg?1629464170",
+        "coingeckoId": "radio-caca",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {

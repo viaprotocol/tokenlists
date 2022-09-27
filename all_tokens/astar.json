@@ -12,14 +12,39 @@
         ]
     },
     {
+        "symbol": "WMATIC",
+        "name": "Wrapped Matic",
+        "address": "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
+        "decimals": "18",
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/14073/thumb/matic.png?1628852392",
+        "coingeckoId": "wmatic",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "MUUU",
+        "name": "Muuu Finance",
+        "address": "0xc5BcAC31cf55806646017395AD119aF2441Aee37",
+        "decimals": "18",
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/26052/thumb/IMG_0551.PNG?1655451166",
+        "coingeckoId": "muuu",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "LAY",
-        "name": "LAY",
+        "name": "Starlay Finance",
         "address": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060",
+        "logoURI": "https://assets.coingecko.com/coins/images/25795/thumb/WKBrkX4y_400x400.png?1653920060",
         "coingeckoId": "starlay-finance",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -37,49 +62,77 @@
     },
     {
         "symbol": "WBTC",
-        "name": "WBTC",
+        "name": "Wrapped Bitcoin",
         "address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
         "decimals": "8",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
-        "symbol": "DOT",
-        "name": "DOT",
+        "symbol": "WDOT",
+        "name": "WDOT",
         "address": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-        "decimals": "10",
+        "decimals": "16",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644",
+        "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1659407717",
         "coingeckoId": "wdot",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "ARSW",
-        "name": "ARSW",
+        "name": "ArthSwap",
         "address": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/26048/small/arsw.png?1655440190",
+        "logoURI": "https://assets.coingecko.com/coins/images/26048/thumb/arsw.png?1655440190",
         "coingeckoId": "arthswap",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
+        "symbol": "ORU",
+        "name": "Orcus ORU",
+        "address": "0xCdB32eEd99AA19D39e5d6EC45ba74dC4afeC549F",
+        "decimals": "18",
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/25220/thumb/sdc_ctdM_400x400.jpg?1650891171",
+        "coingeckoId": "orcus-oru",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "VERSA",
+        "name": "Versa",
+        "address": "0xB9dEDB74bd7b298aBf76b9dFbE5b62F0aB05a57b",
+        "decimals": "18",
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/25008/thumb/versa-versa.png?1649769967",
+        "coingeckoId": "versa",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WASTR",
-        "name": "WASTR",
+        "name": "Wrapped Astar",
         "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/22617/small/astr.png?1642314057",
+        "logoURI": "https://assets.coingecko.com/coins/images/26638/thumb/astar.jpeg?1659336096",
         "coingeckoId": "wrapped-astar",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -96,110 +149,143 @@
         ]
     },
     {
+        "symbol": "ZLK",
+        "name": "Zenlink Network",
+        "address": "0x998082C488e548820F970Df5173bD2061Ce90635",
+        "decimals": "18",
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1637824309",
+        "coingeckoId": "zenlink-network-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "STAR",
+        "name": "StarSwap",
+        "address": "0x8489f4554790F5A103F2B0398537eAEe68B73884",
+        "decimals": "18",
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/26624/thumb/star-swap.png?1659319183",
+        "coingeckoId": "starswap",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "WETH",
         "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
         "coingeckoId": "weth",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "SDN",
-        "name": "SDN",
+        "name": "Wrapped Shiden Network",
         "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/18027/small/tFOtjrr3_400x400.png?1630291767",
+        "logoURI": "https://assets.coingecko.com/coins/images/24817/thumb/sdn.png?1649035372",
         "coingeckoId": "wrapped-shiden-network",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "BAI",
-        "name": "BAI",
+        "name": "BAI Stablecoin",
         "address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/25385/small/BAI_Token_Logo.png?1651633359",
+        "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1651633359",
         "coingeckoId": "bai-stablecoin",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "USDC",
-        "name": "USDC",
+        "name": "USD Coin",
         "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
         "decimals": "6",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "NIKA",
-        "name": "NIKA",
+        "name": "Alnair Finance NIKA",
         "address": "0x6Df98E5fBfF3041105cB986B9D44c572a43Fcd22",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/25794/small/image_%281%29.png?1653919697",
+        "logoURI": "https://assets.coingecko.com/coins/images/25794/thumb/image_%281%29.png?1653919697",
         "coingeckoId": "alnair-finance-nika",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "DAI",
-        "name": "DAI",
+        "name": "Dai",
         "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png?1636636734",
         "coingeckoId": "dai",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "BUSD",
-        "name": "BUSD",
+        "name": "Binance USD",
         "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
-        "decimals": "18",
+        "decimals": "6",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+        "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
         "coingeckoId": "binance-usd",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "JPYC",
-        "name": "JPYC",
+        "name": "JPY Coin",
         "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492",
+        "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/WoZ8rruL_400x400.png?1655102508",
         "coingeckoId": "jpy-coin",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
     {
         "symbol": "USDT",
-        "name": "USDT",
+        "name": "Tether",
         "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
         "decimals": "6",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707",
         "coingeckoId": "tether",
         "listedIn": [
+            "coingecko",
             "xyfinance"
         ]
     },
@@ -217,14 +303,27 @@
     },
     {
         "symbol": "OUSD",
-        "name": "OUSD",
+        "name": "Origin Dollar",
         "address": "0x29F6e49c6E3397C3A84F715885F9F233A441165C",
         "decimals": "18",
         "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/12589/small/ousd-logo-200x200.png?1600943287",
+        "logoURI": "https://assets.coingecko.com/coins/images/12589/thumb/ousd-logo-200x200.png?1600943287",
         "coingeckoId": "origin-dollar",
         "listedIn": [
+            "coingecko",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "KGL",
+        "name": "Kagla Finance",
+        "address": "0x257f1a047948f73158DaDd03eB84b34498bCDc60",
+        "decimals": "18",
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/25789/thumb/1USwzz6C_400x400.png?1653890581",
+        "coingeckoId": "kagla-finance",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

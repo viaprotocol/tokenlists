@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "symbol": "EVMOS",
+        "name": "Evmos",
+        "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+        "decimals": "18",
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/24023/thumb/evmos.png?1653958927",
+        "coingeckoId": "evmos",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
+        "decimals": "6",
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    }
+]

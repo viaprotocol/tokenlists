@@ -36,14 +36,27 @@
         ]
     },
     {
+        "symbol": "GIN",
+        "name": "Gin Finance",
+        "address": "0xe48703F5AdfE59d271D951c2E602F654B86736E7",
+        "decimals": "18",
+        "chainId": 288,
+        "logoURI": "https://assets.coingecko.com/coins/images/25785/thumb/logo-04.png?1653882271",
+        "coingeckoId": "gin-finance",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "OMG",
         "name": "OMG Network",
         "address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639128976536_02180437769771748.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1591167168",
         "coingeckoId": "omisego",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -53,9 +66,10 @@
         "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
         "decimals": "8",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639129132128_3891051687439073.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -85,25 +99,27 @@
     },
     {
         "symbol": "BOBA",
-        "name": "Boba Token",
+        "name": "Boba Network",
         "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639130528284_184421563689809.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576",
         "coingeckoId": "boba-network",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
     {
         "symbol": "SHIBUI",
-        "name": "Shibui",
+        "name": "Shibui DAO",
         "address": "0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/24871/thumb/CoinGecko.png?1649214169",
         "coingeckoId": "shibui-dao",
         "listedIn": [
+            "coingecko",
             "oolongswap"
         ]
     },
@@ -113,9 +129,10 @@
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640068479467_666268388062502.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
         "coingeckoId": "weth",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -245,9 +262,10 @@
         "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
         "decimals": "6",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126999624_564648928450491.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -265,13 +283,14 @@
     },
     {
         "symbol": "KYO",
-        "name": "Koyo Token",
+        "name": "K y ",
         "address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x618CC6549ddf12de637d46CDDadaFC0C2951131C/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/25801/thumb/logo.png?1653970997",
         "coingeckoId": "koyo",
         "listedIn": [
+            "coingecko",
             "oolongswap"
         ]
     },
@@ -281,9 +300,10 @@
         "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
         "decimals": "6",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639128907722_5976524470347457.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707",
         "coingeckoId": "tether",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -293,9 +313,10 @@
         "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126902514_02776739497922076.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/20637/thumb/Capture.PNG?1637427078",
         "coingeckoId": "oolongswap",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -325,13 +346,14 @@
     },
     {
         "symbol": "BRE",
-        "name": "Brewery",
+        "name": "Boba Brewery",
         "address": "0x3A93bD0fA10050d206370eeA53276542A105C885",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x3A93bD0fA10050d206370eeA53276542A105C885/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/24953/thumb/bre.png?1649507380",
         "coingeckoId": "boba-brewery",
         "listedIn": [
+            "coingecko",
             "oolongswap"
         ]
     },
@@ -353,9 +375,10 @@
         "address": "0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7",
         "decimals": "18",
         "chainId": 288,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126085764_6186599163502424.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/20341/thumb/K4orzzy.png?1636941544",
         "coingeckoId": "bobadoge",
         "listedIn": [
+            "coingecko",
             "openocean",
             "oolongswap"
         ]
