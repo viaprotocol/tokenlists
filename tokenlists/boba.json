@@ -1,155 +1,24 @@
 [
     {
-        "address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
-        "symbol": "OMG",
-        "name": "OMG Network",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639128976536_02180437769771748.png",
-        "coingeckoId": "omisego",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
-        "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
-        "decimals": 8,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639129132128_3891051687439073.png",
-        "coingeckoId": "wrapped-bitcoin",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
-        "symbol": "BOBA",
-        "name": "Boba Token",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639130528284_184421563689809.png",
-        "coingeckoId": "boba-network",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b",
-        "symbol": "SHIBUI",
-        "name": "Shibui",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b/logo.png",
-        "coingeckoId": "shibui-dao",
-        "listedIn": [
-            "coingecko",
-            "oolongswap"
-        ]
-    },
-    {
-        "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-        "symbol": "WETH",
-        "name": "WETH",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1640068479467_666268388062502.png",
-        "coingeckoId": "weth",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
-        "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126999624_564648928450491.png",
-        "coingeckoId": "usd-coin",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
-        "symbol": "KYO",
-        "name": "Koyo Token",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x618CC6549ddf12de637d46CDDadaFC0C2951131C/logo.png",
-        "coingeckoId": "koyo",
-        "listedIn": [
-            "coingecko",
-            "oolongswap"
-        ]
-    },
-    {
-        "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
-        "symbol": "USDT",
-        "name": "Tether",
-        "decimals": 6,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639128907722_5976524470347457.png",
-        "coingeckoId": "tether",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
-        "symbol": "OLO",
-        "name": "OolongSwap",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://cloudstorage.openocean.finance/images/1639126902514_02776739497922076.png",
-        "coingeckoId": "oolongswap",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "address": "0x3A93bD0fA10050d206370eeA53276542A105C885",
-        "symbol": "BRE",
-        "name": "Brewery",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x3A93bD0fA10050d206370eeA53276542A105C885/logo.png",
-        "coingeckoId": "boba-brewery",
-        "listedIn": [
-            "coingecko",
-            "oolongswap"
-        ]
-    },
-    {
-        "address": "0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7",
-        "symbol": "BDoge",
+        "symbol": "BDOGE",
         "name": "BobaDoge",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/logo.png",
+        "address": "0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7",
+        "decimals": "18",
+        "chainId": 288,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1639126085764_6186599163502424.png",
         "coingeckoId": "bobadoge",
         "listedIn": [
-            "coingecko",
             "openocean",
             "oolongswap"
         ]
     },
     {
-        "address": "0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024",
         "symbol": "BORING",
         "name": "BoringDAO",
-        "decimals": 18,
-        "chainId": "288",
-        "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024/logo.png",
+        "address": "0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024",
+        "decimals": "18",
+        "chainId": 288,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1639130607074_5945734923066532.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",

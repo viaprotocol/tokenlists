@@ -1,10 +1,10 @@
 [
     {
-        "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
         "symbol": "WETH",
         "name": "Wrapped Ether",
-        "decimals": 18,
-        "chainId": "42",
+        "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+        "decimals": "18",
+        "chainId": 42,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png",
         "coingeckoId": null,
         "listedIn": [
@@ -13,11 +13,11 @@
         ]
     },
     {
-        "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
         "symbol": "MKR",
         "name": "Maker",
-        "decimals": 18,
-        "chainId": "42",
+        "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
+        "decimals": "18",
+        "chainId": 42,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png",
         "coingeckoId": null,
         "listedIn": [
@@ -26,12 +26,12 @@
         ]
     },
     {
-        "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
         "symbol": "DAI",
         "name": "Dai Stablecoin",
-        "decimals": 18,
-        "chainId": "42",
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg",
+        "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
@@ -39,11 +39,11 @@
         ]
     },
     {
-        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
         "symbol": "UNI",
         "name": "Uniswap",
-        "decimals": 18,
-        "chainId": "42",
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "decimals": "18",
+        "chainId": 42,
         "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
         "coingeckoId": null,
         "listedIn": [

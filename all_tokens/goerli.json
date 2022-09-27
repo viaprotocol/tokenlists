@@ -1,0 +1,40 @@
+[
+    {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "uniswap",
+            "sushiswap"
+        ]
+    },
+    {
+        "symbol": "SUSHI",
+        "name": "SushiToken",
+        "address": "0x5457Cc9B34eA486eB8d3286329F3536f71fa8A8B",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap"
+        ]
+    },
+    {
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+        "coingeckoId": null,
+        "listedIn": [
+            "uniswap",
+            "sushiswap"
+        ]
+    }
+]

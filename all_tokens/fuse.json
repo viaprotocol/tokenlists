@@ -1,0 +1,491 @@
+[
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+        "decimals": "6",
+        "chainId": 122,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "fDoge",
+        "name": "Fuse Doge",
+        "address": "0xebB82851b8e1348Cc774442735B710b4Cd105210",
+        "decimals": "9",
+        "chainId": 122,
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0xebB82851b8e1348Cc774442735B710b4Cd105210/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "agEUR",
+        "name": "agEUR",
+        "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": "elk-finance",
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "OLE",
+        "name": "OpenLeverage",
+        "address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://openleverage.finance/brandassets/logo256x256.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WETH (Deprecated)",
+        "name": "Wrapped Ether on Fuse",
+        "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap"
+        ]
+    },
+    {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99.jpg",
+        "coingeckoId": "weth",
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "tGod",
+        "name": "TigerGod",
+        "address": "0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0xFe4D5E383BEaA6D2357Ce7BA9883019B760Ad134/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
+        "decimals": "6",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10.jpg",
+        "coingeckoId": "tether",
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BTCBR",
+        "name": "BitcoinBR",
+        "address": "0xE57425F1598f9b0d6219706b77f4b3DA573a3695",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xe57425f1598f9b0d6219706b77f4b3da573a3695/5e83520e95efd3df7e6a043500ddda92.png",
+        "coingeckoId": "bitcoin-br",
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fuse/assets/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DAI",
+        "name": "Dai Stablecoin",
+        "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "SUSHI",
+        "name": "Sushi Token",
+        "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "oneFUSE",
+        "name": "oneFUSE on Fuse",
+        "address": "0x8A5eE71Cd4Db6b7ffdCE37313006e48FaD6ADdB0",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap"
+        ]
+    },
+    {
+        "symbol": "DELTA",
+        "name": "DeltaFuse",
+        "address": "0x7ec73806F81B4044D64416468C4b05688f38E365",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x7ec73806F81B4044D64416468C4b05688f38E365/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "OM",
+        "name": "MANTRA DAO",
+        "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/om.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BNB",
+        "name": "BNB",
+        "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg",
+        "coingeckoId": "wbnb",
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BUSD",
+        "name": "Binance USD on Fuse",
+        "address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png",
+        "coingeckoId": "binance-usd",
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
+        "decimals": "6",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5.jpg",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ELON",
+        "name": "Dogelon on Fuse",
+        "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap"
+        ]
+    },
+    {
+        "symbol": "atLUNA",
+        "name": "Luna Terra",
+        "address": "0x588e24DEd8f850b14BB2e62E9c50A7Cd5Ee13Da9",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/luna.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap"
+        ]
+    },
+    {
+        "symbol": "G$",
+        "name": "GoodDollar",
+        "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+        "decimals": "2",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "KNC",
+        "name": "Kyber Network Crystal",
+        "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/knc.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ISWT",
+        "name": "In Seth We Trust",
+        "address": "0x42E44f16D2183d7eD27C501b04F29084eF4C2D24",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x42E44f16D2183d7eD27C501b04F29084eF4C2D24/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "GRIM",
+        "name": "GrimaceCoin",
+        "address": "0x427C995a0623157a3c1c6b8b86410B5B3A26061B",
+        "decimals": "9",
+        "chainId": 122,
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x427C995a0623157a3c1c6b8b86410B5B3A26061B/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "VOLT",
+        "name": "VoltToken",
+        "address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4/af184e8935d0d8909b35cc37b2979552.png",
+        "coingeckoId": "fusefi",
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
+        "decimals": "8",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d.jpg",
+        "coingeckoId": "wrapped-bitcoin",
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DEXT",
+        "name": "DEXTools",
+        "address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dext.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BIFI",
+        "name": "beefy.finance",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png",
+        "coingeckoId": "beefy-finance",
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "fUSD",
+        "name": "Fuse Dollar",
+        "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fuseusd.jpg",
+        "coingeckoId": "fuse-dollar",
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "anyWFUSE",
+        "name": "Wrapped Fuse",
+        "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "atUST",
+        "name": "UST Terra",
+        "address": "0x0D58a44be3dCA0aB449965dcc2c46932547Fea2f",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/ust.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap"
+        ]
+    },
+    {
+        "symbol": "WFUSE",
+        "name": "Wrapped Fuse",
+        "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg",
+        "coingeckoId": "fuse-network-token",
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "LINK",
+        "name": "ChainLink Token",
+        "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "GRT",
+        "name": "Graph Token",
+        "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "fuseswap",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "FUSE",
+        "name": "FUSE",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": "18",
+        "chainId": 122,
+        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/fuse/6342e1cc4646e22d1e91956fdee942eb.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    }
+]

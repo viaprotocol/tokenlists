@@ -1,11 +1,11 @@
 [
     {
-        "address": "0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00",
         "symbol": "SFI",
         "name": "Spice",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://elk.finance/tokens/logos/kcc/0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00/logo.png",
+        "address": "0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "mojitoswap",
@@ -13,12 +13,12 @@
         ]
     },
     {
-        "address": "0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF",
         "symbol": "COOHA",
-        "name": "COOHA",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://assets.coingecko.com/coins/images/23894/small/fjPuciCc_400x400.jpg?1645607690",
+        "name": "CoolHash",
+        "address": "0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": null,
         "coingeckoId": "coolmining",
         "listedIn": [
             "mojitoswap",
@@ -26,12 +26,12 @@
         ]
     },
     {
+        "symbol": "BABYDOGE",
+        "name": "BABYDOGE Token",
         "address": "0xb2c22A9fb4FC02eb9D1d337655Ce079a04a526C7",
-        "symbol": "MULTI",
-        "name": "MULTI",
-        "decimals": 9,
-        "chainId": "321",
-        "logoURI": "https://assets.coingecko.com/coins/images/22087/small/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
+        "decimals": "9",
+        "chainId": 321,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "mojitoswap",
@@ -39,12 +39,12 @@
         ]
     },
     {
-        "address": "0xDAe6c2A48BFAA66b43815c5548b10800919c993E",
         "symbol": "APE",
-        "name": "APE",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455",
+        "name": "APECOIN",
+        "address": "0xDAe6c2A48BFAA66b43815c5548b10800919c993E",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "mojitoswap",
@@ -52,12 +52,12 @@
         ]
     },
     {
-        "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
         "symbol": "USDC",
         "name": "USDC",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://elk.finance/tokens/logos/kcc/0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430/logo.png",
+        "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "xyfinance",
@@ -65,12 +65,12 @@
         ]
     },
     {
-        "address": "0x8367B781316eDb622DB3847f863e610edf1f4a20",
         "symbol": "SAX",
-        "name": "SAX",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://cdn.jsdelivr.net/gh/MojitoFinance/mjtTokenList@master/sax.png",
+        "name": "IdleStone age Token",
+        "address": "0x8367B781316eDb622DB3847f863e610edf1f4a20",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": null,
         "coingeckoId": "sax-token",
         "listedIn": [
             "mojitoswap",
@@ -78,12 +78,12 @@
         ]
     },
     {
-        "address": "0x6665D66aFA48F527d86623723342CfA258cB8666",
-        "symbol": "KuDo",
+        "symbol": "KUDO",
         "name": "KuDoge",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://elk.finance/tokens/logos/kcc/0x6665D66aFA48F527d86623723342CfA258cB8666/logo.png",
+        "address": "0x6665D66aFA48F527d86623723342CfA258cB8666",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": null,
         "coingeckoId": "kudoge",
         "listedIn": [
             "mojitoswap",
@@ -91,12 +91,12 @@
         ]
     },
     {
+        "symbol": "KCS",
+        "name": "KCS Token",
         "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
-        "symbol": "WKCS",
-        "name": "WKCS",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://elk.finance/tokens/logos/kcc/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": null,
         "coingeckoId": "wrapped-kcs",
         "listedIn": [
             "mojitoswap",
@@ -105,12 +105,12 @@
         ]
     },
     {
-        "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
         "symbol": "USDT",
         "name": "USDT",
-        "decimals": 18,
-        "chainId": "321",
-        "logoURI": "https://elk.finance/tokens/logos/kcc/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48/logo.png",
+        "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+        "decimals": "18",
+        "chainId": 321,
+        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
         "coingeckoId": "tether",
         "listedIn": [
             "xyfinance",

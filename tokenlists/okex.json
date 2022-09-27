@@ -1,14 +1,13 @@
 [
     {
+        "symbol": "LTC",
+        "name": "LTC",
         "address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
-        "symbol": "LTCK",
-        "name": "LTCK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ltc.jpg",
         "coingeckoId": "oec-ltc",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -16,11 +15,11 @@
         ]
     },
     {
-        "address": "0xf338704c74212D152cB41CeC1DB11E2E783Bcf94",
         "symbol": "SPE",
         "name": "SpadeFinance Token",
-        "decimals": 18,
-        "chainId": "66",
+        "address": "0xf338704c74212D152cB41CeC1DB11E2E783Bcf94",
+        "decimals": "18",
+        "chainId": 66,
         "logoURI": "https://ethapi.openocean.finance/logos/okex/0xf338704c74212d152cb41cec1db11e2e783bcf94.png",
         "coingeckoId": null,
         "listedIn": [
@@ -29,15 +28,14 @@
         ]
     },
     {
-        "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
         "symbol": "OKB",
         "name": "OKB",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2/logo.png",
+        "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_okb.png",
         "coingeckoId": "okb",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -45,57 +43,27 @@
         ]
     },
     {
-        "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
         "symbol": "USDK",
         "name": "USDK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xdCAC52E001f5bd413aa6ea83956438F29098166b/logo.png",
+        "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdk.png",
         "coingeckoId": "usdk",
         "listedIn": [
-            "coingecko",
             "sushiswap",
-            "lifinance",
             "elkfinance"
         ]
     },
     {
-        "address": "0xd1351Ec15E8511658C2Ba1e1e81e1E60aA39c9Cd",
-        "symbol": "NVT",
-        "name": "NerveNetwork",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
-        "address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
-        "symbol": "FLUX",
-        "name": "FLUXK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xd0c6821aba4fcc65e8f1542589e64bae9de11228/b022bf3863f4c5175ebe22ea741164bc.png",
-        "coingeckoId": "flux-protocol",
-        "listedIn": [
-            "coingecko",
-            "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
-        "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
         "symbol": "USDC",
         "name": "USDC",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85/logo.png",
+        "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
         "coingeckoId": "usd-coin",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -103,12 +71,12 @@
         ]
     },
     {
-        "address": "0xc05760d75E7F5Ad428a906674Ce7c7c82d003d01",
         "symbol": "KINE",
         "name": "KINE",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xc05760d75e7f5ad428a906674ce7c7c82d003d01/7c2e18fe9cf8ea36fdf8429391453016.png",
+        "address": "0xc05760d75E7F5Ad428a906674Ce7c7c82d003d01",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_kinek.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -117,12 +85,12 @@
         ]
     },
     {
-        "address": "0xbeb67dE6cC5aF652b2d9B0235750eD70F5a2cB0D",
         "symbol": "LINKK",
         "name": "LINKK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d/ec9f53931b5e0ae59925b2cb3e593df5.png",
+        "address": "0xbeb67dE6cC5aF652b2d9B0235750eD70F5a2cB0D",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -130,12 +98,12 @@
         ]
     },
     {
+        "symbol": "DOT",
+        "name": "DOT",
         "address": "0xabc732f6f69a519F6d508434481376B6221eb7d5",
-        "symbol": "DOTK",
-        "name": "DOTK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xabc732f6f69a519F6d508434481376B6221eb7d5/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -145,12 +113,12 @@
         ]
     },
     {
-        "address": "0xab0d1578216A545532882e420A8C61Ea07B00B12",
         "symbol": "KST",
         "name": "KSwapToken",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xab0d1578216a545532882e420a8c61ea07b00b12/8f20551fc3bb863ce1fff406d49467a5.png",
+        "address": "0xab0d1578216A545532882e420A8C61Ea07B00B12",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0xab0d1578216a545532882e420a8c61ea07b00b12.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -158,12 +126,12 @@
         ]
     },
     {
+        "symbol": "SHIB",
+        "name": "SHIB",
         "address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
-        "symbol": "SHIBK",
-        "name": "SHIBK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_shibk.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -173,28 +141,14 @@
         ]
     },
     {
-        "address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
-        "symbol": "PLATO",
-        "name": "Plato Game",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xf7428ffcb2581a2804998efbb036a43255c8a8d3/c45342b133bc6d6416e49c3b377b2d57.png",
-        "coingeckoId": "plato-game",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
+        "symbol": "ETH",
+        "name": "ETH",
         "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
-        "symbol": "ETHK",
-        "name": "ETHK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
         "coingeckoId": "oec-eth",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -202,12 +156,12 @@
         ]
     },
     {
-        "address": "0xCD08D321f6Bc10a10f094e4b2E6C9b8bF9906401",
         "symbol": "ZKS",
         "name": "ZKS",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401/f7a0ea5612d77d6904616d51b993dd0f.png",
+        "address": "0xCD08D321f6Bc10a10f094e4b2E6C9b8bF9906401",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_zksk.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -216,11 +170,24 @@
         ]
     },
     {
-        "address": "0xADf040519FE24bA9Df6670599B2dE7FD6049772f",
+        "symbol": "ELE",
+        "name": "Eleven.finance",
+        "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0/07f071c960e24b4f98aa13c72555b327.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "pUSDT",
         "name": "WePiggy USDT",
-        "decimals": 8,
-        "chainId": "66",
+        "address": "0xADf040519FE24bA9Df6670599B2dE7FD6049772f",
+        "decimals": "8",
+        "chainId": 66,
         "logoURI": "https://ethapi.openocean.finance/logos/okex/0xadf040519fe24ba9df6670599b2de7fd6049772f.png",
         "coingeckoId": null,
         "listedIn": [
@@ -229,12 +196,12 @@
         ]
     },
     {
-        "address": "0xA715f624EB32c6C960b0E044B10CDe585d5f5984",
         "symbol": "XRPK",
         "name": "XRPK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0xa715f624eb32c6c960b0e044b10cde585d5f5984/63831fb316d33c53141a0175807702b5.png",
+        "address": "0xA715f624EB32c6C960b0E044B10CDe585d5f5984",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0xa715f624eb32c6c960b0e044b10cde585d5f5984.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -242,12 +209,12 @@
         ]
     },
     {
+        "symbol": "Blade",
+        "name": "Blade",
         "address": "0xA07403C1Bd0C5cF53DF07F15fAA589241352527B",
-        "symbol": "BLADE",
-        "name": "BLADE",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0xA07403C1Bd0C5cF53DF07F15fAA589241352527B/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0xa07403c1bd0c5cf53df07f15faa589241352527b.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -256,25 +223,12 @@
         ]
     },
     {
-        "address": "0x9B99c3Ce751aA292320033f93a1376902d4bA58b",
-        "symbol": "LINK",
-        "name": "LINK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
-        "address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
         "symbol": "ETC",
         "name": "ETC",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3/782943aff604f69c7889d90926348210.png",
+        "address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_etck.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -283,15 +237,27 @@
         ]
     },
     {
-        "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+        "symbol": "BabyDoge",
+        "name": "BabyDogeCoin",
+        "address": "0x97513e975a7fA9072c72C92d8000B0dB90b163c5",
+        "decimals": "9",
+        "chainId": 66,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "WOKT",
-        "name": "WOKT",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15/logo.png",
+        "name": "Wrapped OKExChain",
+        "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/okt.jpg",
         "coingeckoId": "wrapped-okt",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -299,12 +265,12 @@
         ]
     },
     {
-        "address": "0x8D3573f24c0aa3819A2f5b02b2985dD82B487715",
         "symbol": "FIN",
         "name": "DeFiner",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x8d3573f24c0aa3819a2f5b02b2985dd82b487715/f4096d8aab1b3f0110665e6e3052e278.png",
+        "address": "0x8D3573f24c0aa3819A2f5b02b2985dD82B487715",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://assets.coingecko.com/coins/images/12780/small/PdaW8Lb.png?1602500407",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -312,11 +278,11 @@
         ]
     },
     {
-        "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
         "symbol": "NULS",
         "name": "Nuls",
-        "decimals": 8,
-        "chainId": "66",
+        "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+        "decimals": "8",
+        "chainId": 66,
         "logoURI": "https://assets.coingecko.com/coins/images/1053/small/Nuls.png?1556868153",
         "coingeckoId": null,
         "listedIn": [
@@ -326,25 +292,24 @@
         ]
     },
     {
-        "address": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c",
         "symbol": "CHE",
         "name": "CherrySwapToken",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x8179d97eb6488860d816e3ecafe694a4153f216c/bd1f415a90c06a983de699f7dce89e82.png",
+        "address": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x8179d97eb6488860d816e3ecafe694a4153f216c.png",
         "coingeckoId": "cherryswap",
         "listedIn": [
-            "coingecko",
             "openocean",
             "lifinance"
         ]
     },
     {
-        "address": "0x7f1ae1C42f5f967c0E1ABa3ed7b6D62f88BE4275",
         "symbol": "COOK",
         "name": "Poly-Peg COOK",
-        "decimals": 18,
-        "chainId": "66",
+        "address": "0x7f1ae1C42f5f967c0E1ABa3ed7b6D62f88BE4275",
+        "decimals": "18",
+        "chainId": 66,
         "logoURI": "https://ethapi.openocean.finance/logos/okex/0x7f1ae1c42f5f967c0e1aba3ed7b6d62f88be4275.png",
         "coingeckoId": null,
         "listedIn": [
@@ -353,12 +318,12 @@
         ]
     },
     {
-        "address": "0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4",
         "symbol": "WING",
-        "name": "Wing Finance",
-        "decimals": 9,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4/456f8e0797e635197cd3ee1be0e3c294.png",
+        "name": "Wing Token",
+        "address": "0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://assets.coingecko.com/coins/images/12477/small/s_wing_icon.png?1610631390",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -366,12 +331,12 @@
         ]
     },
     {
-        "address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
         "symbol": "AUCTION",
         "name": "AUCTION",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8/39fa5fe6a4d1582aea336d718359d958.png",
+        "address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_auctionk.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -380,40 +345,39 @@
         ]
     },
     {
-        "address": "0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A",
-        "symbol": "JF",
-        "name": "Jswap Finance Token",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x5fac926bf1e638944bb16fb5b787b5ba4bc85b0a/74d0d0f5a5fcf76ab35b89b29cb9c95e.png",
-        "coingeckoId": "jswap-finance",
+        "symbol": "HERO",
+        "name": "HERO",
+        "address": "0x6b7a87899490EcE95443e979cA9485CBE7E71522",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": null,
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
-        "address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
         "symbol": "CELT",
-        "name": "CELT",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x5Ab622494AB7C5e81911558c9552DBd517F403fb/logo.png",
+        "name": "Celestial",
+        "address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1653317525254_8707126684867288.png",
         "coingeckoId": "celestial",
         "listedIn": [
-            "coingecko",
             "openocean",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
         "symbol": "UNI",
         "name": "UNI",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6/1b65c06f7e6341dd9f07089a3e9ed89a.png",
+        "address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -422,15 +386,14 @@
         ]
     },
     {
+        "symbol": "BTC",
+        "name": "BTC",
         "address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
-        "symbol": "BTCK",
-        "name": "BTCK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x54e4622DC504176b3BB432dCCAf504569699a7fF/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": "oec-btc",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -438,12 +401,12 @@
         ]
     },
     {
-        "address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
         "symbol": "WBTC",
         "name": "WBTC",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x506f731f7656e2fb34b587b912808f2a7ab640bd/6bdd415a0a8e95af653ed396f1a871bc.png",
+        "address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -451,15 +414,14 @@
         ]
     },
     {
+        "symbol": "FIL",
+        "name": "FIL",
         "address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
-        "symbol": "FILK",
-        "name": "FILK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg",
         "coingeckoId": "oec-fil",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -467,11 +429,11 @@
         ]
     },
     {
-        "address": "0x3E259bfe720093ABb26A2c3fE57670259B2ebeA2",
         "symbol": "STK",
         "name": "Super Three Kingdoms",
-        "decimals": 12,
-        "chainId": "66",
+        "address": "0x3E259bfe720093ABb26A2c3fE57670259B2ebeA2",
+        "decimals": "12",
+        "chainId": 66,
         "logoURI": "https://ethapi.openocean.finance/logos/okex/0x3e259bfe720093abb26a2c3fe57670259b2ebea2.png",
         "coingeckoId": null,
         "listedIn": [
@@ -480,15 +442,14 @@
         ]
     },
     {
-        "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
         "symbol": "USDT",
         "name": "USDT",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x382bB369d343125BfB2117af9c149795C6C65C50/logo.png",
+        "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
         "coingeckoId": "tether",
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -496,27 +457,26 @@
         ]
     },
     {
-        "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
         "symbol": "BUSD",
-        "name": "BUSD",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
+        "name": "Binance-Peg BUSD Token",
+        "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x332730a4f6e03d9c55829435f10360e13cfa41ff.png",
         "coingeckoId": "binance-usd",
         "listedIn": [
-            "coingecko",
             "openocean",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "address": "0x3212606F74Cc59656E1EC6f587FCA61bA3B85eb0",
         "symbol": "SFG",
         "name": "SFG",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x3212606f74cc59656e1ec6f587fca61ba3b85eb0/17fd6e228e794d1f8aec48fe40297919.png",
+        "address": "0x3212606F74Cc59656E1EC6f587FCA61bA3B85eb0",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sfgk.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -525,11 +485,11 @@
         ]
     },
     {
-        "address": "0x2f8eB6F75Df534C4992Ec79d9825C5eA4b1b2A57",
         "symbol": "ACMD",
         "name": "ACMD TOKEN",
-        "decimals": 18,
-        "chainId": "66",
+        "address": "0x2f8eB6F75Df534C4992Ec79d9825C5eA4b1b2A57",
+        "decimals": "18",
+        "chainId": 66,
         "logoURI": "https://ethapi.openocean.finance/logos/okex/0x2f8eb6f75df534c4992ec79d9825c5ea4b1b2a57.png",
         "coingeckoId": null,
         "listedIn": [
@@ -538,12 +498,12 @@
         ]
     },
     {
-        "address": "0x2E2f982c3e66Db8604B0A99862dD97D31ed740B3",
         "symbol": "OFI",
         "name": "OFI.cash",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x2e2f982c3e66db8604b0a99862dd97d31ed740b3/f003ee13a2aeff6e715c701132c8959d.png",
+        "address": "0x2E2f982c3e66Db8604B0A99862dD97D31ed740B3",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x2e2f982c3e66db8604b0a99862dd97d31ed740b3.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -551,12 +511,12 @@
         ]
     },
     {
-        "address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
         "symbol": "SUSHI",
         "name": "SUSHI",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7/19f4fdc6f2364c159a580f6c6636f909.png",
+        "address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -565,12 +525,12 @@
         ]
     },
     {
+        "symbol": "DAI",
+        "name": "DAI",
         "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
-        "symbol": "DAIK",
-        "name": "DAIK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x21cde7e32a6caf4742d00d44b07279e7596d26b9/2eba06def7ef8749c028514b2a393165.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -579,12 +539,12 @@
         ]
     },
     {
+        "symbol": "BNB",
+        "name": "Binance",
         "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
-        "symbol": "WBNB",
-        "name": "Wrapped Binance Coin",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0/logo.png",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -593,11 +553,11 @@
         ]
     },
     {
-        "address": "0x2168795125D44653E0b858b5F6DCc86d719b6A36",
         "symbol": "KOA",
         "name": "Koala Token",
-        "decimals": 18,
-        "chainId": "66",
+        "address": "0x2168795125D44653E0b858b5F6DCc86d719b6A36",
+        "decimals": "18",
+        "chainId": 66,
         "logoURI": "https://ethapi.openocean.finance/logos/okex/0x2168795125d44653e0b858b5f6dcc86d719b6a36.png",
         "coingeckoId": null,
         "listedIn": [
@@ -606,40 +566,39 @@
         ]
     },
     {
-        "address": "0x18D103b7066AEedb6005B78A462Ef9027329b1EA",
         "symbol": "BCHK",
         "name": "BCHK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x18D103b7066AEedb6005B78A462Ef9027329b1EA/logo.png",
+        "address": "0x18D103b7066AEedb6005B78A462Ef9027329b1EA",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x18d103b7066aeedb6005b78a462ef9027329b1ea.png",
         "coingeckoId": "oec-bch",
         "listedIn": [
-            "coingecko",
             "openocean",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
-        "symbol": "RACA",
-        "name": "Radio Caca V2",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://assets.coingecko.com/coins/images/17841/large/ez44_BSs_400x400.jpg",
-        "coingeckoId": "radio-caca",
+        "symbol": "OKFly",
+        "name": "Okex Fly",
+        "address": "0x02F093513b7872CdFC518e51eD67f88F0e469592",
+        "decimals": "9",
+        "chainId": 66,
+        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x02f093513b7872cdfc518e51ed67f88f0e469592/7f68fcd1e43ba8a49068f270272b4d6b.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
-        "address": "0x00505505a7576d6734704FABB16f41924e3E384b",
         "symbol": "TRXK",
         "name": "TRXK",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x00505505a7576d6734704FABB16f41924e3E384b/logo.png",
+        "address": "0x00505505a7576d6734704FABB16f41924e3E384b",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://ethapi.openocean.finance/logos/okex/0x00505505a7576d6734704fabb16f41924e3e384b.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -648,12 +607,12 @@
         ]
     },
     {
-        "address": "0x0000000000000000000000000000000000000000",
         "symbol": "OKT",
-        "name": "OKT",
-        "decimals": 18,
-        "chainId": "66",
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/okt/1228cd92320b3d33769bd08eecfb5391.png",
+        "name": "OKXChain Token",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": "18",
+        "chainId": 66,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650002331626_7782774638975714.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
