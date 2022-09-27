@@ -1,12 +1,23 @@
 import asyncio
 import json
+import logging
+import logging.config
 from collections import defaultdict
 
 import httpx
+import yaml
 from web3 import Web3
 
 from coingecko_ids import coingecko_ids
 from common import ChainId, Token
+
+
+with open('./logger.yml', 'r') as stream:
+    config = yaml.load(stream, Loader=yaml.FullLoader)
+
+logging.config.dictConfig(config)
+
+log = logging.getLogger(__name__)
 
 
 class TokenListProvider:
@@ -22,6 +33,9 @@ class TokenListProvider:
     def _filter_tokens(cls, tokens: list[Token], chain_id: str) -> list[Token]:
         res = []
         for token in tokens:
+            if not isinstance(token, dict):
+                log.error(f"Token must be dict, got {token=}")
+                continue
             if not token["address"]:
                 continue
             try:
@@ -77,7 +91,7 @@ class TokenListProvider:
                     raise Exception(f"failed to get tokenlits {cls.base_url} after {num_retries} retries")
                 sleep_time = int(resp.headers.get("Retry-After", 1))
                 num_retries += 1
-                print(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
+                log.info(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
                 await asyncio.sleep(sleep_time)
                 resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
 
@@ -89,6 +103,8 @@ class TokenListProvider:
                 tokens = tokenlist["tokens"]
             elif "data" in tokenlist:
                 tokens = tokenlist["data"]
+            elif "results" in tokenlist:
+                tokens = tokenlist["results"]
             else:
                 tokens = tokenlist
 
@@ -99,7 +115,7 @@ class TokenListProvider:
                 tokens = list(tokens.values())
 
             res[chain_id] = cls._filter_tokens(tokens, chain_id)
-            print(f"[{cls.name}] {chain_id} {chain_name} OK")
+            log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
         return {cls.name: res}
 
 

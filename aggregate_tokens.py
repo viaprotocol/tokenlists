@@ -1,11 +1,14 @@
 import asyncio
 import json
+import logging
 from collections import defaultdict
 
 from common import ChainId, Address, NATIVE_ADDRESSES, Token, CHAIN_NAMES_BY_ID
 from token_list_providers import tokenlists_providers
 
 TOKENLISTS_FOLDER = "tokenlists"
+
+log = logging.getLogger(__name__)
 
 
 async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
@@ -48,7 +51,7 @@ async def collect_trusted_tokens() -> dict[ChainId, dict[Address, Token]]:
     with open(f"{TOKENLISTS_FOLDER}/all.json", "w", encoding="utf-8") as f:
         json.dump(trusted, f, ensure_ascii=False, indent=4)
 
-    print("collected trusted tokens")
+    log.info("Succesfully collected trusted tokens")
     return trusted
 
 
