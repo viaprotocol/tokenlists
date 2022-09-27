@@ -25,8 +25,7 @@ class TokenListProvider:
     _by_chain_id = False
     _get_chain_id_key = False
     _tokens_to_list = False
-    _check_chain_id = False  # True if tokenlist contains all chains at once and we should filter each chain
-    abscent_chain_id = False
+    absent_chain_id = False
 
     @classmethod
     async def get_tokenlists(cls) -> dict[str, dict[str, list[Token]]]:
@@ -76,14 +75,14 @@ class TokenListProvider:
                 if not isinstance(t, dict):
                     log.error(f"Token must be of type dict, got {t=} {cls.__name__}")
                     continue
-                if not t.get("str"):
-                    if cls.abscent_chain_id:
-                        t["str"] = chain_id
+                if not t.get("chainId"):
+                    if cls.absent_chain_id:
+                        t["chainId"] = chain_id
                     else:
-                        log.error(f"{cls.name}")
+                        log.error(f"{cls.name} chain id absent")
                         continue
                 if not t.get("coingeckoId"):
-                    t["coingeckoId"] = coingecko_ids.get(str(t["str"]), {}).get(t["address"].lower())
+                    t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(t["address"].lower())
                 tokens.append(Token.parse_obj(t))
             res[chain_id] = tokens
             log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
@@ -120,6 +119,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "9001": "evmos",
         # sora
     }
+    absent_chain_id = True
 
 
 class UniswapTokenLists(TokenListProvider):
@@ -185,7 +185,7 @@ class OneInchTokenLists(TokenListProvider):
         "42161": "42161",
     }
     _tokens_to_list = True
-    abscent_chain_id = True
+    absent_chain_id = True
 
 
 class SolanaLabsTokenLists(TokenListProvider):
@@ -199,7 +199,7 @@ class SolanaLabsTokenLists(TokenListProvider):
 class OpenOceanTokenLists(TokenListProvider):
     # TODO: maybe more, check all ids from coingecko
     name = "openocean"
-    base_url = "https://open-api.openocean.finance/v1/cross/tokenList?str={}"
+    base_url = "https://open-api.openocean.finance/v1/cross/tokenList?chainId={}"
     chains = {
         "42161": "arbitrum-one",
         "43114": "avalanche",
@@ -214,7 +214,7 @@ class OpenOceanTokenLists(TokenListProvider):
         "1": "ethereum",
     }
     _by_chain_id = True
-    abscent_chain_id = True
+    absent_chain_id = True
 
 
 class ElkFinanceTokenLists(TokenListProvider):
@@ -303,7 +303,7 @@ class RubicLists(TokenListProvider):
         "1313161554": "aurora",
         "1666600000": "harmony",
     }
-    abscent_chain_id = True
+    absent_chain_id = True
 
 
 class CronaSwapLists(TokenListProvider):
@@ -333,7 +333,7 @@ class Multichain(TokenListProvider):
 
 class XyFinance(TokenListProvider):
     name = "xyfinance"
-    base_url = "https://open-api.xy.finance/v1/recommendedTokens?str={}"
+    base_url = "https://open-api.xy.finance/v1/recommendedTokens?chainId={}"
     chains = {
         "1": "1",
         "56": "56",
@@ -348,14 +348,13 @@ class XyFinance(TokenListProvider):
         "321": "321",
         "1818": "1818",
     }
-    _check_chain_id = True
 
 
 class MojitoSwap(TokenListProvider):
     name = "mojitoswap"
     base_url = "https://raw.githubusercontent.com/MojitoFinance/mjtTokenList/461d2ca814d12c37516b986fabfcd21446283ed7/mjtTokenList.json"
     chains = {"321": "321"}
-    abscent_chain_id = True
+    absent_chain_id = True
 
 
 class CapricornFinance(TokenListProvider):
@@ -392,7 +391,6 @@ class Lifinance(TokenListProvider):
 class Dfyn(TokenListProvider):
     name = "dfyn"
     base_url = "https://raw.githubusercontent.com/dfyn/new-host/main/list-token.tokenlist.json"
-    _check_chain_id = True
 
     chains = {
         "1": "1",
@@ -409,7 +407,6 @@ class Dfyn(TokenListProvider):
 class PancakeSwap(TokenListProvider):
     name = "pancake"
     base_url = "https://tokens.pancakeswap.finance/pancakeswap-extended.json"
-    _check_chain_id = True
 
     chains = {"56": "56"}
 
@@ -417,7 +414,6 @@ class PancakeSwap(TokenListProvider):
 class Pangolin(TokenListProvider):
     name = "pangolin"
     base_url = "https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json"
-    _check_chain_id = True
 
     chains = {"43114": "43114"}
 
@@ -425,7 +421,6 @@ class Pangolin(TokenListProvider):
 class TraderJoe(TokenListProvider):
     name = "joe"
     base_url = "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json"
-    _check_chain_id = True
 
     chains = {"43114": "43114"}
 
@@ -433,7 +428,6 @@ class TraderJoe(TokenListProvider):
 class ArbitrumBridge(TokenListProvider):
     name = "arbitrum_bridge"
     base_url = "https://bridge.arbitrum.io/token-list-42161.json"
-    _check_chain_id = True
 
     chains = {"42161": "42161", "1": "1"}
 
@@ -441,7 +435,6 @@ class ArbitrumBridge(TokenListProvider):
 class Optimism(TokenListProvider):
     name = "optimism"
     base_url = "https://static.optimism.io/optimism.tokenlist.json"
-    _check_chain_id = True
 
     chains = {"1": "1", "10": "10", }
 
@@ -449,7 +442,6 @@ class Optimism(TokenListProvider):
 class SpookySwap(TokenListProvider):
     name = "SpookySwap"
     base_url = "https://raw.githubusercontent.com/SpookySwap/spooky-info/master/src/constants/token/spookyswap.json"
-    _check_chain_id = True
 
     chains = {"250": "250"}
 
@@ -457,7 +449,6 @@ class SpookySwap(TokenListProvider):
 class RouterProtocol(TokenListProvider):
     name = "RouterProtocol"
     base_url = "https://raw.githubusercontent.com/router-protocol/reserve-asset-list/main/router-reserve-asset.json"
-    _check_chain_id = True
 
     chains = {
         "1": "1",
@@ -473,7 +464,7 @@ class RouterProtocol(TokenListProvider):
 
 
 tokenlists_providers = [
-    # CoinGeckoTokenLists,
+    CoinGeckoTokenLists,
     OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,
