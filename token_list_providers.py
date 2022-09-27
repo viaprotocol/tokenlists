@@ -1,18 +1,16 @@
 import asyncio
 import json
-import logging
 import logging.config
 from collections import defaultdict
 
 import httpx
 import yaml
-from web3 import Web3
 
 from coingecko_ids import coingecko_ids
-from common import ChainId, Token
+from common import Token
 
 
-with open('./logger.yml', 'r') as stream:
+with open("./logger.yml", "r") as stream:
     config = yaml.load(stream, Loader=yaml.FullLoader)
 
 logging.config.dictConfig(config)
@@ -23,60 +21,16 @@ log = logging.getLogger(__name__)
 class TokenListProvider:
     name: str
     base_url: str
-    chains: dict[ChainId, str]
+    chains: dict[str, str]
     _by_chain_id = False
     _get_chain_id_key = False
     _tokens_to_list = False
     _check_chain_id = False  # True if tokenlist contains all chains at once and we should filter each chain
+    abscent_chain_id = False
 
     @classmethod
-    def _filter_tokens(cls, tokens: list[Token], chain_id: str) -> list[Token]:
-        res = []
-        for token in tokens:
-            if not isinstance(token, dict):
-                log.error(f"Token must be dict, got {token=}")
-                continue
-            if not token["address"]:
-                continue
-            try:
-                token["address"] = token["address"].strip()
-                if token["address"].startswith("0x"):
-                    token["address"] = Web3.toChecksumAddress(token["address"])
-                cg_id = coingecko_ids.get(chain_id, {}).get(token["address"].lower())
-                logo = token.get("logoURI") or token.get("icon") or token.get("image")
-                if logo and logo.startswith('//'):
-                    logo = 'https:' + logo
-
-                add_token = True
-                if cls._check_chain_id:
-                    if 'chainId' in token and str(token['chainId']) != chain_id:
-                        add_token = False
-                    elif 'chain_id' in token and str(token['chain_id']) != chain_id:
-                        add_token = False
-
-                if add_token:
-                    if 'tokenDecimal' in token:
-                        decimals = token['tokenDecimal']
-                    else:
-                        decimals = token['decimals']
-
-                    t = Token(
-                        address=token["address"],
-                        symbol=token["symbol"],
-                        name=token["name"],
-                        decimals=decimals,
-                        chainId=chain_id,
-                        logoURI=logo,
-                        coingeckoId=cg_id
-                    )
-                    res.append(t)
-            except Exception as exc:
-                print(chain_id, token["address"], exc, token)
-        return res
-
-    @classmethod
-    async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
-        res: dict[ChainId, list[Token]] = defaultdict(list)
+    async def get_tokenlists(cls) -> dict[str, dict[str, list[Token]]]:
+        res: dict[str, list[Token]] = defaultdict(list)
 
         for chain_id, chain_name in cls.chains.items():
             try:
@@ -100,21 +54,38 @@ class TokenListProvider:
             except:
                 tokenlist = json.loads(resp.text)
             if "tokens" in tokenlist:
-                tokens = tokenlist["tokens"]
+                raw_tokens = tokenlist["tokens"]
             elif "data" in tokenlist:
-                tokens = tokenlist["data"]
+                raw_tokens = tokenlist["data"]
             elif "results" in tokenlist:
-                tokens = tokenlist["results"]
+                raw_tokens = tokenlist["results"]
+            elif "recommendedTokens" in tokenlist:
+                raw_tokens = tokenlist["recommendedTokens"]
             else:
-                tokens = tokenlist
+                raw_tokens = tokenlist
 
-            if cls._get_chain_id_key and str(chain_id) in tokens:
-                tokens = tokens[str(chain_id)]
+            if cls._get_chain_id_key and str(chain_id) in raw_tokens:
+                raw_tokens = raw_tokens[str(chain_id)]
 
             if cls._tokens_to_list:
-                tokens = list(tokens.values())
+                raw_tokens = list(raw_tokens.values())
 
-            res[chain_id] = cls._filter_tokens(tokens, chain_id)
+            tokens: list[Token] = []
+            for t in raw_tokens:
+
+                if not isinstance(t, dict):
+                    log.error(f"Token must be of type dict, got {t=} {cls.__name__}")
+                    continue
+                if not t.get("str"):
+                    if cls.abscent_chain_id:
+                        t["str"] = chain_id
+                    else:
+                        log.error(f"{cls.name}")
+                        continue
+                if not t.get("coingeckoId"):
+                    t["coingeckoId"] = coingecko_ids.get(str(t["str"]), {}).get(t["address"].lower())
+                tokens.append(Token.parse_obj(t))
+            res[chain_id] = tokens
             log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
         return {cls.name: res}
 
@@ -205,16 +176,16 @@ class OneInchTokenLists(TokenListProvider):
     name = "1inch"
     base_url = "https://api.1inch.io/v4.0/{}/tokens"
     chains = {
-        "1": "ethereum",
-        "10": "optimism",
-        "56": "bsc",
-        "100": "gnosis",
-        "137": "polygon",
-        "43114": "avalanche",
-        "42161": "arbitrum",
+        "1": "1",
+        "10": "10",
+        "56": "56",
+        "100": "100",
+        "137": "137",
+        "43114": "43114",
+        "42161": "42161",
     }
-    _by_chain_id = True
     _tokens_to_list = True
+    abscent_chain_id = True
 
 
 class SolanaLabsTokenLists(TokenListProvider):
@@ -228,7 +199,7 @@ class SolanaLabsTokenLists(TokenListProvider):
 class OpenOceanTokenLists(TokenListProvider):
     # TODO: maybe more, check all ids from coingecko
     name = "openocean"
-    base_url = "https://open-api.openocean.finance/v1/cross/tokenList?chainId={}"
+    base_url = "https://open-api.openocean.finance/v1/cross/tokenList?str={}"
     chains = {
         "42161": "arbitrum-one",
         "43114": "avalanche",
@@ -243,6 +214,7 @@ class OpenOceanTokenLists(TokenListProvider):
         "1": "ethereum",
     }
     _by_chain_id = True
+    abscent_chain_id = True
 
 
 class ElkFinanceTokenLists(TokenListProvider):
@@ -319,7 +291,7 @@ class RubicLists(TokenListProvider):
         "-1": "solana",
         "1": "ethereum",
         # "25": "cronos",
-        '40': 'telos',
+        "40": "telos",
         "56": "binance-smart-chain",
         "100": "xdai",
         "137": "polygon",
@@ -331,49 +303,50 @@ class RubicLists(TokenListProvider):
         "1313161554": "aurora",
         "1666600000": "harmony",
     }
+    abscent_chain_id = True
 
 
 class CronaSwapLists(TokenListProvider):
     name = "cronaswap"
     base_url = "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos.json"
-    chains = {'25': 'cronos'}
+    chains = {"25": "cronos"}
 
 
 class Ubeswap(TokenListProvider):
     name = "ubeswap"
     base_url = "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json"
-    chains = {'42220': 'celo'}
+    chains = {"42220": "celo"}
 
 
 class OolongSwap(TokenListProvider):
     name = "oolongswap"
     base_url = "https://raw.githubusercontent.com/OolongSwap/boba-community-token-list/main/src/tokens/boba.json"
-    chains = {'288': 'boba'}
+    chains = {"288": "boba"}
 
 
 class Multichain(TokenListProvider):
-    name = 'multichain'
+    name = "multichain"
     base_url = "https://bridgeapi.anyswap.exchange/v4/poollist/{}"
-    chains = {'592': '592'}
+    chains = {"592": "592"}
     _tokens_to_list = True
 
 
 class XyFinance(TokenListProvider):
     name = "xyfinance"
-    base_url = "https://token-list-v2.xy.finance/"
+    base_url = "https://open-api.xy.finance/v1/recommendedTokens?str={}"
     chains = {
-        '1': '1',
-        '56': '56',
-        '137': '137',
-        '250': '250',
-        '25': '25',
-        '43114': '43114',
-        '42161': '42161',
-        '10': '10',
-        '1285': '1285',
-        '592': '592',
-        '321': '321',
-        '1818': '1818',
+        "1": "1",
+        "56": "56",
+        "137": "137",
+        "250": "250",
+        "25": "25",
+        "43114": "43114",
+        "42161": "42161",
+        "10": "10",
+        "1285": "1285",
+        "592": "592",
+        "321": "321",
+        "1818": "1818",
     }
     _check_chain_id = True
 
@@ -381,37 +354,38 @@ class XyFinance(TokenListProvider):
 class MojitoSwap(TokenListProvider):
     name = "mojitoswap"
     base_url = "https://raw.githubusercontent.com/MojitoFinance/mjtTokenList/461d2ca814d12c37516b986fabfcd21446283ed7/mjtTokenList.json"
-    chains = {'321': '321'}
+    chains = {"321": "321"}
+    abscent_chain_id = True
 
 
 class CapricornFinance(TokenListProvider):
     name = "capricorn_finance"
     base_url = "https://raw.githubusercontent.com/capricorn-finance/info-blist/main/list.json"
-    chains = {'1818': '1818'}
+    chains = {"1818": "1818"}
 
 
 class Lifinance(TokenListProvider):
     name = "lifinance"
-    base_url = "https://li.quest/v1/tokens"
+    base_url = "https://li.quest/v1/tokens?chains={}"
     _get_chain_id_key = True
 
     chains = {
-        '1': '1',
-        '10': '10',
-        '25': '25',
-        '56': '56',
-        '66': '66',
-        '100': '100',
-        '122': '122',
-        '137': '137',
-        '250': '250',
-        '1284': '1284',
-        '1285': '1285',
-        '9001': '9001',
-        '42161': '42161',
-        '42220': '42220',
-        '43114': '43114',
-        '1666600000': '1666600000',
+        "1": "1",
+        "10": "10",
+        "25": "25",
+        "56": "56",
+        "66": "66",
+        "100": "100",
+        "122": "122",
+        "137": "137",
+        "250": "250",
+        "1284": "1284",
+        "1285": "1285",
+        "9001": "9001",
+        "42161": "42161",
+        "42220": "42220",
+        "43114": "43114",
+        "1666600000": "1666600000",
     }
 
 
@@ -421,14 +395,14 @@ class Dfyn(TokenListProvider):
     _check_chain_id = True
 
     chains = {
-        '1': '1',
-        '10': '10',
-        '25': '25',
-        '56': '56',
-        '137': '137',
-        '250': '250',
-        '43114': '43114',
-        '1666600000': '1666600000',
+        "1": "1",
+        "10": "10",
+        "25": "25",
+        "56": "56",
+        "137": "137",
+        "250": "250",
+        "43114": "43114",
+        "1666600000": "1666600000",
     }
 
 
@@ -437,7 +411,7 @@ class PancakeSwap(TokenListProvider):
     base_url = "https://tokens.pancakeswap.finance/pancakeswap-extended.json"
     _check_chain_id = True
 
-    chains = {'56': '56'}
+    chains = {"56": "56"}
 
 
 class Pangolin(TokenListProvider):
@@ -445,7 +419,7 @@ class Pangolin(TokenListProvider):
     base_url = "https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json"
     _check_chain_id = True
 
-    chains = {'43114': 43114}
+    chains = {"43114": "43114"}
 
 
 class TraderJoe(TokenListProvider):
@@ -453,7 +427,7 @@ class TraderJoe(TokenListProvider):
     base_url = "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json"
     _check_chain_id = True
 
-    chains = {'43114': 43114}
+    chains = {"43114": "43114"}
 
 
 class ArbitrumBridge(TokenListProvider):
@@ -461,7 +435,7 @@ class ArbitrumBridge(TokenListProvider):
     base_url = "https://bridge.arbitrum.io/token-list-42161.json"
     _check_chain_id = True
 
-    chains = {'42161': 42161, "1": 1}
+    chains = {"42161": "42161", "1": "1"}
 
 
 class Optimism(TokenListProvider):
@@ -469,7 +443,7 @@ class Optimism(TokenListProvider):
     base_url = "https://static.optimism.io/optimism.tokenlist.json"
     _check_chain_id = True
 
-    chains = {'1': 1, '10': 10, }
+    chains = {"1": "1", "10": "10", }
 
 
 class SpookySwap(TokenListProvider):
@@ -477,7 +451,7 @@ class SpookySwap(TokenListProvider):
     base_url = "https://raw.githubusercontent.com/SpookySwap/spooky-info/master/src/constants/token/spookyswap.json"
     _check_chain_id = True
 
-    chains = {'250': 250}
+    chains = {"250": "250"}
 
 
 class RouterProtocol(TokenListProvider):
@@ -486,20 +460,20 @@ class RouterProtocol(TokenListProvider):
     _check_chain_id = True
 
     chains = {
-        '1': 1,
-        '10': 10,
-        '25': 25,
-        '56': 56,
-        '137': 137,
-        '250': 250,
-        '42161': 42161,
-        '1313161554': 1313161554,
-        '1666600000': 1666600000,
+        "1": "1",
+        "10": "10",
+        "25": "25",
+        "56": "56",
+        "137": "137",
+        "250": "250",
+        "42161": "42161",
+        "1313161554": "1313161554",
+        "1666600000": "1666600000",
     }
 
 
 tokenlists_providers = [
-    CoinGeckoTokenLists,
+    # CoinGeckoTokenLists,
     OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,

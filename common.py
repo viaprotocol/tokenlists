@@ -1,4 +1,7 @@
-from typing import NewType, TypedDict
+from typing import NewType, Optional, TypedDict
+
+from pydantic import BaseModel, Field, validator
+from web3 import Web3
 
 CHAIN_NAMES_BY_ID = {
     '1': 'ethereum',
@@ -6,6 +9,7 @@ CHAIN_NAMES_BY_ID = {
     '100': 'gnosis',
     '10000': 'smartbch',
     '-1': 'solana',
+    '-2': 'near',
     '1024': 'clover',
     '11297108109': 'palm',
     '122': 'fuse',
@@ -50,17 +54,38 @@ CHAIN_NAMES_BY_ID = {
 
 Address = NewType('Address', str)
 
-ChainId = NewType('ChainId', str)
 
-
-class Token(TypedDict):
+class Token(BaseModel):
     symbol: str
     name: str
-    address: str
-    decimals: str
-    chainId: str
-    logoURI: str
-    coingeckoId: str
+    address: Address
+    decimals: str = Field(..., alias="tokenDecimal")
+    chainId: int
+    logoURI: Optional[str]
+    coingeckoId: Optional[str]
+    listedIn: list[str] = []
+
+    class Config:
+        allow_population_by_field_name = True
+
+    def __init__(self, **data):
+        super().__init__(
+            logoURI=(
+                data.pop("logoURI", None) or data.pop("logo", None) or data.pop("icon", None) or data.pop("image", None)
+            ),
+            **data,
+        )
+
+    # if logo.startswith('//'):
+    # logo = 'ht
+
+    @validator("address")
+    def addr_checksum(cls, v: str):
+        v = v.strip()
+        if v.startswith("0x"):
+            return Web3.toChecksumAddress(v)
+        return v
+
 
 NATIVE_ADDR_0xe = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 

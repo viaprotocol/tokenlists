@@ -94,7 +94,7 @@ MIN_TOKEN_COUNT_TO_INCLUDE_IN_DOCS = 5
 
 
 def generate_readme() -> None:
-    _counts = {}
+    _counts: dict[str, int] = {}
     for filename in glob.glob('tokenlists/*.json'):
         with open(os.path.join(os.getcwd(), filename), 'r') as f:  # open in readonly mode
             json_file_name = filename.split('/')[-1]

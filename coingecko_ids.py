@@ -2,10 +2,10 @@ from collections import defaultdict
 
 import httpx
 
-from common import ChainId, Address
+from common import Address
 
 
-def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
+def get_coingecko_ids() -> dict[str, dict[Address, str]]:
     chain_id_to_coingecko_platform = {
         "1284": "moonbeam",
         "361": "theta",
@@ -42,7 +42,7 @@ def get_coingecko_ids() -> dict[ChainId, dict[Address, str]]:
     }
     coingecko_platform_to_chain_id = {v: k for k, v in chain_id_to_coingecko_platform.items()}
     coins = httpx.get('https://api.coingecko.com/api/v3/coins/list', params={'include_platform': True}).json()
-    res = defaultdict(dict)
+    res: dict[str, dict[Address, str]] = defaultdict(dict)
     for coin in coins:
         if not coin['id']:
             continue
