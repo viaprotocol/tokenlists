@@ -11647,6 +11647,19 @@
             ]
         },
         {
+            "symbol": "MONSTA",
+            "name": "Cake Monster",
+            "address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+            "decimals": "18",
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/16441/thumb/Monster-Icon-CG200x200transparent.png?1656392071",
+            "coingeckoId": "cake-monster",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "NORD",
             "name": "Nord Finance",
             "address": "0x8965349fb649A33a30cbFDa057D8eC2C48AbE2A2",
@@ -16446,6 +16459,19 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/24255/thumb/cifi.png?1647157454",
             "coingeckoId": "citizen-finance",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "DPAD",
+            "name": "Dpad Finance",
+            "address": "0x4DCAaa68170053aFBBdE15774931adba09272A55",
+            "decimals": "8",
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/24312/thumb/0vrp38DQ_400x400.jpg?1647352973",
+            "coingeckoId": "dpad-finance",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -24052,6 +24078,19 @@
             "listedIn": [
                 "SpookySwap",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "ELK(legacy)",
+            "name": "Elk",
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "decimals": "18",
+            "chainId": 250,
+            "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/329f2280839ba8930e112bae1f61cbb9.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "lifinance",
+                "elkfinance"
             ]
         },
         {
@@ -32877,6 +32916,19 @@
             "coingeckoId": null,
             "listedIn": [
                 "quickswap",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "APE",
+            "name": "ApeCoin",
+            "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
+            "decimals": "18",
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/24383/thumb/apecoin.jpg?1647476455",
+            "coingeckoId": "apecoin",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -44341,6 +44393,19 @@
             ]
         },
         {
+            "symbol": "POPS",
+            "name": "Swapsicle",
+            "address": "0x240248628B7B6850352764C5dFa50D1592A033A8",
+            "decimals": "18",
+            "chainId": 43114,
+            "logoURI": "https://assets.coingecko.com/coins/images/25864/thumb/Swapsicle-Icon_DarkCircle.png?1654238011",
+            "coingeckoId": "swapsicle-pops",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "CDS",
             "name": "Crypto Development Services",
             "address": "0x23f07a1C03e7C6D0C88e0E05E79B6E3511073fD5",
@@ -53257,6 +53322,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "BSC",
+            "name": "Bitsonic",
+            "address": "0xe541504417670FB76b612B41B4392d967a1956c7",
+            "decimals": "18",
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/9238/thumb/image.png?1604295837",
+            "coingeckoId": "bitsonic-token",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -71493,6 +71571,19 @@
             ]
         },
         {
+            "symbol": "PYR",
+            "name": "Vulcan Forged",
+            "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+            "decimals": "18",
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/14770/thumb/1617088937196.png?1619414736",
+            "coingeckoId": "vulcan-forged",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "CAP",
             "name": "Cap",
             "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
@@ -73565,6 +73656,19 @@
                 "openocean",
                 "lifinance",
                 "xyfinance"
+            ]
+        },
+        {
+            "symbol": "KATA",
+            "name": "Katana Inu",
+            "address": "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
+            "decimals": "18",
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/21872/thumb/Katana_Inu512.png?1640236880",
+            "coingeckoId": "katana-inu",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -90515,6 +90619,19 @@
             "listedIn": [
                 "solanalabs",
                 "1sol"
+            ]
+        },
+        {
+            "symbol": "TOPSS",
+            "name": "TOPSS",
+            "address": "2pVkjwPJHXopCknbdsHgXQnhptEWWWkfiw6pDcnNnBPC",
+            "decimals": "6",
+            "chainId": -1,
+            "logoURI": "https://assets.coingecko.com/coins/images/27508/thumb/Topss_logo_final_logo_light.png?1664334182",
+            "coingeckoId": "topss",
+            "listedIn": [
+                "coingecko",
+                "solanalabs"
             ]
         },
         {
