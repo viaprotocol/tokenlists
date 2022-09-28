@@ -54,13 +54,15 @@ CHAIN_NAMES_BY_ID = {
 
 Address = NewType('Address', str)
 
+ChainId = NewType('ChainId', int)
+
 
 class Token(BaseModel):
     symbol: str
     name: str
     address: Address
     decimals: str = Field(..., alias="tokenDecimal")
-    chainId: int
+    chainId: ChainId
     logoURI: Optional[str]
     coingeckoId: Optional[str]
     listedIn: list[str] = []
@@ -90,6 +92,7 @@ class Token(BaseModel):
 
 
 NATIVE_ADDR_0xe = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+NATIVE_ADDR_0x0 = Address("0x0000000000000000000000000000000000000000")
 
 MATIC_NATIVE_ADDr = "0x0000000000000000000000000000000000001010"
 

@@ -7,7 +7,7 @@ import httpx
 import yaml
 
 from coingecko_ids import coingecko_ids
-from common import Token
+from common import ChainId, Token
 
 
 with open("./logger.yml", "r") as stream:
@@ -28,8 +28,8 @@ class TokenListProvider:
     absent_chain_id = False
 
     @classmethod
-    async def get_tokenlists(cls) -> dict[str, dict[str, list[Token]]]:
-        res: dict[str, list[Token]] = defaultdict(list)
+    async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
+        res: dict[ChainId, list[Token]] = defaultdict(list)
 
         for chain_id, chain_name in cls.chains.items():
             try:
@@ -83,8 +83,8 @@ class TokenListProvider:
                         continue
                 if not t.get("coingeckoId"):
                     t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(t["address"].lower())
-                tokens.append(Token.parse_obj(t))
-            res[chain_id] = tokens
+                parsed_token = Token.parse_obj(t)
+                res[parsed_token.chainId].append(parsed_token)
             log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
         return {cls.name: res}
 
@@ -177,12 +177,14 @@ class OneInchTokenLists(TokenListProvider):
     base_url = "https://api.1inch.io/v4.0/{}/tokens"
     chains = {
         "1": "1",
-        "10": "10",
         "56": "56",
-        "100": "100",
         "137": "137",
-        "43114": "43114",
+        "10": "10",
         "42161": "42161",
+        "100": "100",
+        "43114": "43114",
+        "250": "250",
+        "1313161554": "1313161554",
     }
     _tokens_to_list = True
     absent_chain_id = True

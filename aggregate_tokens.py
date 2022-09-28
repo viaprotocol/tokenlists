@@ -3,8 +3,8 @@ import json
 import logging
 from collections import defaultdict
 
-from common import Address, NATIVE_ADDRESSES, Token, CHAIN_NAMES_BY_ID
-from token_list_providers import tokenlists_providers
+from common import Address, NATIVE_ADDRESSES, NATIVE_ADDR_0x0, NATIVE_ADDR_0xe, Token, CHAIN_NAMES_BY_ID
+from token_list_providers import CoinGeckoTokenLists, Lifinance, OneInchTokenLists, tokenlists_providers
 
 TOKENLISTS_FOLDER = "tokenlists"
 
@@ -28,11 +28,22 @@ async def collect_trusted_tokens() -> dict[int, list[Token]]:
             chain_id = int(_chain_id)
             for token in tokens:
                 addr = Address(token.address.lower())
-                if addr.lower() in NATIVE_ADDRESSES:  # skip native tokens
-                    continue
+                if addr == NATIVE_ADDR_0xe:
+                    addr = NATIVE_ADDR_0x0
+                    token.address = NATIVE_ADDR_0x0
                 if addr in res[chain_id]:
+                    # 1inch has best token logos
+                    if provider_name == OneInchTokenLists.name:
+                        res[chain_id][addr].logoURI = token.logoURI
+                    # coingecko and lifinance have worst token logos
+                    elif (
+                        provider_name not in (Lifinance.name, CoinGeckoTokenLists.name) and
+                        ("tokens.1inch.io" not in (res[chain_id][addr].logoURI or []))
+                    ):
+                        res[chain_id][addr].logoURI = token.logoURI
                     if provider_name not in res[chain_id][addr].listedIn:
                         res[chain_id][addr].listedIn.append(provider_name)
+
                 else:
                     res[chain_id][addr] = token
                     res[chain_id][addr].listedIn.append(provider_name)
@@ -45,7 +56,7 @@ async def collect_trusted_tokens() -> dict[int, list[Token]]:
 
     # trusted tokens
     for chain_id, tokens in trusted.items():
-        filename = f"{TOKENLISTS_FOLDER}/{CHAIN_NAMES_BY_ID[str(chain_id)]}.json"
+        filename = f"{TOKENLISTS_FOLDER}/{CHAIN_NAMES_BY_ID.get(str(chain_id), chain_id)}.json"
         with open(filename, "w", encoding="utf-8") as f:
             json.dump([t.dict() for t in tokens], f, ensure_ascii=False, indent=4)
     with open(f"{TOKENLISTS_FOLDER}/all.json", "w", encoding="utf-8") as f:
@@ -53,7 +64,7 @@ async def collect_trusted_tokens() -> dict[int, list[Token]]:
 
     # all tokens found
     for chain_id, tokens in all_tokens.items():
-        filename = f"{ALL_TOKENS_FOLDER}/{CHAIN_NAMES_BY_ID[str(chain_id)]}.json"
+        filename = f"{ALL_TOKENS_FOLDER}/{CHAIN_NAMES_BY_ID.get(str(chain_id), chain_id)}.json"
         with open(filename, "w", encoding="utf-8") as f:
             json.dump([t.dict() for t in tokens], f, ensure_ascii=False, indent=4)
     with open(f"{ALL_TOKENS_FOLDER}/all.json", "w", encoding="utf-8") as f:
