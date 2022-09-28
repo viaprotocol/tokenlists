@@ -10693,26 +10693,15 @@
     {
         "symbol": "MATIC",
         "name": "Polygon",
-        "address": "0x0000000000000000000000000000000000001010",
-        "decimals": "18",
-        "chainId": 137,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1637561049975_1903381661429342.png",
-        "coingeckoId": "matic-network",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "symbol": "MATIC",
-        "name": "MATIC",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": "18",
         "chainId": 137,
         "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
-        "coingeckoId": null,
+        "coingeckoId": "matic-network",
         "listedIn": [
+            "coingecko",
             "1inch",
+            "openocean",
             "rubic",
             "lifinance",
             "xyfinance"

@@ -4,6 +4,14 @@ import httpx
 
 from common import Address
 
+CHAIN_ID_TO_NATIVE_COIN_COINGECKO_ID = {
+    1: 'ethereum', 3: 'ethereum', 4: 'ethereum', 5: 'ethereum', 56: 'binancecoin', 97: 'binancecoin', 100: 'gnosis',
+    137: 'matic-network', 80001: 'matic-network', 250: 'fantom', 4002: 'fantom', 43114: 'avalanche-2',
+    43113: 'avalanche-2', 10: 'ethereum', 69: 'ethereum', 42161: 'ethereum', 421611: 'ethereum', 1285: 'moonriver',
+    66: 'oec-token', 1666600000: 'harmony', 128: 'huobi', 1313161554: 'ethereum', 592: 'astar', 1284: 'moonbeam',
+    321: 'kucoin-shares', 25: 'crypto-com-chain', 122: 'fuse-network-token', 1818: 'cube-network', 42220: 'celo',
+    288: 'ethereum'
+}
 
 def get_coingecko_ids() -> dict[str, dict[Address, str]]:
     chain_id_to_coingecko_platform = {

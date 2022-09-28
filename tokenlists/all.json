@@ -668,7 +668,7 @@
             "decimals": "18",
             "chainId": 1284,
             "logoURI": "https://api.rubic.exchange/assets/moonbeam/0x0000000000000000000000000000000000000000/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "moonbeam",
             "listedIn": [
                 "rubic",
                 "lifinance"
@@ -3149,7 +3149,7 @@
             "decimals": "18",
             "chainId": 42161,
             "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
-            "coingeckoId": null,
+            "coingeckoId": "ethereum",
             "listedIn": [
                 "1inch",
                 "openocean",
@@ -26110,7 +26110,7 @@
             "decimals": "18",
             "chainId": 56,
             "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c_1.png",
-            "coingeckoId": null,
+            "coingeckoId": "binancecoin",
             "listedIn": [
                 "1inch",
                 "openocean",
@@ -26805,7 +26805,7 @@
             "decimals": "18",
             "chainId": 66,
             "logoURI": "https://cloudstorage.openocean.finance/images/1650002331626_7782774638975714.png",
-            "coingeckoId": null,
+            "coingeckoId": "oec-token",
             "listedIn": [
                 "openocean",
                 "lifinance"
@@ -31681,7 +31681,7 @@
             "decimals": "18",
             "chainId": 250,
             "logoURI": "https://tokens.1inch.io/0x4e15361fd6b4bb609fa63c81a2be19d873717870.png",
-            "coingeckoId": null,
+            "coingeckoId": "fantom",
             "listedIn": [
                 "1inch",
                 "openocean",
@@ -33484,7 +33484,7 @@
             "decimals": "18",
             "chainId": 10,
             "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
-            "coingeckoId": null,
+            "coingeckoId": "ethereum",
             "listedIn": [
                 "1inch",
                 "openocean",
@@ -44188,26 +44188,15 @@
         {
             "symbol": "MATIC",
             "name": "Polygon",
-            "address": "0x0000000000000000000000000000000000001010",
-            "decimals": "18",
-            "chainId": 137,
-            "logoURI": "https://cloudstorage.openocean.finance/images/1637561049975_1903381661429342.png",
-            "coingeckoId": "matic-network",
-            "listedIn": [
-                "coingecko",
-                "openocean"
-            ]
-        },
-        {
-            "symbol": "MATIC",
-            "name": "MATIC",
             "address": "0x0000000000000000000000000000000000000000",
             "decimals": "18",
             "chainId": 137,
             "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
-            "coingeckoId": null,
+            "coingeckoId": "matic-network",
             "listedIn": [
+                "coingecko",
                 "1inch",
+                "openocean",
                 "rubic",
                 "lifinance",
                 "xyfinance"
@@ -49627,7 +49616,7 @@
             "decimals": "18",
             "chainId": 43114,
             "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
-            "coingeckoId": null,
+            "coingeckoId": "avalanche-2",
             "listedIn": [
                 "1inch",
                 "openocean",
@@ -51435,7 +51424,7 @@
             "decimals": "18",
             "chainId": 25,
             "logoURI": "https://assets.coingecko.com/coins/images/7310/small/oCw2s3GI_400x400.jpeg?1645172042",
-            "coingeckoId": null,
+            "coingeckoId": "crypto-com-chain",
             "listedIn": [
                 "lifinance",
                 "xyfinance"
@@ -52761,7 +52750,7 @@
             "decimals": "18",
             "chainId": 1313161554,
             "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
-            "coingeckoId": null,
+            "coingeckoId": "ethereum",
             "listedIn": [
                 "1inch",
                 "rubic"
@@ -56317,7 +56306,7 @@
             "decimals": "18",
             "chainId": 100,
             "logoURI": "https://api.rubic.exchange/assets/xdai/0x0000000000000000000000000000000000000000/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "gnosis",
             "listedIn": [
                 "1inch",
                 "openocean",
@@ -96355,7 +96344,7 @@
             "decimals": "18",
             "chainId": 1,
             "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
-            "coingeckoId": null,
+            "coingeckoId": "ethereum",
             "listedIn": [
                 "1inch",
                 "openocean",
