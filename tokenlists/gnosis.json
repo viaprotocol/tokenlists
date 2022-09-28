@@ -134,7 +134,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -150,6 +149,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -206,9 +206,9 @@
         ]
     },
     {
-        "symbol": "HEX",
-        "name": "HEX on xDai",
-        "address": "0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a",
+        "symbol": "UBT",
+        "name": "UniBright on xDai",
+        "address": "0xd3b93fF74E43Ba9568e5019b38AdDB804feF719B",
         "decimals": "8",
         "chainId": 100,
         "logoURI": null,
@@ -242,20 +242,6 @@
         "listedIn": [
             "openocean",
             "rubic",
-            "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
-        "symbol": "NODE",
-        "name": "DAppNode DAO Token on xDai",
-        "address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -283,7 +269,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -400,19 +385,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "symbol": "PROPHET",
-        "name": "prophet.finance on xDai",
-        "address": "0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937",
-        "decimals": "9",
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
         ]
     },
     {
@@ -571,19 +543,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "symbol": "BNS",
-        "name": "BNS Token on xDai",
-        "address": "0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364",
-        "decimals": "8",
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
         ]
     },
     {
@@ -763,19 +722,6 @@
         ]
     },
     {
-        "symbol": "AKRO",
-        "name": "Akropolis on xDai",
-        "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xd27e1ecc4748f42e052331bea917d89beb883fc3/46d71fd497d2e925c4a45ce2e85c9969.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "REALT-S-10612-SOMER",
         "name": "RealT   10612 Somerset Ave  Detroit  MI",
         "address": "0xD1c15CEbfDcd16F00D91666bf64C8b66CbF5e9b5",
@@ -853,6 +799,7 @@
         "listedIn": [
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1277,7 +1224,6 @@
             "coingecko",
             "openocean",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1321,19 +1267,6 @@
         ]
     },
     {
-        "symbol": "AUDIO",
-        "name": "Audius on xDai",
-        "address": "0x8A95ea379E1Fa4C749dd0A7A21377162028C479e",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x8a95ea379e1fa4c749dd0a7a21377162028c479e/8c4d2409af350ab696f37b9fde9d378d.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "REALT-S-10604-SOMER",
         "name": "RealT   10604 Somerset Ave  Detroit  MI",
         "address": "0x8626B38267e4FC0D8C92E0bB86F97Acab3f6AA05",
@@ -1356,8 +1289,7 @@
         "coingeckoId": "swash",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -1401,7 +1333,6 @@
             "1inch",
             "sushiswap",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1434,19 +1365,6 @@
         ]
     },
     {
-        "symbol": "PERP",
-        "name": "Perpetual on xDai",
-        "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "REALT-S-15039-WARD-",
         "name": "RealT   15039 Ward Ave  Detroit  MI 482",
         "address": "0x7E95b310724334FF74537dc08bfD3377d25E65Ce",
@@ -1460,12 +1378,12 @@
         ]
     },
     {
-        "symbol": "CVP",
-        "name": "Concentrated Voting Power on xDai",
-        "address": "0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0",
+        "symbol": "MANA",
+        "name": "Decentraland MANA on xDai",
+        "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": null,
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7838796b6802b18d7ef58fc8b757705d6c9d12b3/c83dcbf8bae0f6cd1e31c6e176ce5155.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -1725,6 +1643,19 @@
         ]
     },
     {
+        "symbol": "MOON",
+        "name": "MoonToken on xDai",
+        "address": "0x5b917D4fb9B27591353211c32F1552A527987AFC",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-11201-COLLE",
         "name": "RealT   11201 College St  Detroit  MI 4",
         "address": "0x5E2a09064B2DCa8c44aaD8A5b69a69Bb1854fE72",
@@ -1748,7 +1679,6 @@
         "listedIn": [
             "1inch",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1775,7 +1705,8 @@
         "coingeckoId": "swapr",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1894,19 +1825,6 @@
         ]
     },
     {
-        "symbol": "ALEPH",
-        "name": "aleph.im v2 on xDai",
-        "address": "0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x4bc97997883c0397f556bd0f9da6fb71da22f9a2/e3caf1342194c92f5c014869289a1a4e.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "REALT-S-17813-BRADF",
         "name": "RealT   17813 Bradford St  Detroit  MI ",
         "address": "0x499A6c19F5537dd6005E2B5c6E1263103f558Ba4",
@@ -1973,7 +1891,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2043,6 +1960,7 @@
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2129,6 +2047,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2287,7 +2206,8 @@
         "coingeckoId": "jarvis-synthetic-swiss-franc",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2401,19 +2321,6 @@
         ]
     },
     {
-        "symbol": "ZRX",
-        "name": "0x Protocol Token on xDai",
-        "address": "0x226bCf0e417428a25012d0fA2183d37f92bCeDF6",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x226bcf0e417428a25012d0fa2183d37f92bcedf6/6399b265ac056e5168a1144d39e5ab16.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "FOX",
         "name": "ShapeShift FOX",
         "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
@@ -2453,6 +2360,7 @@
             "1inch",
             "sushiswap",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },

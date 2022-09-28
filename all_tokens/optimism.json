@@ -85,18 +85,6 @@
         ]
     },
     {
-        "symbol": "anyFRAX",
-        "name": "Frax",
-        "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-        "decimals": "18",
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ELK",
         "name": "Elk",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -166,7 +154,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17238/thumb/aWETH_2x.png?1626940782",
         "coingeckoId": "aave-weth",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -550,7 +539,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24622/thumb/MNTO_200x200.png?1648448664",
         "coingeckoId": "minato",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -991,18 +981,6 @@
         "listedIn": [
             "coingecko",
             "optimism",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "UST",
-        "name": "TerraUSD",
-        "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
-        "decimals": "6",
-        "chainId": 10,
-        "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80/49f7b373942084bed37fba73899ecf58.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -1948,18 +1926,6 @@
         ]
     },
     {
-        "symbol": "vAPE",
-        "name": "vAPE",
-        "address": "0x9d34F1D15C22e4C0924804e2a38cBe93DFB84bc2",
-        "decimals": "18",
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "OPP",
         "name": "OptimismPad",
         "address": "0x9E841f05Dc2b92199F3FCE96bDEfc36A08Dcb9F6",
@@ -1968,7 +1934,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27015/thumb/200x200.png?1661478401",
         "coingeckoId": "optimismpad",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2131,8 +2098,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25989/thumb/BYE.png?1655188679",
         "coingeckoId": "basis-yield-eth-index",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -2350,7 +2316,7 @@
     },
     {
         "symbol": "USDCx",
-        "name": "Super USD Coin",
+        "name": "Superfluid USDC",
         "address": "0x8430F084B939208E2eDEd1584889C9A66B90562f",
         "decimals": "18",
         "chainId": 10,
@@ -2417,7 +2383,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14242/thumb/aDAI.84b6c41f.png?1615528749",
         "coingeckoId": "aave-dai",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2459,7 +2426,7 @@
     },
     {
         "symbol": "DAIx",
-        "name": "Super Dai Stablecoin",
+        "name": "Superfluid XDAI",
         "address": "0x7d342726B69C28D942ad8BfE6Ac81b972349d524",
         "decimals": "18",
         "chainId": 10,
@@ -2857,7 +2824,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14243/thumb/aUSDT.78f5faae.png?1615528400",
         "coingeckoId": "aave-usdt",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3104,7 +3072,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14318/thumb/aUSDC.e260d492.png?1615527797",
         "coingeckoId": "aave-usdc",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3440,18 +3409,6 @@
         "coingeckoId": "coreto",
         "listedIn": [
             "dfyn"
-        ]
-    },
-    {
-        "symbol": "anyDAI",
-        "name": "Dai Stablecoin",
-        "address": "0x4f3Aff3A747fCADe12598081e80c6605A8be192F",
-        "decimals": "18",
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -3879,8 +3836,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/16271/thumb/uS04dyYy_400x400.jpeg?1663051098",
         "coingeckoId": "alchemix-eth",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -4084,6 +4040,18 @@
         ]
     },
     {
+        "symbol": "anyWBTC",
+        "name": "Wrapped BTC",
+        "address": "0x338726dd694dB9e2230eC2bB8624a2d7F566C96d",
+        "decimals": "8",
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OUTb",
         "name": "OptimismUselessToken-Bridged",
         "address": "0x32B3b2281717dA83463414af4E8CfB1970E56287",
@@ -4250,7 +4218,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -4994,8 +4963,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1615528721",
         "coingeckoId": "aave-wbtc",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {

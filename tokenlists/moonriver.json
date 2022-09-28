@@ -79,7 +79,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -114,19 +113,6 @@
         ]
     },
     {
-        "symbol": "ATH",
-        "name": "ATH",
-        "address": "0xa8E472b1446E6d9Fb97A9478e5BC13fF1815e730",
-        "decimals": "18",
-        "chainId": 1285,
-        "logoURI": "https://api.rubic.exchange/assets/moonriver/0xa8e472b1446e6d9fb97a9478e5bc13ff1815e730/logo.png",
-        "coingeckoId": "athena-money",
-        "listedIn": [
-            "rubic",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ANKR",
         "name": "Ankr",
         "address": "0xFd301Ca82D007880e678bB750a771550C5104Ff2",
@@ -136,8 +122,7 @@
         "coingeckoId": "ankr",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -202,8 +187,7 @@
         "coingeckoId": "bitcoin-br",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -232,8 +216,7 @@
         "coingeckoId": "templardao",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -274,8 +257,7 @@
         "coingeckoId": "moonwell",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -335,8 +317,7 @@
         "coingeckoId": "huckleberry",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -365,8 +346,7 @@
         "coingeckoId": "impermax",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -688,6 +668,19 @@
         ]
     },
     {
+        "symbol": "RIVRSAITAMA",
+        "name": "RivrSaitama",
+        "address": "0x343E8F5A79C324105dFC1F5644f9d8C31Cf75e5E",
+        "decimals": "18",
+        "chainId": 1285,
+        "logoURI": "https://api.rubic.exchange/assets/moonriver/0x343e8f5a79c324105dfc1f5644f9d8c31cf75e5e/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "IDIA",
         "name": "Impossible Finance Launchpad",
         "address": "0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70",
@@ -841,8 +834,7 @@
         "coingeckoId": "amara-finance",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {

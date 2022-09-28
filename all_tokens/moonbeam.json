@@ -1,5 +1,29 @@
 [
     {
+        "symbol": "xcACA",
+        "name": "Acala",
+        "address": "0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f",
+        "decimals": "12",
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "xcaUSD",
+        "name": "Acala Dollar",
+        "address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
+        "decimals": "12",
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "IDIA",
         "name": "Impossible Decentralized Incubator Access Token",
         "address": "0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd",
@@ -126,7 +150,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27306/thumb/Raresama_Logo.png?1663238966",
         "coingeckoId": "raresama",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "xcIBTC",
+        "name": "interBTC",
+        "address": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52",
+        "decimals": "8",
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -164,6 +201,18 @@
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BUSD",
+        "name": "Binance USD (Celer)",
+        "address": "0xCb4A7569a61300C50Cf80A2be16329AD9F5F8F9e",
+        "decimals": "18",
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -315,6 +364,18 @@
         "listedIn": [
             "sushiswap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD (Celer)",
+        "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+        "decimals": "6",
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c/3c1a718331e468abe1fc2ebe319f6c77.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -479,7 +540,8 @@
         "coingeckoId": "moonwell-artemis",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -635,18 +697,6 @@
         ]
     },
     {
-        "symbol": "CGS",
-        "name": "Cougar Token",
-        "address": "0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F",
-        "decimals": "18",
-        "chainId": 1284,
-        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x2dfc76901bb2ac2a5fa5fc479590a490bbb10a5f/40b0b77c20fe0adbb0f21ae261c41786.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "FXS",
         "name": "Frax Share",
         "address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
@@ -732,7 +782,8 @@
         "coingeckoId": "alium-finance",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -784,6 +835,18 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "xStella",
+        "name": "XStella",
+        "address": "0x06A3b410b681c82417A906993aCeFb91bAB6A080",
+        "decimals": "18",
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },

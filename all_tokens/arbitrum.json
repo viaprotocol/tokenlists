@@ -888,7 +888,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1651,18 +1652,6 @@
         ]
     },
     {
-        "symbol": "plsDPX",
-        "name": "Plutus DPX",
-        "address": "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1",
-        "decimals": "18",
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1/fc2be23843f62589e32b3d48f8441f62.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "DAI",
         "name": "DAI",
         "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
@@ -1684,7 +1673,8 @@
         "coingeckoId": "minato",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1725,6 +1715,18 @@
             "coingecko",
             "arbitrum_bridge",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "jDPX",
+        "name": "Jones DPX",
+        "address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xf018865b26ffab9cd1735dcca549d95b0cb9ea19/79258c411d40a15bf69ce9f710d9379a.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -1888,6 +1890,18 @@
         ]
     },
     {
+        "symbol": "hETH",
+        "name": "ETH Hop Token",
+        "address": "0xDa7c0de432a9346bB6e96aC74e3B61A36d8a77eB",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "NFD",
         "name": "Feisty Doge NFT",
         "address": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
@@ -2025,8 +2039,7 @@
         "coingeckoId": "sperax-usd",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -2052,6 +2065,18 @@
         "listedIn": [
             "arbitrum_bridge",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "PRICES",
+        "name": "PRICES",
+        "address": "0xD39Fe405c2Edb420f050EE6534Acb888E09AcdA6",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -2103,18 +2128,6 @@
         ]
     },
     {
-        "symbol": "HOP-LP-USDT",
-        "name": "Hop USDT LP Token",
-        "address": "0xCe3B19D820CB8B9ae370E423B0a329c4314335fE",
-        "decimals": "18",
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "WBNB",
         "name": "Wrapped BNB from BSC",
         "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
@@ -2161,8 +2174,7 @@
         "coingeckoId": "mycelium",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -2409,7 +2421,8 @@
         "listedIn": [
             "coingecko",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2434,18 +2447,6 @@
         "coingeckoId": "oxbitcoin",
         "listedIn": [
             "arbitrum_bridge"
-        ]
-    },
-    {
-        "symbol": "HOP-LP-USDC",
-        "name": "Hop USDC LP Token",
-        "address": "0xB67c014FA700E69681a673876eb8BAFAA36BFf71",
-        "decimals": "18",
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -2485,7 +2486,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3065,6 +3067,18 @@
         ]
     },
     {
+        "symbol": "CRYPTO",
+        "name": "New Crypto Space",
+        "address": "0x9842989969687f7d249d01Cae1D2ff6b7b6b6D35",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "USDC",
         "name": "USDC",
         "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
@@ -3211,7 +3225,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27056/thumb/liqd.png?1661513443",
         "coingeckoId": "liquid-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3483,7 +3498,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3993,18 +4009,6 @@
         ]
     },
     {
-        "symbol": "APE",
-        "name": "ApeCoin",
-        "address": "0x74885b4D524d497261259B38900f54e6dbAd2210",
-        "decimals": "18",
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "wsOHM",
         "name": "Wrapped sOHM",
         "address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
@@ -4186,7 +4190,8 @@
         "coingeckoId": "aave-usdt",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4357,18 +4362,6 @@
         "coingeckoId": "betswap-gg",
         "listedIn": [
             "RouterProtocol"
-        ]
-    },
-    {
-        "symbol": "HOP-LP-DAI",
-        "name": "Hop DAI LP Token",
-        "address": "0x68f5d998F00bB2460511021741D098c05721d8fF",
-        "decimals": "18",
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -4648,7 +4641,7 @@
     },
     {
         "symbol": "iZi",
-        "name": "izumi Token",
+        "name": "Izumi Finance",
         "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
         "decimals": "18",
         "chainId": 42161,
@@ -4889,6 +4882,18 @@
         "coingeckoId": "nusd",
         "listedIn": [
             "arbitrum_bridge"
+        ]
+    },
+    {
+        "symbol": "MATIC",
+        "name": "Matic Token",
+        "address": "0x561877b6b3DD7651313794e5F2894B2F18bE0766",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -5215,8 +5220,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27288/thumb/nishib_logo.png?1663143249",
         "coingeckoId": "nitroshiba",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -5982,6 +5986,18 @@
         ]
     },
     {
+        "symbol": "anyUSDC",
+        "name": "USD Coin (Arb1)",
+        "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+        "decimals": "6",
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MCN",
         "name": "MCN.VENTURES",
         "address": "0x338726dd694dB9e2230eC2bB8624a2d7F566C96d",
@@ -6495,8 +6511,7 @@
         "coingeckoId": "deri-protocol",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -6569,6 +6584,18 @@
         "coingeckoId": "uniswap",
         "listedIn": [
             "arbitrum_bridge"
+        ]
+    },
+    {
+        "symbol": "jrDPX",
+        "name": "Jones rDPX",
+        "address": "0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -6647,7 +6674,7 @@
     },
     {
         "symbol": "USDCx",
-        "name": "Super USD Coin (Arb1)",
+        "name": "Superfluid USDC",
         "address": "0x1Dbc1809486460DcD189b8a15990bCa3272Ee04e",
         "decimals": "18",
         "chainId": 42161,
@@ -7137,7 +7164,8 @@
         "coingeckoId": "radiant-capital",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -7188,6 +7216,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "CRYPTO",
+        "name": "New Crypto Space",
+        "address": "0x0951F0a2F9dcF79DE6f9F1815751409260E6D961",
+        "decimals": "18",
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {

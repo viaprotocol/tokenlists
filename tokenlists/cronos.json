@@ -132,6 +132,7 @@
         "coingeckoId": "cronosphere",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "cronaswap"
         ]
     },
@@ -188,19 +189,6 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "SHIB",
-        "name": "SHIBA INU",
-        "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
-        "decimals": "18",
-        "chainId": 25,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "cronaswap"
         ]
     },
     {
@@ -275,6 +263,19 @@
         ]
     },
     {
+        "symbol": "LHRC",
+        "name": "Lazy Horse Race Club",
+        "address": "0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://static.debank.com/image/cro_token/logo_url/0xefd450027bd0ee84afafbc75f5a80c367efbf651/64da3e7d26ca3f87ed3a14240d908e61.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "cronaswap"
+        ]
+    },
+    {
         "symbol": "NESS",
         "name": "Darkness Share",
         "address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
@@ -285,6 +286,19 @@
         "listedIn": [
             "coingecko",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "BTCBR",
+        "name": "Bitcoin BR",
+        "address": "0xE57425F1598f9b0d6219706b77f4b3DA573a3695",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/21205/thumb/btcbr.png?1661666691",
+        "coingeckoId": "bitcoin-br",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -301,6 +315,19 @@
         ]
     },
     {
+        "symbol": "CRON",
+        "name": "CronosNode",
+        "address": "0xD8eB4845B094e05f4d01d7BB3468238076F744f1",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/26359/thumb/V5-transparent.png?1657593867",
+        "coingeckoId": "cronosnode",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "10SHARE",
         "name": "10SHARE",
         "address": "0xD8d40DcEE0C2B486EEBd1FEDb3F507B011De7Ff0",
@@ -308,19 +335,6 @@
         "chainId": 25,
         "logoURI": "https://assets.coingecko.com/coins/images/26219/thumb/10mb_share_200.png?1656638041",
         "coingeckoId": "10share",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "TIGER",
-        "name": "Tiger Scrub Money",
-        "address": "0xD6597AA36DD90d7fCcBd7B8A228F2d5CdC88eAd0",
-        "decimals": "18",
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/24951/thumb/tiger.png?1649504961",
-        "coingeckoId": "tiger-scrub-money",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -349,7 +363,6 @@
         "coingeckoId": "crogecoin",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -395,19 +408,6 @@
         ]
     },
     {
-        "symbol": "MAGUS",
-        "name": "Magus Nodes",
-        "address": "0xA57ca211cd6820bd3d930978271538d07e31A212",
-        "decimals": "6",
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/25776/thumb/da8dc4_c44a030347ac48dd9df5ec1bc5306ef0_mv2.png?1653631535",
-        "coingeckoId": "magus-nodes",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "AGL",
         "name": "Agile",
         "address": "0xA4434AFEae0dECb9820D906BF01b13291D00651a",
@@ -417,7 +417,6 @@
         "coingeckoId": "agile",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "cronaswap"
         ]
     },
@@ -457,6 +456,7 @@
         "coingeckoId": "mmfinance",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -511,9 +511,21 @@
         "coingeckoId": "cronodes",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "xyfinance",
             "cronaswap"
+        ]
+    },
+    {
+        "symbol": "CRP",
+        "name": "CRO Predict",
+        "address": "0x7b8aD6d7560FAcd1959cfb4b4163D7d297c4bFc0",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/23364/thumb/SAVE_20220126_232119.jpg?1643947481",
+        "coingeckoId": "cro-predict",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -530,25 +542,25 @@
         ]
     },
     {
-        "symbol": "FIRA",
-        "name": "Fira  Cronos ",
-        "address": "0x7ABa852082b6F763E13010CA33B5D9Ea4EeE2983",
-        "decimals": "18",
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/27211/thumb/fira-flat.png?1662609278",
-        "coingeckoId": "fira-cronos",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "AVAX",
         "name": "Avalanche",
         "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
         "decimals": "18",
         "chainId": 25,
         "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x765277eebeca2e31912c9946eae1021199b39c61/f3b29c5c5518c9e01ef4ae0fe6719832.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "cronaswap"
+        ]
+    },
+    {
+        "symbol": "CRNF",
+        "name": "CroNodes Finance",
+        "address": "0x6eDd4e7A5bd9688AAb374E5A0447c2A2FF10fAEA",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -715,7 +727,6 @@
         "coingeckoId": "mad-meerkat-optimizer",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -757,6 +768,19 @@
         "listedIn": [
             "coingecko",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "ALI",
+        "name": "Alethea Artificial Liquid Intelligence",
+        "address": "0x45C135C1CDCE8d25A3B729A28659561385C52671",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/22062/thumb/alethea-logo-transparent-colored.png?1642748848",
+        "coingeckoId": "alethea-artificial-liquid-intelligence-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -841,6 +865,32 @@
         ]
     },
     {
+        "symbol": "RLM",
+        "name": "MarbleVerse",
+        "address": "0x19258a1df9E929D02b34621CF52797998aE1Aa27",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/24844/thumb/RLM200x200.png?1649109426",
+        "coingeckoId": "rollium",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MIMAS",
+        "name": "Mimas Finance",
+        "address": "0x10C9284E6094b71D3CE4E38B8bFfc668199da677",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/22516/thumb/mimas.PNG?1641967894",
+        "coingeckoId": "mimas-finance",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WADA",
         "name": "Wrapped ADA",
         "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
@@ -850,7 +900,6 @@
         "coingeckoId": "wrapped-ada",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "cronaswap"
         ]
     },
@@ -869,6 +918,19 @@
         ]
     },
     {
+        "symbol": "MINE",
+        "name": "Mine Shares",
+        "address": "0x0944d9a8Dea16af1170c51E8DD3921C727A06cBd",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/26444/thumb/Logotype_Fashion_Store_Logo_Neon_%282%29-modified.png?1658110350",
+        "coingeckoId": "mine-shares",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SINGLE",
         "name": "Single Finance",
         "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
@@ -883,6 +945,19 @@
         ]
     },
     {
+        "symbol": "SH33P",
+        "name": "Degen Protocol",
+        "address": "0x0694c9bf930b7456712cEde98bE770e110212B38",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/22464/thumb/96222235.png?1641883603",
+        "coingeckoId": "degen-protocol-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CRK",
         "name": "Croking",
         "address": "0x065DE42E28E42d90c2052a1B49e7f83806Af0e1F",
@@ -892,6 +967,7 @@
         "coingeckoId": "croking",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -922,6 +998,19 @@
         "listedIn": [
             "lifinance",
             "cronaswap"
+        ]
+    },
+    {
+        "symbol": "10MB",
+        "name": "10mb",
+        "address": "0x02A8Dc66334B1cc6CD8F28Fe8DBF6b58B49b47B6",
+        "decimals": "18",
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/26218/thumb/10mb_logo_200.png?1656637898",
+        "coingeckoId": "10mb",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
