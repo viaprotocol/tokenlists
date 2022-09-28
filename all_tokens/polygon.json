@@ -4766,6 +4766,18 @@
         ]
     },
     {
+        "symbol": "LUMIII",
+        "name": "LumiiiToken",
+        "address": "0xED88227296943857409A8e0f15Ad7134e70D0F73",
+        "decimals": "18",
+        "chainId": 137,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "quickswap"
+        ]
+    },
+    {
         "symbol": "ELIXIR",
         "name": "Starchi",
         "address": "0xED0bb69f9F96E8C5FffdF16c468eceC385134eA5",
@@ -7100,6 +7112,18 @@
         "decimals": "18",
         "chainId": 137,
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xe840b73e5287865eec17d250bfb1536704b43b21/8d72747ec45f49e310be371a7204a52a.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SLP",
+        "name": "SushiSwap LP Token",
+        "address": "0xAaF81437149B8Bf42DED27e32273F6f6A0089Ce7",
+        "decimals": "18",
+        "chainId": 137,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -20284,6 +20308,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
+            "quickswap",
             "lifinance"
         ]
     },
@@ -20327,12 +20352,12 @@
     },
     {
         "symbol": "MT",
-        "name": "MT Tower",
+        "name": "MT Token",
         "address": "0x0Da6A7a0A2E7525950204Bb2C511E47a52235B17",
         "decimals": "18",
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/27457/thumb/mt_logo_200x200.png?1664105234",
-        "coingeckoId": "mt-tower",
+        "coingeckoId": "mt-token",
         "listedIn": [
             "coingecko"
         ]
@@ -20400,6 +20425,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "quickswap",
             "lifinance"
         ]
     },

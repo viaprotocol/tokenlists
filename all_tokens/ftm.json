@@ -1927,14 +1927,13 @@
     },
     {
         "symbol": "HSHARE",
-        "name": "Hamster Share",
+        "name": "HSHARE",
         "address": "0xFFEAF32AB5F99F95a9B6dF177ef56D84fb40fc12",
         "decimals": "18",
         "chainId": 250,
-        "logoURI": "https://assets.coingecko.com/coins/images/24627/thumb/Property_1_HamShare.png?1648456825",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0xffeaf32ab5f99f95a9b6df177ef56d84fb40fc12/logo.png",
         "coingeckoId": "hamster-share",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -8635,14 +8634,13 @@
     },
     {
         "symbol": "HAM",
-        "name": "Hamster Money",
+        "name": "HAM",
         "address": "0x20AC818b34A60117E12ffF5bE6AbbEF68BF32F6d",
         "decimals": "18",
         "chainId": 250,
-        "logoURI": "https://assets.coingecko.com/coins/images/24626/thumb/Property_1_HamToken_%281%29.png?1648456622",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x20ac818b34a60117e12fff5be6abbef68bf32f6d/logo.png",
         "coingeckoId": "hamster-money",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },

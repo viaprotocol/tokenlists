@@ -19650,6 +19650,19 @@
             ]
         },
         {
+            "symbol": "MATE",
+            "name": "Mate",
+            "address": "0x2198B69B36B86F250549d26D69C5957912A34Ec2",
+            "decimals": "18",
+            "chainId": 56,
+            "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x2198b69b36b86f250549d26d69c5957912a34ec2/logo.png",
+            "coingeckoId": "mate",
+            "listedIn": [
+                "rubic",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "WETH",
             "name": "WETH",
             "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
@@ -20817,7 +20830,7 @@
             "address": "0x134B372f5543C5CCa30Be6a796Da032c8274bDdF",
             "decimals": "18",
             "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/14401/thumb/Coingecko_Logo1.png?1664247279",
+            "logoURI": "https://assets.coingecko.com/coins/images/14401/thumb/Blue_Icon_512_x_512.png?1664359178",
             "coingeckoId": "labs-group",
             "listedIn": [
                 "coingecko",
@@ -23902,19 +23915,6 @@
                 "SpookySwap",
                 "rubic",
                 "lifinance"
-            ]
-        },
-        {
-            "symbol": "HSHARE",
-            "name": "Hamster Share",
-            "address": "0xFFEAF32AB5F99F95a9B6dF177ef56D84fb40fc12",
-            "decimals": "18",
-            "chainId": 250,
-            "logoURI": "https://assets.coingecko.com/coins/images/24627/thumb/Property_1_HamShare.png?1648456825",
-            "coingeckoId": "hamster-share",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -27166,19 +27166,6 @@
                 "coingecko",
                 "openocean",
                 "lifinance"
-            ]
-        },
-        {
-            "symbol": "HAM",
-            "name": "Hamster Money",
-            "address": "0x20AC818b34A60117E12ffF5bE6AbbEF68BF32F6d",
-            "decimals": "18",
-            "chainId": 250,
-            "logoURI": "https://assets.coingecko.com/coins/images/24626/thumb/Property_1_HamToken_%281%29.png?1648456622",
-            "coingeckoId": "hamster-money",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -39148,6 +39135,7 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
+                "quickswap",
                 "lifinance"
             ]
         },
@@ -39204,6 +39192,7 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "quickswap",
                 "lifinance"
             ]
         },
@@ -51160,7 +51149,8 @@
             "coingeckoId": "swapr",
             "listedIn": [
                 "coingecko",
-                "rubic"
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -70497,6 +70487,19 @@
             "listedIn": [
                 "coingecko",
                 "arbitrum_bridge",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "DBUY",
+            "name": "Doont Buy",
+            "address": "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782",
+            "decimals": "9",
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/17895/thumb/VaxEiZ3.png?1629727429",
+            "coingeckoId": "doont-buy",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
