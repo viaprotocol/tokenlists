@@ -5,7 +5,7 @@
         "address": "0xff1B4D71Ae12538d86777A954b136cF723fCcEFD",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16600/thumb/14882-Troester-hero-1.jpg?1624542180",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xff1b4d71ae12538d86777a954b136cf723fccefd/logo.png",
         "coingeckoId": "14882-troester",
         "listedIn": [
             "coingecko",
@@ -18,7 +18,7 @@
         "address": "0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb",
         "decimals": "0",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/11471/thumb/MPS.png?1590319120",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb/logo.png",
         "coingeckoId": "mt-pelerin-shares",
         "listedIn": [
             "coingecko",
@@ -32,7 +32,7 @@
         "address": "0xec3f3e6d7907acDa3A7431abD230196CDA3FbB19",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xec3f3e6d7907acda3a7431abd230196cda3fbb19/logo.png",
         "coingeckoId": "ethichub",
         "listedIn": [
             "coingecko",
@@ -45,7 +45,7 @@
         "address": "0xeFe82D6baF0dB71f92889eB9d00721bD49121316",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16629/thumb/4680-Buckingham-hero-1.jpeg?1624553513",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xefe82d6baf0db71f92889eb9d00721bd49121316/logo.png",
         "coingeckoId": "4680-buckingham",
         "listedIn": [
             "coingecko",
@@ -58,7 +58,7 @@
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/17813/thumb/elk.png?1629336971",
+        "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
         "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
@@ -72,7 +72,7 @@
         "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14584/thumb/wrapped-xdai-logo.png?1641888881",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
         "coingeckoId": "wrapped-xdai",
         "listedIn": [
             "coingecko",
@@ -90,7 +90,7 @@
         "address": "0xe887DC4fcb5240c0c080AEAb8870421d3ebd0B28",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16677/thumb/14066-Santa-Rosa-hero-1.5.jpg?1624629250",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28/logo.png",
         "coingeckoId": "14066-santa-rosa",
         "listedIn": [
             "coingecko",
@@ -103,7 +103,7 @@
         "address": "0xe82CBb7C29d00a4296EE505d12a473C26cd9c423",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16625/thumb/10700-Whittier-hero-2.jpg?1624552489",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe82cbb7c29d00a4296ee505d12a473c26cd9c423/logo.png",
         "coingeckoId": "10700-whittier",
         "listedIn": [
             "coingecko",
@@ -116,7 +116,7 @@
         "address": "0xe3902E329Ef2D3FD7666022C139d75BCc984b7a5",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16669/thumb/Freeland-8_jpeg.png?1624627336",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe3902e329ef2d3fd7666022c139d75bcc984b7a5/logo.png",
         "coingeckoId": "15048-freeland",
         "listedIn": [
             "coingecko",
@@ -129,11 +129,12 @@
         "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/13287/thumb/badger_dao_logo.jpg?1607054976",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65/logo.png",
         "coingeckoId": "badger-dao",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -143,13 +144,12 @@
         "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+        "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
         "coingeckoId": "binance-usd",
         "listedIn": [
             "coingecko",
             "1inch",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -159,7 +159,7 @@
         "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xdbcade285846131a5e7384685eaddbdfd9625557/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xdbcadE285846131a5e7384685EADDBDFD9625557/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "rubic",
@@ -172,7 +172,7 @@
         "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/c34bba851a05a13fd725ddaeac24a506.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -185,7 +185,7 @@
         "address": "0xdA47bD33e8f5d17Bb81b8752784bfb46C1c44B2A",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16564/thumb/15350-Greydale-hero-1.jpg?1624460101",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a/logo.png",
         "coingeckoId": "15350-greydale",
         "listedIn": [
             "coingecko",
@@ -198,7 +198,7 @@
         "address": "0xd9e89bFebAe447B42C1Fa85C590716eC8820f737",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16616/thumb/4061-Grand-hero-1.jpeg?1624551866",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd9e89bfebae447b42c1fa85c590716ec8820f737/logo.png",
         "coingeckoId": "4061-grand",
         "listedIn": [
             "coingecko",
@@ -206,12 +206,12 @@
         ]
     },
     {
-        "symbol": "UBT",
-        "name": "UniBright on xDai",
-        "address": "0xd3b93fF74E43Ba9568e5019b38AdDB804feF719B",
+        "symbol": "HEX",
+        "name": "HEX on xDai",
+        "address": "0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a",
         "decimals": "8",
         "chainId": 100,
-        "logoURI": null,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -224,7 +224,7 @@
         "address": "0xce111a198eB04F388AceB78c40ceD6daF1b0514a",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16635/thumb/272-Court-1.jpeg?1624556789",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xce111a198eb04f388aceb78c40ced6daf1b0514a/logo.png",
         "coingeckoId": "272-n-e-42nd-court",
         "listedIn": [
             "coingecko",
@@ -237,11 +237,25 @@
         "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172738536_10745627524089563.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xc81c785653D97766b995D867CF91F56367742eAC/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "NODE",
+        "name": "DAppNode DAO Token on xDai",
+        "address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xc60e38C6352875c051B481Cbe79Dd0383AdB7817/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -251,7 +265,7 @@
         "address": "0xc439E5B1DEe4f866B681E7c5E5dF140aA47fBf19",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": null,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xc439E5B1DEe4f866B681E7c5E5dF140aA47fBf19/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -264,11 +278,12 @@
         "address": "0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd/logo.png",
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -278,7 +293,7 @@
         "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172560013_5813607322389032.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
@@ -307,7 +322,7 @@
         "address": "0xb8403b7730368942a5BFe5aaC04a31B44015b1cc",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16596/thumb/11078-Wayburn-hero-1.jpg?1624541135",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb8403b7730368942a5bfe5aac04a31b44015b1cc/logo.png",
         "coingeckoId": "11078-wayburn",
         "listedIn": [
             "coingecko",
@@ -320,7 +335,7 @@
         "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/11061/thumb/xdai.png?1587714165",
+        "logoURI": "https://tokens.1inch.io/0x0ae055097c6d159879521c384f1d2123d1f195e6.png",
         "coingeckoId": "xdai-stake",
         "listedIn": [
             "coingecko",
@@ -338,7 +353,7 @@
         "address": "0xb5DD2b6E0A0422e069E1D2CC3Ed16533488a05e3",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16565/thumb/12866-Lauder-hero-1.jpg?1624460677",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb5dd2b6e0a0422e069e1d2cc3ed16533488a05e3/logo.png",
         "coingeckoId": "12866-lauder",
         "listedIn": [
             "coingecko",
@@ -351,7 +366,7 @@
         "address": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
         "decimals": "35",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14551/thumb/jN3kkqke_400x400.png?1616990048",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb/logo.png",
         "coingeckoId": "daohaus",
         "listedIn": [
             "coingecko",
@@ -367,7 +382,7 @@
         "address": "0xb09850e2B93aa3AAa1476bF0c007cfc960E2de79",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16604/thumb/14229-Wilshire-hero-1.jpg?1624543967",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb09850e2b93aa3aaa1476bf0c007cfc960e2de79/logo.png",
         "coingeckoId": "14229-wilshire",
         "listedIn": [
             "coingecko",
@@ -380,11 +395,24 @@
         "address": "0xaD91999F534F4075B00bA4231C018e57bdeBb342",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16619/thumb/18983-Alcoy-hero-1.jpg?1624550570",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xad91999f534f4075b00ba4231c018e57bdebb342/logo.png",
         "coingeckoId": "18983-alcoy",
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "PROPHET",
+        "name": "prophet.finance on xDai",
+        "address": "0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937",
+        "decimals": "9",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -393,7 +421,7 @@
         "address": "0xa899e4476FF5dA39Dcd9DDEC7a6e2C651d8614Bf",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/21205/thumb/btcbr.png?1661666691",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa899e4476ff5da39dcd9ddec7a6e2c651d8614bf/logo.png",
         "coingeckoId": "bitcoin-br",
         "listedIn": [
             "coingecko",
@@ -406,7 +434,7 @@
         "address": "0xa81F77E8988b28fB74243B907acE3c83353Dc80a",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16703/thumb/Liberal-1.png?1624643634",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa81f77e8988b28fb74243b907ace3c83353dc80a/logo.png",
         "coingeckoId": "15634-liberal",
         "listedIn": [
             "coingecko",
@@ -419,7 +447,7 @@
         "address": "0xa69D7d4DdF397f3D1E7EbAf108555d1107b3B117",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16690/thumb/Devonshire-3x.jpeg?1624636640",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa69d7d4ddf397f3d1e7ebaf108555d1107b3b117/logo.png",
         "coingeckoId": "9166-devonshire",
         "listedIn": [
             "coingecko",
@@ -432,7 +460,7 @@
         "address": "0xa2b2ae397492C7ed8A4c1e751aC72D2b59947E6b",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16615/thumb/9920-Bishop-hero-1.jpg?1624549554",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa2b2ae397492c7ed8a4c1e751ac72d2b59947e6b/logo.png",
         "coingeckoId": "9920-bishop",
         "listedIn": [
             "coingecko",
@@ -445,7 +473,7 @@
         "address": "0xa137D82197Ea4cdfd5f008A91Ba816b8324F59E1",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16605/thumb/5601-S-Wood-hero-1.jpg?1624544382",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa137d82197ea4cdfd5f008a91ba816b8324f59e1/logo.png",
         "coingeckoId": "5601-s-wood",
         "listedIn": [
             "coingecko",
@@ -458,7 +486,7 @@
         "address": "0xFe17C3C0B6F38cF3bD8bA872bEE7a18Ab16b43fB",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16542/thumb/15777-Ardmore-hero-2.jpg?1624371814",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xfe17c3c0b6f38cf3bd8ba872bee7a18ab16b43fb/logo.png",
         "coingeckoId": "15777-ardmore",
         "listedIn": [
             "coingecko",
@@ -471,7 +499,7 @@
         "address": "0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xfc8b2690f66b46fec8b3ceeb95ff4ac35a0054bc/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "rubic",
@@ -485,7 +513,7 @@
         "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14926/thumb/logo_200x200.png?1626181831",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xfbdd194376de19a88118e84e279b977f165d01b8/logo.png",
         "coingeckoId": "dehive",
         "listedIn": [
             "coingecko",
@@ -499,7 +527,7 @@
         "address": "0xF4657AB08681214Bcb1893aa8E9C7613459250ec",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16675/thumb/1617-S-Avers-hero-1.jpg?1624628860",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xf4657ab08681214bcb1893aa8e9c7613459250ec/logo.png",
         "coingeckoId": "1617-s-avers",
         "listedIn": [
             "coingecko",
@@ -512,7 +540,7 @@
         "address": "0xF18CfFB528eca0ea31D1d6b28BC80d2eca34D14D",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16698/thumb/Andover-25097.jpeg?1624641026",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xf18cffb528eca0ea31d1d6b28bc80d2eca34d14d/logo.png",
         "coingeckoId": "25097-andover",
         "listedIn": [
             "coingecko",
@@ -525,7 +553,7 @@
         "address": "0xEeDc2F5F4D1226759B1AcF9EfA23a99661De6663",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16702/thumb/20200-Lesure-003.jpeg?1624643190",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xeedc2f5f4d1226759b1acf9efa23a99661de6663/logo.png",
         "coingeckoId": "20200-lesure",
         "listedIn": [
             "coingecko",
@@ -538,11 +566,24 @@
         "address": "0xEe2f2212a64Ec3f6BC0F7580e10c53CB38B57508",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16692/thumb/Landsdowne-hero.jpeg?1624638212",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508/logo.png",
         "coingeckoId": "12334-lansdowne",
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "BNS",
+        "name": "BNS Token on xDai",
+        "address": "0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364",
+        "decimals": "8",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -551,7 +592,7 @@
         "address": "0xE7B6dE709fFC3BD237c2f2c800E1002F97A760F3",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16670/thumb/Cortez-facade-1.jpg?1624627398",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3/logo.png",
         "coingeckoId": "4852-4854-w-cortez",
         "listedIn": [
             "coingecko",
@@ -564,7 +605,7 @@
         "address": "0xE5Ce63AC9a08c1EB160889151cD84855F16C94d2",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16685/thumb/Mkinney-hero.jpeg?1624634131",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe5ce63ac9a08c1eb160889151cd84855f16c94d2/logo.png",
         "coingeckoId": "10616-mckinney",
         "listedIn": [
             "coingecko",
@@ -577,7 +618,7 @@
         "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700",
+        "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
         "coingeckoId": "chainlink",
         "listedIn": [
             "coingecko",
@@ -595,7 +636,7 @@
         "address": "0xE255cAF8893382465368b8e1cd4Ef8436ACf0ADE",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16627/thumb/402-S-Kostner-hero-1.jpg?1624553033",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe255caf8893382465368b8e1cd4ef8436acf0ade/logo.png",
         "coingeckoId": "402-s-kostner",
         "listedIn": [
             "coingecko",
@@ -608,7 +649,7 @@
         "address": "0xDd833D0eEF6d5d7Cec781b03c19f3B425F3039Df",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16672/thumb/11957-Olga-hero-1.jpg?1624628071",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xdd833d0eef6d5d7cec781b03c19f3b425f3039df/logo.png",
         "coingeckoId": "11957-olga",
         "listedIn": [
             "coingecko",
@@ -621,7 +662,7 @@
         "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/xdai/0xDF613aF6B44a31299E48131e9347F034347E2F00.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xDF613aF6B44a31299E48131e9347F034347E2F00/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -637,7 +678,7 @@
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+        "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
@@ -655,7 +696,7 @@
         "address": "0xD5d1adf54Fbf73a00b197DdCfDAD7cc27D93002f",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16611/thumb/10629-McKinney-hero-1.jpg?1624545790",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd5d1adf54fbf73a00b197ddcfdad7cc27d93002f/logo.png",
         "coingeckoId": "10629-mckinney",
         "listedIn": [
             "coingecko",
@@ -668,7 +709,7 @@
         "address": "0xD5Fc0C4C4C5ff316e1E91494d963Ff1D52Ba25fF",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16630/thumb/11078-Longview-hero-2.5.jpg?1624553559",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff/logo.png",
         "coingeckoId": "11078-longview",
         "listedIn": [
             "coingecko",
@@ -681,7 +722,7 @@
         "address": "0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93",
         "decimals": "9",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/8445/thumb/amis-newlogo.png?1559633345",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93/logo.png",
         "coingeckoId": "amis",
         "listedIn": [
             "coingecko",
@@ -695,7 +736,7 @@
         "address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12465/thumb/defi_pulse_index_set.png?1600051053",
+        "logoURI": "https://tokens.1inch.io/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b.png",
         "coingeckoId": "defipulse-index",
         "listedIn": [
             "coingecko",
@@ -712,11 +753,24 @@
         "address": "0xD3226B12e6188133b19Ac0419f34B0ed5B10f069",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/23280/thumb/esr.png?1643530883",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
         "coingeckoId": "esportsref",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "AKRO",
+        "name": "Akropolis on xDai",
+        "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xD27E1ECC4748F42e052331BeA917D89bEB883fc3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance",
             "elkfinance"
         ]
@@ -727,7 +781,7 @@
         "address": "0xD1c15CEbfDcd16F00D91666bf64C8b66CbF5e9b5",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16680/thumb/Somerset-3.jpeg?1624630432",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd1c15cebfdcd16f00d91666bf64c8b66cbf5e9b5/logo.png",
         "coingeckoId": "10612-somerset",
         "listedIn": [
             "coingecko",
@@ -740,7 +794,7 @@
         "address": "0xD10Cc63531a514BBa7789682E487Add1f15A51E2",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd10cc63531a514bba7789682e487add1f15a51e2/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xD10Cc63531a514BBa7789682E487Add1f15A51E2/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "rubic",
@@ -754,7 +808,7 @@
         "address": "0xD08d2b199E9E5df407427d4085877d1fDFf3b1d6",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16676/thumb/6923-Greenview.jpeg?1624629085",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd08d2b199e9e5df407427d4085877d1fdff3b1d6/logo.png",
         "coingeckoId": "6923-greenview",
         "listedIn": [
             "coingecko",
@@ -767,7 +821,7 @@
         "address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd057604a14982fe8d88c5fc25aac3267ea142a08/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xD057604A14982FE8D88c5fC25Aac3267eA142a08/logo.png",
         "coingeckoId": "hopr",
         "listedIn": [
             "rubic",
@@ -781,7 +835,7 @@
         "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -794,12 +848,11 @@
         "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/symmetricfinance_32.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -809,7 +862,7 @@
         "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14039/thumb/xgt.png?1613965612",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
         "coingeckoId": "xion-finance",
         "listedIn": [
             "coingecko",
@@ -824,7 +877,7 @@
         "address": "0xBA07997F594A52DF179620284B52B50A4E66227D",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16602/thumb/18776-Sunderland-hero-1.jpg?1624543588",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xba07997f594a52df179620284b52b50a4e66227d/logo.png",
         "coingeckoId": "18776-sunderland",
         "listedIn": [
             "coingecko",
@@ -837,7 +890,7 @@
         "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14395/thumb/unknown.png?1648702694",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300/logo.png",
         "coingeckoId": "particle-2",
         "listedIn": [
             "coingecko",
@@ -852,7 +905,7 @@
         "address": "0xB5D30c28F87acf675Ed5B9f343E5ffF39eC9942C",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16639/thumb/appoline-hero.jpeg?1624559019",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb5d30c28f87acf675ed5b9f343e5fff39ec9942c/logo.png",
         "coingeckoId": "10024-10028-appoline",
         "listedIn": [
             "coingecko",
@@ -865,7 +918,7 @@
         "address": "0xB3D3C1bBcEf737204AADb4fA6D90e974bc262197",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16607/thumb/15796-Hartwell-hero-1.jpeg?1624545151",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb3d3c1bbcef737204aadb4fa6d90e974bc262197/logo.png",
         "coingeckoId": "15796-hartwell",
         "listedIn": [
             "coingecko",
@@ -878,7 +931,7 @@
         "address": "0xB17d999E840e0c1B157Ca5Ab8039Bd958b5fA317",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/5194/thumb/ether1new-transparent.png?1578298993",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xB17d999E840e0c1B157Ca5Ab8039Bd958b5fA317/logo.png",
         "coingeckoId": "ether-1",
         "listedIn": [
             "coingecko",
@@ -892,7 +945,7 @@
         "address": "0xA9F30C907321718e655B74463CA665B690B78894",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16595/thumb/15860-Hartwell-hero-1.jpg?1624540454",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa9f30c907321718e655b74463ca665b690b78894/logo.png",
         "coingeckoId": "15860-hartwell",
         "listedIn": [
             "coingecko",
@@ -905,7 +958,7 @@
         "address": "0xA68b7779504b0AE372ddCC109f8786DB9B91e93e",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16681/thumb/4340-East-71-front.jpeg?1624631910",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa68b7779504b0ae372ddcc109f8786db9b91e93e/logo.png",
         "coingeckoId": "4340-east-71",
         "listedIn": [
             "coingecko",
@@ -918,7 +971,7 @@
         "address": "0xA4eF9Da5BA71Cc0D2e5E877a910A37eC43420445",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/24848/thumb/sgno.png?1649125966",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445/logo.png",
         "coingeckoId": "stakewise-staked-gno",
         "listedIn": [
             "coingecko",
@@ -931,7 +984,7 @@
         "address": "0xA29ae272bC89e5f315B2793925f700045F845d82",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16637/thumb/571-jefferson-corner-1.1.jpg?1624557964",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa29ae272bc89e5f315b2793925f700045f845d82/logo.png",
         "coingeckoId": "581-587-jefferson",
         "listedIn": [
             "coingecko",
@@ -944,7 +997,7 @@
         "address": "0x9fB1d52596c44603198fB0aee434fac3a679f702",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/15725/thumb/jEUR.png?1634046044",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9fb1d52596c44603198fb0aee434fac3a679f702/logo.png",
         "coingeckoId": "jarvis-synthetic-euro",
         "listedIn": [
             "coingecko",
@@ -957,7 +1010,7 @@
         "address": "0x9b5B4886033B4ABc5Eb0552ffF7c15A67C3c47C7",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16610/thumb/11300-Roxbury-hero-1.jpg?1624545386",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9b5b4886033b4abc5eb0552fff7c15a67c3c47c7/logo.png",
         "coingeckoId": "11300-roxbury",
         "listedIn": [
             "coingecko",
@@ -970,7 +1023,7 @@
         "address": "0x9FEF44FC4C571010BCCD5b63e1Cdc807D3b347bF",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16664/thumb/15095-Hartwell-hero-1.jpeg?1624625590",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9fef44fc4c571010bccd5b63e1cdc807d3b347bf/logo.png",
         "coingeckoId": "15095-hartwell",
         "listedIn": [
             "coingecko",
@@ -983,7 +1036,7 @@
         "address": "0x9F923653A19537b5a1b003854A1920fe67a8ffEB",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16678/thumb/13114-Glenfield-Ave.jpeg?1624629523",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9f923653a19537b5a1b003854a1920fe67a8ffeb/logo.png",
         "coingeckoId": "13114-glenfield",
         "listedIn": [
             "coingecko",
@@ -996,7 +1049,7 @@
         "address": "0x9Eb90Ec3FAafC22092C9b91559FdDde538042093",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16697/thumb/18900-Mansfield-flowers.jpeg?1624640555",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9eb90ec3faafc22092c9b91559fddde538042093/logo.png",
         "coingeckoId": "18900-mansfield",
         "listedIn": [
             "coingecko",
@@ -1009,7 +1062,7 @@
         "address": "0x9D918eE39a356bE8eF99734599c7e70160dB4Db6",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16671/thumb/12405-Santa-Rosa-hero-1.jpg?1624627801",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9d918ee39a356be8ef99734599c7e70160db4db6/logo.png",
         "coingeckoId": "12405-santa-rosa",
         "listedIn": [
             "coingecko",
@@ -1022,7 +1075,7 @@
         "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/662/thumb/logo_square_simple_300px.png?1609402668",
+        "logoURI": "https://tokens.1inch.io/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
         "coingeckoId": "gnosis",
         "listedIn": [
             "coingecko",
@@ -1040,7 +1093,7 @@
         "address": "0x9A99f283e1F6c3b7F24901995624Ef7b78E94471",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16663/thumb/18466-Fielding-hero-1.jpeg?1624625063",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9a99f283e1f6c3b7f24901995624ef7b78e94471/logo.png",
         "coingeckoId": "18466-fielding",
         "listedIn": [
             "coingecko",
@@ -1053,7 +1106,7 @@
         "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://xdaipunks.com/punk-200x200.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
@@ -1067,7 +1120,7 @@
         "address": "0x9856C5CA15A4Ac9C65AAC090c38a9f39EB3b5eeC",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16665/thumb/18273-Monte-Vista-hero-1b.jpeg?1624626435",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec/logo.png",
         "coingeckoId": "18273-monte-vista",
         "listedIn": [
             "coingecko",
@@ -1080,7 +1133,7 @@
         "address": "0x981fB9BA94078a2275A8fc906898ea107B9462A8",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/9543/thumb/pan-logo.png?1568674599",
+        "logoURI": "https://tokens.1inch.io/0xd56dac73a4d6766464b38ec6d91eb45ce7457c44.png",
         "coingeckoId": "panvala-pan",
         "listedIn": [
             "coingecko",
@@ -1095,7 +1148,7 @@
         "address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/19084/thumb/tw5gu1dW_400x400.jpeg?1634389807",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f/logo.png",
         "coingeckoId": "daosquare",
         "listedIn": [
             "coingecko",
@@ -1109,7 +1162,7 @@
         "address": "0x969d42ad7008e6651E1Fd52742153F8743225D98",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16668/thumb/12409-Whitehill-hero-1.jpg?1624627067",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x969d42ad7008e6651e1fd52742153f8743225d98/logo.png",
         "coingeckoId": "12409-whitehill",
         "listedIn": [
             "coingecko",
@@ -1122,7 +1175,7 @@
         "address": "0x96700Ffae33c651bC329c3f3fbFE56e1f291f117",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16603/thumb/4380-Beaconsfield-hero-1.jpeg?1624543909",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x96700ffae33c651bc329c3f3fbfe56e1f291f117/logo.png",
         "coingeckoId": "4380-beaconsfield",
         "listedIn": [
             "coingecko",
@@ -1135,7 +1188,7 @@
         "address": "0x9528a7402C0Fe85B817aa6E106EAFa03A02924c4",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16563/thumb/14231-Strathmoor-hero-1.jpg?1624459471",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9528a7402c0fe85b817aa6e106eafa03a02924c4/logo.png",
         "coingeckoId": "14231-strathmoor",
         "listedIn": [
             "coingecko",
@@ -1148,7 +1201,7 @@
         "address": "0x94Fa7F8cb8453AD57cd133363b3012044647078C",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16634/thumb/1244-S-Avers-hero-3.jpeg?1624555551",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x94fa7f8cb8453ad57cd133363b3012044647078c/logo.png",
         "coingeckoId": "1244-s-avers",
         "listedIn": [
             "coingecko",
@@ -1161,7 +1214,7 @@
         "address": "0x92d31E19F88597F368825ba16410f263a844527A",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16566/thumb/8181-Bliss-hero-1.jpg?1624461101",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x92d31e19f88597f368825ba16410f263a844527a/logo.png",
         "coingeckoId": "8181-bliss",
         "listedIn": [
             "coingecko",
@@ -1174,7 +1227,7 @@
         "address": "0x92161385C9dE8798ad5fB01c0bE99fFcbC84dFD8",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16693/thumb/Grayton_84_side1x.jpeg?1624638633",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x92161385c9de8798ad5fb01c0be99ffcbc84dfd8/logo.png",
         "coingeckoId": "10084-grayton",
         "listedIn": [
             "coingecko",
@@ -1187,7 +1240,7 @@
         "address": "0x8fcB39A25e639C8fbD28E8a018227D6570E02352",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16674/thumb/1815-S-Avers-hero-1.5.jpg?1624628519",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8fcb39a25e639c8fbd28e8a018227d6570e02352/logo.png",
         "coingeckoId": "1815-s-avers",
         "listedIn": [
             "coingecko",
@@ -1200,7 +1253,7 @@
         "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
         "decimals": "8",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744",
+        "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
@@ -1218,12 +1271,13 @@
         "address": "0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/11035/thumb/0xmnr.PNG?1587357680",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c/logo.png",
         "coingeckoId": "0xmonero",
         "listedIn": [
             "coingecko",
             "openocean",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1233,7 +1287,7 @@
         "address": "0x8b8407c6184f1f0Fd1082e83d6A3b8349cAcEd12",
         "decimals": "8",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8b8407c6184f1f0fd1082e83d6a3b8349caced12/logo.png",
         "coingeckoId": "circuits-of-value",
         "listedIn": [
             "coingecko",
@@ -1246,7 +1300,7 @@
         "address": "0x8a9F904B4EaD6a97F3aB304d0D2196f5c602c807",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16631/thumb/19311-Keystone-hero-1.jpeg?1624554016",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8a9f904b4ead6a97f3ab304d0d2196f5c602c807/logo.png",
         "coingeckoId": "19311-keystone",
         "listedIn": [
             "coingecko",
@@ -1259,11 +1313,24 @@
         "address": "0x8D1090dF790FFAFdACCda03015c05dF3b4cC9c21",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16623/thumb/15753-Hartwell-hero-2.jpg?1624551749",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8d1090df790ffafdaccda03015c05df3b4cc9c21/logo.png",
         "coingeckoId": "15753-hartwell",
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "AUDIO",
+        "name": "Audius on xDai",
+        "address": "0x8A95ea379E1Fa4C749dd0A7A21377162028C479e",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8A95ea379E1Fa4C749dd0A7A21377162028C479e/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -1272,7 +1339,7 @@
         "address": "0x8626B38267e4FC0D8C92E0bB86F97Acab3f6AA05",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16682/thumb/10604-Somerset-hero-1.jpeg?1624632454",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8626b38267e4fc0d8c92e0bb86f97acab3f6aa05/logo.png",
         "coingeckoId": "10604-somerset",
         "listedIn": [
             "coingecko",
@@ -1285,11 +1352,12 @@
         "address": "0x84E2C67CBEfae6B5148fcA7d02B341B12ff4b5Bb",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/18774/thumb/swash.png?1634089759",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb/logo.png",
         "coingeckoId": "swash",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1298,7 +1366,7 @@
         "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/18415/thumb/bright.PNG?1631841211",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
         "coingeckoId": "bright-token",
         "listedIn": [
             "coingecko",
@@ -1314,7 +1382,7 @@
         "address": "0x830B0e9a5ecf36D0A886D21e1C20043cD2d16515",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16613/thumb/19201-Westphalia-hero-1.jpeg?1624547689",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x830b0e9a5ecf36d0a886d21e1c20043cd2d16515/logo.png",
         "coingeckoId": "19201-westphalia",
         "listedIn": [
             "coingecko",
@@ -1333,6 +1401,7 @@
             "1inch",
             "sushiswap",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1342,7 +1411,7 @@
         "address": "0x7f940B5509a22e81D29167581bdEea3Fa5a0abEE",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16673/thumb/15784-monte-vista-hero-1.jpeg?1624628466",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x7f940b5509a22e81d29167581bdeea3fa5a0abee/logo.png",
         "coingeckoId": "15784-monte-vista",
         "listedIn": [
             "coingecko",
@@ -1355,11 +1424,24 @@
         "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1638172339719_6428941347415098.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7f7440C5098462f833E123B44B8A03E1d9785BAb/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "PERP",
+        "name": "Perpetual on xDai",
+        "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7ecF26cd9A36990b8ea477853663092333f59979/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance",
             "elkfinance"
         ]
@@ -1370,7 +1452,7 @@
         "address": "0x7E95b310724334FF74537dc08bfD3377d25E65Ce",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16632/thumb/15039-Ward-hero-1.jpeg?1624554456",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x7e95b310724334ff74537dc08bfd3377d25e65ce/logo.png",
         "coingeckoId": "15039-ward",
         "listedIn": [
             "coingecko",
@@ -1378,12 +1460,12 @@
         ]
     },
     {
-        "symbol": "MANA",
-        "name": "Decentraland MANA on xDai",
-        "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
+        "symbol": "CVP",
+        "name": "Concentrated Voting Power on xDai",
+        "address": "0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x7838796b6802b18d7ef58fc8b757705d6c9d12b3/c83dcbf8bae0f6cd1e31c6e176ce5155.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -1396,7 +1478,7 @@
         "address": "0x76dbEb740ecd1F3b052a9AFA302ABc7EB4Fb5390",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16683/thumb/9133-Devonshire-hero.jpeg?1624632898",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x76dbeb740ecd1f3b052a9afa302abc7eb4fb5390/logo.png",
         "coingeckoId": "9133-devonshire",
         "listedIn": [
             "coingecko",
@@ -1409,7 +1491,7 @@
         "address": "0x75f06B482adbFb04b877D8ee683E2FCDf18AD153",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16633/thumb/18481-Westphalia-hero-1.jpeg?1624554981",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x75f06b482adbfb04b877d8ee683e2fcdf18ad153/logo.png",
         "coingeckoId": "18481-westphalia",
         "listedIn": [
             "coingecko",
@@ -1422,7 +1504,7 @@
         "address": "0x750FA12Ae51d1515c893C1aaABE2C135937a2c8B",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16707/thumb/9465-Beaconsfield-hero-1c.jpeg?1624645510",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x750fa12ae51d1515c893c1aaabe2c135937a2c8b/logo.png",
         "coingeckoId": "9465-beaconsfield",
         "listedIn": [
             "coingecko",
@@ -1435,7 +1517,7 @@
         "address": "0x73BdE888664DF8DDfD156B52e6999EEaBAB57C94",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16612/thumb/9717-Everts-hero-1.jpeg?1624546272",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x73bde888664df8ddfd156b52e6999eeabab57c94/logo.png",
         "coingeckoId": "9717-everts",
         "listedIn": [
             "coingecko",
@@ -1448,7 +1530,7 @@
         "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
         "coingeckoId": "honey",
         "listedIn": [
             "coingecko",
@@ -1465,7 +1547,7 @@
         "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/xdai/0x82dFe19164729949fD66Da1a37BC70dD6c4746ce.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -1480,7 +1562,7 @@
         "address": "0x7122d7661c4564b7C6Cd4878B06766489a6028A2",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/matictoken_28.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7122d7661c4564b7C6Cd4878B06766489a6028A2/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -1493,7 +1575,7 @@
         "address": "0x703120F2f2011a0D03A03a531Ac0e84e81F15989",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/13102/thumb/uncl_logo.png?1605230945",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x703120F2f2011a0D03A03a531Ac0e84e81F15989/logo.png",
         "coingeckoId": "uncl",
         "listedIn": [
             "coingecko",
@@ -1508,7 +1590,7 @@
         "address": "0x6aC78efae880282396a335CA2F79863A1e6831D4",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": null,
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6ac78efae880282396a335ca2f79863a1e6831d4/logo.png",
         "coingeckoId": "stakewise-reward-gno",
         "listedIn": [
             "coingecko",
@@ -1521,7 +1603,7 @@
         "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/15728/thumb/GC_logo_200x200.png?1642669327",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8/logo.png",
         "coingeckoId": "gton-capital",
         "listedIn": [
             "coingecko",
@@ -1535,7 +1617,7 @@
         "address": "0x6F442Da588232DC57Bf0096E8dE48D6961D5CC83",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16599/thumb/13895-Saratoga-hero-1.jpeg?1624541955",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6f442da588232dc57bf0096e8de48d6961d5cc83/logo.png",
         "coingeckoId": "realtoken-s-13895-saratoga-st-detroit-mi",
         "listedIn": [
             "coingecko",
@@ -1548,7 +1630,7 @@
         "address": "0x6Db6d540F5614e6BaB7475Af3F430F46a0B083e2",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16699/thumb/5942-Audubon-HERO-2.jpeg?1624641512",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6db6d540f5614e6bab7475af3f430f46a0b083e2/logo.png",
         "coingeckoId": "5942-audubon",
         "listedIn": [
             "coingecko",
@@ -1561,7 +1643,7 @@
         "address": "0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/10886/thumb/R9gQTJV__400x400.png?1585604557",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2/logo.png",
         "coingeckoId": "energy-web-token",
         "listedIn": [
             "coingecko",
@@ -1575,7 +1657,7 @@
         "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+        "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
@@ -1593,7 +1675,7 @@
         "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
         "decimals": "6",
         "chainId": 100,
-        "logoURI": null,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -1606,7 +1688,7 @@
         "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14732/thumb/MIVA-Token_200x200.png?1617958701",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x63e62989D9EB2d37dfDB1F93A22f063635b07d51/logo.png",
         "coingeckoId": "minerva-wallet",
         "listedIn": [
             "coingecko",
@@ -1622,7 +1704,7 @@
         "address": "0x5f1F81de1D21b97a5d0D5d62d89BDE9DdEc27325",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": null,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5f1F81de1D21b97a5d0D5d62d89BDE9DdEc27325/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -1635,24 +1717,11 @@
         "address": "0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/18233/thumb/72481541.png?1643198626",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27/logo.png",
         "coingeckoId": "token-engineering-commons",
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "symbol": "MOON",
-        "name": "MoonToken on xDai",
-        "address": "0x5b917D4fb9B27591353211c32F1552A527987AFC",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
         ]
     },
     {
@@ -1661,7 +1730,7 @@
         "address": "0x5E2a09064B2DCa8c44aaD8A5b69a69Bb1854fE72",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16594/thumb/11201-College-hero-1.jpg?1624540102",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x5e2a09064b2dca8c44aad8a5b69a69bb1854fe72/logo.png",
         "coingeckoId": "11201-college",
         "listedIn": [
             "coingecko",
@@ -1674,11 +1743,12 @@
         "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1688,7 +1758,7 @@
         "address": "0x5600e25b4f24c63Afa655C3bd96E3C178B654Fa1",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16617/thumb/13045-Wade-hero-1.jpg?1624549855",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x5600e25b4f24c63afa655c3bd96e3c178b654fa1/logo.png",
         "coingeckoId": "13045-wade",
         "listedIn": [
             "coingecko",
@@ -1701,12 +1771,11 @@
         "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/18740/thumb/swapr.jpg?1633516501",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b/logo.png",
         "coingeckoId": "swapr",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -1715,7 +1784,7 @@
         "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/7538/thumb/Donut.png?1548234345",
+        "logoURI": "https://tokens.1inch.io/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9.png",
         "coingeckoId": "donut",
         "listedIn": [
             "coingecko",
@@ -1730,7 +1799,7 @@
         "address": "0x512a2Eb0277573ae9Be0d48c782590b624048fdF",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12140/thumb/meme-coin.jpeg?1619249191",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x512a2Eb0277573ae9Be0d48c782590b624048fdF/logo.png",
         "coingeckoId": "degenerator",
         "listedIn": [
             "coingecko",
@@ -1744,7 +1813,7 @@
         "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1640055088",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
         "coingeckoId": "giveth",
         "listedIn": [
             "coingecko",
@@ -1760,7 +1829,7 @@
         "address": "0x4d0dA4E75d40Bd7D9C4f7A292BF883BcDf38c45D",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16562/thumb/15373-Parkside-hero-1.jpg?1624458568",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4d0da4e75d40bd7d9c4f7a292bf883bcdf38c45d/logo.png",
         "coingeckoId": "15373-parkside",
         "listedIn": [
             "coingecko",
@@ -1773,7 +1842,7 @@
         "address": "0x4a99cc509f7FaCF58D7B67E99236dB5e0921ef81",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16621/thumb/10639-Stratman-hero-1.jpg?1624551202",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4a99cc509f7facf58d7b67e99236db5e0921ef81/logo.png",
         "coingeckoId": "10639-stratman",
         "listedIn": [
             "coingecko",
@@ -1786,7 +1855,7 @@
         "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
         "decimals": "6",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707",
+        "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
@@ -1804,7 +1873,7 @@
         "address": "0x4E98493920b16Dd6642e9D48497c8d0A49150f6F",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16662/thumb/Warwick-hero.jpeg?1624624485",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4e98493920b16dd6642e9d48497c8d0a49150f6f/logo.png",
         "coingeckoId": "13991-warwick",
         "listedIn": [
             "coingecko",
@@ -1817,11 +1886,24 @@
         "address": "0x4Cc53Ee5ef306a95d407321d4B4acc30814C04ee",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16614/thumb/19163-Mitchell-hero-1.jpeg?1624548736",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4cc53ee5ef306a95d407321d4b4acc30814c04ee/logo.png",
         "coingeckoId": "19163-mitchell",
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "ALEPH",
+        "name": "aleph.im v2 on xDai",
+        "address": "0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -1830,7 +1912,7 @@
         "address": "0x499A6c19F5537dd6005E2B5c6E1263103f558Ba4",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16606/thumb/17813-Bradford-hero-1.jpeg?1624544519",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x499a6c19f5537dd6005e2b5c6e1263103f558ba4/logo.png",
         "coingeckoId": "17813-bradford",
         "listedIn": [
             "coingecko",
@@ -1843,7 +1925,7 @@
         "address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/4586/thumb/dip.png?1547039863",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x48b1B0d077b4919b65b4E4114806dD803901E1D9/logo.png",
         "coingeckoId": "etherisc",
         "listedIn": [
             "coingecko",
@@ -1858,7 +1940,7 @@
         "address": "0x479e32cDFF5F216f93060700C711D1cC8E811a6B",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14648/thumb/trips_32.png?1617491133",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x479e32cDFF5F216f93060700C711D1cC8E811a6B/logo.png",
         "coingeckoId": "trips-community",
         "listedIn": [
             "coingecko",
@@ -1873,7 +1955,7 @@
         "address": "0x46F8A600337dec5CaB03aa9b8F67f1D5B788ce28",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16684/thumb/Faust-1.jpeg?1624633417",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x46f8a600337dec5cab03aa9b8f67f1d5b788ce28/logo.png",
         "coingeckoId": "18433-faust",
         "listedIn": [
             "coingecko",
@@ -1886,11 +1968,12 @@
         "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-uni.png?1600306604",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74/logo.png",
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1900,7 +1983,7 @@
         "address": "0x44fA8E6f47987339850636F88629646662444217",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png?1636636734",
+        "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
         "coingeckoId": "dai",
         "listedIn": [
             "coingecko",
@@ -1916,7 +1999,7 @@
         "address": "0x43fED9F9BF7DeedCb314b432a8e38219dd62CE9e",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16598/thumb/14825-Wilfried-hero-1.jpg?1624541680",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x43fed9f9bf7deedcb314b432a8e38219dd62ce9e/logo.png",
         "coingeckoId": "14825-wilfred",
         "listedIn": [
             "coingecko",
@@ -1929,7 +2012,7 @@
         "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/WoZ8rruL_400x400.png?1655102508",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x431d5dff03120afa4bdf332c61a6e1766ef37bdb/logo.png",
         "coingeckoId": "jpy-coin",
         "listedIn": [
             "coingecko",
@@ -1942,7 +2025,7 @@
         "address": "0x4291F029B9e7acb02D49428458cf6fceAC545f81",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/26089/thumb/water_logo.png?1655778743",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4291f029b9e7acb02d49428458cf6fceac545f81/logo.png",
         "coingeckoId": "1hive-water",
         "listedIn": [
             "coingecko",
@@ -1955,12 +2038,11 @@
         "address": "0x417602f4fbdd471A431Ae29fB5fe0A681964C11b",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/17277/thumb/WoZ8rruL_400x400.png?1627016492",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x417602f4fbdd471A431Ae29fB5fe0A681964C11b/logo.png",
         "coingeckoId": "jpyc",
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1970,7 +2052,7 @@
         "address": "0x41599149f1B52035392402F9e311b1edb0C9f699",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16592/thumb/14319-Rosemary-hero-1-800x600.jpeg?1624539171",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x41599149f1b52035392402f9e311b1edb0c9f699/logo.png",
         "coingeckoId": "14319-rosemary",
         "listedIn": [
             "coingecko",
@@ -1983,7 +2065,7 @@
         "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14146/thumb/agve.png?1614659384",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/logo.png",
         "coingeckoId": "agave-token",
         "listedIn": [
             "coingecko",
@@ -2000,7 +2082,7 @@
         "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
@@ -2015,7 +2097,7 @@
         "address": "0x3C56D5E887D8fA7AE1Ba65BF7eCCC25eC09EAF18",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16687/thumb/9165-Kensington-hero-1.jpeg?1624634948",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x3c56d5e887d8fa7ae1ba65bf7eccc25ec09eaf18/logo.png",
         "coingeckoId": "9165-kensington",
         "listedIn": [
             "coingecko",
@@ -2028,7 +2110,7 @@
         "address": "0x3A00E08544d589E19a8e7D97D0294331341cdBF6",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": null,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x3A00E08544d589E19a8e7D97D0294331341cdBF6/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -2041,13 +2123,12 @@
         "address": "0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16012/thumb/logo.png?1622603137",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/logo.png",
         "coingeckoId": "xdai-native-comb",
         "listedIn": [
             "coingecko",
             "1inch",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2057,7 +2138,7 @@
         "address": "0x37b60f4E9A31A64cCc0024dce7D0fD07eAA0F7B3",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/3833/thumb/kleros.png?1547975322",
+        "logoURI": "https://tokens.1inch.io/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d.png",
         "coingeckoId": "kleros",
         "listedIn": [
             "coingecko",
@@ -2072,7 +2153,7 @@
         "address": "0x364b5975385B4DE226cF450dF82D7ed69902Ac5a",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/17596/thumb/TORG_Logo_200x200.png?1628586056",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x364b5975385b4de226cf450df82d7ed69902ac5a/logo.png",
         "coingeckoId": "torg",
         "listedIn": [
             "coingecko",
@@ -2085,7 +2166,7 @@
         "address": "0x34eD9e71449529E034d0326cfBB3b5ccDCa00CBC",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16638/thumb/19317-Gable-hero-1.jpeg?1624558479",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc/logo.png",
         "coingeckoId": "19317-gable",
         "listedIn": [
             "coingecko",
@@ -2098,7 +2179,7 @@
         "address": "0x346b2968508d32f0192cD7a60Ef3D9C39a3cF549",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x346b2968508d32f0192cd7a60ef3d9c39a3cf549/4b92285f601767417001b1bd30cf90c2.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x346b2968508d32f0192cD7a60Ef3D9C39a3cF549/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -2111,7 +2192,7 @@
         "address": "0x33722EA778dF197f1b7B1Cf0b124d7A962181d65",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16706/thumb/19136-Tracey-hero-1.jpeg?1624644977",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x33722ea778df197f1b7b1cf0b124d7a962181d65/logo.png",
         "coingeckoId": "19136-tracey",
         "listedIn": [
             "coingecko",
@@ -2124,7 +2205,7 @@
         "address": "0x31AA5fA895Fd186fDE12347A6fCaf540875b6434",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16601/thumb/17809-Charest-hero-1.jpg?1624543227",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x31aa5fa895fd186fde12347a6fcaf540875b6434/logo.png",
         "coingeckoId": "17809-charest",
         "listedIn": [
             "coingecko",
@@ -2137,7 +2218,7 @@
         "address": "0x31820af2d43c08BD82Bd94B08974062482bD98D3",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16622/thumb/11653-Nottingham-hero-1.jpg?1624551450",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x31820af2d43c08bd82bd94b08974062482bd98d3/logo.png",
         "coingeckoId": "11653-nottingham",
         "listedIn": [
             "coingecko",
@@ -2150,7 +2231,7 @@
         "address": "0x315699f1BA88383CFF2F2f30FcaD187aDb2E4D72",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16597/thumb/14078-Carlisle-hero-1-800x600.jpeg?1624541175",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x315699f1ba88383cff2f2f30fcad187adb2e4d72/logo.png",
         "coingeckoId": "14078-carlisle",
         "listedIn": [
             "coingecko",
@@ -2163,7 +2244,7 @@
         "address": "0x3150f0EbC0eFEe280b5348b9C8C271AD44Eb8B13",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16608/thumb/19596-Goulburn-hero-1.jpg?1624544786",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x3150f0ebc0efee280b5348b9c8c271ad44eb8b13/logo.png",
         "coingeckoId": "19596-goulburn",
         "listedIn": [
             "coingecko",
@@ -2176,7 +2257,7 @@
         "address": "0x311FC485f1FeA0c8Cc9b5c783E79f4313DDFa720",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16666/thumb/19996-Joanne-hero-1.jpg?1624626495",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x311fc485f1fea0c8cc9b5c783e79f4313ddfa720/logo.png",
         "coingeckoId": "19996-joann",
         "listedIn": [
             "coingecko",
@@ -2189,7 +2270,7 @@
         "address": "0x2f9ceBf5De3bc25E0643D0E66134E5bf5c48e191",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x2f9cebf5de3bc25e0643d0e66134e5bf5c48e191/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x2f9ceBf5De3bc25E0643D0E66134E5bf5c48e191/logo.png",
         "coingeckoId": "brick",
         "listedIn": [
             "rubic",
@@ -2202,12 +2283,11 @@
         "address": "0x2d5563da42b06FbBF9c67b7DC073cF6A7842239e",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/15727/thumb/jCHF.png?1634046084",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e/logo.png",
         "coingeckoId": "jarvis-synthetic-swiss-franc",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -2216,7 +2296,7 @@
         "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x2bf2ba13735160624a0feae98f6ac8f70885ea61/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61/logo.png",
         "coingeckoId": "fraction",
         "listedIn": [
             "rubic",
@@ -2230,7 +2310,7 @@
         "address": "0x2adc1cfA726A45264A328D9d2e2C692ceac97458",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16618/thumb/14494-Chelsea-hero-1.jpg?1624550267",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x2adc1cfa726a45264a328d9d2e2c692ceac97458/logo.png",
         "coingeckoId": "14494-chelsea",
         "listedIn": [
             "coingecko",
@@ -2243,7 +2323,7 @@
         "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -2259,7 +2339,7 @@
         "address": "0x280e9ed3B20c580a2f4219657bB9332D80Bc01f1",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16705/thumb/19020-Rosemont-hero-1.jpeg?1624644549",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x280e9ed3b20c580a2f4219657bb9332d80bc01f1/logo.png",
         "coingeckoId": "19020-rosemont",
         "listedIn": [
             "coingecko",
@@ -2272,7 +2352,7 @@
         "address": "0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://gateway.ipfs.io/ipfs/QmaEPqRKrJDN8iNKVSFj19rbHzZSyWENdj241oek3EJYn7",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
@@ -2286,7 +2366,7 @@
         "address": "0x256eb8a51f382650B2A1e946b8811953640ee47D",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/17869/thumb/DATA_new_symbol_3x.png?1629692324",
+        "logoURI": "https://tokens.1inch.io/0x8f693ca8d21b157107184d29d398a8d082b38b76.png",
         "coingeckoId": "streamr",
         "listedIn": [
             "coingecko",
@@ -2300,7 +2380,7 @@
         "address": "0x24293ab20159cfc0f3D7C8727CD827fbA63d4F64",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16593/thumb/19333-Moenart-hero-1.jpg?1624539310",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x24293ab20159cfc0f3d7c8727cd827fba63d4f64/logo.png",
         "coingeckoId": "19333-moenart",
         "listedIn": [
             "coingecko",
@@ -2313,11 +2393,24 @@
         "address": "0x23684569c0636C9aEa246551879d457D0a0E6F58",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16701/thumb/9336-Patton-HERO-2.jpeg?1624642655",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x23684569c0636c9aea246551879d457d0a0e6f58/logo.png",
         "coingeckoId": "9336-patton",
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "ZRX",
+        "name": "0x Protocol Token on xDai",
+        "address": "0x226bCf0e417428a25012d0fA2183d37f92bCeDF6",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x226bCf0e417428a25012d0fA2183d37f92bCeDF6/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -2326,7 +2419,7 @@
         "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622",
+        "logoURI": "https://tokens.1inch.io/0xc770eefad204b5180df6a14ee197d99d808ee52d.png",
         "coingeckoId": "shapeshift-fox-token",
         "listedIn": [
             "coingecko",
@@ -2341,7 +2434,7 @@
         "address": "0x211618Fa0934910666f2C2731101F5A3aC013fD8",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16620/thumb/19200-Strasburg-hero-1.jpg?1624550918",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x211618fa0934910666f2c2731101f5a3ac013fd8/logo.png",
         "coingeckoId": "19200-strasburg",
         "listedIn": [
             "coingecko",
@@ -2354,13 +2447,12 @@
         "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
             "sushiswap",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2370,7 +2462,7 @@
         "address": "0x1FdB4015fD5E031C5641752C1e03B973ad5eA168",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16624/thumb/17500-Evergreen-hero-1.jpg?1624552051",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x1fdb4015fd5e031c5641752c1e03b973ad5ea168/logo.png",
         "coingeckoId": "17500-evergreen",
         "listedIn": [
             "coingecko",
@@ -2383,7 +2475,7 @@
         "address": "0x1E001730A23c7EBaFF35BC8bc90DA5a9b20804A4",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16609/thumb/9481-Wayburn-hero-1.jpg?1624545084",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x1e001730a23c7ebaff35bc8bc90da5a9b20804a4/logo.png",
         "coingeckoId": "9481-wayburn",
         "listedIn": [
             "coingecko",
@@ -2396,7 +2488,7 @@
         "address": "0x18E9262e68Cc6c6004dB93105cc7c001BB103e49",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/18133/thumb/raid_200_oswlvz.png?1630631876",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png",
         "coingeckoId": "raid-token",
         "listedIn": [
             "coingecko",
@@ -2410,7 +2502,7 @@
         "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/24384/thumb/cow.png?1660960589",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x177127622c4a00f3d409b75571e12cb3c8973d3c/logo.png",
         "coingeckoId": "cow-protocol",
         "listedIn": [
             "coingecko",
@@ -2424,7 +2516,7 @@
         "address": "0x175cbD54d38F58B530785e01471a2Ec0D4596EB5",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16636/thumb/15770-Prest-hero-1.jpeg?1624557487",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x175cbd54d38f58b530785e01471a2ec0d4596eb5/logo.png",
         "coingeckoId": "15770-prest",
         "listedIn": [
             "coingecko",
@@ -2437,7 +2529,7 @@
         "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16004/thumb/JHqkC8Z.png?1622594623",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa/logo.png",
         "coingeckoId": "levin",
         "listedIn": [
             "coingecko",
@@ -2450,7 +2542,7 @@
         "address": "0x08Ad1F3a48Be1D23C723a6cC8486b247F5dE935a",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16679/thumb/13116-Kilbourne-hero-1.jpeg?1624630007",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x08ad1f3a48be1d23c723a6cc8486b247f5de935a/logo.png",
         "coingeckoId": "13116-kilbourne",
         "listedIn": [
             "coingecko",
@@ -2463,7 +2555,7 @@
         "address": "0x06D0e5Aee443093aC5635B709C8a01342E59Df19",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16709/thumb/10617-Hathaway-hero-1.jpeg?1624647056",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x06d0e5aee443093ac5635b709c8a01342e59df19/logo.png",
         "coingeckoId": "10617-hathaway",
         "listedIn": [
             "coingecko",
@@ -2489,7 +2581,7 @@
         "address": "0x021Bb23a45e9FC824260435e670fC383b7b8cbbB",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16704/thumb/16200-Fullerton-HERO.jpeg?1624644084",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x021bb23a45e9fc824260435e670fc383b7b8cbbb/logo.png",
         "coingeckoId": "16200-fullerton",
         "listedIn": [
             "coingecko",
@@ -2502,7 +2594,7 @@
         "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12871/thumb/unicrypt_logo.png?1603178739",
+        "logoURI": "https://tokens.1inch.io/0xadb2437e6f65682b85f814fbc12fec0508a7b1d0.png",
         "coingeckoId": "unicrypt-2",
         "listedIn": [
             "coingecko",
@@ -2512,14 +2604,15 @@
         ]
     },
     {
-        "symbol": "XDAI",
+        "symbol": "xDAI",
         "name": "xDAI",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": "18",
         "chainId": 100,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1641700780963_888840142160457.png",
+        "logoURI": "https://api.rubic.exchange/assets/xdai/0x0000000000000000000000000000000000000000/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
             "openocean",
             "rubic",
             "lifinance"

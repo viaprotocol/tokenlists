@@ -1,5 +1,29 @@
 [
     {
+        "symbol": "EQZ",
+        "name": "Equalizer",
+        "address": "0xea281a04cf517aa0D4645bDDA0353b0958E4B1b4",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+        "decimals": "6",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
@@ -9,6 +33,18 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "SUKU",
+        "name": "SUKU",
+        "address": "0xd35f5965B4B84382ca27072fF3B6b42e7053e672",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -49,6 +85,42 @@
         ]
     },
     {
+        "symbol": "USDD",
+        "name": "Decentralized USD",
+        "address": "0xae73dDeAFc00Bc5aD03A96C2b268C3f5325C8D49",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "wstETH",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0xa88751C0a08623E11ff38c6B70F2BbEe7865C17c",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "address": "0xa36085F69e2889c224210F603D836748e7dC0088",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "cWBTC",
         "name": "Compound Wrapped BTC",
         "address": "0xa1fAA15655B0e7b6B6470ED3d096390e6aD93Abb",
@@ -58,6 +130,30 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "USX",
+        "name": "dForce USD",
+        "address": "0xF76eAd4da04BbeB97d29F83e2Ec3a621d0FB3c6e",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "BitBTC",
+        "name": "BitBTC",
+        "address": "0xF6DD2A9B840826D53c9842207628502B79E6B8c2",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -73,6 +169,18 @@
         ]
     },
     {
+        "symbol": "GYSR",
+        "name": "Geyser",
+        "address": "0xDA9b55DE6e04404F6c77673D4B243142a4efC6B8",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "SAI",
         "name": "Sai Stablecoin v1.0",
         "address": "0xD1308F63823221518Ec88EB209CBaa1ac182105f",
@@ -82,6 +190,42 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "LAND",
+        "name": "Land",
+        "address": "0xC13DD39606d4C2489ce5D9806d060FeD9a7d063d",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/LAND/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "SNX",
+        "name": "Synthetix",
+        "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "GTC",
+        "name": "Gitcoin",
+        "address": "0xB7E230f904971724C600ad5217b88d219dDD1525",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -122,6 +266,66 @@
         ]
     },
     {
+        "symbol": "AAVE",
+        "name": "Aave Token",
+        "address": "0x9BE876c6DC42215B00d7efe892E2691C3bc35d10",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "TheDAO",
+        "name": "TheDAO",
+        "address": "0x8274Ea38fE9Bea66f8e7C6F3eF742B85d86aeB5d",
+        "decimals": "16",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "DF",
+        "name": "dForce",
+        "address": "0x79E40d67DA6eAE5eB4A93Fc6a56A7961625E15F3",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "RAI",
+        "name": "Rai Reflex Index",
+        "address": "0x76b06a2f6dF6f0514e7BEC52a9AfB3f603b477CD",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "decimals": "8",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "COMP",
         "name": "Compound",
         "address": "0x61460874a7196d6a22D1eE4922473664b3E95270",
@@ -131,6 +335,42 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "BOND",
+        "name": "BarnBridge Governance Token",
+        "address": "0x521EE0CeDbed2a5A130B9218551fe492C5c402e4",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x50dC5200082d37d5dd34B4b0691f36e3632fE1A8",
+        "decimals": "6",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "EURT",
+        "name": "Tether EUR",
+        "address": "0x50EB44e3a68f1963278b4c74c6c343508d31704C",
+        "decimals": "6",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/EURT/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -175,11 +415,24 @@
         "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
         "decimals": "18",
         "chainId": 42,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "sushiswap"
+            "sushiswap",
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "KNC",
+        "name": "Kyber Network Crystal v2",
+        "address": "0x4BC18Ae212F798FD7b0eae94dfCA18c0333157c4",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -195,6 +448,18 @@
         ]
     },
     {
+        "symbol": "LIZ",
+        "name": "Theranos Coin",
+        "address": "0x47Aa2a683b88E23c4d76f91Aa4181A59d0E4FBfb",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "cETH",
         "name": "Compound Ether",
         "address": "0x41B5844f4680a8C38fBb695b7F9CFd1F64474a72",
@@ -204,6 +469,18 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "BAL",
+        "name": "Balancer",
+        "address": "0x41286Bb1D3E870f3F750eB7E1C25d7E48c8A1Ac7",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -219,16 +496,89 @@
         ]
     },
     {
+        "symbol": "BitANT",
+        "name": "BitANT",
+        "address": "0x3Ef0aBa205134ba2f449Fa04A0A0673020c36270",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "DOLA",
+        "name": "Dola USD Stablecoin",
+        "address": "0x39445DEc9Ba7Fb3776E8E5f9922864ddb9089304",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "SPANK",
+        "name": "SPANK",
+        "address": "0x2eA8f9B29AC1d70e01AE9D23d0451D2242e8d609",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "WAD",
+        "name": "WardenSwap",
+        "address": "0x2C7A8122A1b512AdC848024cE72e837001EcB586",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "0xBTC",
+        "name": "0xBitcoin",
+        "address": "0x24a19eE5A5C8757ACDEBe542a9436D9C796d1c9E",
+        "decimals": "8",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "UNI",
         "name": "Uniswap",
         "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
         "decimals": "18",
         "chainId": 42,
-        "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+        "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "uniswap",
-            "sushiswap"
+            "sushiswap",
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "TUSD",
+        "name": "TrueUSD",
+        "address": "0x1794230aBe1995fcFe6B14865D4B6928121AB9d9",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -265,6 +615,54 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "KROM",
+        "name": "Kromatika",
+        "address": "0x0436F489525c47C1A4877a06bE0BEaba2A2E2e2d",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "PERP",
+        "name": "Perpetual",
+        "address": "0x002BE8A5961e0f352092D6693133A6944b7846Ba",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "DCN",
+        "name": "Dentacoin",
+        "address": "0x001dedC8c67EF6D1f4BB66FB28581d466650Cd76",
+        "decimals": "0",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "ETH",
+        "name": "Ether",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": "18",
+        "chainId": 42,
+        "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     }
 ]

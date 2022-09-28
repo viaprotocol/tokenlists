@@ -29,7 +29,7 @@
         "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
         "decimals": "18",
         "chainId": 80001,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/mumbai/0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -102,7 +102,7 @@
         "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
         "decimals": "18",
         "chainId": 80001,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/mumbai/0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -122,12 +122,24 @@
         ]
     },
     {
+        "symbol": "mumbaiPNG",
+        "name": "Pangolin",
+        "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
+        "decimals": "18",
+        "chainId": 80001,
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo_24.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
         "decimals": "6",
         "chainId": 80001,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/mumbai/0x3813e82e6f7098b9583FC0F33a962D02018B6803/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",

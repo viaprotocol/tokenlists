@@ -1,5 +1,29 @@
 [
     {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
+        "decimals": "6",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
+        "decimals": "8",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
@@ -10,6 +34,18 @@
         "listedIn": [
             "uniswap",
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "TESTLDO",
+        "name": "TEST Lido DAO Token",
+        "address": "0x56340274fB5a72af1A3C6609061c451De7961Bd4",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     },
     {
@@ -25,6 +61,42 @@
         ]
     },
     {
+        "symbol": "SNX",
+        "name": "Synthetix",
+        "address": "0x51f44ca59b867E005e48FA573Cb8df83FC7f7597",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "OUTb",
+        "name": "OptimismUselessToken-Bridged",
+        "address": "0x32B3b2281717dA83463414af4E8CfB1970E56287",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "UNI",
         "name": "Uniswap",
         "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
@@ -35,6 +107,30 @@
         "listedIn": [
             "uniswap",
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "DAI",
+        "name": "Dai stable coin",
+        "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+        "decimals": "18",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+        "decimals": "6",
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
         ]
     }
 ]

@@ -17,11 +17,36 @@
         "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
         "decimals": "18",
         "chainId": 43113,
-        "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=010",
+        "logoURI": "https://elk.finance/tokens/logos/fuji/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "joe",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DAI",
+        "name": "Dai Stablecoin",
+        "address": "0xFc7215C9498Fc12b22Bc0ed335871Db4315f03d3",
+        "decimals": "18",
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFc7215C9498Fc12b22Bc0ed335871Db4315f03d3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe"
+        ]
+    },
+    {
+        "symbol": "WWAGMI",
+        "name": "Wrapped WAGMI",
+        "address": "0xF561800EdedF4CE146ED427Cacf1Fb8aB3B2D452",
+        "decimals": "18",
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xF561800EdedF4CE146ED427Cacf1Fb8aB3B2D452/logo_24.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin"
         ]
     },
     {
@@ -46,6 +71,78 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "fujiPNG",
+        "name": "Fuji PNG",
+        "address": "0xAF5D473b3f8F96A5B21c6bbB97e09b491335acb9",
+        "decimals": "18",
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xAF5D473b3f8F96A5B21c6bbB97e09b491335acb9/logo_24.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin"
+        ]
+    },
+    {
+        "symbol": "FUJIMOON",
+        "name": "To the Moon",
+        "address": "0x97132C109c6816525F7f338DCb7435E1412A7668",
+        "decimals": "9",
+        "chainId": 43113,
+        "logoURI": "https://i.imgur.com/jNTqyQA.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin"
+        ]
+    },
+    {
+        "symbol": "LINK",
+        "name": "ChainLink Token",
+        "address": "0x73b4C0C45bfB90FC44D9013FA213eF2C2d908D0A",
+        "decimals": "18",
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73b4C0C45bfB90FC44D9013FA213eF2C2d908D0A/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe"
+        ]
+    },
+    {
+        "symbol": "RIP",
+        "name": "The Crypt",
+        "address": "0x224695Ba2a98E4a096a519B503336E06D9116E48",
+        "decimals": "18",
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin"
+        ]
+    },
+    {
+        "symbol": "FUJISTABLE",
+        "name": "The Fuji stablecoin",
+        "address": "0x2058ec2791dD28b6f67DB836ddf87534F4Bbdf22",
+        "decimals": "6",
+        "chainId": 43113,
+        "logoURI": "https://i.imgur.com/LPZDXoT.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin"
+        ]
+    },
+    {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "0x09C85Ef96e93f0ae892561052B48AE9DB29F2458",
+        "decimals": "18",
+        "chainId": 43113,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x09C85Ef96e93f0ae892561052B48AE9DB29F2458/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe"
         ]
     }
 ]

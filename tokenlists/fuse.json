@@ -1,24 +1,11 @@
 [
     {
-        "symbol": "ELK",
-        "name": "Elk",
-        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-        "decimals": "18",
-        "chainId": 122,
-        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/329f2280839ba8930e112bae1f61cbb9.png",
-        "coingeckoId": "elk-finance",
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "sushiswap",
@@ -33,7 +20,7 @@
         "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
         "decimals": "6",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
             "sushiswap",
@@ -48,7 +35,7 @@
         "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fuse/assets/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -62,7 +49,7 @@
         "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -77,7 +64,7 @@
         "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -92,7 +79,7 @@
         "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/om.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x7F59aE3a787C0d1D640F99883d0e48c22188C54f/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -107,7 +94,7 @@
         "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png",
         "coingeckoId": "wbnb",
         "listedIn": [
             "sushiswap",
@@ -135,7 +122,7 @@
         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
         "decimals": "6",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
         "coingeckoId": "usd-coin",
         "listedIn": [
             "sushiswap",
@@ -150,7 +137,7 @@
         "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
         "decimals": "2",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "fuseswap",
@@ -164,7 +151,7 @@
         "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/knc.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x43B17749B246fd2a96DE25d9e4184E27E09765b0/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -178,7 +165,7 @@
         "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
         "decimals": "8",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "sushiswap",
@@ -193,7 +180,7 @@
         "address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dext.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x2f60a843302F1Be3FA87429CA9d684f9091b003c/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -220,7 +207,7 @@
         "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fuseusd.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
         "coingeckoId": "fuse-dollar",
         "listedIn": [
             "sushiswap",
@@ -235,7 +222,7 @@
         "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
         "coingeckoId": "fuse-network-token",
         "listedIn": [
             "sushiswap",
@@ -250,7 +237,7 @@
         "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x0972F26e8943679b043de23df2fD3852177A7c48/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -264,7 +251,7 @@
         "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
         "decimals": "18",
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg",
+        "logoURI": "https://elk.finance/tokens/logos/fuse/0x025a4c577198D116Ea499193E6D735FDb2e6E841/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
