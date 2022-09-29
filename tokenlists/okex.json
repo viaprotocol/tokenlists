@@ -55,6 +55,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -393,19 +394,6 @@
         ]
     },
     {
-        "symbol": "JF",
-        "name": "Jswap Finance",
-        "address": "0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A",
-        "decimals": "18",
-        "chainId": 66,
-        "logoURI": "https://assets.coingecko.com/coins/images/22263/thumb/jswap.PNG?1641335953",
-        "coingeckoId": "jswap-finance",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CELT",
         "name": "Celestial",
         "address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
@@ -647,19 +635,6 @@
         "listedIn": [
             "coingecko",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "OKFly",
-        "name": "Okex Fly",
-        "address": "0x02F093513b7872CdFC518e51eD67f88F0e469592",
-        "decimals": "9",
-        "chainId": 66,
-        "logoURI": "https://elk.finance/tokens/logos/okex/0x02F093513b7872CdFC518e51eD67f88F0e469592/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "elkfinance"
         ]
     },
     {

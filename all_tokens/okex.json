@@ -91,6 +91,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -741,18 +742,6 @@
         ]
     },
     {
-        "symbol": "anyETHK",
-        "name": "ETHK",
-        "address": "0x6F058086D91a181007C2325e5b285425cA84d615",
-        "decimals": "18",
-        "chainId": 66,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "GWT",
         "name": "Galaxy War",
         "address": "0x65511cE6980418dB9dB829b669E7dFD653dae420",
@@ -773,8 +762,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22263/thumb/jswap.PNG?1641335953",
         "coingeckoId": "jswap-finance",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -857,18 +845,6 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "EBC",
-        "name": "Endless Battlefield Coin",
-        "address": "0x4a4649Cd5866491CdF33555dCF843EF71c8b5311",
-        "decimals": "18",
-        "chainId": 66,
-        "logoURI": "https://static.debank.com/image/okt_token/logo_url/0x4a4649cd5866491cdf33555dcf843ef71c8b5311/274db41cc8d4ce121cfbee3e8897f586.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -1102,18 +1078,6 @@
         ]
     },
     {
-        "symbol": "EGG",
-        "name": "Blade Egg",
-        "address": "0x1aB0F0e761F642FE0180c973448A1A7482f81690",
-        "decimals": "18",
-        "chainId": 66,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BCHK",
         "name": "OEC BCH",
         "address": "0x18D103b7066AEedb6005B78A462Ef9027329b1EA",
@@ -1215,14 +1179,13 @@
     },
     {
         "symbol": "OKFly",
-        "name": "Okex Fly",
+        "name": "OKFly",
         "address": "0x02F093513b7872CdFC518e51eD67f88F0e469592",
         "decimals": "9",
         "chainId": 66,
         "logoURI": "https://elk.finance/tokens/logos/okex/0x02F093513b7872CdFC518e51eD67f88F0e469592/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
