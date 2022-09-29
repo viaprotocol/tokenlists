@@ -139,7 +139,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -186,18 +185,6 @@
         ]
     },
     {
-        "symbol": "BUSD.bsc",
-        "name": "BUSD from BSC wrapped by passport.meter.io",
-        "address": "0xaBD347F625194D8e56F8e8b5E8562F34B6Df3469",
-        "decimals": "18",
-        "chainId": 1285,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ATH",
         "name": "ATH",
         "address": "0xa8E472b1446E6d9Fb97A9478e5BC13fF1815e730",
@@ -206,7 +193,18 @@
         "logoURI": "https://api.rubic.exchange/assets/moonriver/0xa8e472b1446e6d9fb97a9478e5bc13ff1815e730/logo.png",
         "coingeckoId": "athena-money",
         "listedIn": [
-            "rubic",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "xcAUSD",
+        "name": "Acala Dollar",
+        "address": "0xFfFffFFfa1B026a00FbAA67c86D5d1d5BF8D8228",
+        "decimals": "12",
+        "chainId": 1285,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -232,8 +230,7 @@
         "coingeckoId": "ankr",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -322,8 +319,7 @@
         "coingeckoId": "bitcoin-br",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -400,8 +396,7 @@
         "coingeckoId": "templardao",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -502,8 +497,7 @@
         "coingeckoId": "moonwell",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -635,8 +629,7 @@
         "coingeckoId": "huckleberry",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -704,18 +697,6 @@
         ]
     },
     {
-        "symbol": "GTPS",
-        "name": "Global Transaction Payment Solution",
-        "address": "0x9427A2a738AffBc5880F0646b5251069c022e525",
-        "decimals": "18",
-        "chainId": 1285,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "IMX",
         "name": "Impermax",
         "address": "0x900f1Ec5819FA087d368877cD03B265Bf1802667",
@@ -725,8 +706,7 @@
         "coingeckoId": "impermax",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -1224,7 +1204,8 @@
         "logoURI": "https://api.rubic.exchange/assets/moonriver/0x343e8f5a79c324105dfc1f5644f9d8c31cf75e5e/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1429,6 +1410,18 @@
         ]
     },
     {
+        "symbol": "aEXP",
+        "name": "Alpha Experience",
+        "address": "0x138a90f246Abb23A157DA7a1D9dB19dCf1691362",
+        "decimals": "18",
+        "chainId": 1285,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "POP!",
         "name": "POP!",
         "address": "0x1351Ab0323b1127e1cFb8406ADf87cA88A5A4ff6",
@@ -1489,8 +1482,7 @@
         "coingeckoId": "amara-finance",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {

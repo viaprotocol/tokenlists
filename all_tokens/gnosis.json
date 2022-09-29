@@ -266,7 +266,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -294,6 +293,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -370,7 +370,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -383,6 +382,7 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xd3b93fF74E43Ba9568e5019b38AdDB804feF719B/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -482,20 +482,18 @@
         "listedIn": [
             "openocean",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
     {
         "symbol": "NODE",
-        "name": "DAppNode DAO Token on xDai",
+        "name": "DAppNode DAO Token from Ethereum",
         "address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
         "decimals": "18",
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xc60e38C6352875c051B481Cbe79Dd0383AdB7817/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -559,7 +557,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -747,7 +744,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -956,6 +952,18 @@
         ]
     },
     {
+        "symbol": "MATIC",
+        "name": "Matic Token from BSC",
+        "address": "0xF093be4E78900800f9215aa0511ba12e5eEE6129",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-20200-LESUR",
         "name": "RealT   20200 Lesure St  Detroit  MI 48",
         "address": "0xEeDc2F5F4D1226759B1AcF9EfA23a99661De6663",
@@ -1009,12 +1017,11 @@
         "symbol": "BNS",
         "name": "BNS Token on xDai",
         "address": "0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364",
-        "decimals": "8",
+        "decimals": "18",
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1090,6 +1097,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "hMATIC",
+        "name": "Matic Token Hop Token",
+        "address": "0xE38faf9040c7F09958c638bBDB977083722c5156",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1287,7 +1306,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD27E1ECC4748F42e052331BeA917D89bEB883fc3/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1441,6 +1459,7 @@
         "listedIn": [
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2069,7 +2088,6 @@
             "coingecko",
             "openocean",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2157,7 +2175,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x8A95ea379E1Fa4C749dd0A7A21377162028C479e/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2196,8 +2213,7 @@
         "coingeckoId": "swash",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -2265,7 +2281,6 @@
             "1inch",
             "sushiswap",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2330,7 +2345,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7ecF26cd9A36990b8ea477853663092333f59979/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2392,7 +2406,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2453,6 +2466,7 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2969,6 +2983,7 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x5b917D4fb9B27591353211c32F1552A527987AFC/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3046,18 +3061,6 @@
         ]
     },
     {
-        "symbol": "ALVIN",
-        "name": "Alvin",
-        "address": "0x59715D8d206b3D4748Cec55E7c2DE26F23AF45D5",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "WBTC",
         "name": "WrappedBTC",
         "address": "0x59676aF932247D48755aAB7A7B94f8BB4bea2a6e",
@@ -3080,7 +3083,6 @@
         "listedIn": [
             "1inch",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3119,7 +3121,8 @@
         "coingeckoId": "swapr",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3282,7 +3285,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3365,7 +3367,6 @@
         "listedIn": [
             "coingecko",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3471,6 +3472,7 @@
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3581,6 +3583,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3765,6 +3768,18 @@
         ]
     },
     {
+        "symbol": "FAU",
+        "name": "FaucetToken",
+        "address": "0x3111C94B9243a8A99D5A867e00609900e437E2c0",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OM",
         "name": "OM Token on xDai",
         "address": "0x309Bc6DbcbFB9c84D26FDF65E8924367efCCBdb9",
@@ -3786,6 +3801,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DAI",
+        "name": "coin",
+        "address": "0x2ff1d12bebCE4981Ee3dCb6F04057a5e4662797f",
+        "decimals": "18",
+        "chainId": 100,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -3823,7 +3850,8 @@
         "coingeckoId": "jarvis-synthetic-swiss-franc",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4053,7 +4081,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x226bCf0e417428a25012d0fA2183d37f92bCeDF6/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -4109,6 +4136,7 @@
             "1inch",
             "sushiswap",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },

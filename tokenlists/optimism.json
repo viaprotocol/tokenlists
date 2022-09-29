@@ -27,6 +27,19 @@
         ]
     },
     {
+        "symbol": "AWETH",
+        "name": "Aave WETH",
+        "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+        "decimals": "18",
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/17238/thumb/aWETH_2x.png?1626940782",
+        "coingeckoId": "aave-weth",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BUILD",
         "name": "BUILD",
         "address": "0xe4dE4B87345815C71aa843ea4841bCdc682637bb",
@@ -143,6 +156,19 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MNTO",
+        "name": "Minato",
+        "address": "0xc04Fb38f10AD352c5f16Bd4546F7456E7f1A2D9e",
+        "decimals": "18",
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/24622/thumb/MNTO_200x200.png?1648448664",
+        "coingeckoId": "minato",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -436,6 +462,19 @@
         ]
     },
     {
+        "symbol": "OPP",
+        "name": "OptimismPad",
+        "address": "0x9E841f05Dc2b92199F3FCE96bDEfc36A08Dcb9F6",
+        "decimals": "18",
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/27015/thumb/200x200.png?1661478401",
+        "coingeckoId": "optimismpad",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "rETH",
         "name": "Rocket Pool ETH",
         "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
@@ -480,19 +519,6 @@
         ]
     },
     {
-        "symbol": "BYE",
-        "name": "Basis Yield ETH Index",
-        "address": "0x927Eb0dBC5c3FD172Fdfa72D563f71612eCB6122",
-        "decimals": "18",
-        "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/25989/thumb/BYE.png?1655188679",
-        "coingeckoId": "basis-yield-eth-index",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SUSD",
         "name": "sUSD",
         "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
@@ -534,6 +560,19 @@
             "1inch",
             "openocean",
             "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ADAI",
+        "name": "Aave DAI",
+        "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+        "decimals": "18",
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/14242/thumb/aDAI.84b6c41f.png?1615528749",
+        "coingeckoId": "aave-dai",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -679,6 +718,19 @@
         ]
     },
     {
+        "symbol": "AUSDT",
+        "name": "Aave USDT",
+        "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+        "decimals": "6",
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/14243/thumb/aUSDT.78f5faae.png?1615528400",
+        "coingeckoId": "aave-usdt",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
@@ -718,6 +770,19 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "AUSDC",
+        "name": "Aave USDC",
+        "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+        "decimals": "6",
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/14318/thumb/aUSDC.e260d492.png?1615527797",
+        "coingeckoId": "aave-usdc",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -884,19 +949,6 @@
         ]
     },
     {
-        "symbol": "ALETH",
-        "name": "Alchemix ETH",
-        "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
-        "decimals": "18",
-        "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/16271/thumb/uS04dyYy_400x400.jpeg?1663051098",
-        "coingeckoId": "alchemix-eth",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "POOL",
         "name": "PoolTogether",
         "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
@@ -987,7 +1039,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -1097,19 +1150,6 @@
             "optimism",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "AWBTC",
-        "name": "Aave WBTC",
-        "address": "0x078f358208685046a11C85e8ad32895DED33A249",
-        "decimals": "8",
-        "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1615528721",
-        "coingeckoId": "aave-wbtc",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
