@@ -5,7 +5,7 @@ from collections import defaultdict
 
 from coingecko_ids import CHAIN_ID_TO_NATIVE_COIN_COINGECKO_ID
 from common import Address, NATIVE_ADDR_0x0, NATIVE_ADDR_0xe, NATIVE_MATIC_ADDR, Token, CHAIN_NAMES_BY_ID
-from token_list_providers import CoinGeckoTokenLists, Lifinance, OneInchTokenLists, tokenlists_providers
+from token_list_providers import CoinGeckoTokenLists, Lifinance, OneInchTokenLists, RubicLists, tokenlists_providers
 
 TOKENLISTS_FOLDER = "tokenlists"
 
@@ -40,7 +40,7 @@ async def collect_trusted_tokens() -> dict[int, list[Token]]:
                         res[chain_id][addr].logoURI = token.logoURI
                     # coingecko and lifinance have worst token logos
                     elif (
-                        provider_name not in (Lifinance.name, CoinGeckoTokenLists.name) and
+                        provider_name not in (Lifinance.name, CoinGeckoTokenLists.name, RubicLists.name) and
                         ("tokens.1inch.io" not in (res[chain_id][addr].logoURI or []))
                     ):
                         res[chain_id][addr].logoURI = token.logoURI

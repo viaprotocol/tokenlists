@@ -61,7 +61,7 @@ class Token(BaseModel):
     symbol: str
     name: str
     address: Address
-    decimals: str = Field(..., alias="tokenDecimal")
+    decimals: int = Field(..., alias="tokenDecimal")
     chainId: ChainId
     logoURI: Optional[str]
     coingeckoId: Optional[str]
