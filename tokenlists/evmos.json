@@ -1,9 +1,35 @@
 [
     {
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
+        "coingeckoId": "frax-share",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "FRAX",
+        "name": "Frax",
+        "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
+        "coingeckoId": "frax",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "EVMOS",
         "name": "Evmos",
         "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 9001,
         "logoURI": "https://assets.coingecko.com/coins/images/24023/thumb/evmos.png?1653958927",
         "coingeckoId": "evmos",
@@ -13,13 +39,52 @@
         ]
     },
     {
+        "symbol": "ATOM",
+        "name": "Cosmos Hub",
+        "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/1481/thumb/cosmos_hub.png?1555657960",
+        "coingeckoId": "cosmos",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
-        "decimals": "6",
+        "decimals": 6,
         "chainId": 9001,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DIFF",
+        "name": "Diffusion",
+        "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/25331/thumb/photo5451952870917257644.jpg?1651826321",
+        "coingeckoId": "diffusion",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CRN",
+        "name": "Cronus Finance",
+        "address": "0x1488346419FFc85C6D54E71be80a222971fb2240",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/24022/thumb/h8GHzr2W_400x400.jpg?1646096205",
+        "coingeckoId": "cronus-finance",
         "listedIn": [
             "coingecko",
             "lifinance"

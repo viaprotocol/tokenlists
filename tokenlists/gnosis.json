@@ -3,9 +3,9 @@
         "symbol": "REALT-S-14882-TROES",
         "name": "RealT   14882 Troester St  Detroit  MI ",
         "address": "0xff1B4D71Ae12538d86777A954b136cF723fCcEFD",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xff1b4d71ae12538d86777a954b136cf723fccefd/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16600/thumb/14882-Troester-hero-1.jpg?1624542180",
         "coingeckoId": "14882-troester",
         "listedIn": [
             "coingecko",
@@ -13,26 +13,92 @@
         ]
     },
     {
+        "symbol": "TRIB",
+        "name": "Contribute on xDai",
+        "address": "0xff0Ce179a303F26017019acf78B951cB743B8D9b",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xff0Ce179a303F26017019acf78B951cB743B8D9b/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "XYO",
+        "name": "XY Oracle on xDai",
+        "address": "0xfd4e5f45eA24eC50C4Db4367380b014875caF219",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xfd4e5f45eA24eC50C4Db4367380b014875caF219/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ALBC",
+        "name": "AlbCoin from Ethereum",
+        "address": "0xfb23CfD35046466FdBA7f73dC2FcCb5b17ABf1Aa",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xfb23CfD35046466FdBA7f73dC2FcCb5b17ABf1Aa/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "MPS",
         "name": "Mt Pelerin Shares",
         "address": "0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb",
-        "decimals": "0",
+        "decimals": 0,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/master/network/xdai/0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb.jpg",
         "coingeckoId": "mt-pelerin-shares",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "XRT",
+        "name": "Robonomics on xDai",
+        "address": "0xf54b47B00B6916974c73B81B7d9929a4f443DB49",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xf54b47B00B6916974c73B81B7d9929a4f443DB49/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "XGT",
+        "name": "XionGlobal Token",
+        "address": "0xf1738912ae7439475712520797583ac784ea9033",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xf1738912ae7439475712520797583ac784ea9033/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "symbol": "ETHIX",
         "name": "EthicHub",
         "address": "0xec3f3e6d7907acDa3A7431abD230196CDA3FbB19",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xec3f3e6d7907acda3a7431abd230196cda3fbb19/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164",
         "coingeckoId": "ethichub",
         "listedIn": [
             "coingecko",
@@ -43,9 +109,9 @@
         "symbol": "REALT-S-4680-BUCKIN",
         "name": "RealT   4680 Buckingham Ave  Detroit  M",
         "address": "0xeFe82D6baF0dB71f92889eB9d00721bD49121316",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xefe82d6baf0db71f92889eb9d00721bd49121316/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16629/thumb/4680-Buckingham-hero-1.jpeg?1624553513",
         "coingeckoId": "4680-buckingham",
         "listedIn": [
             "coingecko",
@@ -56,7 +122,7 @@
         "symbol": "ELK",
         "name": "Elk Finance",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
         "coingeckoId": "elk-finance",
@@ -67,10 +133,23 @@
         ]
     },
     {
+        "symbol": "TVK",
+        "name": "Terra Virtua Kolect",
+        "address": "0xeB2BCaBb0cDC099978A74cFE4Ab4d45E7e677a45",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xeB2BCaBb0cDC099978A74cFE4Ab4d45E7e677a45/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "WXDAI",
         "name": "Wrapped XDAI",
         "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png",
         "coingeckoId": "wrapped-xdai",
@@ -88,9 +167,9 @@
         "symbol": "REALT-S-14066-SANTA",
         "name": "RealT   14066 Santa Rosa Dr  Detroit  M",
         "address": "0xe887DC4fcb5240c0c080AEAb8870421d3ebd0B28",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16677/thumb/14066-Santa-Rosa-hero-1.5.jpg?1624629250",
         "coingeckoId": "14066-santa-rosa",
         "listedIn": [
             "coingecko",
@@ -101,9 +180,9 @@
         "symbol": "REALT-S-10700-WHITT",
         "name": "RealT   10700 Whittier Ave  Detroit  MI",
         "address": "0xe82CBb7C29d00a4296EE505d12a473C26cd9c423",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe82cbb7c29d00a4296ee505d12a473c26cd9c423/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16625/thumb/10700-Whittier-hero-2.jpg?1624552489",
         "coingeckoId": "10700-whittier",
         "listedIn": [
             "coingecko",
@@ -114,9 +193,9 @@
         "symbol": "REALT-S-15048-FREEL",
         "name": "RealT   15048 Freeland St  Detroit  MI ",
         "address": "0xe3902E329Ef2D3FD7666022C139d75BCc984b7a5",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe3902e329ef2d3fd7666022c139d75bcc984b7a5/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16669/thumb/Freeland-8_jpeg.png?1624627336",
         "coingeckoId": "15048-freeland",
         "listedIn": [
             "coingecko",
@@ -124,16 +203,56 @@
         ]
     },
     {
+        "symbol": "BAND",
+        "name": "BandToken on xDai",
+        "address": "0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BAOcx",
+        "name": "BaoToken Coupon",
+        "address": "0xe0d0b1DBbCF3dd5CAc67edaf9243863Fd70745DA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xe0d0b1DBbCF3dd5CAc67edaf9243863Fd70745DA/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "BADGER",
         "name": "Badger DAO",
         "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65/logo.png",
         "coingeckoId": "badger-dao",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "FSW",
+        "name": "FalconSwap Token on xDai",
+        "address": "0xde1E70ed71936E4C249a7d43E550f0b99FCCDDfC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xde1E70ed71936E4C249a7d43E550f0b99FCCDDfC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -141,7 +260,7 @@
         "symbol": "BUSD",
         "name": "Binance USD",
         "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
         "coingeckoId": "binance-usd",
@@ -157,12 +276,13 @@
         "symbol": "COLD",
         "name": "COLD TRUTH CASH",
         "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xdbcadE285846131a5e7384685EADDBDFD9625557/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -170,9 +290,22 @@
         "symbol": "QI",
         "name": "QiDao",
         "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BZZ",
+        "name": "BZZ from Ethereum",
+        "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+        "decimals": 16,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -183,9 +316,9 @@
         "symbol": "REALT-S-15350-GREYD",
         "name": "RealT   15350 Greydale St  Detroit  MI ",
         "address": "0xdA47bD33e8f5d17Bb81b8752784bfb46C1c44B2A",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16564/thumb/15350-Greydale-hero-1.jpg?1624460101",
         "coingeckoId": "15350-greydale",
         "listedIn": [
             "coingecko",
@@ -196,9 +329,9 @@
         "symbol": "REALT-S-4061-GRAND-",
         "name": "RealT   4061 Grand St  Detroit  MI 4823",
         "address": "0xd9e89bFebAe447B42C1Fa85C590716eC8820f737",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd9e89bfebae447b42c1fa85c590716ec8820f737/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16616/thumb/4061-Grand-hero-1.jpeg?1624551866",
         "coingeckoId": "4061-grand",
         "listedIn": [
             "coingecko",
@@ -206,12 +339,38 @@
         ]
     },
     {
+        "symbol": "HEX",
+        "name": "HEX on xDai",
+        "address": "0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "UBT",
         "name": "UniBright on xDai",
         "address": "0xd3b93fF74E43Ba9568e5019b38AdDB804feF719B",
-        "decimals": "8",
+        "decimals": 8,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xd3b93fF74E43Ba9568e5019b38AdDB804feF719B/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MCB",
+        "name": "MCDEX Token on xDai",
+        "address": "0xd361c1FD663d8f2dc36ae07FF6F3623532cAbdD3",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xd361c1FD663d8f2dc36ae07FF6F3623532cAbdD3/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -222,9 +381,9 @@
         "symbol": "REALT-S-272-NE-42ND",
         "name": "RealT   272 N E  42nd Court  Deerfield ",
         "address": "0xce111a198eB04F388AceB78c40ceD6daF1b0514a",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xce111a198eb04f388aceb78c40ced6daf1b0514a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16635/thumb/272-Court-1.jpeg?1624556789",
         "coingeckoId": "272-n-e-42nd-court",
         "listedIn": [
             "coingecko",
@@ -232,26 +391,105 @@
         ]
     },
     {
+        "symbol": "AUT",
+        "name": "Autopia Token on xDai",
+        "address": "0xcaE40062a887581A3d1661d0AC2b481c32e3E938",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xcaE40062a887581A3d1661d0AC2b481c32e3E938/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "LTI",
+        "name": "Layer 2 Index on xDai",
+        "address": "0xcF9Dc2de2A67d7db1A7171e3b8456D2171E4da75",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xcF9Dc2de2A67d7db1A7171e3b8456D2171E4da75/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MRP",
+        "name": "MORPHINE",
+        "address": "0xcC043D8820a6dc3E74EF6fb4772faE00c1563489",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xcC043D8820a6dc3E74EF6fb4772faE00c1563489/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "AFI",
         "name": "AriesFinancial on xDai",
         "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xc81c785653D97766b995D867CF91F56367742eAC/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "openocean",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
     {
-        "symbol": "DAI",
-        "name": "Dai Stablecoin v1.0 on xDai",
+        "symbol": "NODE",
+        "name": "DAppNode DAO Token from Ethereum",
+        "address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xc60e38C6352875c051B481Cbe79Dd0383AdB7817/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "SAI",
+        "name": "Sai on xDai",
         "address": "0xc439E5B1DEe4f866B681E7c5E5dF140aA47fBf19",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xc439E5B1DEe4f866B681E7c5E5dF140aA47fBf19/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "LEND",
+        "name": "EthLend Token on xDai",
+        "address": "0xc1b42BDb485dEb24C74f58399288d7915a726C1D",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xc1b42BDb485dEb24C74f58399288d7915a726C1D/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "SURF",
+        "name": "SURF.Finance from Ethereum",
+        "address": "0xc12956b840B403b600014a3092f6EBD9259738fE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xc12956b840B403b600014a3092f6EBD9259738fE/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -262,13 +500,14 @@
         "symbol": "YFI",
         "name": "yearn finance",
         "address": "0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd/logo.png",
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -276,7 +515,7 @@
         "symbol": "ADAI",
         "name": "Aave Interest bearing DAI on xDai",
         "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4/logo.png",
         "coingeckoId": null,
@@ -288,16 +527,43 @@
         ]
     },
     {
+        "symbol": "BNSD",
+        "name": "bns.finance on xDai",
+        "address": "0xbDB90BDAdae84Af0b07abf4cEFcC7989F909f9bD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xbDB90BDAdae84Af0b07abf4cEFcC7989F909f9bD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MDZA",
+        "name": "MEDOOZA Ecosystem v2.0 from Ethereum",
+        "address": "0xbAb3cbDcBCc578445480a79ed80269C50bB5B718",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xbAb3cbDcBCc578445480a79ed80269C50bB5B718/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "DXD",
         "name": "DXdao from Ethereum",
         "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xa1d65e8fb6e87b60feccbc582f7f97804b725521.png",
         "coingeckoId": "dxdao",
         "listedIn": [
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -305,9 +571,9 @@
         "symbol": "REALT-S-11078-WAYBU",
         "name": "RealT   11078 Wayburn St  Detroit  MI 4",
         "address": "0xb8403b7730368942a5BFe5aaC04a31B44015b1cc",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb8403b7730368942a5bfe5aac04a31b44015b1cc/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16596/thumb/11078-Wayburn-hero-1.jpg?1624541135",
         "coingeckoId": "11078-wayburn",
         "listedIn": [
             "coingecko",
@@ -318,7 +584,7 @@
         "symbol": "STAKE",
         "name": "STAKE",
         "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x0ae055097c6d159879521c384f1d2123d1f195e6.png",
         "coingeckoId": "xdai-stake",
@@ -336,9 +602,9 @@
         "symbol": "REALT-S-12866-LAUDE",
         "name": "RealT   12866 Lauder St  Detroit  MI 48",
         "address": "0xb5DD2b6E0A0422e069E1D2CC3Ed16533488a05e3",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb5dd2b6e0a0422e069e1d2cc3ed16533488a05e3/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16565/thumb/12866-Lauder-hero-1.jpg?1624460677",
         "coingeckoId": "12866-lauder",
         "listedIn": [
             "coingecko",
@@ -346,10 +612,23 @@
         ]
     },
     {
+        "symbol": "BOND",
+        "name": "BarnBridge",
+        "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "HAUS",
         "name": "DAOhaus",
         "address": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
-        "decimals": "35",
+        "decimals": 35,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb/logo.png",
         "coingeckoId": "daohaus",
@@ -365,9 +644,9 @@
         "symbol": "REALT-S-14229-WILSH",
         "name": "RealT   14229 Wilshire Dr  Detroit  MI ",
         "address": "0xb09850e2B93aa3AAa1476bF0c007cfc960E2de79",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb09850e2b93aa3aaa1476bf0c007cfc960e2de79/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16604/thumb/14229-Wilshire-hero-1.jpg?1624543967",
         "coingeckoId": "14229-wilshire",
         "listedIn": [
             "coingecko",
@@ -378,9 +657,9 @@
         "symbol": "REALT-S-18983-ALCOY",
         "name": "RealT   18983 Alcoy Ave  Detroit  MI 48",
         "address": "0xaD91999F534F4075B00bA4231C018e57bdeBb342",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xad91999f534f4075b00ba4231c018e57bdebb342/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16619/thumb/18983-Alcoy-hero-1.jpg?1624550570",
         "coingeckoId": "18983-alcoy",
         "listedIn": [
             "coingecko",
@@ -388,12 +667,25 @@
         ]
     },
     {
+        "symbol": "PROPHET",
+        "name": "prophet.finance on xDai",
+        "address": "0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "BTCBR",
         "name": "Bitcoin BR",
         "address": "0xa899e4476FF5dA39Dcd9DDEC7a6e2C651d8614Bf",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa899e4476ff5da39dcd9ddec7a6e2c651d8614bf/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/21205/thumb/btcbr.png?1661666691",
         "coingeckoId": "bitcoin-br",
         "listedIn": [
             "coingecko",
@@ -404,9 +696,9 @@
         "symbol": "REALT-S-15634-LIBER",
         "name": "RealT   15634 Liberal St  Detroit  MI 4",
         "address": "0xa81F77E8988b28fB74243B907acE3c83353Dc80a",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa81f77e8988b28fb74243b907ace3c83353dc80a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16703/thumb/Liberal-1.png?1624643634",
         "coingeckoId": "15634-liberal",
         "listedIn": [
             "coingecko",
@@ -417,9 +709,9 @@
         "symbol": "REALT-S-9166-DEVONS",
         "name": "RealT   9166 Devonshire Rd  Detroit MI ",
         "address": "0xa69D7d4DdF397f3D1E7EbAf108555d1107b3B117",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa69d7d4ddf397f3d1e7ebaf108555d1107b3b117/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16690/thumb/Devonshire-3x.jpeg?1624636640",
         "coingeckoId": "9166-devonshire",
         "listedIn": [
             "coingecko",
@@ -430,9 +722,9 @@
         "symbol": "REALT-S-9920-BISHOP",
         "name": "RealT   9920 Bishop St  Detroit  MI 482",
         "address": "0xa2b2ae397492C7ed8A4c1e751aC72D2b59947E6b",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa2b2ae397492c7ed8a4c1e751ac72d2b59947e6b/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16615/thumb/9920-Bishop-hero-1.jpg?1624549554",
         "coingeckoId": "9920-bishop",
         "listedIn": [
             "coingecko",
@@ -443,9 +735,9 @@
         "symbol": "REALT-S-5601-SWOOD-",
         "name": "RealT   5601 S Wood St  Chicago  IL 606",
         "address": "0xa137D82197Ea4cdfd5f008A91Ba816b8324F59E1",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa137d82197ea4cdfd5f008a91ba816b8324f59e1/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16605/thumb/5601-S-Wood-hero-1.jpg?1624544382",
         "coingeckoId": "5601-s-wood",
         "listedIn": [
             "coingecko",
@@ -456,9 +748,9 @@
         "symbol": "REALT-S-15777-ARDMO",
         "name": "RealT   15777 Ardmore St  Detroit  MI 4",
         "address": "0xFe17C3C0B6F38cF3bD8bA872bEE7a18Ab16b43fB",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xfe17c3c0b6f38cf3bd8ba872bee7a18ab16b43fb/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16542/thumb/15777-Ardmore-hero-2.jpg?1624371814",
         "coingeckoId": "15777-ardmore",
         "listedIn": [
             "coingecko",
@@ -469,7 +761,7 @@
         "symbol": "DAI",
         "name": "Dai Token on xDai",
         "address": "0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/logo.png",
         "coingeckoId": null,
@@ -483,9 +775,9 @@
         "symbol": "DHV",
         "name": "DeHive",
         "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xfbdd194376de19a88118e84e279b977f165d01b8/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/14926/thumb/logo_200x200.png?1626181831",
         "coingeckoId": "dehive",
         "listedIn": [
             "coingecko",
@@ -494,12 +786,38 @@
         ]
     },
     {
+        "symbol": "GRT",
+        "name": "Graph Token on xDai",
+        "address": "0xFAdc59D012Ba3c110B08A15B7755A5cb7Cbe77D7",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xFAdc59D012Ba3c110B08A15B7755A5cb7Cbe77D7/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "LOCK",
+        "name": "Meridian Network on xDai",
+        "address": "0xF99efEB34aff6D3099C41605e9Ee778cAEC39317",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xF99efEB34aff6D3099C41605e9Ee778cAEC39317/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-1617-SAVERS",
         "name": "RealT   1617 S Avers Ave  Chicago  IL 6",
         "address": "0xF4657AB08681214Bcb1893aa8E9C7613459250ec",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xf4657ab08681214bcb1893aa8e9c7613459250ec/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16675/thumb/1617-S-Avers-hero-1.jpg?1624628860",
         "coingeckoId": "1617-s-avers",
         "listedIn": [
             "coingecko",
@@ -510,9 +828,9 @@
         "symbol": "REALT-S-25097-ANDOV",
         "name": "RealT   25097 Andover Dr  Dearborn Heig",
         "address": "0xF18CfFB528eca0ea31D1d6b28BC80d2eca34D14D",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xf18cffb528eca0ea31d1d6b28bc80d2eca34d14d/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16698/thumb/Andover-25097.jpeg?1624641026",
         "coingeckoId": "25097-andover",
         "listedIn": [
             "coingecko",
@@ -523,9 +841,9 @@
         "symbol": "REALT-S-20200-LESUR",
         "name": "RealT   20200 Lesure St  Detroit  MI 48",
         "address": "0xEeDc2F5F4D1226759B1AcF9EfA23a99661De6663",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xeedc2f5f4d1226759b1acf9efa23a99661de6663/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16702/thumb/20200-Lesure-003.jpeg?1624643190",
         "coingeckoId": "20200-lesure",
         "listedIn": [
             "coingecko",
@@ -536,9 +854,9 @@
         "symbol": "REALT-S-12334-LANSD",
         "name": "RealT   12334 Lansdowne Street  Detroit",
         "address": "0xEe2f2212a64Ec3f6BC0F7580e10c53CB38B57508",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16692/thumb/Landsdowne-hero.jpeg?1624638212",
         "coingeckoId": "12334-lansdowne",
         "listedIn": [
             "coingecko",
@@ -546,12 +864,77 @@
         ]
     },
     {
+        "symbol": "TRAC",
+        "name": "Trace Token on xDai",
+        "address": "0xEddd81E0792E764501AaE206EB432399a0268DB5",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xEddd81E0792E764501AaE206EB432399a0268DB5/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "CHEEMS",
+        "name": "Cheemscoin",
+        "address": "0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BNS",
+        "name": "BNS Token on xDai",
+        "address": "0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "SWAP",
+        "name": "TrustSwap Token on xDai",
+        "address": "0xEAaccE3E5bCC10FB32c2553f8d6Fc4C3888ffDaD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xEAaccE3E5bCC10FB32c2553f8d6Fc4C3888ffDaD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MESH",
+        "name": "BLOCKMESH",
+        "address": "0xE7EF58d8180Cc269C6620dED3E6cc536A52E2ebD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xE7EF58d8180Cc269C6620dED3E6cc536A52E2ebD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-4852-4854-W",
         "name": "RealT   4852 4854 W Cortez St  Chicago ",
         "address": "0xE7B6dE709fFC3BD237c2f2c800E1002F97A760F3",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16670/thumb/Cortez-facade-1.jpg?1624627398",
         "coingeckoId": "4852-4854-w-cortez",
         "listedIn": [
             "coingecko",
@@ -559,12 +942,25 @@
         ]
     },
     {
+        "symbol": "BZRX",
+        "name": "BZRX",
+        "address": "0xE6A1f98b0F4368559BD16639C844510f5DB6Fe48",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xE6A1f98b0F4368559BD16639C844510f5DB6Fe48/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-10616-MCKIN",
         "name": "RealT   10616 McKinney St  Detroit  MI ",
         "address": "0xE5Ce63AC9a08c1EB160889151cD84855F16C94d2",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe5ce63ac9a08c1eb160889151cd84855f16c94d2/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16685/thumb/Mkinney-hero.jpeg?1624634131",
         "coingeckoId": "10616-mckinney",
         "listedIn": [
             "coingecko",
@@ -575,7 +971,7 @@
         "symbol": "LINK",
         "name": "Chainlink",
         "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
         "coingeckoId": "chainlink",
@@ -593,9 +989,9 @@
         "symbol": "REALT-S-402-SKOSTNE",
         "name": "RealT   402 S Kostner Ave  Chicago  IL ",
         "address": "0xE255cAF8893382465368b8e1cd4Ef8436ACf0ADE",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xe255caf8893382465368b8e1cd4ef8436acf0ade/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16627/thumb/402-S-Kostner-hero-1.jpg?1624553033",
         "coingeckoId": "402-s-kostner",
         "listedIn": [
             "coingecko",
@@ -603,12 +999,25 @@
         ]
     },
     {
+        "symbol": "COMP",
+        "name": "Compound on xDai",
+        "address": "0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-11957-OLGA-",
         "name": "RealT   11957 Olga St  Detroit  MI 4821",
         "address": "0xDd833D0eEF6d5d7Cec781b03c19f3B425F3039Df",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xdd833d0eef6d5d7cec781b03c19f3b425f3039df/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16672/thumb/11957-Olga-hero-1.jpg?1624628071",
         "coingeckoId": "11957-olga",
         "listedIn": [
             "coingecko",
@@ -619,7 +1028,7 @@
         "symbol": "AAVE",
         "name": "Aave Token on xDai",
         "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xDF613aF6B44a31299E48131e9347F034347E2F00/logo.png",
         "coingeckoId": null,
@@ -635,7 +1044,7 @@
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
         "coingeckoId": "usd-coin",
@@ -653,9 +1062,9 @@
         "symbol": "REALT-S-10629-MCKIN",
         "name": "RealT   10629 McKinney St  Detroit  MI ",
         "address": "0xD5d1adf54Fbf73a00b197DdCfDAD7cc27D93002f",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd5d1adf54fbf73a00b197ddcfdad7cc27d93002f/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16611/thumb/10629-McKinney-hero-1.jpg?1624545790",
         "coingeckoId": "10629-mckinney",
         "listedIn": [
             "coingecko",
@@ -666,9 +1075,9 @@
         "symbol": "REALT-S-11078-LONGV",
         "name": "RealT   11078 Longview St  Detroit  MI ",
         "address": "0xD5Fc0C4C4C5ff316e1E91494d963Ff1D52Ba25fF",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16630/thumb/11078-Longview-hero-2.5.jpg?1624553559",
         "coingeckoId": "11078-longview",
         "listedIn": [
             "coingecko",
@@ -679,13 +1088,14 @@
         "symbol": "AMIS",
         "name": "AMIS",
         "address": "0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93",
-        "decimals": "9",
+        "decimals": 9,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93/logo.png",
         "coingeckoId": "amis",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -693,7 +1103,7 @@
         "symbol": "DPI",
         "name": "DeFi Pulse Index",
         "address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b.png",
         "coingeckoId": "defipulse-index",
@@ -710,7 +1120,7 @@
         "symbol": "ESR",
         "name": "EsportsRef",
         "address": "0xD3226B12e6188133b19Ac0419f34B0ed5B10f069",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
         "coingeckoId": "esportsref",
@@ -722,12 +1132,25 @@
         ]
     },
     {
+        "symbol": "AKRO",
+        "name": "Akropolis on xDai",
+        "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xD27E1ECC4748F42e052331BeA917D89bEB883fc3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-10612-SOMER",
         "name": "RealT   10612 Somerset Ave  Detroit  MI",
         "address": "0xD1c15CEbfDcd16F00D91666bf64C8b66CbF5e9b5",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd1c15cebfdcd16f00d91666bf64c8b66cbf5e9b5/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16680/thumb/Somerset-3.jpeg?1624630432",
         "coingeckoId": "10612-somerset",
         "listedIn": [
             "coingecko",
@@ -738,7 +1161,7 @@
         "symbol": "USDC",
         "name": "USD Coin on xDai",
         "address": "0xD10Cc63531a514BBa7789682E487Add1f15A51E2",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD10Cc63531a514BBa7789682E487Add1f15A51E2/logo.png",
         "coingeckoId": null,
@@ -752,9 +1175,9 @@
         "symbol": "REALT-S-6923-GREENV",
         "name": "RealT   6923 Greenview Ave  Detroit  MI",
         "address": "0xD08d2b199E9E5df407427d4085877d1fDFf3b1d6",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xd08d2b199e9e5df407427d4085877d1fdff3b1d6/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16676/thumb/6923-Greenview.jpeg?1624629085",
         "coingeckoId": "6923-greenview",
         "listedIn": [
             "coingecko",
@@ -765,7 +1188,7 @@
         "symbol": "HOPR",
         "name": "HOPR Token on xDai",
         "address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD057604A14982FE8D88c5fC25Aac3267eA142a08/logo.png",
         "coingeckoId": "hopr",
@@ -779,9 +1202,48 @@
         "symbol": "WBNB",
         "name": "Wrapped BNB on xDai",
         "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "AMPL",
+        "name": "Ampleforth on xDai",
+        "address": "0xC84DD5B971521B6C9fA5E10d25E6428b19710e05",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xC84DD5B971521B6C9fA5E10d25E6428b19710e05/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BAT",
+        "name": "Basic Attention Token on xDai",
+        "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MCDC",
+        "name": "McDonaldsCoin on xDai",
+        "address": "0xC577cDdABB7893cC2cA15eF4b5D5e5E13c3FeeD3",
+        "decimals": 2,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xC577cDdABB7893cC2cA15eF4b5D5e5E13c3FeeD3/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -792,7 +1254,7 @@
         "symbol": "SYMM",
         "name": "Symmetric",
         "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
         "coingeckoId": null,
@@ -807,7 +1269,7 @@
         "symbol": "XGT",
         "name": "Xion Finance",
         "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
         "coingeckoId": "xion-finance",
@@ -815,6 +1277,33 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "STORJ",
+        "name": "StorjToken on xDai",
+        "address": "0xBc650b9cC12dB4da14b2417c60CCd6F4d77c3998",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xBc650b9cC12dB4da14b2417c60CCd6F4d77c3998/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "AXS",
+        "name": "Axie Infinity",
+        "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -822,9 +1311,9 @@
         "symbol": "REALT-S-18776-SUNDE",
         "name": "RealT   18776 Sunderland Rd  Detroit  M",
         "address": "0xBA07997F594A52DF179620284B52B50A4E66227D",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xba07997f594a52df179620284b52b50a4e66227d/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16602/thumb/18776-Sunderland-hero-1.jpg?1624543588",
         "coingeckoId": "18776-sunderland",
         "listedIn": [
             "coingecko",
@@ -832,10 +1321,23 @@
         ]
     },
     {
+        "symbol": "TUSD",
+        "name": "TrueUSD on xDai",
+        "address": "0xB714654e905eDad1CA1940b7790A8239ece5A9ff",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xB714654e905eDad1CA1940b7790A8239ece5A9ff/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "PRTCLE",
         "name": "Particle",
         "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300/logo.png",
         "coingeckoId": "particle-2",
@@ -843,6 +1345,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -850,9 +1353,9 @@
         "symbol": "REALT-S-10024-10028",
         "name": "RealT  10024 10028 Appoline St  Detroit",
         "address": "0xB5D30c28F87acf675Ed5B9f343E5ffF39eC9942C",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb5d30c28f87acf675ed5b9f343e5fff39ec9942c/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16639/thumb/appoline-hero.jpeg?1624559019",
         "coingeckoId": "10024-10028-appoline",
         "listedIn": [
             "coingecko",
@@ -860,12 +1363,25 @@
         ]
     },
     {
+        "symbol": "MET",
+        "name": "Metronome on xDai",
+        "address": "0xB4B6f80d8E573e9867c90163BFdb00E29d92716a",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xB4B6f80d8E573e9867c90163BFdb00E29d92716a/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-15796-HARTW",
         "name": "RealT   15796 Hartwell St  Detroit  MI ",
         "address": "0xB3D3C1bBcEf737204AADb4fA6D90e974bc262197",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xb3d3c1bbcef737204aadb4fa6d90e974bc262197/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16607/thumb/15796-Hartwell-hero-1.jpeg?1624545151",
         "coingeckoId": "15796-hartwell",
         "listedIn": [
             "coingecko",
@@ -873,16 +1389,43 @@
         ]
     },
     {
+        "symbol": "BTCCB",
+        "name": "BTCCB",
+        "address": "0xB2aE7983A8142401d45546aAb981e5fbff520991",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xB2aE7983A8142401d45546aAb981e5fbff520991/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "sUSD",
+        "name": "Synthetix USD on xDai",
+        "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "ETHO",
         "name": "Etho Protocol",
         "address": "0xB17d999E840e0c1B157Ca5Ab8039Bd958b5fA317",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xB17d999E840e0c1B157Ca5Ab8039Bd958b5fA317/logo.png",
         "coingeckoId": "ether-1",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -890,9 +1433,9 @@
         "symbol": "REALT-S-15860-HARTW",
         "name": "RealT   15860 Hartwell St  Detroit  MI ",
         "address": "0xA9F30C907321718e655B74463CA665B690B78894",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa9f30c907321718e655b74463ca665b690b78894/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16595/thumb/15860-Hartwell-hero-1.jpg?1624540454",
         "coingeckoId": "15860-hartwell",
         "listedIn": [
             "coingecko",
@@ -903,9 +1446,9 @@
         "symbol": "REALT-S-4340-EAST-7",
         "name": "RealT   4340 East 71  Cleveland  OH 441",
         "address": "0xA68b7779504b0AE372ddCC109f8786DB9B91e93e",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa68b7779504b0ae372ddcc109f8786db9b91e93e/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16681/thumb/4340-East-71-front.jpeg?1624631910",
         "coingeckoId": "4340-east-71",
         "listedIn": [
             "coingecko",
@@ -916,22 +1459,36 @@
         "symbol": "SGNO",
         "name": "StakeWise Staked GNO",
         "address": "0xA4eF9Da5BA71Cc0D2e5E877a910A37eC43420445",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/24848/thumb/sgno.png?1649125966",
         "coingeckoId": "stakewise-staked-gno",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "YLD",
+        "name": "Yield on xDai",
+        "address": "0xA2FEc95B3d3feCb39098E81f108533E1abF22CcF",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xA2FEc95B3d3feCb39098E81f108533E1abF22CcF/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "symbol": "REALT-S-581-587-JEF",
         "name": "RealT   581 587 Jefferson Ave  Rocheste",
         "address": "0xA29ae272bC89e5f315B2793925f700045F845d82",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa29ae272bc89e5f315b2793925f700045f845d82/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16637/thumb/571-jefferson-corner-1.1.jpg?1624557964",
         "coingeckoId": "581-587-jefferson",
         "listedIn": [
             "coingecko",
@@ -939,12 +1496,25 @@
         ]
     },
     {
+        "symbol": "FREE",
+        "name": "FreeToken",
+        "address": "0xA106739De31FA7a9DF4a93c9bea3E1bAdE0924e2",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0xA106739De31FA7a9DF4a93c9bea3E1bAdE0924e2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "JEUR",
         "name": "Jarvis Synthetic Euro",
         "address": "0x9fB1d52596c44603198fB0aee434fac3a679f702",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9fb1d52596c44603198fb0aee434fac3a679f702/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/15725/thumb/jEUR.png?1634046044",
         "coingeckoId": "jarvis-synthetic-euro",
         "listedIn": [
             "coingecko",
@@ -952,12 +1522,25 @@
         ]
     },
     {
+        "symbol": "ETHM",
+        "name": "Ethereum Meta on xDai",
+        "address": "0x9bD5E0ce813d5172859b0b70Ff7Bb3C325CEE913",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x9bD5E0ce813d5172859b0b70Ff7Bb3C325CEE913/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-11300-ROXBU",
         "name": "RealT   11300 Roxbury St  Detroit  MI 4",
         "address": "0x9b5B4886033B4ABc5Eb0552ffF7c15A67C3c47C7",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9b5b4886033b4abc5eb0552fff7c15a67c3c47c7/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16610/thumb/11300-Roxbury-hero-1.jpg?1624545386",
         "coingeckoId": "11300-roxbury",
         "listedIn": [
             "coingecko",
@@ -965,12 +1548,25 @@
         ]
     },
     {
+        "symbol": "BNT",
+        "name": "Bancor Network Token on xDai",
+        "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x9a495a281D959192343B0e007284bf130bd05F86/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-15095-HARTW",
         "name": "RealT  15095 Hartwell St  Detroit  MI 4",
         "address": "0x9FEF44FC4C571010BCCD5b63e1Cdc807D3b347bF",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9fef44fc4c571010bccd5b63e1cdc807d3b347bf/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16664/thumb/15095-Hartwell-hero-1.jpeg?1624625590",
         "coingeckoId": "15095-hartwell",
         "listedIn": [
             "coingecko",
@@ -981,9 +1577,9 @@
         "symbol": "REALT-S-13114-GLENF",
         "name": "RealT   13114 Glenfield Ave  Detroit  M",
         "address": "0x9F923653A19537b5a1b003854A1920fe67a8ffEB",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9f923653a19537b5a1b003854a1920fe67a8ffeb/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16678/thumb/13114-Glenfield-Ave.jpeg?1624629523",
         "coingeckoId": "13114-glenfield",
         "listedIn": [
             "coingecko",
@@ -994,9 +1590,9 @@
         "symbol": "REALT-S-18900-MANSF",
         "name": "RealT   18900 Mansfield St  Detroit  MI",
         "address": "0x9Eb90Ec3FAafC22092C9b91559FdDde538042093",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9eb90ec3faafc22092c9b91559fddde538042093/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16697/thumb/18900-Mansfield-flowers.jpeg?1624640555",
         "coingeckoId": "18900-mansfield",
         "listedIn": [
             "coingecko",
@@ -1007,9 +1603,9 @@
         "symbol": "REALT-S-12405-SANTA",
         "name": "RealT   12405 Santa Rosa Dr  Detroit  M",
         "address": "0x9D918eE39a356bE8eF99734599c7e70160dB4Db6",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9d918ee39a356be8ef99734599c7e70160db4db6/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16671/thumb/12405-Santa-Rosa-hero-1.jpg?1624627801",
         "coingeckoId": "12405-santa-rosa",
         "listedIn": [
             "coingecko",
@@ -1020,7 +1616,7 @@
         "symbol": "GNO",
         "name": "Gnosis",
         "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
         "coingeckoId": "gnosis",
@@ -1038,9 +1634,9 @@
         "symbol": "REALT-S-18466-FIELD",
         "name": "RealT  18466 Fielding St  Detroit  MI 4",
         "address": "0x9A99f283e1F6c3b7F24901995624Ef7b78E94471",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9a99f283e1f6c3b7f24901995624ef7b78e94471/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16663/thumb/18466-Fielding-hero-1.jpeg?1624625063",
         "coingeckoId": "18466-fielding",
         "listedIn": [
             "coingecko",
@@ -1051,13 +1647,27 @@
         "symbol": "PUNK",
         "name": "Punk from Mainnet",
         "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "POA20",
+        "name": "POA20 on xDai",
+        "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x985e144EB355273c4B4D51E448B68b657F482E26/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1065,9 +1675,9 @@
         "symbol": "REALT-S-18273-MONTE",
         "name": "RealT   18273 Monte Vista St  Detroit  ",
         "address": "0x9856C5CA15A4Ac9C65AAC090c38a9f39EB3b5eeC",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16665/thumb/18273-Monte-Vista-hero-1b.jpeg?1624626435",
         "coingeckoId": "18273-monte-vista",
         "listedIn": [
             "coingecko",
@@ -1078,7 +1688,7 @@
         "symbol": "PAN",
         "name": "Panvala Pan",
         "address": "0x981fB9BA94078a2275A8fc906898ea107B9462A8",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xd56dac73a4d6766464b38ec6d91eb45ce7457c44.png",
         "coingeckoId": "panvala-pan",
@@ -1086,6 +1696,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1093,23 +1704,37 @@
         "symbol": "RICE",
         "name": "DAOSquare",
         "address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f/logo.png",
+        "logoURI": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/assets/logo-sm.png",
         "coingeckoId": "daosquare",
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "HIVESHARE",
+        "name": "HiveShares from Ethereum",
+        "address": "0x97E4ebc14C117C1ac2D032a5A8140C84628b0d17",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x97E4ebc14C117C1ac2D032a5A8140C84628b0d17/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "symbol": "REALT-S-12409-WHITE",
         "name": "RealT   12409 Whitehill St  Detroit  MI",
         "address": "0x969d42ad7008e6651E1Fd52742153F8743225D98",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x969d42ad7008e6651e1fd52742153f8743225d98/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16668/thumb/12409-Whitehill-hero-1.jpg?1624627067",
         "coingeckoId": "12409-whitehill",
         "listedIn": [
             "coingecko",
@@ -1120,9 +1745,9 @@
         "symbol": "REALT-S-4380-BEACON",
         "name": "RealT   4380 Beaconsfield St  Detroit  ",
         "address": "0x96700Ffae33c651bC329c3f3fbFE56e1f291f117",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x96700ffae33c651bc329c3f3fbfe56e1f291f117/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16603/thumb/4380-Beaconsfield-hero-1.jpeg?1624543909",
         "coingeckoId": "4380-beaconsfield",
         "listedIn": [
             "coingecko",
@@ -1133,9 +1758,9 @@
         "symbol": "REALT-S-14231-STRAT",
         "name": "RealT   14231 Strathmoor St  Detroit  M",
         "address": "0x9528a7402C0Fe85B817aa6E106EAFa03A02924c4",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x9528a7402c0fe85b817aa6e106eafa03a02924c4/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16563/thumb/14231-Strathmoor-hero-1.jpg?1624459471",
         "coingeckoId": "14231-strathmoor",
         "listedIn": [
             "coingecko",
@@ -1146,9 +1771,9 @@
         "symbol": "REALT-S-1244-SAVERS",
         "name": "RealT   1244 S  Avers St  Chicago  IL 6",
         "address": "0x94Fa7F8cb8453AD57cd133363b3012044647078C",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x94fa7f8cb8453ad57cd133363b3012044647078c/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16634/thumb/1244-S-Avers-hero-3.jpeg?1624555551",
         "coingeckoId": "1244-s-avers",
         "listedIn": [
             "coingecko",
@@ -1159,9 +1784,9 @@
         "symbol": "REALT-S-8181-BLISS-",
         "name": "RealT   8181 Bliss St  Detroit  MI 4823",
         "address": "0x92d31E19F88597F368825ba16410f263a844527A",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x92d31e19f88597f368825ba16410f263a844527a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16566/thumb/8181-Bliss-hero-1.jpg?1624461101",
         "coingeckoId": "8181-bliss",
         "listedIn": [
             "coingecko",
@@ -1172,9 +1797,9 @@
         "symbol": "REALT-S-10084-GRAYT",
         "name": "RealT   10084 Grayton St  Detroit  MI 4",
         "address": "0x92161385C9dE8798ad5fB01c0bE99fFcbC84dFD8",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x92161385c9de8798ad5fb01c0be99ffcbc84dfd8/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16693/thumb/Grayton_84_side1x.jpeg?1624638633",
         "coingeckoId": "10084-grayton",
         "listedIn": [
             "coingecko",
@@ -1185,9 +1810,9 @@
         "symbol": "REALT-S-1815-SAVERS",
         "name": "RealT   1815 S Avers Ave  Chicago  IL 6",
         "address": "0x8fcB39A25e639C8fbD28E8a018227D6570E02352",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8fcb39a25e639c8fbd28e8a018227d6570e02352/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16674/thumb/1815-S-Avers-hero-1.5.jpg?1624628519",
         "coingeckoId": "1815-s-avers",
         "listedIn": [
             "coingecko",
@@ -1195,10 +1820,23 @@
         ]
     },
     {
+        "symbol": "LAYER",
+        "name": "Unilayer on xDai",
+        "address": "0x8fBEDD16904B561e30ea402F459900E9D90614af",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8fBEDD16904B561e30ea402F459900E9D90614af/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
-        "decimals": "8",
+        "decimals": 8,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
         "coingeckoId": "wrapped-bitcoin",
@@ -1216,7 +1854,7 @@
         "symbol": "0XMR",
         "name": "0xMonero",
         "address": "0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c/logo.png",
         "coingeckoId": "0xmonero",
@@ -1224,6 +1862,7 @@
             "coingecko",
             "openocean",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1231,9 +1870,9 @@
         "symbol": "COVAL",
         "name": "Circuits of Value",
         "address": "0x8b8407c6184f1f0Fd1082e83d6A3b8349cAcEd12",
-        "decimals": "8",
+        "decimals": 8,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8b8407c6184f1f0fd1082e83d6a3b8349caced12/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950",
         "coingeckoId": "circuits-of-value",
         "listedIn": [
             "coingecko",
@@ -1244,9 +1883,9 @@
         "symbol": "REALT-S-19311-KEYST",
         "name": "RealT   19311 Keystone St  Detroit  MI ",
         "address": "0x8a9F904B4EaD6a97F3aB304d0D2196f5c602c807",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8a9f904b4ead6a97f3ab304d0d2196f5c602c807/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16631/thumb/19311-Keystone-hero-1.jpeg?1624554016",
         "coingeckoId": "19311-keystone",
         "listedIn": [
             "coingecko",
@@ -1254,12 +1893,38 @@
         ]
     },
     {
+        "symbol": "SETH",
+        "name": "Synth sETH on xDai",
+        "address": "0x8F365b41B98Fe84aCB287540b4B4AB633e07EDb2",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8F365b41B98Fe84aCB287540b4B4AB633e07EDb2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DUCK",
+        "name": "Unit Protocol",
+        "address": "0x8E7aB03cA7D17996b097D5866bFAA1e251c35c6a",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8E7aB03cA7D17996b097D5866bFAA1e251c35c6a/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-15753-HARTW",
         "name": "RealT   15753 Hartwell St  Detroit  MI ",
         "address": "0x8D1090dF790FFAFdACCda03015c05dF3b4cC9c21",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8d1090df790ffafdaccda03015c05df3b4cc9c21/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16623/thumb/15753-Hartwell-hero-2.jpg?1624551749",
         "coingeckoId": "15753-hartwell",
         "listedIn": [
             "coingecko",
@@ -1267,12 +1932,38 @@
         ]
     },
     {
+        "symbol": "ROBOT",
+        "name": "MetaFactory on xDai",
+        "address": "0x8D02b73904856De6998Ffdf6e7ee18cC21137a79",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8D02b73904856De6998Ffdf6e7ee18cC21137a79/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "AUDIO",
+        "name": "Audius on xDai",
+        "address": "0x8A95ea379E1Fa4C749dd0A7A21377162028C479e",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8A95ea379E1Fa4C749dd0A7A21377162028C479e/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-10604-SOMER",
         "name": "RealT   10604 Somerset Ave  Detroit  MI",
         "address": "0x8626B38267e4FC0D8C92E0bB86F97Acab3f6AA05",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x8626b38267e4fc0d8c92e0bb86f97acab3f6aa05/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16682/thumb/10604-Somerset-hero-1.jpeg?1624632454",
         "coingeckoId": "10604-somerset",
         "listedIn": [
             "coingecko",
@@ -1280,12 +1971,25 @@
         ]
     },
     {
+        "symbol": "TRADE",
+        "name": "UniTrade on xDai",
+        "address": "0x860182180e146300dF38aab8d328C6E80BEC9547",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x860182180e146300dF38aab8d328C6E80BEC9547/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "SWASH",
         "name": "Swash",
         "address": "0x84E2C67CBEfae6B5148fcA7d02B341B12ff4b5Bb",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18774/thumb/swash.png?1634089759",
         "coingeckoId": "swash",
         "listedIn": [
             "coingecko",
@@ -1296,7 +2000,7 @@
         "symbol": "BRIGHT",
         "name": "BrightID",
         "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
         "coingeckoId": "bright-token",
@@ -1309,12 +2013,25 @@
         ]
     },
     {
+        "symbol": "OMG",
+        "name": "OMGToken on xDai",
+        "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x8395F7123ba3FFAD52E7414433D825931C81C879/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-19201-WESTP",
         "name": "RealT   19201 Westphalia St  Detroit  M",
         "address": "0x830B0e9a5ecf36D0A886D21e1C20043cD2d16515",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x830b0e9a5ecf36d0a886d21e1c20043cd2d16515/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16613/thumb/19201-Westphalia-hero-1.jpeg?1624547689",
         "coingeckoId": "19201-westphalia",
         "listedIn": [
             "coingecko",
@@ -1325,7 +2042,7 @@
         "symbol": "BAO",
         "name": "BaoToken on xDai",
         "address": "0x82dFe19164729949fD66Da1a37BC70dD6c4746ce",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1.png",
         "coingeckoId": null,
@@ -1333,6 +2050,7 @@
             "1inch",
             "sushiswap",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1340,9 +2058,9 @@
         "symbol": "REALT-S-15784-MONTE",
         "name": "RealT   15784 Monte Vista St  Detroit  ",
         "address": "0x7f940B5509a22e81D29167581bdEea3Fa5a0abEE",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x7f940b5509a22e81d29167581bdeea3fa5a0abee/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16673/thumb/15784-monte-vista-hero-1.jpeg?1624628466",
         "coingeckoId": "15784-monte-vista",
         "listedIn": [
             "coingecko",
@@ -1353,7 +2071,7 @@
         "symbol": "1INCH",
         "name": "1INCH Token on xDai",
         "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7f7440C5098462f833E123B44B8A03E1d9785BAb/logo.png",
         "coingeckoId": null,
@@ -1365,12 +2083,64 @@
         ]
     },
     {
+        "symbol": "PERP",
+        "name": "Perpetual on xDai",
+        "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7ecF26cd9A36990b8ea477853663092333f59979/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BAL",
+        "name": "Balancer on xDai",
+        "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7eF541E2a22058048904fE5744f9c7E4C57AF717/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "PHA",
+        "name": "Phala on xDai",
+        "address": "0x7eA8aF7301b763451B7FB25F8Fc2406819A7E36f",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7eA8aF7301b763451B7FB25F8Fc2406819A7E36f/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ENG",
+        "name": "Enigma on xDai",
+        "address": "0x7a7d81657A1A66b38a6cA2565433A9873C6913B2",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7a7d81657A1A66b38a6cA2565433A9873C6913B2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-15039-WARD-",
         "name": "RealT   15039 Ward Ave  Detroit  MI 482",
         "address": "0x7E95b310724334FF74537dc08bfD3377d25E65Ce",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x7e95b310724334ff74537dc08bfd3377d25e65ce/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16632/thumb/15039-Ward-hero-1.jpeg?1624554456",
         "coingeckoId": "15039-ward",
         "listedIn": [
             "coingecko",
@@ -1378,12 +2148,90 @@
         ]
     },
     {
+        "symbol": "CVP",
+        "name": "Concentrated Voting Power on xDai",
+        "address": "0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "LPT",
+        "name": "Livepeer Token on xDai",
+        "address": "0x7DB0be7A41b5395268e065776e800e27181C81AB",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7DB0be7A41b5395268e065776e800e27181C81AB/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DJ15",
+        "name": "Davincij15 Token on xDai",
+        "address": "0x7C16c63684D86BaCC52e8793B08a5a1A3cB1BA1e",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7C16c63684D86BaCC52e8793B08a5a1A3cB1BA1e/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "LYXe",
+        "name": "LUKSO Token on xDai",
+        "address": "0x79CF2029717E2E78C8927F65F079Ab8dA21781Ee",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x79CF2029717E2E78C8927F65F079Ab8dA21781Ee/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "MANA",
         "name": "Decentraland MANA on xDai",
         "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BDT",
+        "name": "BlackDragon Token on xDai",
+        "address": "0x778aa03021B0CD2b798b0b506403e070125D81C9",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x778aa03021B0CD2b798b0b506403e070125D81C9/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "CHSB",
+        "name": "SwissBorg Token on xDai",
+        "address": "0x76eaFffA1873a8aCd43864B66A728bd873c5E08a",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x76eaFffA1873a8aCd43864B66A728bd873c5E08a/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -1394,9 +2242,9 @@
         "symbol": "REALT-S-9133-DEVONS",
         "name": "RealT   9133 Devonshire Rd  Detroit  MI",
         "address": "0x76dbEb740ecd1F3b052a9AFA302ABc7EB4Fb5390",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x76dbeb740ecd1f3b052a9afa302abc7eb4fb5390/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16683/thumb/9133-Devonshire-hero.jpeg?1624632898",
         "coingeckoId": "9133-devonshire",
         "listedIn": [
             "coingecko",
@@ -1407,9 +2255,9 @@
         "symbol": "REALT-S-18481-WESTP",
         "name": "RealT   18481 Westphalia St  Detroit  M",
         "address": "0x75f06B482adbFb04b877D8ee683E2FCDf18AD153",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x75f06b482adbfb04b877d8ee683e2fcdf18ad153/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16633/thumb/18481-Westphalia-hero-1.jpeg?1624554981",
         "coingeckoId": "18481-westphalia",
         "listedIn": [
             "coingecko",
@@ -1417,12 +2265,38 @@
         ]
     },
     {
+        "symbol": "FTT",
+        "name": "FTX Token",
+        "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "POLS",
+        "name": "PolkastarterToken on xDai",
+        "address": "0x75481A953a4bBa6B3C445907dB403E4b5D222174",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x75481A953a4bBa6B3C445907dB403E4b5D222174/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-9465-BEACON",
         "name": "RealT   9465 Beaconsfield St  Detroit  ",
         "address": "0x750FA12Ae51d1515c893C1aaABE2C135937a2c8B",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x750fa12ae51d1515c893c1aaabe2c135937a2c8b/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16707/thumb/9465-Beaconsfield-hero-1c.jpeg?1624645510",
         "coingeckoId": "9465-beaconsfield",
         "listedIn": [
             "coingecko",
@@ -1430,12 +2304,25 @@
         ]
     },
     {
+        "symbol": "AST",
+        "name": "AirSwap Token on xDai",
+        "address": "0x743a991365ba94BFC90Ad0002CAD433c7a33cb4a",
+        "decimals": 4,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x743a991365ba94BFC90Ad0002CAD433c7a33cb4a/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-9717-EVERTS",
         "name": "RealT   9717 Everts St  Detroit  MI 482",
         "address": "0x73BdE888664DF8DDfD156B52e6999EEaBAB57C94",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x73bde888664df8ddfd156b52e6999eeabab57c94/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16612/thumb/9717-Everts-hero-1.jpeg?1624546272",
         "coingeckoId": "9717-everts",
         "listedIn": [
             "coingecko",
@@ -1443,10 +2330,23 @@
         ]
     },
     {
+        "symbol": "WCHI",
+        "name": "Wrapped CHI from Ethereum",
+        "address": "0x7211ab649A4139561a152B787de52D257cbAAee9",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x7211ab649A4139561a152B787de52D257cbAAee9/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "HNY",
         "name": "Honey",
         "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png",
         "coingeckoId": "honey",
@@ -1463,7 +2363,7 @@
         "symbol": "CRV",
         "name": "Curve DAO Token on xDai",
         "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd/logo.png",
         "coingeckoId": null,
@@ -1478,7 +2378,7 @@
         "symbol": "MATIC",
         "name": "Matic Token on xDai",
         "address": "0x7122d7661c4564b7C6Cd4878B06766489a6028A2",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7122d7661c4564b7C6Cd4878B06766489a6028A2/logo.png",
         "coingeckoId": null,
@@ -1491,7 +2391,7 @@
         "symbol": "UNCL",
         "name": "UNCL",
         "address": "0x703120F2f2011a0D03A03a531Ac0e84e81F15989",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x703120F2f2011a0D03A03a531Ac0e84e81F15989/logo.png",
         "coingeckoId": "uncl",
@@ -1499,6 +2399,33 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "GEAR",
+        "name": "Bitgear on xDai",
+        "address": "0x6f09CF96558d44584dB07f8477Dd3490599aA63E",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x6f09CF96558d44584dB07f8477Dd3490599aA63E/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DOUGH",
+        "name": "PieDAO Dough",
+        "address": "0x6d237bb2248d3b40b1a54F3417667B2f39984fC8",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x6d237bb2248d3b40b1a54F3417667B2f39984fC8/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1506,23 +2433,10 @@
         "symbol": "RGNO",
         "name": "StakeWise Reward GNO",
         "address": "0x6aC78efae880282396a335CA2F79863A1e6831D4",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6ac78efae880282396a335ca2f79863a1e6831d4/logo.png",
+        "logoURI": null,
         "coingeckoId": "stakewise-reward-gno",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "GTON",
-        "name": "GTON CAPITAL",
-        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-        "decimals": "18",
-        "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8/logo.png",
-        "coingeckoId": "gton-capital",
         "listedIn": [
             "coingecko",
             "rubic",
@@ -1530,12 +2444,25 @@
         ]
     },
     {
+        "symbol": "GTON",
+        "name": "GTON CAPITAL",
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/15728/thumb/GC_logo_200x200.png?1642669327",
+        "coingeckoId": "gton-capital",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "REALT-S-13895-SARAT",
         "name": "RealT   13895 Saratoga St  Detroit  MI ",
         "address": "0x6F442Da588232DC57Bf0096E8dE48D6961D5CC83",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6f442da588232dc57bf0096e8de48d6961d5cc83/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16599/thumb/13895-Saratoga-hero-1.jpeg?1624541955",
         "coingeckoId": "realtoken-s-13895-saratoga-st-detroit-mi",
         "listedIn": [
             "coingecko",
@@ -1543,12 +2470,25 @@
         ]
     },
     {
+        "symbol": "ANTv2",
+        "name": "Aragon Network Token on xDai v2",
+        "address": "0x6EECeab954EFDBd7A8a8D9387bC719959B04b9CA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x6EECeab954EFDBd7A8a8D9387bC719959B04b9CA/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-5942-AUDUBO",
         "name": "RealT   5942 Audubon Rd  Detroit  MI 48",
         "address": "0x6Db6d540F5614e6BaB7475Af3F430F46a0B083e2",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x6db6d540f5614e6bab7475af3f430f46a0b083e2/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16699/thumb/5942-Audubon-HERO-2.jpeg?1624641512",
         "coingeckoId": "5942-audubon",
         "listedIn": [
             "coingecko",
@@ -1556,16 +2496,30 @@
         ]
     },
     {
+        "symbol": "RXDAI",
+        "name": "xdai dao",
+        "address": "0x6B0f8A3Fb7cb257AD7c72ADa469Ba1D3C19C5094",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x6B0f8A3Fb7cb257AD7c72ADa469Ba1D3C19C5094/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "EWT",
         "name": "Energy Web",
         "address": "0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2/logo.png",
         "coingeckoId": "energy-web-token",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1573,7 +2527,7 @@
         "symbol": "WETH",
         "name": "WETH",
         "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
         "coingeckoId": "weth",
@@ -1588,10 +2542,23 @@
         ]
     },
     {
+        "symbol": "BASE",
+        "name": "Base Protocol on xDai",
+        "address": "0x699D001ef13B15335193bC5FAd6CFC6747eeE8BE",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x699D001ef13B15335193bC5FAd6CFC6747eeE8BE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "CFXQ",
-        "name": "CFX Quantum on xDai",
+        "name": "CFX Quantum from Ethereum",
         "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
-        "decimals": "6",
+        "decimals": 6,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1/logo.png",
         "coingeckoId": null,
@@ -1604,7 +2571,7 @@
         "symbol": "MIVA",
         "name": "Minerva Wallet",
         "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x63e62989D9EB2d37dfDB1F93A22f063635b07d51/logo.png",
         "coingeckoId": "minerva-wallet",
@@ -1617,10 +2584,62 @@
         ]
     },
     {
+        "symbol": "RLC",
+        "name": "iEx.ec Network Token on xDai",
+        "address": "0x60e668f54106222adC1Da80c169281B3355B8e5D",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x60e668f54106222adC1Da80c169281B3355B8e5D/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "PGT",
+        "name": "Polyient Games Governance Token",
+        "address": "0x6099280dC5FC97CBB61B456246316a1B8f79534B",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x6099280dC5FC97CBB61B456246316a1B8f79534B/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MKR",
+        "name": "Maker on xDai",
+        "address": "0x5fd896D248fbfa54d26855C267859eb1b4DAEe72",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5fd896D248fbfa54d26855C267859eb1b4DAEe72/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "JOON",
+        "name": "JOON on xDai",
+        "address": "0x5fE9885226677F3Eb5C9ad8aB6c421B4EA38535d",
+        "decimals": 4,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5fE9885226677F3Eb5C9ad8aB6c421B4EA38535d/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "AC",
-        "name": "Adept Coin Governance on xDai",
+        "name": "Adept Coin Governance from Ethereum",
         "address": "0x5f1F81de1D21b97a5d0D5d62d89BDE9DdEc27325",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x5f1F81de1D21b97a5d0D5d62d89BDE9DdEc27325/logo.png",
         "coingeckoId": null,
@@ -1633,22 +2652,49 @@
         "symbol": "TEC",
         "name": "Engineering Commons",
         "address": "0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18233/thumb/72481541.png?1643198626",
         "coingeckoId": "token-engineering-commons",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SORA",
+        "name": "Sora Token on xDai",
+        "address": "0x5bbfBfB123B72A255504BE985bd2B474e481e866",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5bbfBfB123B72A255504BE985bd2B474e481e866/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "symbol": "MOON",
         "name": "MoonToken on xDai",
         "address": "0x5b917D4fb9B27591353211c32F1552A527987AFC",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x5b917D4fb9B27591353211c32F1552A527987AFC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "renZEC",
+        "name": "renZEC on xDai",
+        "address": "0x5F2852AFd20C39849f6f56F4102b8c29Ee141ADD",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5F2852AFd20C39849f6f56F4102b8c29Ee141ADD/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance",
@@ -1659,9 +2705,9 @@
         "symbol": "REALT-S-11201-COLLE",
         "name": "RealT   11201 College St  Detroit  MI 4",
         "address": "0x5E2a09064B2DCa8c44aaD8A5b69a69Bb1854fE72",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x5e2a09064b2dca8c44aad8a5b69a69bb1854fe72/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16594/thumb/11201-College-hero-1.jpg?1624540102",
         "coingeckoId": "11201-college",
         "listedIn": [
             "coingecko",
@@ -1669,16 +2715,56 @@
         ]
     },
     {
+        "symbol": "rSURF",
+        "name": "rSURF",
+        "address": "0x5C8C83e5D5F7BE815863B810D45D7Bc706D7b15b",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5C8C83e5D5F7BE815863B810D45D7Bc706D7b15b/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "RSR",
+        "name": "Reserve Rights on xDai",
+        "address": "0x5A87eaC5642BfEd4e354Ee8738DACd298E07D1Af",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5A87eaC5642BfEd4e354Ee8738DACd298E07D1Af/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ENJ",
+        "name": "Enjin Coin on xDai",
+        "address": "0x5A757F0BcAdFDb78651B7bDBe67e44e8Fd7F7f6b",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x5A757F0BcAdFDb78651B7bDBe67e44e8Fd7F7f6b/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "RAREv2",
         "name": "Rare Coin v2",
         "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1686,9 +2772,9 @@
         "symbol": "REALT-S-13045-WADE-",
         "name": "RealT   13045 Wade St  Detroit  MI 4821",
         "address": "0x5600e25b4f24c63Afa655C3bd96E3C178B654Fa1",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x5600e25b4f24c63afa655c3bd96e3c178b654fa1/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16617/thumb/13045-Wade-hero-1.jpg?1624549855",
         "coingeckoId": "13045-wade",
         "listedIn": [
             "coingecko",
@@ -1696,24 +2782,36 @@
         ]
     },
     {
+        "symbol": "PTF",
+        "name": "PowerTrade Fuel Token on xDai",
+        "address": "0x53ef00be819A062533a0E699077c621a28EADEd1",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x53ef00be819A062533a0E699077c621a28EADEd1/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "SWPR",
         "name": "Swapr",
         "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18740/thumb/swapr.jpg?1633516501",
         "coingeckoId": "swapr",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
         "symbol": "DONUT",
         "name": "Donut",
         "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9.png",
         "coingeckoId": "donut",
@@ -1721,6 +2819,20 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "OCEAN",
+        "name": "Ocean Token on xDai",
+        "address": "0x51732a6fC4673d1aCca4c047F5465922716508Ad",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x51732a6fC4673d1aCca4c047F5465922716508Ad/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1728,13 +2840,14 @@
         "symbol": "MEME",
         "name": "Meme",
         "address": "0x512a2Eb0277573ae9Be0d48c782590b624048fdF",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x512a2Eb0277573ae9Be0d48c782590b624048fdF/logo.png",
         "coingeckoId": "degenerator",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1742,7 +2855,7 @@
         "symbol": "GIV",
         "name": "Giveth",
         "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
         "coingeckoId": "giveth",
@@ -1758,9 +2871,9 @@
         "symbol": "REALT-S-15373-PARKS",
         "name": "RealT   15373 Parkside St  Detroit  MI ",
         "address": "0x4d0dA4E75d40Bd7D9C4f7A292BF883BcDf38c45D",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4d0da4e75d40bd7d9c4f7a292bf883bcdf38c45d/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16562/thumb/15373-Parkside-hero-1.jpg?1624458568",
         "coingeckoId": "15373-parkside",
         "listedIn": [
             "coingecko",
@@ -1768,12 +2881,25 @@
         ]
     },
     {
+        "symbol": "RARI",
+        "name": "Rarible on xDai",
+        "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-10639-STRAT",
         "name": "RealT   10639 Stratman St  Detroit  MI ",
         "address": "0x4a99cc509f7FaCF58D7B67E99236dB5e0921ef81",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4a99cc509f7facf58d7b67e99236db5e0921ef81/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16621/thumb/10639-Stratman-hero-1.jpg?1624551202",
         "coingeckoId": "10639-stratman",
         "listedIn": [
             "coingecko",
@@ -1781,10 +2907,23 @@
         ]
     },
     {
+        "symbol": "DAIX",
+        "name": "Daibase xDAI v0.1.61",
+        "address": "0x4Ef1d9A329a0CB0658156aFF55c406cC4393A987",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x4Ef1d9A329a0CB0658156aFF55c406cC4393A987/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether",
         "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
-        "decimals": "6",
+        "decimals": 6,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
         "coingeckoId": "tether",
@@ -1802,9 +2941,9 @@
         "symbol": "REALT-S-13991-WARWI",
         "name": "RealT  13991 Warwick St  Detroit  MI  4",
         "address": "0x4E98493920b16Dd6642e9D48497c8d0A49150f6F",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4e98493920b16dd6642e9d48497c8d0a49150f6f/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16662/thumb/Warwick-hero.jpeg?1624624485",
         "coingeckoId": "13991-warwick",
         "listedIn": [
             "coingecko",
@@ -1815,9 +2954,9 @@
         "symbol": "REALT-S-19163-MITCH",
         "name": "RealT   19163 Mitchell St  Detroit  MI ",
         "address": "0x4Cc53Ee5ef306a95d407321d4B4acc30814C04ee",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4cc53ee5ef306a95d407321d4b4acc30814c04ee/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16614/thumb/19163-Mitchell-hero-1.jpeg?1624548736",
         "coingeckoId": "19163-mitchell",
         "listedIn": [
             "coingecko",
@@ -1825,12 +2964,38 @@
         ]
     },
     {
+        "symbol": "ALEPH",
+        "name": "aleph.im v2 on xDai",
+        "address": "0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "renBTC",
+        "name": "renBTC on xDai",
+        "address": "0x4A88248BAa5b39bB4A9CAa697Fb7f8ae0C3f0ddB",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x4A88248BAa5b39bB4A9CAa697Fb7f8ae0C3f0ddB/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-17813-BRADF",
         "name": "RealT   17813 Bradford St  Detroit  MI ",
         "address": "0x499A6c19F5537dd6005E2B5c6E1263103f558Ba4",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x499a6c19f5537dd6005e2b5c6e1263103f558ba4/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16606/thumb/17813-Bradford-hero-1.jpeg?1624544519",
         "coingeckoId": "17813-bradford",
         "listedIn": [
             "coingecko",
@@ -1841,7 +3006,7 @@
         "symbol": "DIP",
         "name": "Etherisc DIP",
         "address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x48b1B0d077b4919b65b4E4114806dD803901E1D9/logo.png",
         "coingeckoId": "etherisc",
@@ -1849,6 +3014,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1856,7 +3022,7 @@
         "symbol": "TRIPS",
         "name": "Trips Community",
         "address": "0x479e32cDFF5F216f93060700C711D1cC8E811a6B",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x479e32cDFF5F216f93060700C711D1cC8E811a6B/logo.png",
         "coingeckoId": "trips-community",
@@ -1864,6 +3030,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1871,9 +3038,9 @@
         "symbol": "REALT-S-18433-FAUST",
         "name": "RealT   18433 Faust Ave  Detroit  MI  4",
         "address": "0x46F8A600337dec5CaB03aa9b8F67f1D5B788ce28",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x46f8a600337dec5cab03aa9b8f67f1d5b788ce28/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16684/thumb/Faust-1.jpeg?1624633417",
         "coingeckoId": "18433-faust",
         "listedIn": [
             "coingecko",
@@ -1884,13 +3051,14 @@
         "symbol": "UNI",
         "name": "Uniswap",
         "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74/logo.png",
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1898,7 +3066,7 @@
         "symbol": "DAI",
         "name": "Dai",
         "address": "0x44fA8E6f47987339850636F88629646662444217",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
         "coingeckoId": "dai",
@@ -1911,12 +3079,25 @@
         ]
     },
     {
+        "symbol": "API3",
+        "name": "API3",
+        "address": "0x44b6bBA599F100006143E82A60462D71Ac1331Da",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x44b6bBA599F100006143E82A60462D71Ac1331Da/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-14825-WILFR",
         "name": "RealT   14825 Wilfred St  Detroit  MI 4",
         "address": "0x43fED9F9BF7DeedCb314b432a8e38219dd62CE9e",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x43fed9f9bf7deedcb314b432a8e38219dd62ce9e/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16598/thumb/14825-Wilfried-hero-1.jpg?1624541680",
         "coingeckoId": "14825-wilfred",
         "listedIn": [
             "coingecko",
@@ -1924,12 +3105,25 @@
         ]
     },
     {
+        "symbol": "ANTv1",
+        "name": "Aragon Network Token on xDai",
+        "address": "0x437a044fb4693890E61D2C1c88E3718E928B8E90",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x437a044fb4693890E61D2C1c88E3718E928B8E90/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "JPYC",
         "name": "JPY Coin",
         "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x431d5dff03120afa4bdf332c61a6e1766ef37bdb/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/WoZ8rruL_400x400.png?1655102508",
         "coingeckoId": "jpy-coin",
         "listedIn": [
             "coingecko",
@@ -1937,23 +3131,37 @@
         ]
     },
     {
+        "symbol": "xREAP",
+        "name": "xREAP",
+        "address": "0x42c6b3aC30Ae82D754498f56D9372F0070349409",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x42c6b3aC30Ae82D754498f56D9372F0070349409/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "WATER",
         "name": "1Hive Water",
         "address": "0x4291F029B9e7acb02D49428458cf6fceAC545f81",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x4291f029b9e7acb02d49428458cf6fceac545f81/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/26089/thumb/water_logo.png?1655778743",
         "coingeckoId": "1hive-water",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
         "symbol": "JPYC",
         "name": "JPY Coin v1",
         "address": "0x417602f4fbdd471A431Ae29fB5fe0A681964C11b",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x417602f4fbdd471A431Ae29fB5fe0A681964C11b/logo.png",
         "coingeckoId": "jpyc",
@@ -1968,9 +3176,9 @@
         "symbol": "REALT-S-14319-ROSEM",
         "name": "RealT   14319 Rosemary St  Detroit  MI ",
         "address": "0x41599149f1B52035392402F9e311b1edb0C9f699",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x41599149f1b52035392402f9e311b1edb0c9f699/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16592/thumb/14319-Rosemary-hero-1-800x600.jpeg?1624539171",
         "coingeckoId": "14319-rosemary",
         "listedIn": [
             "coingecko",
@@ -1978,10 +3186,23 @@
         ]
     },
     {
+        "symbol": "xMARK",
+        "name": "Standard on xDai",
+        "address": "0x3e33cF23073FD8d5aD1d48d1860a96C0D8E56193",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x3e33cF23073FD8d5aD1d48d1860a96C0D8E56193/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "AGVE",
         "name": "Agave",
         "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/logo.png",
         "coingeckoId": "agave-token",
@@ -1998,7 +3219,7 @@
         "symbol": "MIMATIC",
         "name": "MAI",
         "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
         "coingeckoId": "mimatic",
@@ -2013,9 +3234,9 @@
         "symbol": "REALT-S-9165-KENSIN",
         "name": "RealT   9165 Kensington Ave  Detroit  M",
         "address": "0x3C56D5E887D8fA7AE1Ba65BF7eCCC25eC09EAF18",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x3c56d5e887d8fa7ae1ba65bf7eccc25ec09eaf18/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16687/thumb/9165-Kensington-hero-1.jpeg?1624634948",
         "coingeckoId": "9165-kensington",
         "listedIn": [
             "coingecko",
@@ -2026,7 +3247,7 @@
         "symbol": "SNX",
         "name": "Synthetix Network Token on xDai",
         "address": "0x3A00E08544d589E19a8e7D97D0294331341cdBF6",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x3A00E08544d589E19a8e7D97D0294331341cdBF6/logo.png",
         "coingeckoId": null,
@@ -2039,7 +3260,7 @@
         "symbol": "XCOMB",
         "name": "xDai Native Comb",
         "address": "0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/logo.png",
         "coingeckoId": "xdai-native-comb",
@@ -2055,7 +3276,7 @@
         "symbol": "PNK",
         "name": "Kleros",
         "address": "0x37b60f4E9A31A64cCc0024dce7D0fD07eAA0F7B3",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d.png",
         "coingeckoId": "kleros",
@@ -2063,6 +3284,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2070,9 +3292,9 @@
         "symbol": "TORG",
         "name": "TORG",
         "address": "0x364b5975385B4DE226cF450dF82D7ed69902Ac5a",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x364b5975385b4de226cf450df82d7ed69902ac5a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/17596/thumb/TORG_Logo_200x200.png?1628586056",
         "coingeckoId": "torg",
         "listedIn": [
             "coingecko",
@@ -2080,12 +3302,38 @@
         ]
     },
     {
+        "symbol": "SOCKS",
+        "name": "Unisocks",
+        "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x35f346Cb4149746272974a92d719Fd48ae2F72FA/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ALBT",
+        "name": "AllianceBlock Token on xDai",
+        "address": "0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-19317-GABLE",
         "name": "RealT   19317 Gable St  Detroit  MI 482",
         "address": "0x34eD9e71449529E034d0326cfBB3b5ccDCa00CBC",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16638/thumb/19317-Gable-hero-1.jpeg?1624558479",
         "coingeckoId": "19317-gable",
         "listedIn": [
             "coingecko",
@@ -2096,7 +3344,7 @@
         "symbol": "HOT",
         "name": "HoloToken on xDai",
         "address": "0x346b2968508d32f0192cD7a60Ef3D9C39a3cF549",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x346b2968508d32f0192cD7a60Ef3D9C39a3cF549/logo.png",
         "coingeckoId": null,
@@ -2109,9 +3357,9 @@
         "symbol": "REALT-S-19136-TRACE",
         "name": "RealT   19136 Tracey St  Detroit MI 482",
         "address": "0x33722EA778dF197f1b7B1Cf0b124d7A962181d65",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x33722ea778df197f1b7b1cf0b124d7a962181d65/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16706/thumb/19136-Tracey-hero-1.jpeg?1624644977",
         "coingeckoId": "19136-tracey",
         "listedIn": [
             "coingecko",
@@ -2122,9 +3370,9 @@
         "symbol": "REALT-S-17809-CHARE",
         "name": "RealT   17809 Charest St  Detroit  MI 4",
         "address": "0x31AA5fA895Fd186fDE12347A6fCaf540875b6434",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x31aa5fa895fd186fde12347a6fcaf540875b6434/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16601/thumb/17809-Charest-hero-1.jpg?1624543227",
         "coingeckoId": "17809-charest",
         "listedIn": [
             "coingecko",
@@ -2135,9 +3383,9 @@
         "symbol": "REALT-S-11653-NOTTI",
         "name": "RealT   11653 Nottingham Rd  Detroit  M",
         "address": "0x31820af2d43c08BD82Bd94B08974062482bD98D3",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x31820af2d43c08bd82bd94b08974062482bd98d3/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16622/thumb/11653-Nottingham-hero-1.jpg?1624551450",
         "coingeckoId": "11653-nottingham",
         "listedIn": [
             "coingecko",
@@ -2145,12 +3393,25 @@
         ]
     },
     {
+        "symbol": "PIE",
+        "name": "DeFiPIE Token on xDai",
+        "address": "0x317eab07380d670Ea814025CbA40f5624354a32f",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x317eab07380d670Ea814025CbA40f5624354a32f/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-14078-CARLI",
         "name": "RealT   14078 Carlisle St  Detroit  MI ",
         "address": "0x315699f1BA88383CFF2F2f30FcaD187aDb2E4D72",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x315699f1ba88383cff2f2f30fcad187adb2e4d72/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16597/thumb/14078-Carlisle-hero-1-800x600.jpeg?1624541175",
         "coingeckoId": "14078-carlisle",
         "listedIn": [
             "coingecko",
@@ -2161,9 +3422,9 @@
         "symbol": "REALT-S-19596-GOULB",
         "name": "RealT   19596 Goulburn Ave  Detroit  MI",
         "address": "0x3150f0EbC0eFEe280b5348b9C8C271AD44Eb8B13",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x3150f0ebc0efee280b5348b9c8c271ad44eb8b13/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16608/thumb/19596-Goulburn-hero-1.jpg?1624544786",
         "coingeckoId": "19596-goulburn",
         "listedIn": [
             "coingecko",
@@ -2174,9 +3435,9 @@
         "symbol": "REALT-S-19996-JOANN",
         "name": "RealT   19996 Joann Ave  Detroit  MI 48",
         "address": "0x311FC485f1FeA0c8Cc9b5c783E79f4313DDFa720",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x311fc485f1fea0c8cc9b5c783e79f4313ddfa720/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16666/thumb/19996-Joanne-hero-1.jpg?1624626495",
         "coingeckoId": "19996-joann",
         "listedIn": [
             "coingecko",
@@ -2184,15 +3445,55 @@
         ]
     },
     {
+        "symbol": "OM",
+        "name": "OM Token on xDai",
+        "address": "0x309Bc6DbcbFB9c84D26FDF65E8924367efCCBdb9",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x309Bc6DbcbFB9c84D26FDF65E8924367efCCBdb9/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "GLDB",
+        "name": "Golden Bull Token on xDAI",
+        "address": "0x30610f98b61593DE963b2303AeeaeE69823f561f",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x30610f98b61593DE963b2303AeeaeE69823f561f/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "xSEED",
+        "name": "Seed on xDai",
+        "address": "0x2fd0c73Ad006407F0A96c984f06A9CE8415B094E",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x2fd0c73Ad006407F0A96c984f06A9CE8415B094E/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "xBRICK",
         "name": "Bricks on xDai",
         "address": "0x2f9ceBf5De3bc25E0643D0E66134E5bf5c48e191",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x2f9ceBf5De3bc25E0643D0E66134E5bf5c48e191/logo.png",
         "coingeckoId": "brick",
         "listedIn": [
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2200,21 +3501,20 @@
         "symbol": "JCHF",
         "name": "Jarvis Synthetic Swiss Franc",
         "address": "0x2d5563da42b06FbBF9c67b7DC073cF6A7842239e",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/15727/thumb/jCHF.png?1634046084",
         "coingeckoId": "jarvis-synthetic-swiss-franc",
         "listedIn": [
             "coingecko",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
         "symbol": "FRACTION",
         "name": "Own a fraction",
         "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61/logo.png",
         "coingeckoId": "fraction",
@@ -2225,12 +3525,25 @@
         ]
     },
     {
+        "symbol": "LRC",
+        "name": "LoopringCoin V2 on xDai",
+        "address": "0x2bE73bFeEC620aa9B67535A4D3827bB1e29436D1",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x2bE73bFeEC620aa9B67535A4D3827bB1e29436D1/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-14494-CHELS",
         "name": "RealT   14494 Chelsea Ave  Detroit  MI ",
         "address": "0x2adc1cfA726A45264A328D9d2e2C692ceac97458",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x2adc1cfa726a45264a328d9d2e2c692ceac97458/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16618/thumb/14494-Chelsea-hero-1.jpg?1624550267",
         "coingeckoId": "14494-chelsea",
         "listedIn": [
             "coingecko",
@@ -2238,10 +3551,23 @@
         ]
     },
     {
+        "symbol": "RPL",
+        "name": "Rocket Pool on xDai",
+        "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "SUSHI",
         "name": "SushiToken on xDai",
         "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE/logo.png",
         "coingeckoId": null,
@@ -2254,12 +3580,25 @@
         ]
     },
     {
+        "symbol": "BID",
+        "name": "Bidao on xDai",
+        "address": "0x2977893F4C04bfbd6EFc68d0e46598d27810d3dB",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x2977893F4C04bfbd6EFc68d0e46598d27810d3dB/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-19020-ROSEM",
         "name": "RealT   19020 Rosemont Ave  Detroit  MI",
         "address": "0x280e9ed3B20c580a2f4219657bB9332D80Bc01f1",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x280e9ed3b20c580a2f4219657bb9332d80bc01f1/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16705/thumb/19020-Rosemont-hero-1.jpeg?1624644549",
         "coingeckoId": "19020-rosemont",
         "listedIn": [
             "coingecko",
@@ -2270,13 +3609,53 @@
         "symbol": "SNAFU",
         "name": "SNAFU",
         "address": "0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "1inch",
             "rubic",
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "FR",
+        "name": "Freedom Reserve on xDai",
+        "address": "0x270DE58F54649608D316fAa795a9941b355A2Bd0",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x270DE58F54649608D316fAa795a9941b355A2Bd0/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "NPXS",
+        "name": "Pundi X Token on xDai",
+        "address": "0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "NEXO",
+        "name": "Nexo on xDai",
+        "address": "0x26DC03E492763068CCfE7C39B93A22442807C360",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x26DC03E492763068CCfE7C39B93A22442807C360/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2284,23 +3663,37 @@
         "symbol": "DATA",
         "name": "Streamr",
         "address": "0x256eb8a51f382650B2A1e946b8811953640ee47D",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0x8f693ca8d21b157107184d29d398a8d082b38b76.png",
         "coingeckoId": "streamr",
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic"
+            "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CELR",
+        "name": "CelerToken on xDai",
+        "address": "0x248c54B3fc3bC8b20D0CDEE059E17C67e4a3299d",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x248c54B3fc3bC8b20D0CDEE059E17C67e4a3299d/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "symbol": "REALT-S-19333-MOENA",
         "name": "RealT   19333 Moenart St  Detroit MI 48",
         "address": "0x24293ab20159cfc0f3D7C8727CD827fbA63d4F64",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x24293ab20159cfc0f3d7c8727cd827fba63d4f64/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16593/thumb/19333-Moenart-hero-1.jpg?1624539310",
         "coingeckoId": "19333-moenart",
         "listedIn": [
             "coingecko",
@@ -2311,9 +3704,9 @@
         "symbol": "REALT-S-9336-PATTON",
         "name": "RealT   9336 Patton St  Detroit  MI 482",
         "address": "0x23684569c0636C9aEa246551879d457D0a0E6F58",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x23684569c0636c9aea246551879d457d0a0e6f58/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16701/thumb/9336-Patton-HERO-2.jpeg?1624642655",
         "coingeckoId": "9336-patton",
         "listedIn": [
             "coingecko",
@@ -2321,10 +3714,36 @@
         ]
     },
     {
+        "symbol": "yCRV",
+        "name": "yCurve on xDai",
+        "address": "0x22Bd2A732b39dACe37AE7E8f50A186f3D9702e87",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x22Bd2A732b39dACe37AE7E8f50A186f3D9702e87/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ZRX",
+        "name": "0x Protocol Token on xDai",
+        "address": "0x226bCf0e417428a25012d0fA2183d37f92bCeDF6",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x226bCf0e417428a25012d0fA2183d37f92bCeDF6/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "FOX",
         "name": "ShapeShift FOX",
         "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xc770eefad204b5180df6a14ee197d99d808ee52d.png",
         "coingeckoId": "shapeshift-fox-token",
@@ -2332,6 +3751,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2339,9 +3759,9 @@
         "symbol": "REALT-S-19200-STRAS",
         "name": "RealT   19200 Strasburg St  Detroit  MI",
         "address": "0x211618Fa0934910666f2C2731101F5A3aC013fD8",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x211618fa0934910666f2c2731101f5a3ac013fd8/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16620/thumb/19200-Strasburg-hero-1.jpg?1624550918",
         "coingeckoId": "19200-strasburg",
         "listedIn": [
             "coingecko",
@@ -2352,7 +3772,7 @@
         "symbol": "XMOON",
         "name": "xMOON on xDai",
         "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png",
         "coingeckoId": null,
@@ -2368,9 +3788,9 @@
         "symbol": "REALT-S-17500-EVERG",
         "name": "RealT   17500 Evergreen Rd  Detroit  MI",
         "address": "0x1FdB4015fD5E031C5641752C1e03B973ad5eA168",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x1fdb4015fd5e031c5641752c1e03b973ad5ea168/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16624/thumb/17500-Evergreen-hero-1.jpg?1624552051",
         "coingeckoId": "17500-evergreen",
         "listedIn": [
             "coingecko",
@@ -2381,9 +3801,9 @@
         "symbol": "REALT-S-9481-WAYBUR",
         "name": "RealT   9481 Wayburn St  Detroit  MI 48",
         "address": "0x1E001730A23c7EBaFF35BC8bc90DA5a9b20804A4",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x1e001730a23c7ebaff35bc8bc90da5a9b20804a4/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16609/thumb/9481-Wayburn-hero-1.jpg?1624545084",
         "coingeckoId": "9481-wayburn",
         "listedIn": [
             "coingecko",
@@ -2391,26 +3811,53 @@
         ]
     },
     {
+        "symbol": "NIF",
+        "name": "Unifty on xDai",
+        "address": "0x1A186E7268F3Ed5AdFEa6B9e0655f70059941E11",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x1A186E7268F3Ed5AdFEa6B9e0655f70059941E11/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "CREAM",
+        "name": "Cream on xDai",
+        "address": "0x1939D3431CF0E44B1d63b86e2cE489E5a341B1Bf",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x1939D3431CF0E44B1d63b86e2cE489E5a341B1Bf/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "RAID",
         "name": "Raid",
         "address": "0x18E9262e68Cc6c6004dB93105cc7c001BB103e49",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png",
         "coingeckoId": "raid-token",
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
         "symbol": "COW",
         "name": "CoW Protocol",
         "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x177127622c4a00f3d409b75571e12cb3c8973d3c/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/24384/thumb/cow.png?1660960589",
         "coingeckoId": "cow-protocol",
         "listedIn": [
             "coingecko",
@@ -2422,9 +3869,9 @@
         "symbol": "REALT-S-15770-PREST",
         "name": "RealT   15770 Prest St  Detroit  MI 482",
         "address": "0x175cbD54d38F58B530785e01471a2Ec0D4596EB5",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x175cbd54d38f58b530785e01471a2ec0d4596eb5/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16636/thumb/15770-Prest-hero-1.jpeg?1624557487",
         "coingeckoId": "15770-prest",
         "listedIn": [
             "coingecko",
@@ -2432,12 +3879,25 @@
         ]
     },
     {
+        "symbol": "TESTA",
+        "name": "Testa on xDai",
+        "address": "0x16AFe6E6754FA3694afD0Ce48f4Bea102Efacc17",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x16AFe6E6754FA3694afD0Ce48f4Bea102Efacc17/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "LEVIN",
         "name": "Levin",
         "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16004/thumb/JHqkC8Z.png?1622594623",
         "coingeckoId": "levin",
         "listedIn": [
             "coingecko",
@@ -2445,12 +3905,129 @@
         ]
     },
     {
+        "symbol": "KNC",
+        "name": "Kyber Network Crystal on xDai",
+        "address": "0x1534fB3E82849314360C267FE20Df3901A2ED3f9",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x1534fB3E82849314360C267FE20Df3901A2ED3f9/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "RING",
+        "name": "Darwinia Network Native Token on xDai",
+        "address": "0x1479ebFe327B62bFF255C0749a242748D3e7347a",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x1479ebFe327B62bFF255C0749a242748D3e7347a/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "COIN",
+        "name": "coin_artist on xDai",
+        "address": "0x14411aecA652F5131834Bf0c8fF581B5dDf3bc03",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x14411aecA652F5131834Bf0c8fF581B5dDf3bc03/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DDAI",
+        "name": "DeFireX DAI on xDai",
+        "address": "0x1319067e82F0b9981F19191E1C08bb6E6e055DD3",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x1319067e82F0b9981F19191E1C08bb6E6e055DD3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "GEN",
+        "name": "DAOstack on xDai",
+        "address": "0x12daBe79cffC1fdE82FCd3B96DBE09FA4D8cd599",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x12daBe79cffC1fdE82FCd3B96DBE09FA4D8cd599/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "REN",
+        "name": "Republic Token on xDai",
+        "address": "0x0da1a02CDF84C44021671d183d616925164E08Aa",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x0da1a02CDF84C44021671d183d616925164E08Aa/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "NRGE",
+        "name": "Energi on xDai",
+        "address": "0x0dCfEd2C3041e66b2D8c4Ea39782c60355716316",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x0dCfEd2C3041e66b2D8c4Ea39782c60355716316/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "CEL",
+        "name": "Celsius on xDai",
+        "address": "0x0aCD91f92Fe07606ab51EA97d8521E29D110fD09",
+        "decimals": 4,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x0aCD91f92Fe07606ab51EA97d8521E29D110fD09/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "OWL",
+        "name": "OWL on xDai",
+        "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x0905Ab807F8FD040255F0cF8fa14756c1D824931/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-13116-KILBO",
         "name": "RealT   13116 Kilbourne Ave  Detroit  M",
         "address": "0x08Ad1F3a48Be1D23C723a6cC8486b247F5dE935a",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x08ad1f3a48be1d23c723a6cc8486b247f5de935a/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16679/thumb/13116-Kilbourne-hero-1.jpeg?1624630007",
         "coingeckoId": "13116-kilbourne",
         "listedIn": [
             "coingecko",
@@ -2458,12 +4035,25 @@
         ]
     },
     {
+        "symbol": "TBTC",
+        "name": "tBTC on xDai",
+        "address": "0x0811E451447D5819976a95a02f130c3b00D59346",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x0811E451447D5819976a95a02f130c3b00D59346/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "REALT-S-10617-HATHA",
         "name": "RealT   10617 Hathaway Ave  Cleveland  ",
         "address": "0x06D0e5Aee443093aC5635B709C8a01342E59Df19",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x06d0e5aee443093ac5635b709c8a01342e59df19/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16709/thumb/10617-Hathaway-hero-1.jpeg?1624647056",
         "coingeckoId": "10617-hathaway",
         "listedIn": [
             "coingecko",
@@ -2471,25 +4061,25 @@
         ]
     },
     {
-        "symbol": "FM",
-        "name": "Follow ME",
-        "address": "0x03943C3ef00d92e130185CeBC0bcc435Def2cC94",
-        "decimals": "18",
+        "symbol": "SNT",
+        "name": "Status Network Token on xDai",
+        "address": "0x044F6ae3aEF34fdB8FdDc7c05F9cC17F19Acd516",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x03943c3ef00d92e130185cebc0bcc435def2cc94/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x044F6ae3aEF34fdB8FdDc7c05F9cC17F19Acd516/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic",
-            "lifinance"
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
         "symbol": "REALT-S-16200-FULLE",
         "name": "RealT   16200 Fullerton Ave  Detroit  M",
         "address": "0x021Bb23a45e9FC824260435e670fC383b7b8cbbB",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x021bb23a45e9fc824260435e670fc383b7b8cbbb/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/16704/thumb/16200-Fullerton-HERO.jpeg?1624644084",
         "coingeckoId": "16200-fullerton",
         "listedIn": [
             "coingecko",
@@ -2497,10 +4087,36 @@
         ]
     },
     {
+        "symbol": "VXV",
+        "name": "VectorspaceAI on xDai",
+        "address": "0x020Ae8FC1c19f4d1312Cf6a72291f52849791E7C",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x020Ae8FC1c19f4d1312Cf6a72291f52849791E7C/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "wNXM",
+        "name": "Wrapped NXM on xDai",
+        "address": "0x01e92E3791f8c1D6599B2F80A4bFF9b43949aC7C",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://elk.finance/tokens/logos/xdai/0x01e92E3791f8c1D6599B2F80A4bFF9b43949aC7C/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "UNCX",
         "name": "UniCrypt",
         "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xadb2437e6f65682b85f814fbc12fec0508a7b1d0.png",
         "coingeckoId": "unicrypt-2",
@@ -2508,6 +4124,7 @@
             "coingecko",
             "1inch",
             "rubic",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2515,9 +4132,9 @@
         "symbol": "xDAI",
         "name": "xDAI",
         "address": "0x0000000000000000000000000000000000000000",
-        "decimals": "18",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0x0000000000000000000000000000000000000000/logo.png",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1641700780963_888840142160457.png",
         "coingeckoId": "gnosis",
         "listedIn": [
             "1inch",
