@@ -1449,8 +1449,9 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "symmetric",
         "listedIn": [
+            "coingecko",
             "1inch",
             "rubic",
             "lifinance",
@@ -3896,13 +3897,14 @@
     },
     {
         "symbol": "FRACTION",
-        "name": "Own a fraction",
+        "name": "Fraction",
         "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61/logo.png",
         "coingeckoId": "fraction",
         "listedIn": [
+            "coingecko",
             "rubic",
             "lifinance",
             "elkfinance"

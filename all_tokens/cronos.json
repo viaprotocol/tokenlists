@@ -610,14 +610,27 @@
     },
     {
         "symbol": "CROBLANC",
-        "name": "Croblanc Token",
+        "name": "Croblanc",
         "address": "0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F",
         "decimals": 18,
         "chainId": 25,
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "croblanc",
         "listedIn": [
+            "coingecko",
             "cronaswap"
+        ]
+    },
+    {
+        "symbol": "DNA",
+        "name": "DNA Dollar",
+        "address": "0xCc57F84637B441127f2f74905b9d99821b47b20c",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/22549/thumb/dna_cmc.png?1642052419",
+        "coingeckoId": "dna-dollar",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -1288,6 +1301,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "GSHARE",
+        "name": "Gaur Shares",
+        "address": "0x66ec6E9F61ac288f5BA661CD9a2dBe3aBf9871C9",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/22900/thumb/gshare.png?1653810600",
+        "coingeckoId": "gaur-shares",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -2057,6 +2082,18 @@
             "xyfinance",
             "elkfinance",
             "cronaswap"
+        ]
+    },
+    {
+        "symbol": "GAUR",
+        "name": "Gaur Money",
+        "address": "0x046cb616d7a52173e4Da9efF1BFd590550aa3228",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/22515/thumb/gaur.png?1653810487",
+        "coingeckoId": "gaur-money",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

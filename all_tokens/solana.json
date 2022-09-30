@@ -1947,14 +1947,13 @@
     },
     {
         "symbol": "ABP",
-        "name": "Asset Backed Protocol",
+        "name": "ABP token",
         "address": "JB9sPerGhfdwCDajmd8x4y2gkC4EtXVevoAoPwni39ik",
         "decimals": 9,
         "chainId": -1,
-        "logoURI": "https://assets.coingecko.com/coins/images/21445/thumb/assset_backld.PNG?1639172738",
+        "logoURI": "https://api.rubic.exchange/assets/solana/jb9sperghfdwcdajmd8x4y2gkc4etxvevoaopwni39ik/logo.png",
         "coingeckoId": "asset-backed-protocol",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -6058,6 +6057,18 @@
         "chainId": -1,
         "logoURI": "https://assets.coingecko.com/coins/images/26588/thumb/CUSD-01.png?1658909049",
         "coingeckoId": "coin98-dollar",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "HUNT",
+        "name": "Hunter Diamond",
+        "address": "CTYiHf58UGShfHtpkTwx7vjPDA779dd6iVaeD281fEVx",
+        "decimals": 9,
+        "chainId": -1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27566/thumb/Token_Hunters__CoinMarketCap.png?1664522159",
+        "coingeckoId": "hunter-diamond",
         "listedIn": [
             "coingecko"
         ]

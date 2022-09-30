@@ -224,6 +224,19 @@
         ]
     },
     {
+        "symbol": "HONEY",
+        "name": "Honey Pot BeeKeepers",
+        "address": "0xdE31e75182276738B0c025daa8F80020A4F2fbFE",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/18380/thumb/ac6fTCfDQDIV.jpg?1631695015",
+        "coingeckoId": "honey-pot-beekeepers",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "SUSHI",
         "name": "Sushi",
         "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
@@ -1924,8 +1937,9 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://cloudstorage.openocean.finance/images/1637892796159_3482286577377456.png",
-        "coingeckoId": null,
+        "coingeckoId": "xdollar-stablecoin",
         "listedIn": [
+            "coingecko",
             "openocean",
             "rubic"
         ]
@@ -2013,6 +2027,19 @@
             "arbitrum_bridge",
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "MAGIC",
+        "name": "MagicLand",
+        "address": "0x2c852D3334188BE136bFC540EF2bB8C37b590BAD",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/18844/thumb/logo_-_2021-10-07T141625.399.png?1633587397",
+        "coingeckoId": "magic-token",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {

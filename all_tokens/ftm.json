@@ -1170,13 +1170,14 @@
     },
     {
         "symbol": "MSHARE",
-        "name": "MiniVerse Share",
+        "name": "Miniverse Share",
         "address": "0xb011EC534d9175cD7a69aFBfc1bcc9990862c462",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/MSHARE.png",
-        "coingeckoId": null,
+        "coingeckoId": "miniverse-share",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -1404,13 +1405,14 @@
     },
     {
         "symbol": "TCS",
-        "name": "Timechain Swap Token",
+        "name": "Timechain Swap",
         "address": "0xFbfAE0DD49882e503982f8eb4b8B1e464ecA0b91",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/TCS.png",
-        "coingeckoId": null,
+        "coingeckoId": "timechain-swap-token",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "rubic",
             "lifinance"
@@ -1418,13 +1420,14 @@
     },
     {
         "symbol": "FOO",
-        "name": "Fantums of Opera Token",
+        "name": "Fantums of Opera",
         "address": "0xFbc3c04845162F067A0B6F8934383E63899c3524",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/FOO.png",
-        "coingeckoId": null,
+        "coingeckoId": "fantums-of-opera-token",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "rubic",
             "lifinance"
@@ -1452,6 +1455,18 @@
         "coingeckoId": "hamster-share",
         "listedIn": [
             "rubic"
+        ]
+    },
+    {
+        "symbol": "INK",
+        "name": "Ink Fantom",
+        "address": "0xFFAbb85ADb5c25D57343547a8b32B62f03814B12",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/23511/thumb/0xffabb85adb5c25d57343547a8b32b62f03814b12.png?1644300315",
+        "coingeckoId": "ink-fantom",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -1528,13 +1543,14 @@
     },
     {
         "symbol": "CODE7",
-        "name": "Code7 Finance",
+        "name": "Code 7",
         "address": "0xF77864FCFfeC4598813E3378681c9330B771cA88",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/CODE7.png",
-        "coingeckoId": null,
+        "coingeckoId": "code-7",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "rubic",
             "lifinance"
@@ -1610,8 +1626,9 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/WIS.png",
-        "coingeckoId": null,
+        "coingeckoId": "wingswap",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -1630,6 +1647,18 @@
             "openocean",
             "SpookySwap",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "KLR",
+        "name": "Kalori",
+        "address": "0xF1b8C53dE4A10668330537608d79a8B581439221",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/23466/thumb/PHOTO-2021-06-24-19-11-38.jpg?1644217406",
+        "coingeckoId": "kalori",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -2496,14 +2525,15 @@
         ]
     },
     {
-        "symbol": "fUSD",
+        "symbol": "FUSD",
         "name": "Fantom USD",
         "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://elk.finance/tokens/logos/ftm/0xAd84341756Bf337f5a0164515b1f6F993D194E1f/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "fantom-usd",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "rubic",
@@ -2582,8 +2612,9 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/PANIC.png",
-        "coingeckoId": null,
+        "coingeckoId": "panicswap",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -2896,13 +2927,14 @@
     },
     {
         "symbol": "FTML",
-        "name": "FTMLaunch",
+        "name": "FTMlaunch",
         "address": "0x9613288dCF37c14324AB64EB53b2e7Be7292d724",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/FTML.png",
-        "coingeckoId": null,
+        "coingeckoId": "ftmlaunch",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -3599,15 +3631,14 @@
         ]
     },
     {
-        "symbol": "NODAC",
+        "symbol": "$NODAC",
         "name": "Node Aggregator Capital",
         "address": "0x803e78269f7F013b7D13ba13243Be10C66418a70",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://assets.coingecko.com/coins/images/23368/thumb/NODAC_Logo_256_x_256.png?1643954083",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x803e78269f7f013b7d13ba13243be10c66418a70/logo.png",
         "coingeckoId": "node-aggregator-capital",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -4124,13 +4155,14 @@
     },
     {
         "symbol": "WATERFALL",
-        "name": "Waterfall",
+        "name": "Waterfall Finance",
         "address": "0x6b2a7B82d3F7a6e1F5A5831aB40666Ec717645d5",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x6b2a7b82d3f7a6e1f5a5831ab40666ec717645d5/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/22507/thumb/9pkqOOZq_400x400.jpg?1641958035",
         "coingeckoId": "waterfall-finance",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -4496,14 +4528,15 @@
         ]
     },
     {
-        "symbol": "3SHARES",
-        "name": "3SHARE Token",
+        "symbol": "3SHARE",
+        "name": "3Share",
         "address": "0x6437ADAC543583C4b31Bf0323A0870430F5CC2e7",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://tokens.1inch.io/0x6437adac543583c4b31bf0323a0870430f5cc2e7.png",
-        "coingeckoId": null,
+        "coingeckoId": "3shares",
         "listedIn": [
+            "coingecko",
             "1inch",
             "openocean",
             "SpookySwap",
@@ -4976,6 +5009,18 @@
         ]
     },
     {
+        "symbol": "UNDEAD",
+        "name": "Undead Finance",
+        "address": "0x551C61DB482289994e7d426Fc4DB6493918bB81D",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/19548/thumb/200x_200.png?1635399715",
+        "coingeckoId": "undead-finance",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ECHO",
         "name": "Echo",
         "address": "0x54477A1D1bb8C1139eEF754Fd2eFd4DDeE7933dd",
@@ -5013,13 +5058,14 @@
     },
     {
         "symbol": "SING",
-        "name": "Sing Token",
+        "name": "Sing FTM",
         "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://elk.finance/tokens/logos/ftm/0x53D831e1db0947c74e8a52618f662209ec5dE0cE/logo.png",
         "coingeckoId": "sing-token-ftm",
         "listedIn": [
+            "coingecko",
             "rubic",
             "elkfinance"
         ]
@@ -5150,6 +5196,18 @@
         ]
     },
     {
+        "symbol": "MESO",
+        "name": "Meso",
+        "address": "0x4D9361A86D038C8adA3db2457608e2275B3E08d4",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/18782/thumb/sEYpoSe.png?1633411723",
+        "coingeckoId": "meso",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "gALCX",
         "name": "governanceALCX",
         "address": "0x4CbA8902ce48AB1d5eEa1920D65faeDB934B9916",
@@ -5244,6 +5302,18 @@
         ]
     },
     {
+        "symbol": "TREAT",
+        "name": "Treat",
+        "address": "0x484f2ff94a7790759D56Fb1eFbAce8075aBA5e06",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/19794/thumb/XSzNcWZ.png?1635907149",
+        "coingeckoId": "treat",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BTD",
         "name": "Bolt Dollar",
         "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
@@ -5294,8 +5364,9 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://cloudstorage.openocean.finance/images/1635757463555_5294638395195801.png",
-        "coingeckoId": null,
+        "coingeckoId": "scarecrow",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -5439,14 +5510,15 @@
         ]
     },
     {
-        "symbol": "Metti",
+        "symbol": "METTI",
         "name": "Metti Inu",
         "address": "0x42aE8468A1FDDB965d420BD71368a87Ec3a2B4b8",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/Metti.png",
-        "coingeckoId": null,
+        "coingeckoId": "metti-inu",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -5781,13 +5853,14 @@
     },
     {
         "symbol": "GIZA",
-        "name": "GIZA",
+        "name": "GizaDao",
         "address": "0x3389492f36642f27F7bF4a7749fb3FC2c8fbB7EE",
         "decimals": 9,
         "chainId": 250,
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x3389492f36642f27f7bf4a7749fb3fc2c8fbb7ee/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/21144/thumb/_dLPsk9__400x400.jpg?1638396595",
         "coingeckoId": "gizadao",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -5839,6 +5912,18 @@
         "chainId": 250,
         "logoURI": "https://assets.coingecko.com/coins/images/23671/thumb/G7TivHP.png?1644994098",
         "coingeckoId": "minipanther",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DFI",
+        "name": "DiversiFi",
+        "address": "0x323b05C10029AE66b46bAF0604739331edb4808F",
+        "decimals": 9,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/22637/thumb/17360.png?1642379172",
+        "coingeckoId": "diversifi",
         "listedIn": [
             "coingecko"
         ]
@@ -6664,13 +6749,14 @@
     },
     {
         "symbol": "DEVIL",
-        "name": "DEVIL Token",
+        "name": "Devil Finance",
         "address": "0x174c7106AEeCdC11389f7dD21342F05f46CCB40F",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/DEVIL.png",
-        "coingeckoId": null,
+        "coingeckoId": "devil-finance",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "rubic",
             "lifinance"
@@ -6854,6 +6940,18 @@
         ]
     },
     {
+        "symbol": "SEED",
+        "name": "SeedSwap SEED",
+        "address": "0x12E62CeCa188E4BC266D3844781c619638ECcf29",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/15636/thumb/2_%287%29.png?1621403830",
+        "coingeckoId": "seedswap-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "SEANCE",
         "name": "SeanceCircle",
         "address": "0x124B06C5ce47De7A6e9EFDA71a946717130079E6",
@@ -6967,13 +7065,14 @@
     },
     {
         "symbol": "AQU",
-        "name": "AQU",
+        "name": "Aquarius Fi",
         "address": "0x0f7ADb77B6334B9B5A3c4f78aAa073eA1D915bF6",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/15933/thumb/mHNYideX_400x400.png?1622446997",
         "coingeckoId": "aquarius-fi",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -7082,6 +7181,18 @@
             "SpookySwap",
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "SCAR",
+        "name": "Scarface Finance",
+        "address": "0x0B41469497f46efA3937fba4ed92153146F55ca9",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/23805/thumb/Xe5h3l0p_400x400.jpg?1645508704",
+        "coingeckoId": "scarface-finance",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -7198,9 +7309,10 @@
         "address": "0x070eb1a48725622De867a7E3d1dd4F0108966ED1",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x070eb1a48725622de867a7e3d1dd4f0108966ed1/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/21826/thumb/poopsicle-200x200.png?1640076755",
         "coingeckoId": "poopsicle",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },

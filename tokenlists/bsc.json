@@ -171,19 +171,6 @@
         ]
     },
     {
-        "symbol": "FLOKIV",
-        "name": "Flokiverse",
-        "address": "0xfC4427aF0A329312fBa0851F2eF0C7Db08Aa100f",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24335/thumb/200200logo.png?1647359780",
-        "coingeckoId": "flokiverse",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "CHR",
         "name": "Chromia",
         "address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
@@ -5336,6 +5323,19 @@
         ]
     },
     {
+        "symbol": "GENX",
+        "name": "GENX",
+        "address": "0x9AA18A4E73E1016918fA360Eed950D9580C9551d",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/16747/thumb/logo-pic.png?1624873606",
+        "coingeckoId": "genx",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "DSG",
         "name": "Dinosaur Eggs",
         "address": "0x9A78649501BbAAC285Ea4187299471B7ad4ABD35",
@@ -7226,13 +7226,14 @@
     },
     {
         "symbol": "RUPEE",
-        "name": "Rupee Token",
+        "name": "HyruleSwap",
         "address": "0x7B0409A3A3f79bAa284035d48E1DFd581d7d7654",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x7b0409a3a3f79baa284035d48e1dfd581d7d7654.png",
-        "coingeckoId": null,
+        "coingeckoId": "hyruleswap",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -8222,13 +8223,14 @@
     },
     {
         "symbol": "SOUL",
-        "name": "APOyield SOULS",
+        "name": "APOyield",
         "address": "0x67d012F731c23F0313CEA1186d0121779c77fcFE",
         "decimals": 8,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x67d012f731c23f0313cea1186d0121779c77fcfe.png",
-        "coingeckoId": null,
+        "coingeckoId": "apoyield",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -13328,8 +13330,9 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://elk.finance/tokens/logos/bsc/0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "stablexswap",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "lifinance",

@@ -245,14 +245,15 @@
         ]
     },
     {
-        "symbol": "xVIPER",
-        "name": "xVIPER",
+        "symbol": "XVIPER",
+        "name": "ViperPit",
         "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://elk.finance/tokens/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "viperpit",
         "listedIn": [
+            "coingecko",
             "lifinance",
             "elkfinance"
         ]
@@ -329,13 +330,14 @@
     },
     {
         "symbol": "VINCI",
-        "name": "DaVinci Token",
+        "name": "DaVinci",
         "address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://elk.finance/tokens/logos/harmony/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "davinci-token",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "rubic",
             "lifinance",
@@ -538,6 +540,19 @@
             "rubic",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "HPLAY",
+        "name": "Harmony Play",
+        "address": "0x66CF8375fd083E7d103D69378e9AF20F1b46DC59",
+        "decimals": 18,
+        "chainId": 1666600000,
+        "logoURI": "https://assets.coingecko.com/coins/images/20788/thumb/one1vm8cxa0apql86ypadymcaxhjpud5dhzeetm2yj.png?1637671819",
+        "coingeckoId": "harmony-play",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -876,8 +891,9 @@
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://elk.finance/tokens/logos/harmony/0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "tokenjenny",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "rubic",
             "lifinance",
@@ -1114,13 +1130,14 @@
     },
     {
         "symbol": "FOX",
-        "name": "FarmersOnly Token2",
+        "name": "FoxSwap",
         "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "farmers-only",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "lifinance"
         ]

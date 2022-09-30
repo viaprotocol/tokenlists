@@ -3757,6 +3757,19 @@
         ]
     },
     {
+        "symbol": "RBLX",
+        "name": "Rublix",
+        "address": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://ethapi.openocean.finance/logos/0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e.png",
+        "coingeckoId": "rublix",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "symbol": "NTVRK",
         "name": "Netvrk",
         "address": "0xFc0d6Cf33e38bcE7CA7D89c0E292274031b7157A",
@@ -4688,13 +4701,14 @@
     },
     {
         "symbol": "KBTC",
-        "name": "KBTC",
+        "name": "Klondike BTC",
         "address": "0xE6C3502997f97F9BDe34CB165fBce191065E068f",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xe6c3502997f97f9bde34cb165fbce191065e068f.png",
-        "coingeckoId": null,
+        "coingeckoId": "klondike-btc",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -4946,8 +4960,9 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xdea67845a51e24461d5fed8084e69b426af3d5db.png",
-        "coingeckoId": null,
+        "coingeckoId": "hodltree",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -5106,6 +5121,19 @@
             "coingecko",
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "LOBI",
+        "name": "Lobis",
+        "address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d/logo.png",
+        "coingeckoId": "lobis",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
         ]
     },
     {
@@ -5635,6 +5663,19 @@
         "listedIn": [
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "AETHB",
+        "name": "Ankr Reward Earning Staked ETH",
+        "address": "0xD01ef7C0A5d8c432fc2d1a85c66cF2327362E5C6",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1637161807072_8622245356951528.png",
+        "coingeckoId": "ankr-reward-earning-staked-eth",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -8699,14 +8740,15 @@
         ]
     },
     {
-        "symbol": "mBTC",
+        "symbol": "MBTC",
         "name": "mStable BTC",
         "address": "0x945Facb997494CC2570096c74b5F66A3507330a1",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x945facb997494cc2570096c74b5f66a3507330a1.png",
-        "coingeckoId": null,
+        "coingeckoId": "mstable-btc",
         "listedIn": [
+            "coingecko",
             "1inch",
             "sushiswap",
             "lifinance"
@@ -10025,14 +10067,15 @@
         ]
     },
     {
-        "symbol": "one1INCH",
-        "name": "Stable 1INCH",
+        "symbol": "ONE1INCH",
+        "name": "Stable 1inch",
         "address": "0x853Bb55c1f469902F088A629db8C8803A9BE3857",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x853bb55c1f469902f088a629db8c8803a9be3857.png",
-        "coingeckoId": null,
+        "coingeckoId": "stable-1inch",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -13318,6 +13361,19 @@
         ]
     },
     {
+        "symbol": "DSU",
+        "name": "Digital Standard Unit",
+        "address": "0x605D26FBd5be761089281d5cec2Ce86eeA667109",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/17482/thumb/photo_2021-08-03_09-24-16.png?1627953917",
+        "coingeckoId": "digital-standard-unit",
+        "listedIn": [
+            "coingecko",
+            "arbitrum_bridge"
+        ]
+    },
+    {
         "symbol": "SHAKE",
         "name": "Spaceswap SHAKE",
         "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
@@ -13735,8 +13791,9 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831.png",
-        "coingeckoId": null,
+        "coingeckoId": "defidollar",
         "listedIn": [
+            "coingecko",
             "1inch",
             "sushiswap",
             "lifinance"
@@ -14201,13 +14258,14 @@
     },
     {
         "symbol": "BTCV",
-        "name": "BTC Volatility Index",
+        "name": "Bitcoin Volatility Index Token",
         "address": "0x51B0bcBEFf204B39Ce792D1E16767Fe6F7631970",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x51b0bcbeff204b39ce792d1e16767fe6f7631970.png",
-        "coingeckoId": null,
+        "coingeckoId": "bitcoin-volatility-index-token",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -15336,14 +15394,15 @@
         ]
     },
     {
-        "symbol": "renBCH",
+        "symbol": "RENBCH",
         "name": "renBCH",
         "address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
         "decimals": 8,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x459086f2376525bdceba5bdda135e4e9d3fef5bf.png",
-        "coingeckoId": null,
+        "coingeckoId": "renbch",
         "listedIn": [
+            "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
@@ -16773,14 +16832,15 @@
         ]
     },
     {
-        "symbol": "arte",
-        "name": "ethart",
+        "symbol": "ARTE",
+        "name": "Items",
         "address": "0x34612903Db071e888a4dADcaA416d3EE263a87b9",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x34612903db071e888a4dadcaa416d3ee263a87b9.png",
-        "coingeckoId": null,
+        "coingeckoId": "ethart",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -17209,13 +17269,14 @@
     },
     {
         "symbol": "USDB",
-        "name": "USDB",
+        "name": "USD Bancor",
         "address": "0x309627af60F0926daa6041B8279484312f2bf060",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x309627af60f0926daa6041b8279484312f2bf060.png",
-        "coingeckoId": null,
+        "coingeckoId": "usd-bancor",
         "listedIn": [
+            "coingecko",
             "1inch",
             "openocean",
             "lifinance"
@@ -18020,14 +18081,15 @@
         ]
     },
     {
-        "symbol": "iBTCV",
-        "name": "Inverse BTC Volatility Index",
+        "symbol": "IBTCV",
+        "name": "Inverse Bitcoin Volatility Index Token",
         "address": "0x2590F1fD14Ef8Bb0A46C7A889c4CBc146510f9C3",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x2590f1fd14ef8bb0a46c7a889c4cbc146510f9c3.png",
-        "coingeckoId": null,
+        "coingeckoId": "inverse-bitcoin-volatility-index-token",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -18072,6 +18134,19 @@
         "listedIn": [
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "ESS",
+        "name": "Empty Set Share",
+        "address": "0x24aE124c4CC33D6791F8E8B63520ed7107ac8b3e",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/17481/thumb/photo_2021-08-03_03-26-29.png?1627953584",
+        "coingeckoId": "empty-set-share",
+        "listedIn": [
+            "coingecko",
+            "arbitrum_bridge"
         ]
     },
     {
@@ -19470,14 +19545,15 @@
         ]
     },
     {
-        "symbol": "USDP_2",
+        "symbol": "USDP",
         "name": "USDP Stablecoin",
         "address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x1456688345527be1f37e9e627da0837d6f08c925.png",
-        "coingeckoId": null,
+        "coingeckoId": "usdp",
         "listedIn": [
+            "coingecko",
             "1inch",
             "sushiswap",
             "lifinance"
@@ -19963,6 +20039,19 @@
         "chainId": 1,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da/logo.png",
         "coingeckoId": "blackpool-token",
+        "listedIn": [
+            "coingecko",
+            "sushiswap"
+        ]
+    },
+    {
+        "symbol": "METACAT",
+        "name": "MetaCat",
+        "address": "0x0dC7d0192c148d7d2D6fa32DC280f953c0AD6A34",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0dC7d0192c148d7d2D6fa32DC280f953c0AD6A34/logo.png",
+        "coingeckoId": "metacat",
         "listedIn": [
             "coingecko",
             "sushiswap"

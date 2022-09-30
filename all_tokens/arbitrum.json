@@ -285,13 +285,14 @@
     },
     {
         "symbol": "HONEY",
-        "name": "Honey Token",
+        "name": "Honey Pot BeeKeepers",
         "address": "0xdE31e75182276738B0c025daa8F80020A4F2fbFE",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xde31e75182276738b0c025daa8f80020a4f2fbfe/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18380/thumb/ac6fTCfDQDIV.jpg?1631695015",
         "coingeckoId": "honey-pot-beekeepers",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -2836,8 +2837,9 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://cloudstorage.openocean.finance/images/1637892796159_3482286577377456.png",
-        "coingeckoId": null,
+        "coingeckoId": "xdollar-stablecoin",
         "listedIn": [
+            "coingecko",
             "openocean",
             "rubic"
         ]
@@ -2989,13 +2991,14 @@
     },
     {
         "symbol": "MAGIC",
-        "name": "MAGICToken",
+        "name": "MagicLand",
         "address": "0x2c852D3334188BE136bFC540EF2bB8C37b590BAD",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0x2c852d3334188be136bfc540ef2bb8c37b590bad/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18844/thumb/logo_-_2021-10-07T141625.399.png?1633587397",
         "coingeckoId": "magic-token",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },

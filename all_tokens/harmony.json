@@ -809,14 +809,15 @@
         ]
     },
     {
-        "symbol": "xVIPER",
-        "name": "xVIPER",
+        "symbol": "XVIPER",
+        "name": "ViperPit",
         "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://elk.finance/tokens/logos/harmony/0xE064a68994e9380250CfEE3E8C0e2AC5C0924548/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "viperpit",
         "listedIn": [
+            "coingecko",
             "lifinance",
             "elkfinance"
         ]
@@ -905,6 +906,18 @@
         "chainId": 1666600000,
         "logoURI": "https://assets.coingecko.com/coins/images/9441/thumb/57421944_1371636006308255_3647136573922738176_n.jpg?1567462531",
         "coingeckoId": "rupiah-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ONEMOON",
+        "name": "OneMoon",
+        "address": "0xCB35e4945c7F463c5CCBE3BF9f0389ab9321248F",
+        "decimals": 9,
+        "chainId": 1666600000,
+        "logoURI": "https://assets.coingecko.com/coins/images/17702/thumb/ONEMOON_%281%29.jpg?1629077134",
+        "coingeckoId": "onemoon",
         "listedIn": [
             "coingecko"
         ]
@@ -1073,17 +1086,30 @@
     },
     {
         "symbol": "VINCI",
-        "name": "DaVinci Token",
+        "name": "DaVinci",
         "address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://elk.finance/tokens/logos/harmony/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "davinci-token",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "rubic",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "EDEN",
+        "name": "ParadiseFi",
+        "address": "0xB55106308974CEbe299A0f0505435C47b404b9a6",
+        "decimals": 18,
+        "chainId": 1666600000,
+        "logoURI": "https://assets.coingecko.com/coins/images/19404/thumb/paradisefi.PNG?1635199656",
+        "coingeckoId": "paradisefi",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -1232,6 +1258,18 @@
         "chainId": 1666600000,
         "logoURI": "https://assets.coingecko.com/coins/images/18395/thumb/fuzz.PNG?1631764255",
         "coingeckoId": "fuzz-finance",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "RFUST",
+        "name": "rfUST",
+        "address": "0x971803c316d80eE490156aF78e8eb5067EDB73AC",
+        "decimals": 9,
+        "chainId": 1666600000,
+        "logoURI": "https://assets.coingecko.com/coins/images/22190/thumb/XTOotuku_400x400.jpg?1641188829",
+        "coingeckoId": "rfust",
         "listedIn": [
             "coingecko"
         ]
@@ -1806,9 +1844,10 @@
         "address": "0x66CF8375fd083E7d103D69378e9AF20F1b46DC59",
         "decimals": 18,
         "chainId": 1666600000,
-        "logoURI": "https://api.rubic.exchange/assets/harmony/0x66cf8375fd083e7d103d69378e9af20f1b46dc59/logo.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/20788/thumb/one1vm8cxa0apql86ypadymcaxhjpud5dhzeetm2yj.png?1637671819",
         "coingeckoId": "harmony-play",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -2089,6 +2128,18 @@
         "chainId": 1666600000,
         "logoURI": "https://assets.coingecko.com/coins/images/13839/thumb/Logo-D-Unicorn.png?1622435397",
         "coingeckoId": "julswap",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "CGS",
+        "name": "CougarSwap",
+        "address": "0x4f529873288668815d66EDa11314F719b23Dd846",
+        "decimals": 18,
+        "chainId": 1666600000,
+        "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1644812043",
+        "coingeckoId": "cougar-token",
         "listedIn": [
             "coingecko"
         ]
@@ -2628,8 +2679,9 @@
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://elk.finance/tokens/logos/harmony/0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "tokenjenny",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "rubic",
             "lifinance",
@@ -2728,6 +2780,18 @@
         "chainId": 1666600000,
         "logoURI": "https://assets.coingecko.com/coins/images/949/thumb/storj.png?1547034811",
         "coingeckoId": "storj",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FLOKI",
+        "name": "Floki One",
+        "address": "0x24b6179E4062ED9BAEacE0E6081Dbd55B6072380",
+        "decimals": 9,
+        "chainId": 1666600000,
+        "logoURI": "https://assets.coingecko.com/coins/images/19646/thumb/logo-big_%281%29.png?1635729814",
+        "coingeckoId": "floki-one",
         "listedIn": [
             "coingecko"
         ]
@@ -3310,13 +3374,14 @@
     },
     {
         "symbol": "FOX",
-        "name": "FarmersOnly Token2",
+        "name": "FoxSwap",
         "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "farmers-only",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "lifinance"
         ]
