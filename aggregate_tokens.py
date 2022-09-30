@@ -4,7 +4,7 @@ import logging
 from collections import defaultdict
 
 from coingecko_ids import CHAIN_ID_TO_NATIVE_COIN_COINGECKO_ID
-from common import Address, NATIVE_ADDR_0x0, NATIVE_ADDR_0xe, NATIVE_MATIC_ADDR, Token, CHAIN_NAMES_BY_ID
+from common import Address, ChainId, NATIVE_ADDR_0x0, NATIVE_ADDR_0xe, NATIVE_MATIC_ADDR, Token, CHAIN_NAMES_BY_ID
 from token_list_providers import CoinGeckoTokenLists, Lifinance, OneInchTokenLists, RubicLists, tokenlists_providers
 
 TOKENLISTS_FOLDER = "tokenlists"
@@ -27,8 +27,12 @@ async def collect_trusted_tokens() -> dict[int, list[Token]]:
     for provider_name, tokens_by_chains in provider_data.items():
         for _chain_id, tokens in tokens_by_chains.items():
             chain_id = int(_chain_id)
+            if chain_id == 101:  # solana
+                chain_id = -1
             for token in tokens:
                 addr = Address(token.address.lower())
+                if token.chainId == 101:
+                    token.chainId = ChainId(-1)
                 if addr == NATIVE_ADDR_0xe or addr == NATIVE_MATIC_ADDR:
                     addr = NATIVE_ADDR_0x0
                     token.address = NATIVE_ADDR_0x0

@@ -190,14 +190,6 @@ class OneInchTokenLists(TokenListProvider):
     absent_chain_id = True
 
 
-class SolanaLabsTokenLists(TokenListProvider):
-    name = "solanalabs"
-    base_url = "https://raw.githubusercontent.com/solana-labs/token-list/main/src/tokens/{}.tokenlist.json"
-    chains = {
-        "-1": "solana"
-    }
-
-
 class OpenOceanTokenLists(TokenListProvider):
     # TODO: maybe more, check all ids from coingecko
     name = "openocean"
@@ -255,7 +247,7 @@ class RefFinanceTokenLists(TokenListProvider):
 
 class OneSolTokenLists(TokenListProvider):
     name = "1sol"
-    base_url = "https://raw.githubusercontent.com/1sol-io/token-list/fb6336f63b1511c095bd5160277983a6ad3c8aa5/src/tokens/solana.tokenlist.json"
+    base_url = "https://api.1sol.io/2/101/token-list"
     chains = {
         "-1": "solana"
     }
@@ -471,7 +463,6 @@ tokenlists_providers = [
     UniswapTokenLists,
     SushiswapTokenLists,
     OpenOceanTokenLists,
-    SolanaLabsTokenLists,
     OneSolTokenLists,
     QuickSwapTokenLists,
     FuseSwapTokenLists,
