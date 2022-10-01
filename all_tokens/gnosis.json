@@ -3165,7 +3165,8 @@
         "coingeckoId": "swapr",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3377,6 +3378,18 @@
             "rubic",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MR",
+        "name": "Moon Rock",
+        "address": "0x481D6104761442F162d1f7AC3DC6F98896e7A4ef",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://moonrock.herodao.org/_next/image?url=%2Fmoonrock_token.png&w=640&q=75",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
