@@ -4248,6 +4248,18 @@
         ]
     },
     {
+        "symbol": "NTIC",
+        "name": "Entice",
+        "address": "0xEcb51aCf9967331B7f282F855079671fE22c56C3",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/27579/thumb/ntic.png?1664696263",
+        "coingeckoId": "entice",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "REGEN",
         "name": "Regen Network",
         "address": "0xEc482De9569a5EA3Dd9779039b79e53F15791fDE",
@@ -7650,18 +7662,6 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/2606/thumb/decentralized-universal-basic-income.png?1547036752",
         "coingeckoId": "decentralized-universal-basic-income",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "BLDR",
-        "name": "BUilDER Coin",
-        "address": "0x94fa3CB4Dc288194b7006F3b405011dc60c57d01",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/24771/thumb/builder.png?1649580246",
-        "coingeckoId": "builder-coin",
         "listedIn": [
             "coingecko"
         ]
@@ -16432,7 +16432,7 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
-        "coingeckoId": null,
+        "coingeckoId": "rond",
         "listedIn": [
             "lifinance"
         ]
