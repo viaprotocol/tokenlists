@@ -7543,6 +7543,18 @@
         ]
     },
     {
+        "symbol": "aAvaWAVAX",
+        "name": "Aave Avalanche WAVAX",
+        "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "ASTRO",
         "name": "100 Days Ventures",
         "address": "0x6d2f5dBf3a7396FCe32CfE406Aef7a8AFF812Fbb",
@@ -11750,18 +11762,6 @@
         "coingeckoId": "paper-fantom",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "AVAXD",
-        "name": "AvaxDAO",
-        "address": "0x1aa76D4A622aDAa89C443047C0E5955D1b575407",
-        "decimals": 9,
-        "chainId": 43114,
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x1aa76d4a622adaa89c443047c0e5955d1b575407/logo.png",
-        "coingeckoId": "avaxdao",
-        "listedIn": [
-            "rubic"
         ]
     },
     {
