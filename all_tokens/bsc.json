@@ -915,6 +915,18 @@
         ]
     },
     {
+        "symbol": "META",
+        "name": "Metalk",
+        "address": "0xf9c762822781D2A55501DfafbA00417B74c8587a",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/24801/thumb/meta.png?1648983422",
+        "coingeckoId": "metalk",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "SHIELD",
         "name": "Meta Shield",
         "address": "0xf9b25c96c659648a805Bf40b4D1dc4F22abCB936",
@@ -942,15 +954,14 @@
         ]
     },
     {
-        "symbol": "DOKEN",
+        "symbol": "DoKEN",
         "name": "DoKEN",
         "address": "0xf9A2d40589271Be17612A3F57A9028A568f56e3d",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20283/thumb/Qu5sof9.png?1638363195",
-        "coingeckoId": "doken",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xf9a2d40589271be17612a3f57a9028a568f56e3d/595823532a3bb31b13c86ef901758729.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -5361,10 +5372,9 @@
         "address": "0xd9150910de9A4df5D734f4d9B5ebe82BCCe9095a",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/23985/thumb/cbt.png?1645946579",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xd9150910de9a4df5d734f4d9b5ebe82bcce9095a/logo.png",
         "coingeckoId": "cryptobattles",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -9782,18 +9792,6 @@
         ]
     },
     {
-        "symbol": "MICROSHIB",
-        "name": "MicroSHIBA",
-        "address": "0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17525/thumb/microshib.PNG?1628114653",
-        "coingeckoId": "microshiba",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "STMAN",
         "name": "Stickman Battleground",
         "address": "0xb75088a5D75e9ff7264ABc7d25721e4436ec309d",
@@ -10614,18 +10612,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/26249/thumb/free-image-resizer-cropper_%285%29.png?1656935714",
         "coingeckoId": "defiskeletons",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "CARBO",
-        "name": "CarbonDEFI",
-        "address": "0xb05139B021aAEa472b94528B030844D84a6724d5",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/15360/thumb/carbondefi.PNG?1620636865",
-        "coingeckoId": "carbondefi",
         "listedIn": [
             "coingecko"
         ]
@@ -13794,18 +13780,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/24267/thumb/cvt.png?1647172777",
         "coingeckoId": "crypto-vault",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "NBUSD",
-        "name": "NAOS BUSD",
-        "address": "0xF71b4b8AA71F7923c94C7e20B8a434a4d9368eee",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24788/thumb/nbusd.png?1648906752",
-        "coingeckoId": "naos-busd",
         "listedIn": [
             "coingecko"
         ]
@@ -19270,6 +19244,18 @@
         ]
     },
     {
+        "symbol": "PITQC",
+        "name": "Pitquidity Capital",
+        "address": "0xC98A06E7362789F57C8861E8F33f2Ebe3d32EED1",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27603/thumb/PITQD_LOGO_TWITER.png?1664779799",
+        "coingeckoId": "pitquidity-capital",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "FIST",
         "name": "Fistbump",
         "address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
@@ -21432,7 +21418,7 @@
     },
     {
         "symbol": "MNC",
-        "name": "MainCoin",
+        "name": "Maincoin",
         "address": "0xB8AE295FEF08728B48094D5A1D4A01F2b85139F8",
         "decimals": 18,
         "chainId": 56,
@@ -21772,7 +21758,7 @@
     },
     {
         "symbol": "ALF",
-        "name": "AlphaFi",
+        "name": "ALPHAFI",
         "address": "0xB547e4f2647d619123F6B92AbD01ADdED41eF3aC",
         "decimals": 18,
         "chainId": 56,
@@ -24892,18 +24878,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/24953/thumb/bre.png?1649507380",
         "coingeckoId": "boba-brewery",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "TMT",
-        "name": "TMETA",
-        "address": "0x9e94473E7cBA9f886e4C6Cdd9A6D605FAD81Ed5D",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22862/thumb/logo.png?1642752671",
-        "coingeckoId": "tmeta",
         "listedIn": [
             "coingecko"
         ]
@@ -29360,7 +29334,7 @@
         "address": "0x8d9fB713587174Ee97e91866050c383b5cEE6209",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20421/thumb/velha.jpg?1637030452",
+        "logoURI": "https://assets.coingecko.com/coins/images/20421/thumb/velhala-logo_token.png?1664779145",
         "coingeckoId": "velhalla",
         "listedIn": [
             "coingecko"
@@ -41567,18 +41541,6 @@
         ]
     },
     {
-        "symbol": "MCR",
-        "name": "MineCrypto",
-        "address": "0x613A57809cFB84190574D2eC0A5F14f1cF184379",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/23010/thumb/ezgif.com-gif-maker.png?1643092839",
-        "coingeckoId": "minecrypto",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "CCV2",
         "name": "CryptoCart V2",
         "address": "0x612E1726435fE38dD49A0B35b4065B56f49c8F11",
@@ -42346,6 +42308,18 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "YOUB",
+        "name": "Youbie",
+        "address": "0x5c4ADaF43D676Fb1BacEFEca8008799B03746D22",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": "youbie",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -44344,8 +44318,8 @@
         ]
     },
     {
-        "symbol": "CAIRO",
-        "name": "Cairo Finance",
+        "symbol": "CAF",
+        "name": "CAIRO",
         "address": "0x5662ac531A2737C3dB8901E982B43327a2fDe2ae",
         "decimals": 18,
         "chainId": 56,
@@ -44742,6 +44716,7 @@
         "coingeckoId": "easyfi",
         "listedIn": [
             "coingecko",
+            "dfyn",
             "pancake",
             "lifinance",
             "elkfinance"
@@ -52660,18 +52635,6 @@
         ]
     },
     {
-        "symbol": "AQUA",
-        "name": "Aquachain",
-        "address": "0x38FAB266089AAf3BC2F11B791213840Ea3D587C7",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/5596/thumb/aqua.png?1586745922",
-        "coingeckoId": "aquachain",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "agEUR",
         "name": "agEUR",
         "address": "0x38C84D5bBAD726D465Cf6A5349E41D6d7095faf7",
@@ -56817,6 +56780,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/18061/thumb/duel.PNG?1630372398",
         "coingeckoId": "duel-network",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "PALM",
+        "name": "PalmSwap",
+        "address": "0x29745314B4D294B7C77cDB411B8AAa95923aae38",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27604/thumb/22000.png?1664782743",
+        "coingeckoId": "palmswap",
         "listedIn": [
             "coingecko"
         ]
@@ -65558,18 +65533,6 @@
         ]
     },
     {
-        "symbol": "MNFT",
-        "name": "MemeNFT",
-        "address": "0x0BCbC5c3506fc10c30dAf6fAD17866E504cEea33",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22249/thumb/pes0--Rl_400x400.jpg?1641277696",
-        "coingeckoId": "memenft",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "GKEN",
         "name": "Robocock Ultra World",
         "address": "0x0B5a6E082C8243AD568a35230B327F2c043D3d1f",
@@ -66760,7 +66723,7 @@
     },
     {
         "symbol": "PITQD",
-        "name": "Pitquidity BSC",
+        "name": "Pitquidity Capital  OLD ",
         "address": "0x0634194C04301E76D42125F1296B35b6C8dF212a",
         "decimals": 9,
         "chainId": 56,

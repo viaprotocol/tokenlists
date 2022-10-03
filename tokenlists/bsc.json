@@ -186,19 +186,6 @@
         ]
     },
     {
-        "symbol": "DOKEN",
-        "name": "DoKEN",
-        "address": "0xf9A2d40589271Be17612A3F57A9028A568f56e3d",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20283/thumb/Qu5sof9.png?1638363195",
-        "coingeckoId": "doken",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "VFIL",
         "name": "Venus FIL",
         "address": "0xf91d58b5aE142DAcC749f58A49FCBac340Cb0343",
@@ -1141,19 +1128,6 @@
         "listedIn": [
             "1inch",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "CBT",
-        "name": "CryptoBattles",
-        "address": "0xd9150910de9A4df5D734f4d9B5ebe82BCCe9095a",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/23985/thumb/cbt.png?1645946579",
-        "coingeckoId": "cryptobattles",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -9282,6 +9256,7 @@
         "coingeckoId": "easyfi",
         "listedIn": [
             "coingecko",
+            "dfyn",
             "pancake",
             "lifinance",
             "elkfinance"
