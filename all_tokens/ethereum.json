@@ -13832,6 +13832,18 @@
         ]
     },
     {
+        "symbol": "IBEX",
+        "name": "Impermax",
+        "address": "0xF655C8567E0f213e6C634CD2A68d992152161dC6",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1664846656",
+        "coingeckoId": "impermax-2",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ENJ",
         "name": "Enjin Coin",
         "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
@@ -22854,6 +22866,19 @@
         ]
     },
     {
+        "symbol": "BOB",
+        "name": "BOB",
+        "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "HELLSING",
         "name": "Hellsing Inu",
         "address": "0xB087C2180e3134Db396977065817aed91FEa6EAD",
@@ -25386,10 +25411,12 @@
         "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/26353/thumb/ogv-200x200.png?1657606918",
+        "logoURI": "https://tokens.1inch.io/0x9c354503c38481a7a7a51629142963f98ecc12d0.png",
         "coingeckoId": "origin-dollar-governance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -33959,7 +33986,7 @@
     },
     {
         "symbol": "IMX",
-        "name": "Impermax",
+        "name": "Impermax  OLD ",
         "address": "0x7b35Ce522CB72e4077BaeB96Cb923A5529764a00",
         "decimals": 18,
         "chainId": 1,
@@ -46027,10 +46054,12 @@
         "address": "0x4b13006980aCB09645131b91D259eaA111eaF5Ba",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/26874/thumb/MYC_Token.png?1660670191",
+        "logoURI": "https://tokens.1inch.io/0x4b13006980acb09645131b91d259eaa111eaf5ba.png",
         "coingeckoId": "mycelium",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {

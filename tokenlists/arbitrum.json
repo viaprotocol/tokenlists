@@ -696,11 +696,13 @@
         "address": "0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/26874/thumb/MYC_Token.png?1660670191",
+        "logoURI": "https://tokens.1inch.io/0xc74fe4c715510ec2f8c61d70d397b32043f55abe.png",
         "coingeckoId": "mycelium",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch",
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -959,7 +961,7 @@
     },
     {
         "symbol": "IMX",
-        "name": "Impermax",
+        "name": "Impermax  OLD ",
         "address": "0x9c67eE39e3C4954396b9142010653F17257dd39C",
         "decimals": 18,
         "chainId": 42161,
@@ -1089,6 +1091,20 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "LIQD",
+        "name": "Liquid Finance",
+        "address": "0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://tokens.1inch.io/0x93c15cd7de26f07265f0272e0b831c5d7fab174f.png",
+        "coingeckoId": "liquid-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
             "lifinance"
         ]
     },
@@ -1428,10 +1444,11 @@
         "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/16652/small/DPX_%281%29.png?1624598630",
+        "logoURI": "https://tokens.1inch.io/0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55.png",
         "coingeckoId": "dopex",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "openocean",
             "arbitrum_bridge",
@@ -1489,10 +1506,11 @@
         "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1648128062874_058739401970302474.png",
+        "logoURI": "https://tokens.1inch.io/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png",
         "coingeckoId": "stargate-finance",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "openocean",
             "rubic",
@@ -1505,11 +1523,13 @@
         "address": "0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1654019188369_5033276623551377.png",
+        "logoURI": "https://tokens.1inch.io/0x64343594ab9b56e99087bfa6f2335db24c2d1f17.png",
         "coingeckoId": "vesta-stable",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "1inch",
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -1534,6 +1554,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/14318/thumb/aUSDC.e260d492.png?1615527797",
         "coingeckoId": "aave-usdc",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "WSTETH",
+        "name": "Wrapped stETH",
+        "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443",
+        "coingeckoId": "wrapped-steth",
         "listedIn": [
             "coingecko",
             "rubic"
@@ -2160,10 +2193,11 @@
         "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png?1608476506",
+        "logoURI": "https://tokens.1inch.io/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.png",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "openocean",
             "lifinance",
@@ -2329,10 +2363,11 @@
         "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/26536/thumb/Radiant-Logo-200x200.png?1658715865",
+        "logoURI": "https://tokens.1inch.io/0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.png",
         "coingeckoId": "radiant-capital",
         "listedIn": [
             "coingecko",
+            "1inch",
             "rubic",
             "lifinance"
         ]

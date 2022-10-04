@@ -7062,6 +7062,19 @@
         ]
     },
     {
+        "symbol": "BOB",
+        "name": "BOB",
+        "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "STG",
         "name": "Stargate Finance",
         "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
@@ -7902,6 +7915,20 @@
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544.png",
         "coingeckoId": "doki-doki-finance",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "OGV",
+        "name": "Origin Dollar Governance",
+        "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0x9c354503c38481a7a7a51629142963f98ecc12d0.png",
+        "coingeckoId": "origin-dollar-governance",
         "listedIn": [
             "coingecko",
             "1inch",
@@ -10715,7 +10742,7 @@
     },
     {
         "symbol": "IMX",
-        "name": "Impermax",
+        "name": "Impermax  OLD ",
         "address": "0x7b35Ce522CB72e4077BaeB96Cb923A5529764a00",
         "decimals": 18,
         "chainId": 1,
@@ -14626,6 +14653,20 @@
         "listedIn": [
             "1inch",
             "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MYC",
+        "name": "Mycelium",
+        "address": "0x4b13006980aCB09645131b91D259eaA111eaF5Ba",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0x4b13006980acb09645131b91d259eaa111eaf5ba.png",
+        "coingeckoId": "mycelium",
+        "listedIn": [
+            "coingecko",
+            "1inch",
             "lifinance"
         ]
     },
