@@ -26714,13 +26714,14 @@
         },
         {
             "symbol": "LUMIII",
-            "name": "LumiiiToken",
+            "name": "Lumiii",
             "address": "0xED88227296943857409A8e0f15Ad7134e70D0F73",
             "decimals": 18,
             "chainId": 137,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png",
             "coingeckoId": "lumiiitoken",
             "listedIn": [
+                "coingecko",
                 "quickswap",
                 "lifinance"
             ]
@@ -44927,15 +44928,14 @@
             ]
         },
         {
-            "symbol": "SGNO",
+            "symbol": "sGNO",
             "name": "StakeWise Staked GNO",
             "address": "0xA4eF9Da5BA71Cc0D2e5E877a910A37eC43420445",
             "decimals": 18,
             "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/24848/thumb/sgno.png?1649125966",
+            "logoURI": "https://api.rubic.exchange/assets/xdai/0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445/logo.png",
             "coingeckoId": "stakewise-staked-gno",
             "listedIn": [
-                "coingecko",
                 "rubic",
                 "lifinance"
             ]
@@ -54689,6 +54689,7 @@
             "logoURI": "https://tokens.1inch.io/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b.png",
             "coingeckoId": "bob",
             "listedIn": [
+                "coingecko",
                 "1inch",
                 "lifinance"
             ]
@@ -56113,6 +56114,19 @@
             "listedIn": [
                 "coingecko",
                 "rubic",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "ASTRAFER",
+            "name": "Astrafer",
+            "address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/26246/thumb/ATSRA_Token.png?1657276411",
+            "coingeckoId": "astrafer",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },

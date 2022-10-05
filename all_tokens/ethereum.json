@@ -2130,18 +2130,6 @@
         ]
     },
     {
-        "symbol": "REX",
-        "name": "Imbrex",
-        "address": "0xf05a9382A4C3F29E2784502754293D88b835109C",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/885/thumb/Imbrex_Token.jpg?1547034710",
-        "coingeckoId": "rex",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "DMX",
         "name": "Dymmax",
         "address": "0xf058501585023d040eA9493134ED72C083553eED",
@@ -5202,18 +5190,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/10543/thumb/256x256.png?1607154365",
         "coingeckoId": "vortex-network",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "USE",
-        "name": "Usechain",
-        "address": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/4318/thumb/logo_%281%29.png?1547039678",
-        "coingeckoId": "usechain",
         "listedIn": [
             "coingecko"
         ]
@@ -9106,18 +9082,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/13345/thumb/Hub-Logo-Transparent-BG-200x200_%281%29.png?1607661813",
         "coingeckoId": "hub-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "HGT",
-        "name": "HelloGold",
-        "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/1005/thumb/hellogold.png?1547743862",
-        "coingeckoId": "hellogold",
         "listedIn": [
             "coingecko"
         ]
@@ -16917,18 +16881,6 @@
         ]
     },
     {
-        "symbol": "BMC",
-        "name": "Blackmoon Crypto",
-        "address": "0xDf6Ef343350780BF8C3410BF062e0C015B1DD671",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/876/thumb/bmc.png?1547034698",
-        "coingeckoId": "blackmoon-crypto",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "SATT",
         "name": "SaTT",
         "address": "0xDf49C9f599A0A9049D97CFF34D0C30E468987389",
@@ -22934,6 +22886,7 @@
         "logoURI": "https://tokens.1inch.io/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b.png",
         "coingeckoId": "bob",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -24156,18 +24109,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "HDAO",
-        "name": "Hkd com Dao",
-        "address": "0xA6DC25851C18DB97d4AF05DBea56ceAAF6BDa0eE",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/24548/thumb/QRY3jJl.png?1648131456",
-        "coingeckoId": "hkd-com-dao",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -27187,9 +27128,10 @@
         "address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/26246/thumb/ATSRA_Token.png?1657276411",
         "coingeckoId": "astrafer",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -33251,18 +33193,6 @@
         ]
     },
     {
-        "symbol": "DRG",
-        "name": "Dragon Coin",
-        "address": "0x814F67fA286f7572B041D041b1D99b432c9155Ee",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/3423/thumb/Dragon_Flat_Logo_2x-1.png?1551267120",
-        "coingeckoId": "dragon-coin",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "DATP",
         "name": "Decentralized Asset Trading Platform",
         "address": "0x813b428aF3920226E059B68A62e4c04933D4eA7a",
@@ -35619,18 +35549,6 @@
         "listedIn": [
             "coingecko",
             "xyfinance"
-        ]
-    },
-    {
-        "symbol": "MDAO",
-        "name": "Metaverse DAO",
-        "address": "0x776f2453115F0d47AaAB52C7095F14150d89069c",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/23242/thumb/MDAO.jpg?1643356930",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -44599,6 +44517,18 @@
         ]
     },
     {
+        "symbol": "UCOIL",
+        "name": "UCONetwork",
+        "address": "0x549044000a94870ab7c5017cd8fB0AEfa9239a13",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27633/thumb/logo.png?1664961037",
+        "coingeckoId": "uconetwork",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "SIDUS",
         "name": "Sidus",
         "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
@@ -44810,6 +44740,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/15377/thumb/small_dog.PNG?1620693455",
         "coingeckoId": "small-doge",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "HLNK",
+        "name": "HydroLink",
+        "address": "0x536a7BcdccFaff3a9A2Aa765369631Db2F247b09",
+        "decimals": 10,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/19664/thumb/200x-logo.png?1635736696",
+        "coingeckoId": "hydrolink",
         "listedIn": [
             "coingecko"
         ]
@@ -50000,18 +49942,6 @@
         ]
     },
     {
-        "symbol": "WILD",
-        "name": "Wild Credit",
-        "address": "0x403d512AB96103562DCaFe4635545E8Ee2753f6e",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/17206/thumb/wild.png?1640155748",
-        "coingeckoId": "wild-credit",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MGO",
         "name": "MobileGo",
         "address": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
@@ -53056,6 +52986,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/26694/thumb/tpro-logo-200x200.png?1659607453",
         "coingeckoId": "tpro",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "MDAO",
+        "name": "Metaverse DAO",
+        "address": "0x353E41E66F58ce91D07d778520685473f38A7125",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/23242/thumb/ezgif.com-gif-maker_%281%29.jpg?1664937350",
+        "coingeckoId": "metaverse-dao",
         "listedIn": [
             "coingecko"
         ]
@@ -58014,18 +57956,6 @@
         ]
     },
     {
-        "symbol": "FFF",
-        "name": "Force For Fast",
-        "address": "0x22f098F08c4eda4bE4ad6B4ba59866F3E98CEF92",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/11718/thumb/fff2.PNG?1593073288",
-        "coingeckoId": "force-for-fast",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "WAL",
         "name": "The Wasted Lands",
         "address": "0x22c5543d1a35178cB03b33f929A959145E538532",
@@ -59303,6 +59233,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/2547/thumb/topchain.png?1516372992",
         "coingeckoId": "topchain",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ELAN",
+        "name": "Elan",
+        "address": "0x1b5036bEc1B82D44d52Fa953A370b3c6Cd9328B5",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27635/thumb/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-10-04_%D0%BE_17.23.34.png?1664961737",
+        "coingeckoId": "elan",
         "listedIn": [
             "coingecko"
         ]
@@ -65802,18 +65744,6 @@
             "coingecko",
             "1inch",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "OKBBEAR",
-        "name": "3X Short OKB Token",
-        "address": "0x053E5BA7Cb9669Dcc2fEb2D0E1d3d4a0AD6aaE39",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/10241/thumb/683JEXMN_400x400_%281%29.png?1576633732",
-        "coingeckoId": "3x-short-okb-token",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {

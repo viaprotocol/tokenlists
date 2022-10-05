@@ -7070,6 +7070,7 @@
         "logoURI": "https://tokens.1inch.io/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b.png",
         "coingeckoId": "bob",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -8494,6 +8495,19 @@
         "listedIn": [
             "coingecko",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ASTRAFER",
+        "name": "Astrafer",
+        "address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/26246/thumb/ATSRA_Token.png?1657276411",
+        "coingeckoId": "astrafer",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
