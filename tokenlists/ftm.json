@@ -3227,14 +3227,13 @@
     },
     {
         "symbol": "BTD",
-        "name": "Bolt Dollar",
+        "name": "Bat True Dollar",
         "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://assets.coingecko.com/coins/images/13624/thumb/PM7Wwm6O.png?1615541507",
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x4792c1ecb969b036eb51330c63bd27899a13d84e/logo.png",
         "coingeckoId": "bolt-true-dollar",
         "listedIn": [
-            "coingecko",
             "rubic",
             "lifinance"
         ]

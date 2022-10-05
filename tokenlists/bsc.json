@@ -3668,9 +3668,8 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0xd1102332a213e21faf78b69c03572031f3552c33.png",
-        "coingeckoId": "bolt-true-dollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean",
             "lifinance"
@@ -9258,6 +9257,7 @@
         "listedIn": [
             "coingecko",
             "dfyn",
+            "RouterProtocol",
             "pancake",
             "lifinance",
             "elkfinance"
@@ -10477,6 +10477,19 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SWASH",
+        "name": "Swash",
+        "address": "0x41065E3428188bA6Eb27FBDDE8526aE3Af8E3830",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/18774/thumb/swash.png?1634089759",
+        "coingeckoId": "swash",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

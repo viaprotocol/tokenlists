@@ -200,13 +200,14 @@
     },
     {
         "symbol": "LDO",
-        "name": "Lido DAO Token",
+        "name": "Lido DAO",
         "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
         "decimals": 18,
         "chainId": 10,
         "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
-        "coingeckoId": null,
+        "coingeckoId": "lido-dao",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]

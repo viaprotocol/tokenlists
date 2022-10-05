@@ -4345,7 +4345,7 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png",
-        "coingeckoId": null,
+        "coingeckoId": "lumiiitoken",
         "listedIn": [
             "quickswap",
             "lifinance"
@@ -6106,6 +6106,18 @@
         "symbol": "nICE",
         "name": "Staked Ice Tokens",
         "address": "0xB808D767DDf0F61Ca62331c1bBbebe0530b41079",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ROTIx",
+        "name": "Superfluid ROTI",
+        "address": "0xB7d60973cC27324Dcae837d89d7Bd9c5f15e3833",
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
@@ -11918,6 +11930,18 @@
         ]
     },
     {
+        "symbol": "ABT",
+        "name": "Aprobit",
+        "address": "0x5827661d7b95C99cE6ac832B89F8B77414e55Ff8",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/27620/thumb/signage_%283%29.png?1664879025",
+        "coingeckoId": "aprobit",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "QI",
         "name": "Qi Dao",
         "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
@@ -17430,6 +17454,18 @@
         ]
     },
     {
+        "symbol": "ROTI",
+        "name": "Slatan ROTI Token",
+        "address": "0x13B4bd4c0719F9F46df35Bfc234213b4Df6E9B7c",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "wCCX",
         "name": "WrappedConceal",
         "address": "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
@@ -18211,7 +18247,7 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/27424/thumb/lumiii-icon-200x200.png?1663899058",
-        "coingeckoId": "lumiiitoken",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]

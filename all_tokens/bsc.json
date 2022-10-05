@@ -3427,18 +3427,6 @@
         ]
     },
     {
-        "symbol": "NUTSG",
-        "name": "NUTS Gaming",
-        "address": "0xe6E6A022b4d4e538Ca0a1f47941CbBF3F9cc1467",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17467/thumb/NutGamingLogo.png?1627889249",
-        "coingeckoId": "nuts-gaming",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "UFLOKI",
         "name": "Universal Floki Coin",
         "address": "0xe6E2454bD6D85E52309bfb6A3e3521e83c53DA8A",
@@ -15955,18 +15943,6 @@
         ]
     },
     {
-        "symbol": "PCN",
-        "name": "PhoenixChain",
-        "address": "0xE50947AE0D86b889b384Cd791d3a24Fa1054906B",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18172/thumb/86657865.png?1630890848",
-        "coingeckoId": "phoenixchain",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "TVRS",
         "name": "TiraVerse",
         "address": "0xE500aCdbd53a8fCbe2B01c0F9c2Ccc676D0Fc6F6",
@@ -18452,9 +18428,8 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0xd1102332a213e21faf78b69c03572031f3552c33.png",
-        "coingeckoId": "bolt-true-dollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean",
             "lifinance"
@@ -21014,6 +20989,18 @@
         ]
     },
     {
+        "symbol": "SOG",
+        "name": "Soccer Galaxy",
+        "address": "0xBF2A2828C7DF44Afe0ef2c14910E29b9878D9695",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27619/thumb/sog.png?1664878694",
+        "coingeckoId": "soccer-galaxy",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MM",
         "name": "Million",
         "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
@@ -21049,6 +21036,18 @@
         "coingeckoId": "monopoly-millionaire-control",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "REZ",
+        "name": "REZ",
+        "address": "0xBE1a6D88192b54b3b1Fa6945B9F0d0A4349F7856",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "RouterProtocol"
         ]
     },
     {
@@ -36696,6 +36695,18 @@
         ]
     },
     {
+        "symbol": "IFIT",
+        "name": "Calo Indoor",
+        "address": "0x73052f51b68D974D2ed6CeC7B9E817ADac168168",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27616/thumb/IFIT_200x200.png?1664861409",
+        "coingeckoId": "calo-indoor",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "bALBT",
         "name": "AllianceBlock Token",
         "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
@@ -44684,18 +44695,6 @@
         ]
     },
     {
-        "symbol": "HLINK",
-        "name": "HydroLink",
-        "address": "0x5523636a2aE324000eB0F239c474Bb04346Fec31",
-        "decimals": 10,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/19664/thumb/200x-logo.png?1635736696",
-        "coingeckoId": "hydrolink",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "BSD",
         "name": "Baby Shiba Dot",
         "address": "0x5517F1515DC48Fe10C0aF3730C6A64DfCF4dF6c6",
@@ -44718,6 +44717,7 @@
         "listedIn": [
             "coingecko",
             "dfyn",
+            "RouterProtocol",
             "pancake",
             "lifinance",
             "elkfinance"
@@ -45904,6 +45904,18 @@
         ]
     },
     {
+        "symbol": "WDEX",
+        "name": "Windex",
+        "address": "0x5106B6165D4CE323edE6aC821DbCF83494e5D4C3",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27613/thumb/photo_2022-09-23_06-49-58.jpg?1664853266",
+        "coingeckoId": "windex",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "FOXT",
         "name": "Fox Trading",
         "address": "0x50ea9C9F88AEAB9f554b8ffB4d7a1017957e866A",
@@ -46096,18 +46108,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/20650/thumb/simply.PNG?1637527583",
         "coingeckoId": "simply",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "REV3L",
-        "name": "REV3AL",
-        "address": "0x4ffA6BB42d1a1A6d8e79935CcF1457d55deCff3f",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/26121/thumb/rev3l.png?1661498194",
-        "coingeckoId": "rev3al",
         "listedIn": [
             "coingecko"
         ]
@@ -47477,18 +47477,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/16771/thumb/pdXolk5.png?1624943361",
         "coingeckoId": "babykraken",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "WTF",
-        "name": "WorldCup Fan Token",
-        "address": "0x4D78bf71593a529F42960074D7B5Bc8dD1DF8158",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27584/thumb/200x200.jpg?1664701291",
-        "coingeckoId": "worldcup-fan-token",
         "listedIn": [
             "coingecko"
         ]
@@ -50370,13 +50358,14 @@
     },
     {
         "symbol": "SWASH",
-        "name": "Swash Token",
+        "name": "Swash",
         "address": "0x41065E3428188bA6Eb27FBDDE8526aE3Af8E3830",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/18774/thumb/swash.png?1634089759",
+        "coingeckoId": "swash",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -54880,6 +54869,18 @@
         ]
     },
     {
+        "symbol": "REV3L",
+        "name": "REV3AL",
+        "address": "0x30B5E345C79255101B8af22a19805A6fb96DdEBb",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/26121/thumb/rev3l.png?1661498194",
+        "coingeckoId": "rev3al",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "CDDSP",
         "name": "Can Devs Do Something Please",
         "address": "0x309c3A9e662F29e91a6C4335619A08A545743072",
@@ -55674,6 +55675,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/21068/thumb/2Dp0LWna_400x400.jpg?1638279103",
         "coingeckoId": "toshinori-inu",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FLOH",
+        "name": "Halloween Floki",
+        "address": "0x2c0e76DadE015bc390a13c1B80CC1bAFd9edD326",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27615/thumb/1889d663-2d57-47c9-9f48-f8362abe360e.png?1664854997",
+        "coingeckoId": "halloween-floki",
         "listedIn": [
             "coingecko"
         ]
@@ -63191,18 +63204,6 @@
         ]
     },
     {
-        "symbol": "MC",
-        "name": "MatrixCoin",
-        "address": "0x138D1d1d12614096D53A02E8bCE78e5cB6019D48",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24807/thumb/mc.png?1648993025",
-        "coingeckoId": "matrixcoin",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "CANDYLAD",
         "name": "Candylad",
         "address": "0x136BFcdec5DB31b565052451AD806014ab9F2b38",
@@ -63924,18 +63925,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/19976/thumb/chefcake.png?1636351365",
         "coingeckoId": "chefcake",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "GUMMY",
-        "name": "Gummy Bull",
-        "address": "0x10D3e0C38c286a04aee44d9B01CaC916B56Ee05A",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18646/thumb/IS_mot0y.jpg?1632754187",
-        "coingeckoId": "gummy-bull-token",
         "listedIn": [
             "coingecko"
         ]

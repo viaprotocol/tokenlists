@@ -6852,9 +6852,8 @@
             "decimals": 18,
             "chainId": 56,
             "logoURI": "https://tokens.1inch.io/0xd1102332a213e21faf78b69c03572031f3552c33.png",
-            "coingeckoId": "bolt-true-dollar",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean",
                 "lifinance"
@@ -12442,6 +12441,7 @@
             "listedIn": [
                 "coingecko",
                 "dfyn",
+                "RouterProtocol",
                 "pancake",
                 "lifinance",
                 "elkfinance"
@@ -13661,6 +13661,19 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "SWASH",
+            "name": "Swash",
+            "address": "0x41065E3428188bA6Eb27FBDDE8526aE3Af8E3830",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/18774/thumb/swash.png?1634089759",
+            "coingeckoId": "swash",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -20983,14 +20996,13 @@
         },
         {
             "symbol": "BTD",
-            "name": "Bolt Dollar",
+            "name": "Bat True Dollar",
             "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
             "decimals": 18,
             "chainId": 250,
-            "logoURI": "https://assets.coingecko.com/coins/images/13624/thumb/PM7Wwm6O.png?1615541507",
+            "logoURI": "https://api.rubic.exchange/assets/fantom/0x4792c1ecb969b036eb51330c63bd27899a13d84e/logo.png",
             "coingeckoId": "bolt-true-dollar",
             "listedIn": [
-                "coingecko",
                 "rubic",
                 "lifinance"
             ]
@@ -23626,13 +23638,14 @@
         },
         {
             "symbol": "LDO",
-            "name": "Lido DAO Token",
+            "name": "Lido DAO",
             "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
             "decimals": 18,
             "chainId": 10,
             "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
-            "coingeckoId": null,
+            "coingeckoId": "lido-dao",
             "listedIn": [
+                "coingecko",
                 "optimism",
                 "lifinance"
             ]
@@ -26706,7 +26719,7 @@
             "decimals": 18,
             "chainId": 137,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png",
-            "coingeckoId": null,
+            "coingeckoId": "lumiiitoken",
             "listedIn": [
                 "quickswap",
                 "lifinance"
@@ -35454,6 +35467,19 @@
             "listedIn": [
                 "pangolin",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "EZ",
+            "name": "Easy",
+            "address": "0xE0ddA2fc4f4750276641BE3a82634fa5Dd956EDE",
+            "decimals": 18,
+            "chainId": 43114,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "dfyn",
+                "RouterProtocol"
             ]
         },
         {
@@ -54661,7 +54687,7 @@
             "decimals": 18,
             "chainId": 1,
             "logoURI": "https://tokens.1inch.io/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b.png",
-            "coingeckoId": null,
+            "coingeckoId": "bob",
             "listedIn": [
                 "1inch",
                 "lifinance"
@@ -69015,7 +69041,8 @@
             "coingeckoId": "easyfi",
             "listedIn": [
                 "coingecko",
-                "dfyn"
+                "dfyn",
+                "RouterProtocol"
             ]
         },
         {
