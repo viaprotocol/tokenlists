@@ -2171,18 +2171,6 @@
         ]
     },
     {
-        "symbol": "VICE",
-        "name": "Vicewrld",
-        "address": "0xeea06FC74182B195f679f31d735D95EE502f03F3",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18161/thumb/vice-world.png?1646043508",
-        "coingeckoId": "vicewrld",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "DOGMSK",
         "name": "Dog Masked",
         "address": "0xeeC776a44A4D482790D6F538FCa7D45B09cD69aD",
@@ -15214,18 +15202,6 @@
         ]
     },
     {
-        "symbol": "AVEX",
-        "name": "Aevolve",
-        "address": "0xEA6c643b02EaD1e42813771826e64a70a973f3e9",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18739/thumb/avex-logo-v3-e1633104679734.png?1633312800",
-        "coingeckoId": "aevolve-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MINU",
         "name": "MINU",
         "address": "0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8",
@@ -19768,7 +19744,7 @@
         "decimals": 9,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/27644/thumb/wXXGCkQ.png?1665019902",
-        "coingeckoId": null,
+        "coingeckoId": "spitz-chain",
         "listedIn": [
             "coingecko"
         ]
@@ -20418,11 +20394,11 @@
     },
     {
         "symbol": "EGC",
-        "name": "EverGrowCoin",
+        "name": "EverGrow Coin",
         "address": "0xC001BBe2B87079294C63EcE98BdD0a88D761434e",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18645/thumb/Evergrowcoin-updated-logo.png?1632777616",
+        "logoURI": "https://assets.coingecko.com/coins/images/18645/thumb/egc_200x200.png?1665032635",
         "coingeckoId": "evergrowcoin",
         "listedIn": [
             "coingecko",
@@ -20730,11 +20706,11 @@
     },
     {
         "symbol": "NOE",
-        "name": "NOE CRYPTO BANK",
+        "name": "NOE GLOBAL",
         "address": "0xBbE626Be0abD64e8efd72A934F08ff9E81C909c8",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/26627/thumb/NOE_CRYPTO_COIN_BLANK_BG_Face_250822_2x.png?1662459707",
+        "logoURI": "https://assets.coingecko.com/coins/images/26627/thumb/200x200.png?1665032251",
         "coingeckoId": "noe-crypto-bank",
         "listedIn": [
             "coingecko"
@@ -22550,6 +22526,18 @@
             "pancake",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "ING",
+        "name": "Infinity Angel",
+        "address": "0xAe7c682Ba26AD6835B6150FfB35F22Db9987f509",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27651/thumb/ycHkKpKm_400x400.jpeg?1665045539",
+        "coingeckoId": "infinity-angel",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -24643,6 +24631,18 @@
         "listedIn": [
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "VICEDAO",
+        "name": "ViceWRLD DAO",
+        "address": "0xA062fe972fA299978303d2dde87093360D0EFbF3",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/18161/thumb/cg.png?1665041639",
+        "coingeckoId": "vicewrld",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -35310,7 +35310,7 @@
     },
     {
         "symbol": "OCEANS",
-        "name": "Oceans Finance",
+        "name": "Oceans Finance  OLD ",
         "address": "0x7769d930BC6B087f960C5D21e34A4449576cf22a",
         "decimals": 5,
         "chainId": 56,
@@ -39987,18 +39987,6 @@
         ]
     },
     {
-        "symbol": "REVO",
-        "name": "RevoNetwork",
-        "address": "0x678e5f70b6b582dfADB3dBD68AF17801d34555c5",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/14852/thumb/logo_%2812%29.png?1618799128",
-        "coingeckoId": "revonetwork",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "BUSDM",
         "name": "BUSDmeta",
         "address": "0x678C109Bc4A812A80550707a4062442C0Ca0D2Ca",
@@ -43932,18 +43920,6 @@
         ]
     },
     {
-        "symbol": "BHO",
-        "name": "BlackHoleDAO",
-        "address": "0x57d824ecB229C77Ef450c91F09C34Ee175CeeE4E",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24861/thumb/SJy8p3Yb_400x400.jpg?1649163966",
-        "coingeckoId": "blackholedao",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "SNAP",
         "name": "SnapEx",
         "address": "0x57cd5A91c18D21DeDd72d3bcf255b60Aef290f53",
@@ -46130,7 +46106,7 @@
         "address": "0x4ff08F7F52Ddba3E78C7754331c1baE737b0C50d",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27591/thumb/oxyo2_logo_200x200.png?1664704584",
+        "logoURI": "https://assets.coingecko.com/coins/images/27591/thumb/oxyo2_logo_200x200.png?1665027489",
         "coingeckoId": "oxyo2",
         "listedIn": [
             "coingecko"
@@ -51290,6 +51266,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/27632/thumb/rsz_ewewewrwr.png?1664959652",
         "coingeckoId": "tomcat",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "GRT",
+        "name": "Retawars GoldRose Token",
+        "address": "0x3b2Bdf950Ba2eC1A64498e990bC487EF049A1Ed4",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27648/thumb/GRT_200.png?1665025536",
+        "coingeckoId": "retawars-goldrose-token",
         "listedIn": [
             "coingecko"
         ]
@@ -56542,6 +56530,18 @@
         ]
     },
     {
+        "symbol": "OCEANSV2",
+        "name": "Oceans Finance",
+        "address": "0x2A54F9710ddeD0eBdde0300BB9ac7e21cF0E8DA5",
+        "decimals": 5,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27652/thumb/X-kvuVQ1_400x400_%281%29.jpeg?1665050947",
+        "coingeckoId": "oceans-finance-v2",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "LUNAT",
         "name": "Lunatics",
         "address": "0x2A48eCe377b87ce941406657B9278b4459595E06",
@@ -59891,18 +59891,6 @@
         ]
     },
     {
-        "symbol": "XIRCUS",
-        "name": "Xircus",
-        "address": "0x1df2bF8bFf0f2a8d67cf84ca55Fc9cCC9C3dA018",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20944/thumb/1_Vu-dbJ6KND-mzmS-p1_7_w.png?1638027658",
-        "coingeckoId": "xircus",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "ADXX",
         "name": "AnonyDoxx",
         "address": "0x1de305515a132Db0eD46E9fA2aD2804F066E43E3",
@@ -62264,6 +62252,18 @@
             "coingecko",
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "VEED",
+        "name": "VEED",
+        "address": "0x16fdd1edb14ac4012395A0617a682D81595dB486",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/15919/thumb/VEED.png?1622429588",
+        "coingeckoId": "veed",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

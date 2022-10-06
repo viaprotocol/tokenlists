@@ -5055,6 +5055,18 @@
         ]
     },
     {
+        "symbol": "XSGD",
+        "name": "XSGD",
+        "address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813",
+        "coingeckoId": "xsgd",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "PERI",
         "name": "PERI Finance",
         "address": "0xDC0E17eAE3B9651875030244b971fa0223a1764f",
@@ -6681,6 +6693,18 @@
             "1inch",
             "quickswap",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "QUARTZ",
+        "name": "Sandclock",
+        "address": "0xA91FE5a535967F52D3abEBDFFb3B306D964ace13",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/19368/thumb/sandclock.jpg?1635132501",
+        "coingeckoId": "sandclock",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -12347,7 +12371,7 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/27645/thumb/PODO_TICKER_200.png?1665020330",
-        "coingeckoId": null,
+        "coingeckoId": "power-of-deep-ocean",
         "listedIn": [
             "coingecko"
         ]
