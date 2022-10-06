@@ -97,6 +97,18 @@
         ]
     },
     {
+        "symbol": "PERP",
+        "name": "Perpetual",
+        "address": "0x29DdacF754877123157e0eeed26770736B304d0C",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "UNI",
         "name": "Uniswap",
         "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
