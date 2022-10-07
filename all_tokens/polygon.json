@@ -7212,6 +7212,18 @@
         ]
     },
     {
+        "symbol": "SKZ",
+        "name": "SNKRZ",
+        "address": "0x9a6469aaC7cd70385bdCa6fA9E9356ACec9c5B16",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/27657/thumb/skz_200_200.png?1665099924",
+        "coingeckoId": "snkrz",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "CHAIN",
         "name": "Arch Blockchains",
         "address": "0x9a41E03fEF7f16f552C6FbA37fFA7590fb1Ec0c4",
@@ -8395,18 +8407,6 @@
         "listedIn": [
             "sushiswap",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "SPHERE",
-        "name": "Sphere Finance",
-        "address": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1650033490877_3375525678568654.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean"
         ]
     },
     {
@@ -11073,10 +11073,11 @@
         "address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/24424/thumb/2iR2JsL.png?1647655357",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1650033490877_3375525678568654.png",
         "coingeckoId": "sphere-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "openocean"
         ]
     },
     {

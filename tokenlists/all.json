@@ -29962,6 +29962,19 @@
             ]
         },
         {
+            "symbol": "SPHERE",
+            "name": "Sphere Finance",
+            "address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://cloudstorage.openocean.finance/images/1650033490877_3375525678568654.png",
+            "coingeckoId": "sphere-finance",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "symbol": "TECH",
             "name": "Cryptomeda",
             "address": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
@@ -42465,6 +42478,19 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "HVILLE",
+            "name": "Harmonyville",
+            "address": "0xF9565E8c4E13862f677F144B3cdC8700D9c4BA31",
+            "decimals": 18,
+            "chainId": 1666600000,
+            "logoURI": "https://assets.coingecko.com/coins/images/23661/thumb/harmonyville200x200.png?1644990399",
+            "coingeckoId": "harmonyville",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
