@@ -45,7 +45,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Polygon, 669 tokens
 - 101, 507 tokens
 - Solana, 397 tokens
-- Avax, 348 tokens
+- Avax, 347 tokens
 - Ftm, 323 tokens
 - Gnosis, 304 tokens
 - Heco, 197 tokens
@@ -60,7 +60,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Moonbeam, 32 tokens
 - Fuse, 23 tokens
 - Astar, 15 tokens
-- Boba, 12 tokens
+- Boba, 13 tokens
 - Telos, 10 tokens
 - Kcc, 9 tokens
 - Cube, 7 tokens

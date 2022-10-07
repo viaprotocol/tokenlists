@@ -8402,7 +8402,7 @@
         },
         {
             "symbol": "LNR",
-            "name": "Lunar",
+            "name": "Lunar  OLD ",
             "address": "0x9D4451151A8dE5B545a1bC6c8fdEB9d94a2868e1",
             "decimals": 9,
             "chainId": 56,
@@ -34195,7 +34195,7 @@
         },
         {
             "symbol": "WXT",
-            "name": "Wirex",
+            "name": "WXT Token",
             "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
             "decimals": 18,
             "chainId": 43114,
@@ -38100,19 +38100,6 @@
             ]
         },
         {
-            "symbol": "ACTA",
-            "name": "Acta Finance",
-            "address": "0x4636e16444720075db87A0a4fd998B423c2B5456",
-            "decimals": 18,
-            "chainId": 43114,
-            "logoURI": "https://assets.coingecko.com/coins/images/24889/thumb/Os_MXOVE_400x400.jpg?1649253023",
-            "coingeckoId": "acta-finance",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "symbol": "HCT",
             "name": "HurricaneSwap",
             "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
@@ -41124,6 +41111,19 @@
             "chainId": 288,
             "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x3A93bD0fA10050d206370eeA53276542A105C885/logo.png",
             "coingeckoId": "boba-brewery",
+            "listedIn": [
+                "coingecko",
+                "oolongswap"
+            ]
+        },
+        {
+            "symbol": "UNIDX",
+            "name": "UniDex",
+            "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+            "decimals": 18,
+            "chainId": 288,
+            "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x375488F097176507e39B9653b88FDc52cDE736Bf/logo.png",
+            "coingeckoId": "unidex",
             "listedIn": [
                 "coingecko",
                 "oolongswap"
@@ -51302,7 +51302,7 @@
         },
         {
             "symbol": "WXT",
-            "name": "Wirex",
+            "name": "WXT Token",
             "address": "0xa02120696c7B8fE16C09C749E4598819b2B0E915",
             "decimals": 18,
             "chainId": 1,

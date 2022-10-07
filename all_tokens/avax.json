@@ -56,7 +56,7 @@
     },
     {
         "symbol": "WXT",
-        "name": "Wirex",
+        "name": "WXT Token",
         "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
         "decimals": 18,
         "chainId": 43114,
@@ -9638,14 +9638,13 @@
     },
     {
         "symbol": "ACTA",
-        "name": "Acta Finance",
+        "name": "ACTA [via ChainPort.io]",
         "address": "0x4636e16444720075db87A0a4fd998B423c2B5456",
         "decimals": 18,
         "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/24889/thumb/Os_MXOVE_400x400.jpg?1649253023",
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x4636e16444720075db87a0a4fd998b423c2b5456/logo.png",
         "coingeckoId": "acta-finance",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
