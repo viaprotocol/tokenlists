@@ -1997,6 +1997,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "optimism",
             "lifinance"
         ]
     },
@@ -16558,10 +16559,12 @@
         "address": "0xE22020F47B7378dfedcedd2C81d4137c22fE1152",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/26204/thumb/4xZ5Nb52_400x400.jpg?1656491493",
+        "logoURI": "https://tokens.1inch.io/0xe22020f47b7378dfedcedd2c81d4137c22fe1152.png",
         "coingeckoId": "my-liquidity-partner",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -17042,6 +17045,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "optimism",
             "lifinance"
         ]
     },
@@ -28476,6 +28480,7 @@
             "coingecko",
             "1inch",
             "sushiswap",
+            "optimism",
             "lifinance"
         ]
     },
@@ -28851,6 +28856,19 @@
         "coingeckoId": "sapchain",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "BAXA",
+        "name": "BAXagent Coin",
+        "address": "0x91B08f4A7C1251dfCcF5440F8894F8DaA10c8De5",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -29669,7 +29687,7 @@
         "address": "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/27253/thumb/pumlx.png?1665154140",
         "coingeckoId": "pumlx",
         "listedIn": [
             "coingecko"
@@ -31930,10 +31948,11 @@
         "address": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
+        "logoURI": "https://tokens.1inch.io/0x865377367054516e17014ccded1e7d814edc9ce4.png",
         "coingeckoId": "dola-usd",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "optimism",
             "lifinance"
@@ -47347,6 +47366,7 @@
             "coingecko",
             "1inch",
             "uniswap",
+            "optimism",
             "lifinance",
             "elkfinance"
         ]
@@ -50443,10 +50463,11 @@
         "address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+        "logoURI": "https://tokens.1inch.io/0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789.png",
         "coingeckoId": "kromatika",
         "listedIn": [
             "coingecko",
+            "1inch",
             "optimism",
             "lifinance"
         ]
@@ -52646,6 +52667,19 @@
         "coingeckoId": "infliv",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "LPF",
+        "name": "Loopfi",
+        "address": "0x3650B69f86cB593f116e276C30666834336c0647",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -55194,10 +55228,11 @@
         "address": "0x2b95A1Dcc3D405535f9ed33c219ab38E8d7e0884",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/25395/thumb/Sv06cFHS_400x400.jpg?1651707422",
+        "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
         "coingeckoId": "aladdin-cvxcrv",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -56697,7 +56732,9 @@
         "logoURI": "https://etherscan.io/token/images/validator_32.png",
         "coingeckoId": null,
         "listedIn": [
-            "arbitrum_bridge"
+            "optimism",
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -63446,10 +63483,12 @@
         "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/27374/thumb/logo_200.png?1663732819",
+        "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
         "coingeckoId": "hanchain",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -65112,6 +65151,19 @@
         "coingeckoId": "artii-token",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "RFWSTETH",
+        "name": "Respawn Finance Wrapped Staked Ethereum",
+        "address": "0x07FA101efde726E0956Edd2c4D5C8d3d1A5E9c53",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
         ]
     },
     {

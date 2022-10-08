@@ -61,11 +61,23 @@
     },
     {
         "symbol": "DAI",
-        "name": "Dai stable coin",
+        "name": "Dai Stablecoin",
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "decimals": 18,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "HAN",
+        "name": "HanChain",
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -102,6 +114,18 @@
         "decimals": 18,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "WMP",
+        "name": "WAMP",
+        "address": "0x35D48A789904E9b15705977192e5d95e2aF7f1D3",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

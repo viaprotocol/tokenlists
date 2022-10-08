@@ -37,6 +37,18 @@
         ]
     },
     {
+        "symbol": "WMP",
+        "name": "WAMP",
+        "address": "0x753BD3E00B9585AC9a94Fdf287f41d8D51e5CF8b",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "TESTLDO",
         "name": "TEST Lido DAO Token",
         "address": "0x56340274fB5a72af1A3C6609061c451De7961Bd4",
@@ -123,11 +135,23 @@
     },
     {
         "symbol": "DAI",
-        "name": "Dai stable coin",
+        "name": "Dai Stablecoin",
         "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
         "decimals": 18,
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "HAN",
+        "name": "HanChain",
+        "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

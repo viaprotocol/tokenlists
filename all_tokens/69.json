@@ -24,6 +24,18 @@
         ]
     },
     {
+        "symbol": "SDL",
+        "name": "Saddle DAO",
+        "address": "0xc96f4F893286137aC17e07Ae7F217fFca5db3AB6",
+        "decimals": 18,
+        "chainId": 69,
+        "logoURI": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "BAL",
         "name": "Balancer",
         "address": "0xc72751efd79B153D5bdC7E1a43b4b98aA2aA04C7",
@@ -96,6 +108,30 @@
         ]
     },
     {
+        "symbol": "aCRV",
+        "name": "AladdinCRV",
+        "address": "0xF882Ac9259a378e102F058f2Fb093DFfECa96437",
+        "decimals": 18,
+        "chainId": 69,
+        "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "CTSI",
+        "name": "Cartesi Token",
+        "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
+        "decimals": 18,
+        "chainId": 69,
+        "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "ETH",
         "name": "Ether",
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
@@ -109,11 +145,23 @@
     },
     {
         "symbol": "DAI",
-        "name": "Dai stable coin",
+        "name": "Dai Stablecoin",
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "decimals": 18,
         "chainId": 69,
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "BAXA",
+        "name": "BAXagent Coin",
+        "address": "0xD7eA82D19f1f59FF1aE95F1945Ee6E6d86A25B96",
+        "decimals": 18,
+        "chainId": 69,
+        "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -126,6 +174,18 @@
         "decimals": 18,
         "chainId": 69,
         "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "UBI",
+        "name": "Universal Basic Income",
+        "address": "0xBb586Ed34974B15049a876fd5366A4C2d1203115",
+        "decimals": 18,
+        "chainId": 69,
+        "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -414,6 +474,18 @@
         "decimals": 18,
         "chainId": 69,
         "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "RFWSTETH",
+        "name": "Respawn Finance Wrapped Staked Ethereum",
+        "address": "0x1696baFBe18EFB141823a041E22E43d12B144407",
+        "decimals": 18,
+        "chainId": 69,
+        "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
