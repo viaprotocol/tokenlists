@@ -5063,7 +5063,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813",
         "coingeckoId": "xsgd",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -13047,6 +13048,18 @@
         ]
     },
     {
+        "symbol": "XSGDx",
+        "name": "Superfluid XSGD",
+        "address": "0x49765f8FCF0a1cD4f98DA906f0974A9085D43e51",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AXIAV3",
         "name": "Axia",
         "address": "0x49690541E3f6E933A9aa3cFFEe6010a7BB5B72d7",
@@ -17160,6 +17173,18 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/14604/thumb/polkamon.png?1617238350",
         "coingeckoId": "polychain-monsters",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "GRAPE",
+        "name": "GrapeSwap Finance",
+        "address": "0x17757dcE604899699b79462a63dAd925B82FE221",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/27694/thumb/grape.png?1665240188",
+        "coingeckoId": "grapeswap-finance",
         "listedIn": [
             "coingecko"
         ]
