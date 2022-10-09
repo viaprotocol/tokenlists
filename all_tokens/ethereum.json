@@ -237,6 +237,18 @@
         ]
     },
     {
+        "symbol": "ICSA",
+        "name": "Icosa",
+        "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27708/thumb/icsa.e2b79cbc.png?1665314034",
+        "coingeckoId": "icosa",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "NA",
         "name": "Its Not Art",
         "address": "0xfc3718CD921549a2cb67636b82a01d067726C428",
@@ -3323,7 +3335,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17508/thumb/vabble_tplogo_200_x_200.png?1628508875",
         "coingeckoId": "vabble",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -13647,18 +13660,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/6042/thumb/youlive.png?1547041988",
         "coingeckoId": "youlive-coin",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "HPAY",
-        "name": "Hyper Credit Network",
-        "address": "0xF83d7fF2e4B43ebAd2fa534e621E31076f4d254C",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/13536/thumb/256-256.png?1609541754",
-        "coingeckoId": "hyper-credit-network",
         "listedIn": [
             "coingecko"
         ]
@@ -25191,6 +25192,18 @@
         ]
     },
     {
+        "symbol": "KOYO",
+        "name": "Yofune Nushi",
+        "address": "0x9dAeF41E08Bc88183572b03796C96a7ace1Ec9d4",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27697/thumb/Capture-removebg-preview_%283%29.png?1665303166",
+        "coingeckoId": "yofune-nushi",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "GATE",
         "name": "GATENet",
         "address": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
@@ -26974,18 +26987,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/7842/thumb/images.png?1551144999",
         "coingeckoId": "blockchain-exchange-alliance",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "RKTN",
-        "name": "RocketToken  OLD ",
-        "address": "0x98b69eBB4ce228145463d7C08Aa71FBB6791fE86",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/23942/thumb/5F8FyJDt_400x400.jpg?1645769245",
-        "coingeckoId": "rockettoken",
         "listedIn": [
             "coingecko"
         ]
@@ -29086,6 +29087,18 @@
         "coingeckoId": "whalestreet-shrimp-token",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "SHOD",
+        "name": "Shopdi Token",
+        "address": "0x907776E09059c8F782063dd17e40aD8833035C06",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -33279,18 +33292,6 @@
         ]
     },
     {
-        "symbol": "DRAP",
-        "name": "Doge Strap",
-        "address": "0x80c74b9166b2FAA5DC6a950f741f59A80026CDA0",
-        "decimals": 9,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/17567/thumb/doge_strap.png?1628411374",
-        "coingeckoId": "doge-strap",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "DOGDEFI",
         "name": "DogDeFiCoin",
         "address": "0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
@@ -36148,6 +36149,18 @@
         ]
     },
     {
+        "symbol": "SPKU",
+        "name": "Spooky Uni",
+        "address": "0x74bEEf5283F7605Be17Bd0bB3B118ad6AE9200E5",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27702/thumb/Spooky-Uni200x200.png?1665307264",
+        "coingeckoId": "spooky-uni",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "HIT",
         "name": "HitBTC",
         "address": "0x74b1Af114274335598da72f5C6ed7b954a016EeD",
@@ -37185,6 +37198,18 @@
         ]
     },
     {
+        "symbol": "X7DAO",
+        "name": "X7DAO",
+        "address": "0x7105E64bF67ECA3Ae9b123F0e5Ca2b83b2eF2dA0",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27709/thumb/X7DAO.png?1665314516",
+        "coingeckoId": "x7dao",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "aREPv1",
         "name": "Aave Interest bearing REP",
         "address": "0x71010A9D003445aC60C4e6A7017c1E89A477B438",
@@ -37420,6 +37445,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/853/thumb/OAXlogo.png?1598686792",
         "coingeckoId": "openanx",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "X7R",
+        "name": "X7R",
+        "address": "0x70008F18Fc58928dcE982b0A69C2c21ff80Dca54",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27710/thumb/X7R.png?1665314632",
+        "coingeckoId": "x7r",
         "listedIn": [
             "coingecko"
         ]
@@ -38383,18 +38420,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/6353/thumb/catex.png?1548733307",
         "coingeckoId": "catex-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "RKN",
-        "name": "RAKON",
-        "address": "0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
-        "decimals": 12,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/8852/thumb/C9KBDYOzWFsO2uCmalxKg2luhpyyNAwANif2HYsTUVgmE0uUv1R5-as2wDyyzGGUwXQ1JLBPVWBXBLxuTfxJaDc7anwthzRz88WkHJY6jqQ3TjQ8PahXr7zPXNeY3bROXhyo7m6BwqPAfbWnj32C--OsErHB1DzDezp8YVR2vRL_hz0bRltRuH8pvAOVaeSr3MbE_BIPaV-UNSmfpBDPWIv1xq5Z42xZ_t9Z6vZVi9rAcaDp.jpg?1577831830",
-        "coingeckoId": "rakon",
         "listedIn": [
             "coingecko"
         ]
@@ -53468,6 +53493,18 @@
         ]
     },
     {
+        "symbol": "DACT",
+        "name": "Decentralized Activism",
+        "address": "0x343c6de13833bc7d9890eb6B1cd3FBeBC730EBec",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27700/thumb/logodact200x200.png?1665305210",
+        "coingeckoId": "decentralized-activism",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MeM",
         "name": "Magic Ethereum Money",
         "address": "0x343E59D9D835e35b07fe80f5Bb544f8ED1CD3B11",
@@ -54130,18 +54167,6 @@
             "coingecko",
             "1inch",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "ETOR",
-        "name": "etor",
-        "address": "0x32163C2d2d313c73279E87398E7F84BB9F537E9D",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/7897/thumb/O0gpmBh.jpg?1551660695",
-        "coingeckoId": "etor",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -60047,7 +60072,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20555/thumb/SHN-Logo.png?1653470622",
         "coingeckoId": "shinedao",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -62624,6 +62650,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/17673/thumb/Safe-Shield-SFSHLD-200x200-logo.png?1628830115",
         "coingeckoId": "safe-shield",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "OG",
+        "name": "OriginDAO",
+        "address": "0x11A0762da58a487c075249B9B9edF9f7eb1BC9f5",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27699/thumb/Origin.jpeg?1665303707",
+        "coingeckoId": "origindao",
         "listedIn": [
             "coingecko"
         ]
