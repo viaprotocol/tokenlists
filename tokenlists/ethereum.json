@@ -10596,6 +10596,7 @@
             "coingecko",
             "1inch",
             "sushiswap",
+            "openocean",
             "optimism",
             "lifinance"
         ]
@@ -13721,9 +13722,8 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.png",
-        "coingeckoId": "dether",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean",
             "lifinance"
@@ -17109,14 +17109,13 @@
     },
     {
         "symbol": "HONEY",
-        "name": "Honey  Fancy Bears Metaverse ",
+        "name": "Honey",
         "address": "0x33B4fE5e40E4903A0849cA97B3292eac3EB0aA36",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x33b4fe5e40e4903a0849ca97b3292eac3eb0aa36.png",
-        "coingeckoId": "honey-fancybearsmetaverse",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]

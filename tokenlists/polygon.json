@@ -8754,15 +8754,14 @@
         ]
     },
     {
-        "symbol": "PDD",
-        "name": "PDDOLLAR",
+        "symbol": "PDDOLLAR",
+        "name": "pddollar",
         "address": "0x146e58D34EaB0bFf7e0a63cfe9332908d680c667",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://tokens.1inch.io/0x146e58d34eab0bff7e0a63cfe9332908d680c667.png",
-        "coingeckoId": "pddollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance",
             "elkfinance"

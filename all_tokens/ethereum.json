@@ -1615,7 +1615,7 @@
         "address": "0xf460d98a3517b45Edd8063dd3847de92a8038aa2",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": null,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf460d98a3517b45edd8063dd3847de92a8038aa2/9984d8a66ebbce79ac1c5f84166c272d.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -4025,18 +4025,6 @@
         "listedIn": [
             "coingecko",
             "openocean"
-        ]
-    },
-    {
-        "symbol": "WIFI",
-        "name": "Wifi Coin",
-        "address": "0xe202873079913858f9Ba8795BA957A4Ad561ca24",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/13500/thumb/logo-wifi-1.png?1609195292",
-        "coingeckoId": "wifi-coin",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -8285,18 +8273,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588",
         "coingeckoId": "honey",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "SRH",
-        "name": "SRH",
-        "address": "0xc350e846e2C57F9EecE90FEBc253d14C8080871B",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/2051/thumb/srcoin.png?1548610836",
-        "coingeckoId": "srcoin",
         "listedIn": [
             "coingecko"
         ]
@@ -18503,18 +18479,6 @@
         ]
     },
     {
-        "symbol": "LQD",
-        "name": "Liquidity Network",
-        "address": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/3801/thumb/liquidity-network.png?1547975994",
-        "coingeckoId": "liquidity-network",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "RGT",
         "name": "Rari Governance",
         "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
@@ -25071,18 +25035,6 @@
         ]
     },
     {
-        "symbol": "TOR",
-        "name": "Torex",
-        "address": "0x9ea20fBFAA44efBc60C6728fCdBA17f01b7E04FE",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/11570/thumb/logo_%285%29.png?1591227185",
-        "coingeckoId": "torex",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "HALV",
         "name": "Halving",
         "address": "0x9e7cb236e43c4bd042fE463df6a175d4479ee186",
@@ -28816,18 +28768,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/26393/thumb/RFI_Token_Logo.png?1657753383",
         "coingeckoId": "raise-finance",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "LMCH",
-        "name": "Latamcash",
-        "address": "0x9205C049C231DdA51bAce0ba569f047E3E1e9979",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/10999/thumb/a2RfSSOz_400x400.jpg?1587027551",
-        "coingeckoId": "latamcash",
         "listedIn": [
             "coingecko"
         ]
@@ -33564,6 +33504,7 @@
             "coingecko",
             "1inch",
             "sushiswap",
+            "openocean",
             "optimism",
             "lifinance"
         ]
@@ -42593,9 +42534,8 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.png",
-        "coingeckoId": "dether",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "openocean",
             "lifinance"
@@ -44528,7 +44468,7 @@
         "address": "0x5552E5a89A70cB2eF5AdBbC45a6BE442fE7160Ec",
         "decimals": 9,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/16369/thumb/kawainu.PNG?1623820805",
+        "logoURI": "https://assets.coingecko.com/coins/images/16369/thumb/kawakami-2022-red-logo.png?1665374338",
         "coingeckoId": "kawakami",
         "listedIn": [
             "coingecko"
@@ -44672,18 +44612,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/26583/thumb/90EWu8yp_400x400.jpg?1658891996",
         "coingeckoId": "anarchy",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "IX",
-        "name": "X Block",
-        "address": "0x53f0C9F1b6e283A59bCD672e80e2222b97E534Cb",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/8258/thumb/3SP7h2sF_400x400.jpg?1557121522",
-        "coingeckoId": "x-block",
         "listedIn": [
             "coingecko"
         ]
@@ -48288,18 +48216,6 @@
         ]
     },
     {
-        "symbol": "ATN",
-        "name": "ATN",
-        "address": "0x461733c17b0755CA5649B6DB08B3E213FCf22546",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/2542/thumb/atn.png?1547036658",
-        "coingeckoId": "atn",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "BCP",
         "name": "Block Commerce Protocol",
         "address": "0x4612021C75809160Be60DB21fBc9D6adD0B32deF",
@@ -49075,7 +48991,7 @@
         "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://get.celer.app/cbridge-icons/JPYC.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x431d5dff03120afa4bdf332c61a6e1766ef37bdb/e1760f74cc0ab137b7fae09edd40fb3a.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -51942,18 +51858,6 @@
         ]
     },
     {
-        "symbol": "TEAT",
-        "name": "TEAL",
-        "address": "0x38d58B82cB24A3e0410a7991f255174c9FD8093b",
-        "decimals": 0,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/13062/thumb/teat_logo.png?1604845769",
-        "coingeckoId": "teal",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "DKYC",
         "name": "DataKYC",
         "address": "0x38d1B0D157529Bd5D936719A8a5F8379aFB24fAA",
@@ -53745,14 +53649,13 @@
     },
     {
         "symbol": "HONEY",
-        "name": "Honey  Fancy Bears Metaverse ",
+        "name": "Honey",
         "address": "0x33B4fE5e40E4903A0849cA97B3292eac3EB0aA36",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x33b4fe5e40e4903a0849ca97b3292eac3eb0aa36.png",
-        "coingeckoId": "honey-fancybearsmetaverse",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -59275,18 +59178,6 @@
         ]
     },
     {
-        "symbol": "IOG",
-        "name": "Playgroundz",
-        "address": "0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/6512/thumb/playgroundz.png?1548331384",
-        "coingeckoId": "playgroundz",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "USDK",
         "name": "USDK",
         "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
@@ -61156,18 +61047,6 @@
         ]
     },
     {
-        "symbol": "MGC",
-        "name": "MGC",
-        "address": "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/8469/thumb/mgc.png?1558768022",
-        "coingeckoId": "mgc-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "SHIDO",
         "name": "Shido",
         "address": "0x173E552Bf97BBD50b455514ac52991Ef639ba703",
@@ -61642,18 +61521,6 @@
             "coingecko",
             "1inch",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "WEBN",
-        "name": "WEBN",
-        "address": "0x15A664416E42766A6cC0a1221d9C088548a6E731",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/6612/thumb/200x200.png?1547042814",
-        "coingeckoId": "web-innovation-ph",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -65641,6 +65508,18 @@
         "coingeckoId": "the-crypto-prophecies",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "XEN",
+        "name": " XEN Crypto",
+        "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1665381819731_004489008511212367.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean"
         ]
     },
     {
