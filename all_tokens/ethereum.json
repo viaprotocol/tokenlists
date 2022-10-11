@@ -21583,6 +21583,18 @@
         ]
     },
     {
+        "symbol": "MEH",
+        "name": "meh",
+        "address": "0xBA98C0FbebC892F5b07a42B0FeBD606913EBc981",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27714/thumb/mlogo.png?1665453127",
+        "coingeckoId": "meh",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "fiWBTC",
         "name": "bZx WBTC iToken",
         "address": "0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5",
@@ -21960,6 +21972,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/12223/thumb/dextoken-logo-v2_200.png?1598408669",
         "coingeckoId": "dextoken-governance",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "TEAM",
+        "name": "Maximus TEAM",
+        "address": "0xB7c9E99Da8A857cE576A830A9c19312114d9dE02",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27711/thumb/TEAM.png?1665451692",
+        "coingeckoId": "maximus-team",
         "listedIn": [
             "coingecko"
         ]
@@ -34890,6 +34914,18 @@
         "coingeckoId": "aave-amm-dai",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "ARV",
+        "name": "Ariva",
+        "address": "0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1665457004993_019767397414035992.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean"
         ]
     },
     {
@@ -65512,13 +65548,14 @@
     },
     {
         "symbol": "XEN",
-        "name": " XEN Crypto",
+        "name": "XEN CRYPTO",
         "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://cloudstorage.openocean.finance/images/1665381819731_004489008511212367.svg",
-        "coingeckoId": null,
+        "coingeckoId": "xen-crypto",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -66044,6 +66081,18 @@
         "listedIn": [
             "coingecko",
             "arbitrum_bridge"
+        ]
+    },
+    {
+        "symbol": "JPC",
+        "name": "JPEX Coin",
+        "address": "0x043827A6dCFfFb7fE21953d3BAD32A1c74bB73bF",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27717/thumb/200_200_JPEX_LOGO_transparent.png?1665453898",
+        "coingeckoId": "jpex-coin",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
