@@ -5500,6 +5500,18 @@
         ]
     },
     {
+        "symbol": "INUSANITY",
+        "name": "Inusanity",
+        "address": "0xd73Cab6a16c67Cb79fc61F8c13DfEc4F32f9DCBF",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27719/thumb/inusanity200.png?1665462344",
+        "coingeckoId": "inusanity",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BLACK",
         "name": "BlackHole Protocol",
         "address": "0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
@@ -6634,7 +6646,6 @@
             "coingecko",
             "uniswap",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -18752,18 +18763,6 @@
         ]
     },
     {
-        "symbol": "RATOM",
-        "name": "StaFi rATOM",
-        "address": "0xD01cb3d113a864763DD3977FE1E725860013b0Ed",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/21121/thumb/ratom.png?1638341526",
-        "coingeckoId": "stafi-ratom",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "CFTI",
         "name": "Confetti",
         "address": "0xCfef8857E9C80e3440A823971420F7Fa5F62f020",
@@ -23567,7 +23566,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290",
         "coingeckoId": "qanplatform",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -35823,7 +35823,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance"
         ]
     },
@@ -38605,6 +38604,18 @@
         ]
     },
     {
+        "symbol": "TREAT",
+        "name": "Good Doge",
+        "address": "0x6CDda72FC9D1a8aA0750ac640C5D6a8922De3B72",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27349/thumb/88.png?1663655057",
+        "coingeckoId": "good-doge",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "POLAR",
         "name": "Polar Sync",
         "address": "0x6CD6CB131764c704bA9167C29930Fbdc38901aB7",
@@ -39790,6 +39801,18 @@
             "1inch",
             "sushiswap",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "ERA",
+        "name": "Era",
+        "address": "0x67776f14E5E9e7845e33fB0c2a3C709d259D01EB",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27718/thumb/ERA_logo.jpg?1665459246",
+        "coingeckoId": "era",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -57712,18 +57735,6 @@
         ]
     },
     {
-        "symbol": "TTT",
-        "name": "The Transfer",
-        "address": "0x2494a68C1484376fEf880b4c24D91f049d29B02A",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/11086/thumb/4z9EtDd.png?1588125114",
-        "coingeckoId": "the-transfer-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "SHIELD",
         "name": "Shield Protocol Token",
         "address": "0x24861414c8845b8115397302e9DcfAaB3f239826",
@@ -62303,7 +62314,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1664329157",
         "coingeckoId": "tamadoge",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -65218,18 +65230,6 @@
         ]
     },
     {
-        "symbol": "BUL",
-        "name": "Bulleon",
-        "address": "0x0775C81A273B355e6a5b76e240BF708701F00279",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/3145/thumb/7mpDR_n6_400x400.jpg?1548257068",
-        "coingeckoId": "bulleon",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "NIROS",
         "name": "Niros",
         "address": "0x0770E5018B71f5FBDA00F42Dd13507E03D101A90",
@@ -65548,7 +65548,7 @@
     },
     {
         "symbol": "XEN",
-        "name": "XEN CRYPTO",
+        "name": "XEN Crypto",
         "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
         "decimals": 18,
         "chainId": 1,

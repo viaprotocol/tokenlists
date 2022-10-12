@@ -8331,7 +8331,7 @@
         "address": "0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27664/thumb/kiFEnn-3_400x400.jpeg?1665117479",
+        "logoURI": "https://assets.coingecko.com/coins/images/27664/thumb/LNRTokenLogo2_%281%29.png?1665479443",
         "coingeckoId": "lunar-2",
         "listedIn": [
             "coingecko"
@@ -8492,6 +8492,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/16914/thumb/steamx.png?1632824252",
         "coingeckoId": "steam-exchange",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "GSYS",
+        "name": "Genesys Token",
+        "address": "0xc073eb514B96cFbe470b0d23e0a620BaE73ee165",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27721/thumb/Logo-Genesys.png?1665462741",
+        "coingeckoId": "genesys-token",
         "listedIn": [
             "coingecko"
         ]
@@ -15081,18 +15093,6 @@
         ]
     },
     {
-        "symbol": "LUNA",
-        "name": "Wrapped LUNA Token",
-        "address": "0xECCF35F941Ab67FfcAA9A1265C2fF88865caA005",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0xeccf35f941ab67ffcaa9a1265c2ff88865caa005/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "rubic"
-        ]
-    },
-    {
         "symbol": "TECHNO",
         "name": "Technoland",
         "address": "0xEC671EEA2971Fc5E7159D8838431CdD24C6bdbCc",
@@ -17688,7 +17688,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/16356/thumb/57198446-0-Get-Rich-Quick-Gober.png?1623812294",
         "coingeckoId": "richquack",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -21400,7 +21401,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/7717/thumb/200x200-1.png?1664072385",
         "coingeckoId": "maincoin",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -23325,7 +23327,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290",
         "coingeckoId": "qanplatform",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -26697,18 +26700,6 @@
         ]
     },
     {
-        "symbol": "CPSP",
-        "name": "Crypto Swap",
-        "address": "0x984e9818592BD27EdE6455F6CB0970F4E90Dba52",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/26571/thumb/IMG_20220725_001821_239.jpg?1658818996",
-        "coingeckoId": "crypto-swap",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "HOP",
         "name": "HOPPY",
         "address": "0x984811e6f2695192add6f88615dF637bf52a5Cae",
@@ -28329,18 +28320,6 @@
         ]
     },
     {
-        "symbol": "DEFY",
-        "name": "DefyDefi",
-        "address": "0x92C46Bef1D87CbaAf68a0D6730Bb395a15d0B9E8",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/15068/thumb/defy_logo_200x200.png?1619597494",
-        "coingeckoId": "defydefi",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MRC",
         "name": "Moon Rocket Coin",
         "address": "0x9299C132c34E691edea58102d276A61a0a622dBD",
@@ -28450,6 +28429,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/19320/thumb/logo_-_2021-10-25T080744.116.png?1635120472",
         "coingeckoId": "qrkita-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "P2PTXT",
+        "name": "p2p taxi",
+        "address": "0x920376BE228eB5aa973fC2e050F7a07EB9A9Bce6",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27720/thumb/19121.png?1665462492",
+        "coingeckoId": "p2p-taxi",
         "listedIn": [
             "coingecko"
         ]
@@ -32752,18 +32743,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/20724/thumb/Icon200.png?1637593750",
         "coingeckoId": "wolfgirl",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "SAPE",
-        "name": "Stadium Ape",
-        "address": "0x8185a85946bBD6Dc8dB94d1967e89271EbBAE8aC",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20507/thumb/APE_300.png?1637165745",
-        "coingeckoId": "stadium-ape",
         "listedIn": [
             "coingecko"
         ]
@@ -41530,18 +41509,6 @@
         ]
     },
     {
-        "symbol": "ALLBI",
-        "name": "ALL BEST ICO",
-        "address": "0x613e18F13391cD4bFEDF8a904991077C7eF29Ee6",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24969/thumb/allbi.png?1649592992",
-        "coingeckoId": "all-best-ico",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "CCV2",
         "name": "CryptoCart V2",
         "address": "0x612E1726435fE38dD49A0B35b4065B56f49c8F11",
@@ -46894,7 +46861,6 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic",
             "lifinance"
         ]
     },
@@ -52854,10 +52820,12 @@
         "address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27678/thumb/KDR.jpg?1665212162",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x37b53894e7429f794B56F22a32E1695567Ee9913.png",
         "coingeckoId": "kingdom-raids",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "pancake",
+            "lifinance"
         ]
     },
     {
@@ -53117,7 +53085,6 @@
             "coingecko",
             "1inch",
             "openocean",
-            "rubic",
             "lifinance"
         ]
     },
@@ -54979,18 +54946,6 @@
             "coingecko",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "CLVX",
-        "name": "Calvex",
-        "address": "0x30601d903b0D12Ee26D27bd6607CaA72C205CF7A",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24473/thumb/clvx.png?1647771026",
-        "coingeckoId": "calvex",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -57026,6 +56981,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/17476/thumb/logo_-_2021-08-02T172142.650.png?1627896154",
         "coingeckoId": "feichang-niu",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "CPSP",
+        "name": "Crypto Swap",
+        "address": "0x289A72776D457556c5D71b70a5C0F048c338244e",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/26571/thumb/IMG_20220725_001821_239.jpg?1658818996",
+        "coingeckoId": "crypto-swap",
         "listedIn": [
             "coingecko"
         ]
@@ -59568,7 +59535,7 @@
         ]
     },
     {
-        "symbol": "METALDR",
+        "symbol": "METAL",
         "name": "Drunk Robots",
         "address": "0x200C234721b5e549c3693CCc93cF191f90dC2aF9",
         "decimals": 18,

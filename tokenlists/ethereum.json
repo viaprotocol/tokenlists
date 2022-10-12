@@ -1858,7 +1858,6 @@
             "coingecko",
             "uniswap",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -7371,6 +7370,19 @@
         ]
     },
     {
+        "symbol": "QANX",
+        "name": "QANplatform",
+        "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290",
+        "coingeckoId": "qanplatform",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "AUCTION",
         "name": "Bounce",
         "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
@@ -11427,7 +11439,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance"
         ]
     },
@@ -19815,6 +19826,19 @@
         ]
     },
     {
+        "symbol": "TAMA",
+        "name": "Tamadoge",
+        "address": "0x12b6893cE26Ea6341919FE289212ef77e51688c8",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1664329157",
+        "coingeckoId": "tamadoge",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "VOX",
         "name": "Vox Finance",
         "address": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
@@ -21040,7 +21064,7 @@
     },
     {
         "symbol": "XEN",
-        "name": "XEN CRYPTO",
+        "name": "XEN Crypto",
         "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
         "decimals": 18,
         "chainId": 1,

@@ -463,6 +463,18 @@
         ]
     },
     {
+        "symbol": "HOP",
+        "name": "Hop Protocol",
+        "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/25445/thumb/hop.png?1665541677",
+        "coingeckoId": "hop-protocol",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "OCCT",
         "name": "Official Crypto Cowboy Token",
         "address": "0xc1a49c0B9C10F35850bd8E15EaeF0346BE63E002",
@@ -823,6 +835,18 @@
         "coingeckoId": "hydranet",
         "listedIn": [
             "coingecko",
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "EDR",
+        "name": "Endor Protocol Token",
+        "address": "0xF242F6FcB8f03B2A5e22cF7a61b843C89748Abb2",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xf242f6fcb8f03b2a5e22cf7a61b843c89748abb2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
             "rubic"
         ]
     },

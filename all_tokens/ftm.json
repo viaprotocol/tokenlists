@@ -686,6 +686,7 @@
             "coingecko",
             "1inch",
             "SpookySwap",
+            "rubic",
             "lifinance"
         ]
     },
@@ -1446,18 +1447,6 @@
         ]
     },
     {
-        "symbol": "HSHARE",
-        "name": "HSHARE",
-        "address": "0xFFEAF32AB5F99F95a9B6dF177ef56D84fb40fc12",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0xffeaf32ab5f99f95a9b6df177ef56d84fb40fc12/logo.png",
-        "coingeckoId": "hamster-share",
-        "listedIn": [
-            "rubic"
-        ]
-    },
-    {
         "symbol": "INK",
         "name": "Ink Fantom",
         "address": "0xFFAbb85ADb5c25D57343547a8b32B62f03814B12",
@@ -1984,7 +1973,8 @@
         "logoURI": "https://ethapi.openocean.finance/logos/fantom/0xdbf31df14b66535af65aac99c32e9ea844e14501.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "rubic"
         ]
     },
     {
@@ -2341,8 +2331,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13719/thumb/o0KIvs7T_400x400.jpg?1617672818",
         "coingeckoId": "holyheld-2",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "coingecko"
         ]
     },
     {
@@ -5466,7 +5455,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -6948,7 +6936,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15636/thumb/2_%287%29.png?1621403830",
         "coingeckoId": "seedswap-token",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {

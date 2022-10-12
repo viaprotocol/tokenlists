@@ -3544,6 +3544,19 @@
         ]
     },
     {
+        "symbol": "QUACK",
+        "name": "Rich Quack",
+        "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/16356/thumb/57198446-0-Get-Rich-Quick-Gober.png?1623812294",
+        "coingeckoId": "richquack",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "PWR",
         "name": "CrazyMiner",
         "address": "0xD52eFE1039D706722b3D696e74AD4095DC3d3860",
@@ -4340,6 +4353,19 @@
         ]
     },
     {
+        "symbol": "MNC",
+        "name": "Maincoin",
+        "address": "0xB8AE295FEF08728B48094D5A1D4A01F2b85139F8",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/7717/thumb/200x200-1.png?1664072385",
+        "coingeckoId": "maincoin",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "MIX",
         "name": "Mix",
         "address": "0xB67754f5b4C704A24d2db68e661b2875a4dDD197",
@@ -4726,6 +4752,19 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "QANX",
+        "name": "QANplatform",
+        "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290",
+        "coingeckoId": "qanplatform",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -9694,7 +9733,6 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic",
             "lifinance"
         ]
     },
@@ -10969,6 +11007,20 @@
         ]
     },
     {
+        "symbol": "KRS",
+        "name": "Kingdom Raids",
+        "address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x37b53894e7429f794B56F22a32E1695567Ee9913.png",
+        "coingeckoId": "kingdom-raids",
+        "listedIn": [
+            "coingecko",
+            "pancake",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SFUEL",
         "name": "SparkPoint Fuel",
         "address": "0x37Ac4D6140e54304D77437A5c11924f61a2D976f",
@@ -11033,7 +11085,6 @@
             "coingecko",
             "1inch",
             "openocean",
-            "rubic",
             "lifinance"
         ]
     },

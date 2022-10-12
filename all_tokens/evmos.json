@@ -12,6 +12,18 @@
         ]
     },
     {
+        "symbol": "gUSDT",
+        "name": "Tether USD - Gravity",
+        "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ceUSDC",
         "name": "USD Coin | Celer cBridge",
         "address": "0xe46910336479F254723710D57e7b683F3315b22B",
@@ -33,6 +45,18 @@
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "gDAI",
+        "name": "Dai Stablecoin - Gravity",
+        "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -139,6 +163,18 @@
         "decimals": 8,
         "chainId": 9001,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "axlWBTC",
+        "name": "Wrapped BTC - Axelar",
+        "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
+        "decimals": 8,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -328,6 +364,18 @@
         ]
     },
     {
+        "symbol": "STARS",
+        "name": "Stargaze",
+        "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/22363/small/stars.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "gUSDC",
         "name": "USD Coin - Gravity",
         "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
@@ -377,6 +425,18 @@
         ]
     },
     {
+        "symbol": "axlWETH",
+        "name": "Wrapped Ether - Axelar",
+        "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AURORA",
         "name": "Aurora | Celer cBridge",
         "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
@@ -410,6 +470,18 @@
         "coingeckoId": "diffusion",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "JUNO",
+        "name": "Juno",
+        "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/19249/small/juno.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -450,6 +522,18 @@
         ]
     },
     {
+        "symbol": "gWBTC",
+        "name": "Wrapped BTC - Gravity",
+        "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
+        "decimals": 8,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "EMO",
         "name": "EvmoSwap",
         "address": "0x181C262b973B22C307C646a67f64B76410D19b6B",
@@ -459,6 +543,18 @@
         "coingeckoId": "evmoswap",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "axlUSDC",
+        "name": "USD Coin - Axelar",
+        "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {

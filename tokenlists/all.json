@@ -6742,6 +6742,19 @@
             ]
         },
         {
+            "symbol": "QUACK",
+            "name": "Rich Quack",
+            "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/16356/thumb/57198446-0-Get-Rich-Quick-Gober.png?1623812294",
+            "coingeckoId": "richquack",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "symbol": "PWR",
             "name": "CrazyMiner",
             "address": "0xD52eFE1039D706722b3D696e74AD4095DC3d3860",
@@ -7538,6 +7551,19 @@
             ]
         },
         {
+            "symbol": "MNC",
+            "name": "Maincoin",
+            "address": "0xB8AE295FEF08728B48094D5A1D4A01F2b85139F8",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/7717/thumb/200x200-1.png?1664072385",
+            "coingeckoId": "maincoin",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "symbol": "MIX",
             "name": "Mix",
             "address": "0xB67754f5b4C704A24d2db68e661b2875a4dDD197",
@@ -7924,6 +7950,19 @@
             "listedIn": [
                 "coingecko",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "QANX",
+            "name": "QANplatform",
+            "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290",
+            "coingeckoId": "qanplatform",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -12892,7 +12931,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
-                "rubic",
                 "lifinance"
             ]
         },
@@ -14167,6 +14205,20 @@
             ]
         },
         {
+            "symbol": "KRS",
+            "name": "Kingdom Raids",
+            "address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://tokens.pancakeswap.finance/images/0x37b53894e7429f794B56F22a32E1695567Ee9913.png",
+            "coingeckoId": "kingdom-raids",
+            "listedIn": [
+                "coingecko",
+                "pancake",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "SFUEL",
             "name": "SparkPoint Fuel",
             "address": "0x37Ac4D6140e54304D77437A5c11924f61a2D976f",
@@ -14231,7 +14283,6 @@
                 "coingecko",
                 "1inch",
                 "openocean",
-                "rubic",
                 "lifinance"
             ]
         },
@@ -18232,6 +18283,7 @@
                 "coingecko",
                 "1inch",
                 "SpookySwap",
+                "rubic",
                 "lifinance"
             ]
         },
@@ -18934,6 +18986,19 @@
             ]
         },
         {
+            "symbol": "renBTC",
+            "name": "renBTC ",
+            "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+            "decimals": 8,
+            "chainId": 250,
+            "logoURI": "https://ethapi.openocean.finance/logos/fantom/0xdbf31df14b66535af65aac99c32e9ea844e14501.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "openocean",
+                "rubic"
+            ]
+        },
+        {
             "symbol": "DANTE",
             "name": "Dante Finance",
             "address": "0xDA763530614fb51DFf9673232C8B3b3e0A67bcf2",
@@ -19144,19 +19209,6 @@
                 "SpookySwap",
                 "rubic",
                 "lifinance"
-            ]
-        },
-        {
-            "symbol": "MOVE",
-            "name": "Mover",
-            "address": "0xC055c698f3793577707B3e6979B089F50C314D3a",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://assets.coingecko.com/coins/images/13719/thumb/o0KIvs7T_400x400.jpg?1617672818",
-            "coingeckoId": "holyheld-2",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -21164,7 +21216,6 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap",
-                "rubic",
                 "lifinance"
             ]
         },
@@ -22143,6 +22194,19 @@
                 "1inch",
                 "SpookySwap",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "SEED",
+            "name": "SeedSwap SEED",
+            "address": "0x12E62CeCa188E4BC266D3844781c619638ECcf29",
+            "decimals": 18,
+            "chainId": 250,
+            "logoURI": "https://assets.coingecko.com/coins/images/15636/thumb/2_%287%29.png?1621403830",
+            "coingeckoId": "seedswap-token",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -40906,7 +40970,7 @@
         },
         {
             "symbol": "PHNX",
-            "name": "Phenix Finance",
+            "name": "Phenix Finance  OLD ",
             "address": "0x57d06bB1e3B60C875cD3A4445a53217F9B44d390",
             "decimals": 18,
             "chainId": 25,
@@ -49670,7 +49734,6 @@
                 "coingecko",
                 "uniswap",
                 "sushiswap",
-                "rubic",
                 "lifinance"
             ]
         },
@@ -55183,6 +55246,19 @@
             ]
         },
         {
+            "symbol": "QANX",
+            "name": "QANplatform",
+            "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290",
+            "coingeckoId": "qanplatform",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "symbol": "AUCTION",
             "name": "Bounce",
             "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
@@ -59239,7 +59315,6 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
-                "rubic",
                 "lifinance"
             ]
         },
@@ -67627,6 +67702,19 @@
             ]
         },
         {
+            "symbol": "TAMA",
+            "name": "Tamadoge",
+            "address": "0x12b6893cE26Ea6341919FE289212ef77e51688c8",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1664329157",
+            "coingeckoId": "tamadoge",
+            "listedIn": [
+                "coingecko",
+                "rubic"
+            ]
+        },
+        {
             "symbol": "VOX",
             "name": "Vox Finance",
             "address": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
@@ -68852,7 +68940,7 @@
         },
         {
             "symbol": "XEN",
-            "name": "XEN CRYPTO",
+            "name": "XEN Crypto",
             "address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
             "decimals": 18,
             "chainId": 1,
