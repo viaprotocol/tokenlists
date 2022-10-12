@@ -67,19 +67,6 @@
         ]
     },
     {
-        "symbol": "DAI",
-        "name": "Dai Stablecoin",
-        "address": "0xc234A67a4F840E61adE794be47de455361b52413",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "XCDOT",
         "name": "xcDOT",
         "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
@@ -227,8 +214,7 @@
         "coingeckoId": null,
         "listedIn": [
             "coingecko",
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -241,8 +227,7 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -351,8 +336,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -362,19 +346,6 @@
         "decimals": 18,
         "chainId": 1284,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
-        "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
-        "decimals": 8,
-        "chainId": 1284,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",

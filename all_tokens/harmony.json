@@ -97,18 +97,6 @@
         ]
     },
     {
-        "symbol": "1OIN",
-        "name": "oinfinance",
-        "address": "0xeaFDfebF3bf18475034E91AACB0Bed4dbAfd2756",
-        "decimals": 8,
-        "chainId": 1666600000,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1OIN.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ELK",
         "name": "Elk",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -229,7 +217,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -506,7 +493,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -609,8 +595,7 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0xf38593388079f7f5130d605e38abf6090d981ec2/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -807,7 +792,6 @@
         "coingeckoId": "viperpit",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -845,7 +829,6 @@
         "coingeckoId": "balancer",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1017,8 +1000,7 @@
         "logoURI": "https://api.rubic.exchange/assets/harmony/0xbb948620fa9cd554ef9a331b13edea9b181f9d45/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic",
-            "lifinance"
+            "rubic"
         ]
     },
     {
@@ -1207,7 +1189,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1562,7 +1543,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -1576,18 +1556,6 @@
         "coingeckoId": "swipe",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "CBOND",
-        "name": "Comfy Bond",
-        "address": "0x7627EEB598aa8bED7Eaa77BaDfE24c95826e75dF",
-        "decimals": 18,
-        "chainId": 1666600000,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CBOND.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -1698,8 +1666,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23062/thumb/COMFY-200x200.png?1643162411",
         "coingeckoId": "comfy",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -1900,7 +1867,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2105,7 +2071,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2274,7 +2239,6 @@
         "logoURI": "https://elk.finance/tokens/logos/harmony/0x44cED87b9F1492Bf2DCf5c16004832569f7f6cBa/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2336,7 +2300,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2401,7 +2364,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2417,7 +2379,6 @@
             "coingecko",
             "RouterProtocol",
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2467,8 +2428,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23063/thumb/CSHARE-200x200.png?1643162580",
         "coingeckoId": "comfy-share",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -2497,7 +2457,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2535,7 +2494,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2549,7 +2507,6 @@
         "coingeckoId": "stacktical",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2563,7 +2520,6 @@
         "coingeckoId": "binance-bitcoin",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2613,7 +2569,6 @@
         "coingeckoId": "compound-governance-token",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2888,7 +2843,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3147,8 +3101,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20054/thumb/euphoria-512x512.png?1636443725",
         "coingeckoId": "euphoria-2",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -3302,7 +3255,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3328,7 +3280,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3342,7 +3293,6 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic",
-            "lifinance",
             "elkfinance"
         ]
     },

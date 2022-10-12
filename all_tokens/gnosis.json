@@ -153,6 +153,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -206,7 +207,7 @@
         "address": "0xe83fD17028c2Dd3cA4a9B75f2836d4558Fe00686",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/14551/small/jN3kkqke_400x400.png",
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb/445ed9b4d899940d75305b98e2697f0a.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -467,7 +468,7 @@
     },
     {
         "symbol": "CLNY",
-        "name": "Colony Network Token from Ethereum",
+        "name": "Colony Network Token on xDai",
         "address": "0xc9B6218AffE8Aba68a13899Cbf7cF7f14DDd304C",
         "decimals": 18,
         "chainId": 100,
@@ -744,7 +745,7 @@
         "address": "0xaC945dC430ceF2BB8FB78B3cb5fbC936dD2C8ab6",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/24384/small/COW-token-1024x1024.png",
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x177127622c4a00f3d409b75571e12cb3c8973d3c/01b4a8c7bfa381d0f47d140d58d06d54.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -759,7 +760,8 @@
         "logoURI": "https://tokens.1inch.io/0xaa2c0cf54cb418eb24e7e09053b82c875c68bb88.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -1619,7 +1621,7 @@
     },
     {
         "symbol": "sUSD",
-        "name": "Synthetix USD on xDai",
+        "name": "Synth sUSD on xDai",
         "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
         "decimals": 18,
         "chainId": 100,
@@ -1961,7 +1963,7 @@
         "address": "0x9757d68A4273635c69D93B84ee3cdac2304DD467",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1/61844453e63cf81301f845d7864236f6.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -2467,7 +2469,7 @@
         "address": "0x7AecA73f38f8F33AB7FF067fED1268384d12324d",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png",
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e/b4e2dafcc5a12a560eafa76879de7550.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -2552,8 +2554,8 @@
         ]
     },
     {
-        "symbol": "FTT",
-        "name": "FTX Token",
+        "symbol": "FTX",
+        "name": "FTT on xDai",
         "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
         "decimals": 18,
         "chainId": 100,
@@ -2891,7 +2893,7 @@
     },
     {
         "symbol": "CFXQ",
-        "name": "CFX Quantum from Ethereum",
+        "name": "CFX Quantum on xDai",
         "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
         "decimals": 6,
         "chainId": 100,
@@ -3106,7 +3108,7 @@
         "address": "0x59988e47A3503AaFaA0368b9deF095c818Fdca01",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://zapper.fi/images/networks/ethereum/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/3fedab836c5425fc3fc2eb542c34c81a.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -4404,11 +4406,11 @@
     },
     {
         "symbol": "USDCx",
-        "name": "Superfluid USDC",
+        "name": "Super USD//C on xDai",
         "address": "0x1234756ccf0660E866305289267211823Ae86eEc",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xddafbb505ad214d7b80b1f830fccc89b60fb7a83/fffcd27b9efff5a86ab942084c05924d.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -4416,7 +4418,7 @@
     },
     {
         "symbol": "PLR",
-        "name": "PILLAR from Ethereum",
+        "name": "PILLAR on xDai",
         "address": "0x10bEEa85519a704A63765d396415f9eA5aa30A17",
         "decimals": 18,
         "chainId": 100,

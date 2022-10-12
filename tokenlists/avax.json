@@ -9,7 +9,8 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -40,7 +41,8 @@
         "coingeckoId": "wirex",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -254,6 +256,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -438,6 +441,19 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mYAK",
+        "name": "MiniYAK",
+        "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
+        "decimals": 12,
+        "chainId": 43114,
+        "logoURI": "https://tokens.1inch.io/0xddaaad7366b455aff8e7c82940c43ceb5829b604.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
             "lifinance"
         ]
     },
@@ -697,7 +713,8 @@
         "coingeckoId": "trustswap",
         "listedIn": [
             "1inch",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -800,7 +817,8 @@
         "coingeckoId": "chronicum",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -1376,6 +1394,19 @@
         ]
     },
     {
+        "symbol": "avWAVAX",
+        "name": "Aave Avalanche Market WAVAX",
+        "address": "0xDFE521292EcE2A4f44242efBcD66Bc594CA9714B",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://tokens.1inch.io/0xdfe521292ece2a4f44242efbcd66bc594ca9714b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "FRAX",
         "name": "Frax",
         "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
@@ -1386,6 +1417,19 @@
         "listedIn": [
             "rubic",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "renBTC",
+        "name": "renBTC",
+        "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+        "decimals": 8,
+        "chainId": 43114,
+        "logoURI": "https://tokens.1inch.io/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -1442,6 +1486,19 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "avAAVE",
+        "name": "Aave Avalanche Market AAVE",
+        "address": "0xD45B7c061016102f9FA220502908f2c0f1add1D7",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://tokens.1inch.io/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
             "lifinance"
         ]
     },
@@ -2688,7 +2745,8 @@
             "coingecko",
             "1inch",
             "openocean",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2892,7 +2950,8 @@
         "coingeckoId": "elasticswap",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -3124,7 +3183,8 @@
             "coingecko",
             "1inch",
             "openocean",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -3210,7 +3270,8 @@
         "coingeckoId": "avwbtc",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -3653,7 +3714,21 @@
         "coingeckoId": "avweth",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "avUSDT",
+        "name": "Aave Avalanche Market USDT",
+        "address": "0x532E6537FEA298397212F09A61e03311686f548e",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "https://tokens.1inch.io/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -3843,7 +3918,8 @@
         "coingeckoId": "cross-chain-capital",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -3938,6 +4014,19 @@
         ]
     },
     {
+        "symbol": "avDAI",
+        "name": "Aave Avalanche Market DAI",
+        "address": "0x47AFa96Cdc9fAb46904A55a6ad4bf6660B53c38a",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://tokens.1inch.io/0x028171bca77440897b824ca71d1c56cac55b68a3.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CHIHUA",
         "name": "Chihuahuax",
         "address": "0x4735721ED62713E3A141C939f4Aa55cA8aD5F66A",
@@ -3948,6 +4037,19 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "avUSDC",
+        "name": "Aave Avalanche Market USDC",
+        "address": "0x46A51127C3ce23fb7AB1DE06226147F446e4a857",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "https://tokens.1inch.io/0xbcca60bb61934080951369a648fb03df4f96263c.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -4374,7 +4476,8 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -4434,7 +4537,8 @@
         "coingeckoId": "swapsicle-pops",
         "listedIn": [
             "coingecko",
-            "1inch"
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -4907,7 +5011,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {

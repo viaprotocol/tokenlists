@@ -7782,7 +7782,7 @@
     },
     {
         "symbol": "MM",
-        "name": "MMToken (PoS)",
+        "name": "MM Token",
         "address": "0x2E220744f9aC1BF3045B0588D339F5fD3bB8623A",
         "decimals": 18,
         "chainId": 137,
@@ -9226,6 +9226,19 @@
         "listedIn": [
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "DSF",
+        "name": "Dawn Star Token",
+        "address": "0x095BC617b36AB227A379550633DFDCBf43f236F6",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/DSF.png",
+        "coingeckoId": "dawn-star-token",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {

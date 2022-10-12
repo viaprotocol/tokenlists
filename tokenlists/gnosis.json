@@ -129,6 +129,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -664,6 +665,19 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "SOON",
+        "name": "RealT SOON Token",
+        "address": "0xaA2C0cf54cB418eB24E7e09053B82C875C68bb88",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://tokens.1inch.io/0xaa2c0cf54cb418eb24e7e09053b82c875c68bb88.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -1391,7 +1405,7 @@
     },
     {
         "symbol": "sUSD",
-        "name": "Synthetix USD on xDai",
+        "name": "Synth sUSD on xDai",
         "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
         "decimals": 18,
         "chainId": 100,
@@ -2252,8 +2266,8 @@
         ]
     },
     {
-        "symbol": "FTT",
-        "name": "FTX Token",
+        "symbol": "FTX",
+        "name": "FTT on xDai",
         "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
         "decimals": 18,
         "chainId": 100,
@@ -2543,7 +2557,7 @@
     },
     {
         "symbol": "CFXQ",
-        "name": "CFX Quantum from Ethereum",
+        "name": "CFX Quantum on xDai",
         "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
         "decimals": 6,
         "chainId": 100,

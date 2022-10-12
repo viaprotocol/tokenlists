@@ -11659,6 +11659,18 @@
         ]
     },
     {
+        "symbol": "LWC",
+        "name": "Linework Coin",
+        "address": "0xa6a1Cc527d48585538b137E6Abc14B2a55489D11",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27739/thumb/Linework-logo_coin_200px-01.png?1665578755",
+        "coingeckoId": "linework-coin",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BIGO",
         "name": "BIGOCOIN",
         "address": "0xa6E7dc135Bdf4b3FEe7183EAB2E87C0BB9684783",
@@ -24913,6 +24925,7 @@
             "coingecko",
             "1inch",
             "openocean",
+            "rubic",
             "lifinance"
         ]
     },
@@ -36764,6 +36777,18 @@
         ]
     },
     {
+        "symbol": "CLEV",
+        "name": "CLever",
+        "address": "0x72953a5C32413614d24C29c84a66AE4B59581Bbf",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27727/thumb/%E6%88%AA%E5%B1%8F2022-10-12_%E4%B8%8A%E5%8D%8810.40.19.png?1665550689",
+        "coingeckoId": "clever-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "GHX",
         "name": "GamerCoin",
         "address": "0x728f30fa2f100742C7949D1961804FA8E0B1387d",
@@ -37486,7 +37511,6 @@
             "coingecko",
             "1inch",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -38503,18 +38527,6 @@
         "listedIn": [
             "coingecko",
             "arbitrum_bridge"
-        ]
-    },
-    {
-        "symbol": "SEMI",
-        "name": "Semi",
-        "address": "0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/12293/thumb/200-200_%EB%A1%9C%EA%B3%A0.jpg?1598922002",
-        "coingeckoId": "semitoken",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -40789,18 +40801,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/4929/thumb/contentbox.png?1547740046",
         "coingeckoId": "contentbox",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "ACA",
-        "name": "Acash Coin",
-        "address": "0x63d958D765F5bd88efDbD8Afd32445393b24907f",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/9471/thumb/JxCQN9vthyjwGMcjPHzlYJwcu84LG-l3rFR3zgAOGd6BJTtxFVkmZt5PbUJytMa_RrZvYI5EeVm_vP89viF_hyFxwLGw6LlIkgSk32kGMnIy7o8zDkMBrO0wd-4zC--0Ulz9OUESJUOzy6cwH6xx7s5QbF0U3A3fVL9w4Q_jgcKJeM75iuaRMT8k6IhUq6GPiNe-vAyIjpQJI_407eFSeNyB5FVz7w4h5Lu10fLp5ti0mZZs.jpg?1575586540",
-        "coingeckoId": "acash-coin",
         "listedIn": [
             "coingecko"
         ]
@@ -60216,6 +60216,18 @@
         ]
     },
     {
+        "symbol": "YORI",
+        "name": "The Path Of Light",
+        "address": "0x1Ab052Db3216835182926A6d516762B0f1634661",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27734/thumb/yori_icon200.png?1665563891",
+        "coingeckoId": "the-path-of-light",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "OWL",
         "name": "OWL Token",
         "address": "0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
@@ -62848,6 +62860,18 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "MTC",
+        "name": "Meta Cosmos",
+        "address": "0x10864cD0C4250F7de15DD3Cd3788dc704cDb6706",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
