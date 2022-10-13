@@ -5311,6 +5311,18 @@
         ]
     },
     {
+        "symbol": "BUSD",
+        "name": "Binance USD",
+        "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+        "coingeckoId": "binance-usd",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "HTZ",
         "name": "Hertz Token",
         "address": "0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269",
@@ -5643,6 +5655,18 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic"
+        ]
+    },
+    {
+        "symbol": "XGRAPE",
+        "name": "GrapeVine",
+        "address": "0x95CED7c63eA990588F3fd01cdDe25247D04b8D98",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/27741/thumb/CRYTOLOGO.png?1665579088",
+        "coingeckoId": "grapevine",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -11997,15 +12021,14 @@
         ]
     },
     {
-        "symbol": "BUSD",
+        "symbol": "BUSD.e",
         "name": "Binance USD",
         "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
-        "coingeckoId": "binance-usd",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "pangolin",
             "rubic",

@@ -39166,15 +39166,14 @@
             ]
         },
         {
-            "symbol": "BUSD",
+            "symbol": "BUSD.e",
             "name": "Binance USD",
             "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
             "decimals": 18,
             "chainId": 43114,
             "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
-            "coingeckoId": "binance-usd",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "pangolin",
                 "rubic",
