@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "INSURE",
+        "name": "InsureToken",
+        "address": "0xeF26Ca2844b0b470AfC1b0aeF5F65e677dE6CD1f",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "sUSD",
         "name": "Synthetix USD",
         "address": "0xeBaEAAD9236615542844adC5c149F86C36aD1136",
@@ -77,7 +89,7 @@
         "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
         "decimals": 18,
         "chainId": 420,
-        "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+        "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -108,12 +120,48 @@
         ]
     },
     {
+        "symbol": "MOCHI",
+        "name": "Mochi",
+        "address": "0x7Af72aD5E8793023DC722d617fe3338ac6b5ccE9",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "MOM",
+        "name": "Monetum",
+        "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "OUTb",
         "name": "OptimismUselessToken-Bridged",
         "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
         "decimals": 18,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "veKWENTA",
+        "name": "veKwenta",
+        "address": "0x3e52b5f840eafD79394c6359E93Bf3FfdAE89ee4",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

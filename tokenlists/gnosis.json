@@ -459,6 +459,20 @@
         ]
     },
     {
+        "symbol": "HOP",
+        "name": "Hop Protocol",
+        "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://tokens.1inch.io/0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc.png",
+        "coingeckoId": "hop-protocol",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SAI",
         "name": "Sai on xDai",
         "address": "0xc439E5B1DEe4f866B681E7c5E5dF140aA47fBf19",
@@ -1782,19 +1796,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-8181-BLISS-",
-        "name": "RealT   8181 Bliss St  Detroit  MI 4823",
-        "address": "0x92d31E19F88597F368825ba16410f263a844527A",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16566/thumb/8181-Bliss-hero-1.jpg?1624461101",
-        "coingeckoId": "8181-bliss",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "REALT-S-10084-GRAYT",
         "name": "RealT   10084 Grayton St  Detroit  MI 4",
         "address": "0x92161385C9dE8798ad5fB01c0bE99fFcbC84dFD8",
@@ -2557,7 +2558,7 @@
     },
     {
         "symbol": "CFXQ",
-        "name": "CFX Quantum on xDai",
+        "name": "CFX Quantum from Ethereum",
         "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
         "decimals": 6,
         "chainId": 100,
@@ -3125,7 +3126,7 @@
         "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/WoZ8rruL_400x400.png?1655102508",
+        "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/JPYC_logo_3D_cmyk_0-1_%282%29.jpg?1667467959",
         "coingeckoId": "jpy-coin",
         "listedIn": [
             "coingecko",
@@ -4074,19 +4075,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-16200-FULLE",
-        "name": "RealT   16200 Fullerton Ave  Detroit  M",
-        "address": "0x021Bb23a45e9FC824260435e670fC383b7b8cbbB",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16704/thumb/16200-Fullerton-HERO.jpeg?1624644084",
-        "coingeckoId": "16200-fullerton",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {

@@ -292,6 +292,19 @@
         ]
     },
     {
+        "symbol": "NEARX",
+        "name": "Stader NearX",
+        "address": "0xb39EEB9E168eF6c639f5e282FEf1F6bC4Dcae375",
+        "decimals": 24,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb39EEB9E168eF6c639f5e282FEf1F6bC4Dcae375/logo.svg",
+        "coingeckoId": "stader-nearx",
+        "listedIn": [
+            "coingecko",
+            "trisolaris"
+        ]
+    },
+    {
         "symbol": "abBNB",
         "name": "BNB - Allbridge",
         "address": "0xb14674C7264eC7d948B904Aab2c0E0F906F6e762",
@@ -477,14 +490,13 @@
     },
     {
         "symbol": "FAME",
-        "name": "Farm Me",
+        "name": "FAME",
         "address": "0xD5c997724e4b5756d08E6464C01AFbC5F6397236",
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xD5c997724e4b5756d08E6464C01AFbC5F6397236/logo.svg",
-        "coingeckoId": "farm-me",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "trisolaris",
             "rubic"
         ]
@@ -1193,6 +1205,18 @@
         ]
     },
     {
+        "symbol": "axlUSDC",
+        "name": "Axelar Wrapped USDC",
+        "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+        "decimals": 6,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris"
+        ]
+    },
+    {
         "symbol": "BBT",
         "name": "BlueBit",
         "address": "0x4148d2Ce7816F0AE378d98b40eB3A7211E1fcF0D",
@@ -1232,6 +1256,18 @@
             "coingecko",
             "trisolaris",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "GTFX",
+        "name": "Gitshock Finance",
+        "address": "0x306e974624511E3937F37E551C5736F1b2aD21eb",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://assets.coingecko.com/coins/images/28033/thumb/Logo_Gitshock_HD.png?1667117754",
+        "coingeckoId": "gitshock-finance",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -1568,6 +1604,18 @@
             "coingecko",
             "trisolaris",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "SD",
+        "name": "Stader",
+        "address": "0x078E103d5F9629aC48B8563Fa2BFcD2f6d5Fde84",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x078E103d5F9629aC48B8563Fa2BFcD2f6d5Fde84/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "trisolaris"
         ]
     },
     {

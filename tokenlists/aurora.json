@@ -220,6 +220,19 @@
         ]
     },
     {
+        "symbol": "NEARX",
+        "name": "Stader NearX",
+        "address": "0xb39EEB9E168eF6c639f5e282FEf1F6bC4Dcae375",
+        "decimals": 24,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb39EEB9E168eF6c639f5e282FEf1F6bC4Dcae375/logo.svg",
+        "coingeckoId": "stader-nearx",
+        "listedIn": [
+            "coingecko",
+            "trisolaris"
+        ]
+    },
+    {
         "symbol": "USP",
         "name": "USP",
         "address": "0xa69d9Ba086D41425f35988613c156Db9a88a1A96",
@@ -333,14 +346,13 @@
     },
     {
         "symbol": "FAME",
-        "name": "Farm Me",
+        "name": "FAME",
         "address": "0xD5c997724e4b5756d08E6464C01AFbC5F6397236",
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xD5c997724e4b5756d08E6464C01AFbC5F6397236/logo.svg",
-        "coingeckoId": "farm-me",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "trisolaris",
             "rubic"
         ]

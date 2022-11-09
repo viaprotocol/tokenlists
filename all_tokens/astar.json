@@ -112,30 +112,6 @@
         ]
     },
     {
-        "symbol": "ORU",
-        "name": "Orcus ORU",
-        "address": "0xCdB32eEd99AA19D39e5d6EC45ba74dC4afeC549F",
-        "decimals": 18,
-        "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/25220/thumb/sdc_ctdM_400x400.jpg?1650891171",
-        "coingeckoId": "orcus-oru",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "VERSA",
-        "name": "Versa",
-        "address": "0xB9dEDB74bd7b298aBf76b9dFbE5b62F0aB05a57b",
-        "decimals": 18,
-        "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/25008/thumb/versa-versa.png?1649769967",
-        "coingeckoId": "versa",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "WASTR",
         "name": "Wrapped Astar",
         "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
@@ -260,6 +236,18 @@
         "listedIn": [
             "coingecko",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "ATID",
+        "name": "AstridDAO",
+        "address": "0x5271D85CE4241b310C0B34b7C2f1f036686A6d7C",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/27082/thumb/Frame_55.jpg?1661763334",
+        "coingeckoId": "astriddao-token",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

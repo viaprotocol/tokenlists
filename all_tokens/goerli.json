@@ -1,5 +1,29 @@
 [
     {
+        "symbol": "veKWENTA",
+        "name": "veKwenta",
+        "address": "0xf36c9a9E8333663F8CA3608C5582916628E79e3f",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "MOM",
+        "name": "Monetum",
+        "address": "0xd3D1c79D8a5F8316D07c4A391805E5006c71648C",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
@@ -85,6 +109,18 @@
         ]
     },
     {
+        "symbol": "MOCHI",
+        "name": "Mochi",
+        "address": "0x48B942C65a5991dD64360CdDE442792bD829Af80",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "OUTb",
         "name": "OptimismUselessToken-Bridged",
         "address": "0x32B3b2281717dA83463414af4E8CfB1970E56287",
@@ -151,7 +187,19 @@
         "address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
         "decimals": 18,
         "chainId": 5,
-        "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+        "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "INSURE",
+        "name": "InsureToken",
+        "address": "0x0C4a63D472120d7859E2842b7C2Bafbd8eDe8f44",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -165,6 +213,18 @@
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "ETH",
+        "name": "Ether",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+        "coingeckoId": "ethereum",
         "listedIn": [
             "optimism"
         ]

@@ -1,5 +1,18 @@
 [
     {
+        "symbol": "BNB",
+        "name": "Binance",
+        "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "cronaswap"
+        ]
+    },
+    {
         "symbol": "MSHARE",
         "name": "Meerkat Shares",
         "address": "0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa",
@@ -92,6 +105,7 @@
         "coingeckoId": "crodex",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance",
             "elkfinance"
         ]
@@ -187,6 +201,7 @@
         "coingeckoId": "cronaswap",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance",
             "cronaswap"
         ]
@@ -244,6 +259,7 @@
         "coingeckoId": "darkness-share",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -258,6 +274,19 @@
         "listedIn": [
             "coingecko",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "TIGER",
+        "name": "Tiger Scrub Money",
+        "address": "0xD6597AA36DD90d7fCcBd7B8A228F2d5CdC88eAd0",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/24951/thumb/tiger.png?1649504961",
+        "coingeckoId": "tiger-scrub-money",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -283,6 +312,7 @@
         "coingeckoId": "crystl-finance",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "cronaswap"
         ]
     },
@@ -311,6 +341,19 @@
             "coingecko",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "ATOM",
+        "name": "Cosmos Hub",
+        "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
+        "decimals": 6,
+        "chainId": 25,
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -363,6 +406,7 @@
         "coingeckoId": "darkcrypto-share",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -389,6 +433,7 @@
         "coingeckoId": "mmfinance",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -416,6 +461,7 @@
         "coingeckoId": "darkcrypto",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance",
             "cronaswap"
         ]
@@ -471,6 +517,32 @@
         "listedIn": [
             "lifinance",
             "cronaswap"
+        ]
+    },
+    {
+        "symbol": "XDSHARE",
+        "name": "ToxicDeer Share",
+        "address": "0x6F715158d4B1468528DA002F5941c72fe4159520",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/25964/thumb/xdshare.png?1654940069",
+        "coingeckoId": "toxicdeer-share",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DEER",
+        "name": "ToxicDeer Finance",
+        "address": "0x6D6D6ba0c7e7DBaFffeC82b1ddF92e271650a63A",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/25890/thumb/deer.png?1654426919",
+        "coingeckoId": "toxicdeer-finance",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -538,6 +610,7 @@
         "coingeckoId": "savanna",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -571,19 +644,6 @@
         ]
     },
     {
-        "symbol": "PHNX",
-        "name": "Phenix Finance  OLD ",
-        "address": "0x57d06bB1e3B60C875cD3A4445a53217F9B44d390",
-        "decimals": 18,
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/24551/small/pf-200.png?1648134213",
-        "coingeckoId": "phenix-finance",
-        "listedIn": [
-            "coingecko",
-            "xyfinance"
-        ]
-    },
-    {
         "symbol": "BANK",
         "name": "CroBank",
         "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
@@ -597,6 +657,19 @@
         ]
     },
     {
+        "symbol": "PHNX",
+        "name": "Phenix Finance",
+        "address": "0x52438441073A33b6FcBc70fa3F3F334F2dA19906",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/27724/small/phenix.png?1666262269",
+        "coingeckoId": "phenix-finance-2",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "MMO",
         "name": "Mad Meerkat Optimizer",
         "address": "0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7",
@@ -606,7 +679,21 @@
         "coingeckoId": "mad-meerkat-optimizer",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "LION",
+        "name": "Lion Scrub Money",
+        "address": "0x49fB98F9b4a3183Cd88e7a115144fdf00fa6fB95",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/24950/thumb/lion.png?1649504730",
+        "coingeckoId": "lion-scrub-money",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -663,6 +750,19 @@
         ]
     },
     {
+        "symbol": "FER",
+        "name": "Ferro",
+        "address": "0x39bC1e38c842C60775Ce37566D03B41A7A66C782",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/26111/thumb/FER_Token.png?1655887206",
+        "coingeckoId": "ferro",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MTT",
         "name": "Hakuna Shares",
         "address": "0x388c07066AA6cEa2Be4db58e702333df92c3A074",
@@ -685,6 +785,7 @@
         "coingeckoId": "vvs-finance",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -796,6 +897,20 @@
         "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0422b63182798ae9876cae3caBd225d96B284D14/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
+            "cronaswap"
+        ]
+    },
+    {
+        "symbol": "ELON",
+        "name": "Dogelon Mars",
+        "address": "0x02DCcaf514C98451320a9365C5b46C61d3246ff3",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x02DCcaf514C98451320a9365C5b46C61d3246ff3/logo.png",
+        "coingeckoId": "dogelon-mars",
+        "listedIn": [
+            "coingecko",
             "lifinance",
             "cronaswap"
         ]

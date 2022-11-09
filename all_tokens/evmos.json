@@ -138,7 +138,7 @@
         "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": null,
+        "logoURI": "https://mvp.arable.finance/public/assets/tokens/acre_token.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -445,6 +445,19 @@
         "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x48421FF1c6B93988138130865C4B7Cce10358271/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "EVD",
+        "name": "Evmos Domains",
+        "address": "0x47685B6AC7bB4de761A57828877A7B8254c8B145",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/27785/thumb/evmos-domains.png?1665798992",
+        "coingeckoId": "evmos-domains",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

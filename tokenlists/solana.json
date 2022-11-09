@@ -567,7 +567,7 @@
     },
     {
         "symbol": "SHDW",
-        "name": "GenesysGo Shadow",
+        "name": "Shadow Token",
         "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
         "decimals": 9,
         "chainId": -1,
@@ -802,7 +802,7 @@
     },
     {
         "symbol": "MEAN",
-        "name": "Meanfi",
+        "name": "Mean DAO",
         "address": "MEANeD3XDdUmNMsRGjASkSWdC8prLYsoRJ61pPeHctD",
         "decimals": 6,
         "chainId": -1,
@@ -1004,19 +1004,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo/logo.png",
         "coingeckoId": "cryowar-token",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "HERO",
-        "name": "SolHero",
-        "address": "Hero6s7zJXsw9hfCXLVR5stLqgCok3E7CCkpQEoLAk2g",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hero6s7zJXsw9hfCXLVR5stLqgCok3E7CCkpQEoLAk2g/logo.png",
-        "coingeckoId": "solhero",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -4530,19 +4517,6 @@
         ]
     },
     {
-        "symbol": "WAMO",
-        "name": "WAMO",
-        "address": "4nQqJkBx3Dnovc6ueEdkJfFr2zi2fc77834czmoymR1b",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4nQqJkBx3Dnovc6ueEdkJfFr2zi2fc77834czmoymR1b/symbol.png",
-        "coingeckoId": "wamo",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "RAY",
         "name": "Raydium",
         "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
@@ -4893,6 +4867,19 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EkHyexJLGCvSxzn5umbtd9N69GoT4p5pfdLTFqCNP9Y/logo.png",
         "coingeckoId": "hippo-coin",
+        "listedIn": [
+            "coingecko",
+            "1sol"
+        ]
+    },
+    {
+        "symbol": "ARNM",
+        "name": "Arenum",
+        "address": "3Dy8KFyvpUJ8nfRCbvk4HLWjNRRzxiVhTeE9PQF9RARD",
+        "decimals": 6,
+        "chainId": -1,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Dy8KFyvpUJ8nfRCbvk4HLWjNRRzxiVhTeE9PQF9RARD/logo.png",
+        "coingeckoId": "arenum",
         "listedIn": [
             "coingecko",
             "1sol"

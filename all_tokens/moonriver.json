@@ -381,6 +381,18 @@
         ]
     },
     {
+        "symbol": "DODO",
+        "name": "DODO",
+        "address": "0xE9460BD2FFB12b668fA32919C785C239f974D37C",
+        "decimals": 18,
+        "chainId": 1285,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1645695886269_18104466444652156.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin - Meter",
         "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
@@ -1106,6 +1118,18 @@
         ]
     },
     {
+        "symbol": "ZRG",
+        "name": "Zircon Gamma Token",
+        "address": "0x4545E94974AdACb82FC56BCf136B07943e152055",
+        "decimals": 18,
+        "chainId": 1285,
+        "logoURI": "https://assets.coingecko.com/coins/images/27832/thumb/zrg_300.png?1665994776",
+        "coingeckoId": "zircon-gamma-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "RIVRSHIBA",
         "name": "Rivr Shiba",
         "address": "0x3d593056F3e34dB7A4720d7F171447C489CFa195",
@@ -1120,14 +1144,15 @@
         ]
     },
     {
-        "symbol": "wstKSM",
-        "name": "Wrapped liquid staked KSM",
+        "symbol": "WSTKSM",
+        "name": "Lido on Kusama",
         "address": "0x3bfd113ad0329a7994a681236323fb16E16790e3",
         "decimals": 12,
         "chainId": 1285,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/27858/thumb/wstKSM.png?1666096461",
+        "coingeckoId": "lido-on-kusama",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

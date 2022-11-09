@@ -38,7 +38,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -132,6 +133,7 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -280,7 +282,8 @@
             "sushiswap",
             "openocean",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -339,6 +342,20 @@
         "coingeckoId": null,
         "listedIn": [
             "arbitrum_bridge",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "HOP",
+        "name": "Hop Protocol",
+        "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://tokens.1inch.io/0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc.png",
+        "coingeckoId": "hop-protocol",
+        "listedIn": [
+            "coingecko",
+            "1inch",
             "lifinance"
         ]
     },
@@ -437,7 +454,8 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -490,6 +508,19 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MGN",
+        "name": "Mugen Finance",
+        "address": "0xFc77b86F3ADe71793E1EEc1E7944DB074922856e",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/27340/thumb/Group_2915.jpg?1663549948",
+        "coingeckoId": "mugen-finance",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -628,6 +659,19 @@
             "coingecko",
             "sushiswap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WMEMO",
+        "name": "Wonderful Memories",
+        "address": "0xECf2ADafF1De8A512f6e8bfe67a2C836EDb25Da3",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/22392/thumb/wMEMO.png?1665832927",
+        "coingeckoId": "wrapped-memory",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -931,6 +975,19 @@
         ]
     },
     {
+        "symbol": "XDO",
+        "name": "xDollar",
+        "address": "0x9eF758aC000a354479e538B8b2f01b917b8e89e7",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1637831645816_6024340081244819.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ASCEND",
         "name": "Ascension Protocol",
         "address": "0x9e724698051DA34994F281bD81C3E7372d1960AE",
@@ -1078,7 +1135,8 @@
             "coingecko",
             "openocean",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1283,6 +1341,19 @@
         ]
     },
     {
+        "symbol": "CVOL",
+        "name": "Crypto Volatility",
+        "address": "0x8096aD3107715747361acefE685943bFB427C722",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/24008/thumb/govi-dao.03ef3083.png?1646029661",
+        "coingeckoId": "crypto-volatility-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DHT",
         "name": "dHEDGE DAO",
         "address": "0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65",
@@ -1310,7 +1381,8 @@
             "coingecko",
             "openocean",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1732,6 +1804,7 @@
         "coingeckoId": "nitroshiba",
         "listedIn": [
             "coingecko",
+            "rubic",
             "lifinance"
         ]
     },
@@ -1747,7 +1820,8 @@
             "coingecko",
             "openocean",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1776,7 +1850,8 @@
             "coingecko",
             "openocean",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -1988,7 +2063,8 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -2043,7 +2119,7 @@
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
-        "decimals": 18,
+        "decimals": 8,
         "chainId": 42161,
         "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
         "coingeckoId": "wrapped-bitcoin",
@@ -2186,6 +2262,32 @@
         "listedIn": [
             "sushiswap",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "NIFLOKI",
+        "name": "NitroFloki",
+        "address": "0x1FAe2A29940015632f2a6CE006dFA7E3225515A7",
+        "decimals": 9,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/28038/thumb/nifloki.png?1667198797",
+        "coingeckoId": "nitrofloki",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BFR",
+        "name": "Buffer Token",
+        "address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/18540/thumb/Qk6pjeZ3_400x400.jpg?1664769142",
+        "coingeckoId": "ibuffer-token",
+        "listedIn": [
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -2440,6 +2542,19 @@
         ]
     },
     {
+        "symbol": "QSD",
+        "name": " QIAN second generation dollar",
+        "address": "0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1637832211908_8528681646600584.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AWBTC",
         "name": "Aave WBTC",
         "address": "0x078f358208685046a11C85e8ad32895DED33A249",
@@ -2464,7 +2579,8 @@
             "coingecko",
             "openocean",
             "arbitrum_bridge",
-            "rubic"
+            "rubic",
+            "lifinance"
         ]
     },
     {
