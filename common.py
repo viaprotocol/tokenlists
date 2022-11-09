@@ -84,7 +84,7 @@ class Token(BaseModel):
     @validator("address")
     def addr_checksum(cls, v: str):
         v = v.strip()
-        if v.startswith("0x"):
+        if Web3.isAddress(v):
             if "#" in v:
                 v = v.split("#")[0]
             return Web3.toChecksumAddress(v)
