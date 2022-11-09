@@ -9364,19 +9364,6 @@
             ]
         },
         {
-            "symbol": "FWT",
-            "name": "Freeway",
-            "address": "0x90a1E4BBADE88366dC44436535f1571d95e666c7",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/13012/thumb/S5h7MHR.png?1652862323",
-            "coingeckoId": "freeway",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "SDAO",
             "name": "SingularityDAO",
             "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
@@ -18617,15 +18604,14 @@
             ]
         },
         {
-            "symbol": "FBTC",
+            "symbol": "fBTC",
             "name": "fBTC",
             "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
-            "coingeckoId": "fbtc",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "rubic",
                 "lifinance"
@@ -19876,15 +19862,14 @@
             ]
         },
         {
-            "symbol": "FLINK",
+            "symbol": "fLINK",
             "name": "fLINK",
             "address": "0xA649A19423052dC6b320360B3C760884E095AC57",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/flink.jpg",
-            "coingeckoId": "flink",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "rubic",
                 "lifinance"
@@ -21060,15 +21045,14 @@
             ]
         },
         {
-            "symbol": "FETH",
+            "symbol": "fETH",
             "name": "fETH",
             "address": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
-            "coingeckoId": "feth",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "rubic",
                 "lifinance"
@@ -22152,15 +22136,14 @@
             ]
         },
         {
-            "symbol": "FBNB",
+            "symbol": "fBNB",
             "name": "fBNB",
             "address": "0x27f26F00e1605903645BbaBC0a73E35027Dccd45",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg",
-            "coingeckoId": "fbnb",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "rubic",
                 "lifinance"
@@ -22901,15 +22884,14 @@
             ]
         },
         {
-            "symbol": "FBAND",
+            "symbol": "fBAND",
             "name": "fBAND",
             "address": "0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg",
-            "coingeckoId": "fband",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "rubic",
                 "lifinance"
@@ -42040,19 +42022,6 @@
             ]
         },
         {
-            "symbol": "MTT",
-            "name": "Hakuna Shares",
-            "address": "0x388c07066AA6cEa2Be4db58e702333df92c3A074",
-            "decimals": 18,
-            "chainId": 25,
-            "logoURI": "https://assets.coingecko.com/coins/images/25494/thumb/MTT.png?1661827337",
-            "coingeckoId": "hakuna-shares",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "VVS",
             "name": "VVS Finance",
             "address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
@@ -47207,7 +47176,7 @@
         },
         {
             "symbol": "CFXQ",
-            "name": "CFX Quantum from Ethereum",
+            "name": "CFX Quantum on xDai",
             "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
             "decimals": 6,
             "chainId": 100,
