@@ -2588,18 +2588,6 @@
         ]
     },
     {
-        "symbol": "ASND",
-        "name": "Ascend",
-        "address": "0xFd0c58F03c83d6960BB9dbFd45076d78Df2F095D",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://api.rubic.exchange/assets/avalanche/0xfd0c58f03c83d6960bb9dbfd45076d78df2f095d/logo.png",
-        "coingeckoId": "ascend-node-club",
-        "listedIn": [
-            "rubic"
-        ]
-    },
-    {
         "symbol": "DOMI",
         "name": "Domi",
         "address": "0xFc6Da929c031162841370af240dEc19099861d3B",
@@ -4618,6 +4606,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "rubic",
             "lifinance"
         ]
     },
