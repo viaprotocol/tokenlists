@@ -5646,14 +5646,15 @@
         ]
     },
     {
-        "symbol": "SD(Wormhole)",
+        "symbol": "SD",
         "name": "Stader",
         "address": "0x412a13C109aC30f0dB80AD3Bd1DeFd5D0A6c0Ac6",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/SDWORMHOLE.png",
-        "coingeckoId": null,
+        "coingeckoId": "stader",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -6258,6 +6259,18 @@
         "coingeckoId": null,
         "listedIn": [
             "rubic"
+        ]
+    },
+    {
+        "symbol": "BNBBACK",
+        "name": "BNBBack",
+        "address": "0x280EbB7c9F2C90Ac6dD136516598a2f9efe70507",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/23890/thumb/MxdOnJKe_400x400.jpg?1645606314",
+        "coingeckoId": "bnbback",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

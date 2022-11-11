@@ -827,13 +827,14 @@
     },
     {
         "symbol": "SOLACE",
-        "name": "solace",
+        "name": "SOLACE",
         "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://tokens.1inch.io/0x501ace9c35e60f03a2af4d484f49f9b1efde9f40.png",
-        "coingeckoId": null,
+        "coingeckoId": "solace",
         "listedIn": [
+            "coingecko",
             "1inch",
             "trisolaris"
         ]

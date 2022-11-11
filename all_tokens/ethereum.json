@@ -27052,6 +27052,18 @@
         ]
     },
     {
+        "symbol": "NUTS",
+        "name": "NutsDAO",
+        "address": "0x981dc247745800bD2cA28a4bF147f0385Eaa0bc0",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28165/thumb/NSD.png?1668171752",
+        "coingeckoId": "nutsdao",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BONE",
         "name": "Bone ShibaSwap",
         "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
@@ -36953,6 +36965,18 @@
         ]
     },
     {
+        "symbol": "CXRBN",
+        "name": "CXRBN",
+        "address": "0x720dEf948b1891A0Ba2ca21964e2E5d0a806bc19",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/20532/thumb/Lw8i6sAn_400x400_%281%29.jpg?1637203406",
+        "coingeckoId": "cxrbn-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "GC",
         "name": "Gric Coin",
         "address": "0x720c2c93F5f9A6b82226e84095558B10F399b0FA",
@@ -39514,7 +39538,7 @@
         "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
         "decimals": 6,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/10481/thumb/tether_gold.png?1667873537",
+        "logoURI": "https://assets.coingecko.com/coins/images/10481/thumb/Tether_Gold.png?1668148656",
         "coingeckoId": "tether-gold",
         "listedIn": [
             "coingecko"
@@ -45479,6 +45503,18 @@
         ]
     },
     {
+        "symbol": "SOLACE",
+        "name": "SOLACE",
+        "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/21277/thumb/IMG_6599.png?1638862378",
+        "coingeckoId": "solace",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "3GG",
         "name": "3gg",
         "address": "0x5006192340D83bFa47ee2F28Edd0fd16a56d5b5e",
@@ -48708,13 +48744,14 @@
     },
     {
         "symbol": "ACX",
-        "name": "Across Protocol Token",
+        "name": "Across Protocol",
         "address": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "across-protocol",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]
@@ -58759,18 +58796,6 @@
         ]
     },
     {
-        "symbol": "GCOOOM",
-        "name": "Incooom Genesis Gold",
-        "address": "0x1e23Fb8Bd851cC2a341428C0B10E65d49987D744",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/18986/thumb/gcooom.png?1634111327",
-        "coingeckoId": "incooom-genesis-gold",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "PICIPO",
         "name": "Picipo",
         "address": "0x1e05f68B29b286FB3BbAd3c688D7e2ABda549b80",
@@ -60350,18 +60375,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/1653/thumb/bitdegree.jpg?1547035900",
         "coingeckoId": "bitdegree",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "LIB",
-        "name": "Libcoin",
-        "address": "0x195E1d3CdaE91B17FDF7F5276ADDF258ED9aFbc4",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/24955/thumb/lib.png?1649508885",
-        "coingeckoId": "libcoin",
         "listedIn": [
             "coingecko"
         ]

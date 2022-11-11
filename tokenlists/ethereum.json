@@ -15864,13 +15864,14 @@
     },
     {
         "symbol": "ACX",
-        "name": "Across Protocol Token",
+        "name": "Across Protocol",
         "address": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "across-protocol",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]

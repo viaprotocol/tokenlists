@@ -103,18 +103,6 @@
         ]
     },
     {
-        "symbol": "RHOUSDT",
-        "name": "rhoUSDT",
-        "address": "0xfe1168a882C46c94e381e775118e418ef1615315",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25536/thumb/rhoUSDT_200_200.png?1652256471",
-        "coingeckoId": "rhousdt-2",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "NODY",
         "name": "Nody",
         "address": "0xfe01c159ECdeE4377aBfc4cD1827089C47B806EA",
@@ -1139,7 +1127,7 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/27301/thumb/fxt.png?1663216615",
-        "coingeckoId": "fitr",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -4747,18 +4735,6 @@
             "pancake",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "EVM",
-        "name": "Evermoon",
-        "address": "0xdaDf16BE87e745aa3efC78135d260eA4960b2F92",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25524/thumb/RYna5-8j_400x400.jpg?1652186422",
-        "coingeckoId": "evermoon",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -14218,6 +14194,18 @@
         ]
     },
     {
+        "symbol": "NFT2",
+        "name": "NFT2STAKE",
+        "address": "0xF4d198264896917E769F5bf1AE29E9a36BD72dE8",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28154/thumb/DCFFCF6C-5981-419A-A730-CF35ADA60420.jpeg?1668159589",
+        "coingeckoId": "nft2stake",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BBANK",
         "name": "blockbank",
         "address": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
@@ -22105,18 +22093,6 @@
         ]
     },
     {
-        "symbol": "RHOBUSD",
-        "name": "rhoBUSD",
-        "address": "0xB498CaC6725c31A586D9AE81e828AD05535b368B",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25537/thumb/rhoBUSD_200_200.png?1652257569",
-        "coingeckoId": "rhobusd-2",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MFO",
         "name": "MoonFarm Finance",
         "address": "0xB46049c79D77fF1D555a67835FbA6978536581Af",
@@ -22419,6 +22395,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/15908/thumb/logo-200x200_%284%29.png?1622413557",
         "coingeckoId": "moonlight-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BOND",
+        "name": "Bondly",
+        "address": "0xB19a3f8761E4EcFd26AaA2e3a302b45692daCeD3",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28159/thumb/logo_%283%29.png?1668163003",
+        "coingeckoId": "bondly-defi",
         "listedIn": [
             "coingecko"
         ]
@@ -29201,18 +29189,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/26199/thumb/WALKN_LOGO_PNG.png?1656484628",
         "coingeckoId": "walkn",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "MYFARMPET",
-        "name": "My Farm Pet",
-        "address": "0x903fCaf1A49B29678C15B43bc9F852232BfA7dF1",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17850/thumb/photo-2021-08-16-18-12-11.png?1629525722",
-        "coingeckoId": "my-farm-pet",
         "listedIn": [
             "coingecko"
         ]
@@ -41338,6 +41314,18 @@
         ]
     },
     {
+        "symbol": "POP",
+        "name": "Popcoin",
+        "address": "0x63bc9770Ea9a2F21Df6cc1224D64d8dEc9c61a74",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28160/thumb/Popcoin-logo-200x200.png?1668163551",
+        "coingeckoId": "popcoin",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "EARN",
         "name": "Yearn Classic Finance",
         "address": "0x63a18BC38D1101DB7F0efCbCBdCbe927A5879039",
@@ -49998,6 +49986,18 @@
         ]
     },
     {
+        "symbol": "FT",
+        "name": "Fanverse Token",
+        "address": "0x43d1416171d683816B067347A1727861a9CfeF9a",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28157/thumb/output-fanverse.png?1668162287",
+        "coingeckoId": "fanverse-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "NEKOS",
         "name": "Nekocoin",
         "address": "0x43ce64A4FBa3c30C0164E935B0095862a67dc0c9",
@@ -50562,18 +50562,6 @@
         "coingeckoId": "dogecoin",
         "listedIn": [
             "rubic"
-        ]
-    },
-    {
-        "symbol": "MGM",
-        "name": "MetaGemMolon",
-        "address": "0x41f58f03A085d6E6d4e6c23D104C5F69787890e1",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25529/thumb/Kby51SO.png?1652249870",
-        "coingeckoId": "monopolon",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -51741,6 +51729,18 @@
         ]
     },
     {
+        "symbol": "FBURN",
+        "name": "Forever Burn",
+        "address": "0x3b2CB8B2A9BaF200142456C550A328E6C45c176B",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28156/thumb/Forever_Burn.jpeg?1668161617",
+        "coingeckoId": "forever-burn",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "EMP",
         "name": "Emp Money",
         "address": "0x3b248CEfA87F836a4e6f6d6c9b42991b88Dc1d58",
@@ -52496,6 +52496,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/23543/thumb/logo-small.png?1644391982",
         "coingeckoId": "dexscrow",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SD",
+        "name": "Stader",
+        "address": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/20658/thumb/sd.png?1642927667",
+        "coingeckoId": "stader",
         "listedIn": [
             "coingecko"
         ]
@@ -57841,6 +57853,18 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "ABB",
+        "name": "Astro Babies",
+        "address": "0x277aE79C42c859cA858d5A92C22222C8b65c6D94",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28158/thumb/Untitled_design.png?1668162808",
+        "coingeckoId": "astro-babies",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -67837,18 +67861,6 @@
         ]
     },
     {
-        "symbol": "HYPER",
-        "name": "HyperChain X",
-        "address": "0x0469F8Ca65Ce318888cc0d6459d0c7cbe5912c98",
-        "decimals": 7,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18338/thumb/new_logo.png?1655180883",
-        "coingeckoId": "hyperchain-x",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "bCFX",
         "name": "Conflux",
         "address": "0x045c4324039dA91c52C55DF5D785385Aab073DcF",
@@ -68271,6 +68283,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/17877/thumb/60ztTDu.jpg?1629702327",
         "coingeckoId": "big-digital-shares",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "RB",
+        "name": "REBorn",
+        "address": "0x0307ad99Bd569FD8d4934b7313b9B479caF7F225",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28155/thumb/rb.png?1668159763",
+        "coingeckoId": "reborn",
         "listedIn": [
             "coingecko"
         ]
