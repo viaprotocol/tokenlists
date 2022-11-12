@@ -4877,19 +4877,6 @@
             ]
         },
         {
-            "symbol": "DRS",
-            "name": "Dragon Slayer",
-            "address": "0xc8E8ecB2A5B5d1eCFf007BF74d15A86434aA0c5C",
-            "decimals": 9,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/17876/thumb/t1vfKIA.png?1629702004",
-            "coingeckoId": "dragon-slayer",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "BIT",
             "name": "Biconomy Exchange",
             "address": "0xc864019047B864B6ab609a968ae2725DFaee808A",
@@ -7851,19 +7838,6 @@
             "listedIn": [
                 "coingecko",
                 "lifinance"
-            ]
-        },
-        {
-            "symbol": "MNC",
-            "name": "Maincoin",
-            "address": "0xB8AE295FEF08728B48094D5A1D4A01F2b85139F8",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/7717/thumb/200x200-1.png?1664072385",
-            "coingeckoId": "maincoin",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -18954,14 +18928,13 @@
         },
         {
             "symbol": "MIDAS",
-            "name": "Midas",
+            "name": "Midas Finance",
             "address": "0xb37528DA6b4D378305d000a66Ad91bd88E626761",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://assets.spooky.fi/tokens/MIDAS.png",
-            "coingeckoId": "midas",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "openocean",
                 "SpookySwap",
                 "lifinance"
@@ -75754,6 +75727,19 @@
     ],
     "9001": [
         {
+            "symbol": "G-USDT",
+            "name": "Gravity Bridge Tether",
+            "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+            "decimals": 6,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/28170/thumb/gusdt.png?1668243861",
+            "coingeckoId": "gravity-bridge-tether",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "FXS",
             "name": "Frax Share",
             "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
@@ -75761,6 +75747,71 @@
             "chainId": 9001,
             "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
             "coingeckoId": "frax-share",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "G-DAI",
+            "name": "Gravity Bridge DAI",
+            "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+            "decimals": 18,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/28169/thumb/g-dai.png?1668243431",
+            "coingeckoId": "gravity-bridge-dai",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "G-WETH",
+            "name": "Gravity Bridge WETH",
+            "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+            "decimals": 18,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/28174/thumb/gweth.png?1668246159",
+            "coingeckoId": "gravity-bridge-weth",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "CEWBTC",
+            "name": "Wrapped Bitcoin   Celer",
+            "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
+            "decimals": 8,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/25013/thumb/3717.png?1649825574",
+            "coingeckoId": "wrapped-bitcoin-celer",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "OSMO",
+            "name": "Osmosis",
+            "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+            "decimals": 6,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/16724/thumb/osmo.png?1632763885",
+            "coingeckoId": "osmosis",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "AXLWBTC",
+            "name": "axlWBTC",
+            "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
+            "decimals": 8,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/28173/thumb/axlwbtc.png?1668245218",
+            "coingeckoId": "axlwbtc",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -75806,6 +75857,32 @@
             ]
         },
         {
+            "symbol": "GRAV",
+            "name": "Graviton",
+            "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+            "decimals": 6,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/24818/thumb/Graviton_-_Blue_200x200i.png?1649038479",
+            "coingeckoId": "graviton",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "G-USDC",
+            "name": "Gravity Bridge USDC",
+            "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+            "decimals": 6,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/28175/thumb/gusdc.png?1668246961",
+            "coingeckoId": "gravity-bridge-usdc",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "USDC",
             "name": "USD Coin",
             "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
@@ -75813,6 +75890,19 @@
             "chainId": 9001,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
             "coingeckoId": "usd-coin",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "AXLWETH",
+            "name": "axlWETH",
+            "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
+            "decimals": 18,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/axlweth.png?1668244532",
+            "coingeckoId": "axlweth",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -75839,6 +75929,58 @@
             "chainId": 9001,
             "logoURI": "https://assets.coingecko.com/coins/images/25331/thumb/photo5451952870917257644.jpg?1651826321",
             "coingeckoId": "diffusion",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "JUNO",
+            "name": "JUNO",
+            "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
+            "decimals": 6,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/19249/thumb/juno.png?1642838082",
+            "coingeckoId": "juno-network",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "G-WBTC",
+            "name": "Gravity Bridge WBTC",
+            "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
+            "decimals": 8,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/28172/thumb/gwbtc.png?1668244896",
+            "coingeckoId": "gravity-bridge-wbtc",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "AXLUSDC",
+            "name": "axlUSDC",
+            "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+            "decimals": 6,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
+            "coingeckoId": "axlusdc",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "CEWETH",
+            "name": "Wrapped Ether   Celer",
+            "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
+            "decimals": 18,
+            "chainId": 9001,
+            "logoURI": "https://assets.coingecko.com/coins/images/24827/thumb/weth.png?1649047091",
+            "coingeckoId": "wrapped-ether-celer",
             "listedIn": [
                 "coingecko",
                 "lifinance"

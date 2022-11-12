@@ -41,7 +41,7 @@ Here are chains presented in our tokenlists with current token count. You can fi
 Token counts are approximate and may vary as providers update their tokenlists.
 
 - Ethereum, 1521 tokens
-- Bsc, 1003 tokens
+- Bsc, 1001 tokens
 - Polygon, 672 tokens
 - 101, 507 tokens
 - Solana, 396 tokens
@@ -59,11 +59,11 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Okex, 48 tokens
 - Moonbeam, 34 tokens
 - Fuse, 23 tokens
+- Evmos, 21 tokens
 - Astar, 15 tokens
 - Boba, 13 tokens
 - Telos, 10 tokens
 - Kcc, 9 tokens
-- Evmos, 8 tokens
 
 Testnets:
 

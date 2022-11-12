@@ -1135,14 +1135,13 @@
     },
     {
         "symbol": "MIDAS",
-        "name": "Midas",
+        "name": "Midas Finance",
         "address": "0xb37528DA6b4D378305d000a66Ad91bd88E626761",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/MIDAS.png",
-        "coingeckoId": "midas",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "SpookySwap",
             "lifinance"
@@ -6453,6 +6452,18 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "TLC",
+        "name": "TLChain",
+        "address": "0x2578850d2a34e7DcE51355895dB05F3bBE562822",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/28177/thumb/tlc.png?1668250171",
+        "coingeckoId": "tlchain",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
