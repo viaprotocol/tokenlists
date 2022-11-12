@@ -132,12 +132,27 @@
         "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg",
+        "logoURI": "https://tokens.1inch.io/0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba.png",
         "coingeckoId": "magic-internet-money",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "VRGW",
+        "name": "Virtual Reality Game World",
+        "address": "0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.1inch.io/0xfdd2374be7ae7a71138b9f6b93d9ef034a49edb6.png",
+        "coingeckoId": "virtual-reality-game-world",
+        "listedIn": [
+            "coingecko",
+            "1inch",
             "lifinance"
         ]
     },
@@ -162,6 +177,20 @@
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0xfd5840cd36d94d7229439859c0112a4185bc0255.png",
         "coingeckoId": "venus-usdt",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "QUA",
+        "name": "Quarashi",
+        "address": "0xfD0fD32A20532ad690731c2685d77c351015ebBa",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.1inch.io/0xfd0fd32a20532ad690731c2685d77c351015ebba.png",
+        "coingeckoId": "quarashi",
         "listedIn": [
             "coingecko",
             "1inch",
@@ -2606,6 +2635,20 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "CAPS",
+        "name": "Ternoa",
+        "address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.1inch.io/0xffba7529ac181c2ee1844548e6d7061c9a597df4.png",
+        "coingeckoId": "coin-capsule",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {

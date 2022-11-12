@@ -516,10 +516,11 @@
         "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg",
+        "logoURI": "https://tokens.1inch.io/0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba.png",
         "coingeckoId": "magic-internet-money",
         "listedIn": [
             "coingecko",
+            "1inch",
             "sushiswap",
             "rubic",
             "lifinance"
@@ -579,10 +580,12 @@
         "address": "0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27395/thumb/IMG_20220921_091002_981.png?1663826038",
+        "logoURI": "https://tokens.1inch.io/0xfdd2374be7ae7a71138b9f6b93d9ef034a49edb6.png",
         "coingeckoId": "virtual-reality-game-world",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -642,10 +645,12 @@
         "address": "0xfD0fD32A20532ad690731c2685d77c351015ebBa",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25589/thumb/Lk2A7ta.png?1652769197",
+        "logoURI": "https://tokens.1inch.io/0xfd0fd32a20532ad690731c2685d77c351015ebba.png",
         "coingeckoId": "quarashi",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -1116,18 +1121,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/19013/thumb/mnbTEPws_400x400.jpg?1634183119",
         "coingeckoId": "aegis-launchpad",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "FXT",
-        "name": "FitR",
-        "address": "0xf8332Edf5d8B1D0C94411DEF2AD6C21c5184cc1A",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27301/thumb/fxt.png?1663216615",
-        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -12014,6 +12007,18 @@
         ]
     },
     {
+        "symbol": "TRMX",
+        "name": "TourismX",
+        "address": "0xa6472bC7C0E2266034BB40edD8c6E8961cF45826",
+        "decimals": 4,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28164/thumb/trmx.png?1668170021",
+        "coingeckoId": "tourismx",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "DIWOT",
         "name": "Digital World Travel Chain",
         "address": "0xa62b360D16732dA446f37AD203E5226F448Ca9b2",
@@ -12826,10 +12831,12 @@
         "address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/15921/thumb/e55393fa-7b4d-40f5-9f36-9a8a6bdcb570.png?1622430581",
+        "logoURI": "https://tokens.1inch.io/0xffba7529ac181c2ee1844548e6d7061c9a597df4.png",
         "coingeckoId": "coin-capsule",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -19170,6 +19177,18 @@
         ]
     },
     {
+        "symbol": "FST",
+        "name": "FitR Social Token",
+        "address": "0xCDeD8C06f98a396dfC52246591907CbAE900b873",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28162/thumb/fst.png?1668169355",
+        "coingeckoId": "fitr-social-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ADD",
         "name": "Add xyz  NEW ",
         "address": "0xCD7E445175fF67475F0079B13aA6bED8a4e01809",
@@ -22554,6 +22573,18 @@
             "rubic",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "BOB",
+        "name": "BOB",
+        "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -28987,6 +29018,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/23650/thumb/cmc.png?1645602955",
         "coingeckoId": "parex",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "EPIX",
+        "name": "Byepix",
+        "address": "0x90E1f81b298f6c180cE6f71a6BDB4ACf41Be8E01",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28163/thumb/byepix.png?1668169693",
+        "coingeckoId": "byepix",
         "listedIn": [
             "coingecko"
         ]

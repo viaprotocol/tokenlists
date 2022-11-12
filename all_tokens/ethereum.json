@@ -230,10 +230,12 @@
         "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/8825/thumb/Ticker.png?1657632943",
+        "logoURI": "https://tokens.1inch.io/0xfc82bb4ba86045af6f327323a46e80412b91b27d.png",
         "coingeckoId": "prometeus",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -12723,10 +12725,12 @@
         "address": "0xFeeB4D0f5463B1b04351823C246bdB84c4320CC2",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/27529/thumb/33406C30-2F50-45D8-9F75-5B7EAEB23038.jpeg?1664371749",
+        "logoURI": "https://tokens.1inch.io/0xfeeb4d0f5463b1b04351823c246bdb84c4320cc2.png",
         "coingeckoId": "gold-retriever",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -12771,10 +12775,11 @@
         "address": "0xFe2e637202056d30016725477c5da089Ab0A043A",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/16569/small/emerald256.png?1624494960",
+        "logoURI": "https://tokens.1inch.io/0xfe2e637202056d30016725477c5da089ab0a043a.png",
         "coingeckoId": "seth2",
         "listedIn": [
             "coingecko",
+            "1inch",
             "openocean",
             "lifinance",
             "xyfinance"
@@ -12810,10 +12815,12 @@
         "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164",
+        "logoURI": "https://tokens.1inch.io/0xfd09911130e6930bf87f2b0554c44f400bd80d3e.png",
         "coingeckoId": "ethichub",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -12891,11 +12898,13 @@
         "address": "0xFc0d6Cf33e38bcE7CA7D89c0E292274031b7157A",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/15721/thumb/netvrk_icon.png?1627536091",
+        "logoURI": "https://tokens.1inch.io/0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a.png",
         "coingeckoId": "netvrk",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch",
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -24023,6 +24032,18 @@
         "listedIn": [
             "openocean",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "MUNI",
+        "name": "MUNI",
+        "address": "0xA7dE94227Eb6828497f4343B9923959E41Ae9CD1",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28166/thumb/I03PYZqO_400x400-removebg-preview.png?1668172860",
+        "coingeckoId": "muni",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -49675,11 +49696,12 @@
         "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
         "decimals": 8,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/17541/thumb/qrdo.png?1630637735",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1668215197123_2832419181148085.png",
         "coingeckoId": "qredo",
         "listedIn": [
             "coingecko",
             "uniswap",
+            "openocean",
             "rubic",
             "lifinance"
         ]
@@ -66020,11 +66042,13 @@
         "address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png",
+        "logoURI": "https://tokens.1inch.io/0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2.png",
         "coingeckoId": "coin-capsule",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "1inch",
+            "sushiswap",
+            "lifinance"
         ]
     },
     {

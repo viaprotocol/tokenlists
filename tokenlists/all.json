@@ -2325,12 +2325,14 @@
             "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
             "decimals": 18,
             "chainId": 42161,
-            "logoURI": "https://cloudstorage.openocean.finance/images/1665397428114_2021347136036562.png",
+            "logoURI": "https://tokens.1inch.io/0x5979d7b546e38e414f7e9822514be443a4800529.png",
             "coingeckoId": "wrapped-steth",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "openocean",
-                "rubic"
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -3470,12 +3472,27 @@
             "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
             "decimals": 18,
             "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg",
+            "logoURI": "https://tokens.1inch.io/0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba.png",
             "coingeckoId": "magic-internet-money",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "sushiswap",
                 "rubic",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "VRGW",
+            "name": "Virtual Reality Game World",
+            "address": "0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://tokens.1inch.io/0xfdd2374be7ae7a71138b9f6b93d9ef034a49edb6.png",
+            "coingeckoId": "virtual-reality-game-world",
+            "listedIn": [
+                "coingecko",
+                "1inch",
                 "lifinance"
             ]
         },
@@ -3500,6 +3517,20 @@
             "chainId": 56,
             "logoURI": "https://tokens.1inch.io/0xfd5840cd36d94d7229439859c0112a4185bc0255.png",
             "coingeckoId": "venus-usdt",
+            "listedIn": [
+                "coingecko",
+                "1inch",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "QUA",
+            "name": "Quarashi",
+            "address": "0xfD0fD32A20532ad690731c2685d77c351015ebBa",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://tokens.1inch.io/0xfd0fd32a20532ad690731c2685d77c351015ebba.png",
+            "coingeckoId": "quarashi",
             "listedIn": [
                 "coingecko",
                 "1inch",
@@ -5944,6 +5975,20 @@
             "listedIn": [
                 "coingecko",
                 "rubic"
+            ]
+        },
+        {
+            "symbol": "CAPS",
+            "name": "Ternoa",
+            "address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://tokens.1inch.io/0xffba7529ac181c2ee1844548e6d7061c9a597df4.png",
+            "coingeckoId": "coin-capsule",
+            "listedIn": [
+                "coingecko",
+                "1inch",
+                "lifinance"
             ]
         },
         {
@@ -25128,10 +25173,11 @@
             "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
             "decimals": 18,
             "chainId": 10,
-            "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+            "logoURI": "https://tokens.1inch.io/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb.png",
             "coingeckoId": "wrapped-steth",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "openocean",
                 "optimism",
                 "lifinance"
@@ -35880,19 +35926,6 @@
             ]
         },
         {
-            "symbol": "ARMY",
-            "name": "Army Node Finance",
-            "address": "0xb323c7f46f7F1CA0215553E794F7407c2Fa71eeB",
-            "decimals": 18,
-            "chainId": 43114,
-            "logoURI": "https://assets.coingecko.com/coins/images/24089/thumb/IMG-1283.png?1646295839",
-            "coingeckoId": "army-node-finance",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "symbol": "ROCO",
             "name": "Roco Finance",
             "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
@@ -37087,6 +37120,19 @@
             "listedIn": [
                 "coingecko",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "MAGIC",
+            "name": "Cosmic Universe Magic",
+            "address": "0x9A8E0217cD870783c3f2317985C57Bf570969153",
+            "decimals": 18,
+            "chainId": 43114,
+            "logoURI": "https://assets.coingecko.com/coins/images/19313/thumb/13037.png?1635025843",
+            "coingeckoId": "cosmic-universe-magic-token",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -48600,6 +48646,20 @@
             ]
         },
         {
+            "symbol": "PROM",
+            "name": "Prom",
+            "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://tokens.1inch.io/0xfc82bb4ba86045af6f327323a46e80412b91b27d.png",
+            "coingeckoId": "prometeus",
+            "listedIn": [
+                "coingecko",
+                "1inch",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "ESS",
             "name": "Essentia",
             "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
@@ -52273,18 +52333,47 @@
             ]
         },
         {
+            "symbol": "GLDN",
+            "name": "Gold Retriever",
+            "address": "0xFeeB4D0f5463B1b04351823C246bdB84c4320CC2",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://tokens.1inch.io/0xfeeb4d0f5463b1b04351823c246bdb84c4320cc2.png",
+            "coingeckoId": "gold-retriever",
+            "listedIn": [
+                "coingecko",
+                "1inch",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "SETH2",
             "name": "sETH2",
             "address": "0xFe2e637202056d30016725477c5da089Ab0A043A",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/16569/small/emerald256.png?1624494960",
+            "logoURI": "https://tokens.1inch.io/0xfe2e637202056d30016725477c5da089ab0a043a.png",
             "coingeckoId": "seth2",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "openocean",
                 "lifinance",
                 "xyfinance"
+            ]
+        },
+        {
+            "symbol": "ETHIX",
+            "name": "EthicHub",
+            "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://tokens.1inch.io/0xfd09911130e6930bf87f2b0554c44f400bd80d3e.png",
+            "coingeckoId": "ethichub",
+            "listedIn": [
+                "coingecko",
+                "1inch",
+                "lifinance"
             ]
         },
         {
@@ -52338,11 +52427,13 @@
             "address": "0xFc0d6Cf33e38bcE7CA7D89c0E292274031b7157A",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/15721/thumb/netvrk_icon.png?1627536091",
+            "logoURI": "https://tokens.1inch.io/0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a.png",
             "coingeckoId": "netvrk",
             "listedIn": [
                 "coingecko",
-                "rubic"
+                "1inch",
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -64678,11 +64769,12 @@
             "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
             "decimals": 8,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/17541/thumb/qrdo.png?1630637735",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1668215197123_2832419181148085.png",
             "coingeckoId": "qredo",
             "listedIn": [
                 "coingecko",
                 "uniswap",
+                "openocean",
                 "rubic",
                 "lifinance"
             ]
@@ -70031,11 +70123,13 @@
             "address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png",
+            "logoURI": "https://tokens.1inch.io/0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2.png",
             "coingeckoId": "coin-capsule",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "1inch",
+                "sushiswap",
+                "lifinance"
             ]
         },
         {
@@ -79197,6 +79291,7 @@
         }
     ],
     "-2": [],
+    "199": [],
     "20": [],
     "4689": [],
     "2222": [],
