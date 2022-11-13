@@ -841,6 +841,18 @@
         ]
     },
     {
+        "symbol": "KIRA",
+        "name": "KIRA",
+        "address": "0xf98AB0874b13a7Fdc39D7295DEdd49850A5D426B",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28196/thumb/KIRA_CMC.png?1668334302",
+        "coingeckoId": "kira",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ZYX",
         "name": "ZYX",
         "address": "0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D",
@@ -8108,18 +8120,6 @@
         ]
     },
     {
-        "symbol": "MAC",
-        "name": "Matrexcoin",
-        "address": "0xc3e2de0b661cF58F66BdE8E896905399ded58af5",
-        "decimals": 0,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/6579/thumb/l5b5MJXn_400x400.jpg?1557131764",
-        "coingeckoId": "matrexcoin",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "TRND",
         "name": "Trendering",
         "address": "0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
@@ -8745,6 +8745,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/13957/thumb/zusd.png?1613353410",
         "coingeckoId": "zytara-dollar",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SPLC",
+        "name": "SupplyCon",
+        "address": "0xbe7A4f88c6B15a722aa960B487BAdF9880184Ec5",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28192/thumb/SupplyCon_Logo_.png?1668327647",
+        "coingeckoId": "supplycon",
         "listedIn": [
             "coingecko"
         ]
@@ -36261,6 +36273,18 @@
         ]
     },
     {
+        "symbol": "ARNC",
+        "name": "Arnoya classic",
+        "address": "0x7495e5Cc8F27e0bd5bD4cb86d17F0D841cA58EE4",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28194/thumb/ARNC_200.png?1668332937",
+        "coingeckoId": "arnoya-classic",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "NDS",
         "name": "Nodeseeds",
         "address": "0x747f564d258612ec5c4E24742C5fd4110bCbe46B",
@@ -42050,6 +42074,18 @@
         ]
     },
     {
+        "symbol": "FSC",
+        "name": "Fileshare Platform",
+        "address": "0x5f4361971667C8198706dEc8C59cF7607e405C6e",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28190/thumb/fsc.png?1668325601",
+        "coingeckoId": "fileshare-platform",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "FLASH",
         "name": "Flash Loans",
         "address": "0x5f0366c9962193fA774cdce9602195593B49f23C",
@@ -42791,6 +42827,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "ASAN",
+        "name": "ASAN VERSE",
+        "address": "0x5F1F11a3dD7a0C39Da1BaA3C7b8585b52a77f435",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28189/thumb/200200_copy.png?1668324848",
+        "coingeckoId": "asan-verse",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -47325,6 +47373,18 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "GSBL",
+        "name": "GasBlock",
+        "address": "0x4A5dec561de897c04062137e687db6093C3278B8",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28191/thumb/gasblock_logo_200xW.png?1668327478",
+        "coingeckoId": "gasblock",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -59634,7 +59694,7 @@
     },
     {
         "symbol": "MON",
-        "name": "DeFi Franc Moneta",
+        "name": "Defi Franc Moneta",
         "address": "0x1EA48B9965bb5086F3b468E50ED93888a661fc17",
         "decimals": 18,
         "chainId": 1,
