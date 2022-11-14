@@ -2263,6 +2263,18 @@
         ]
     },
     {
+        "symbol": "FRAX",
+        "name": "Frax",
+        "address": "0x667Fd83E24Ca1D935d36717D305D54fA0CAC991C",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "wsSQUID",
         "name": "Wrapped sSQUID",
         "address": "0x6633C083F54bB65F702F9f276319bb24b65FeC18",
@@ -2374,6 +2386,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "LODE",
+        "name": "Lodestar",
+        "address": "0x5EcC0446e8AA72B9BD74B8935687e1E4cA3478d3",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/28218/thumb/lode.png?1668429341",
+        "coingeckoId": "lodestar",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -2720,6 +2744,18 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "KTN",
+        "name": "Kostren Finance",
+        "address": "0x46CA8eD5465cB859bB3C3364078912c25f4D74De",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/28214/thumb/Kostren_%281%29.png?1668428043",
+        "coingeckoId": "kostren-finance",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

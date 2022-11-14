@@ -2745,18 +2745,6 @@
         ]
     },
     {
-        "symbol": "GOD",
-        "name": "GOD CANDLE",
-        "address": "0x9c1C108103b52656564303bddeeD4Eb14Df835df",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://api.rubic.exchange/assets/fantom/0x9c1c108103b52656564303bddeed4eb14df835df/logo.png",
-        "coingeckoId": "god-candle",
-        "listedIn": [
-            "rubic"
-        ]
-    },
-    {
         "symbol": "FTMO",
         "name": "Fantom Oasis",
         "address": "0x9bD0611610A0f5133e4dd1bFdd71C5479Ee77f37",
@@ -5216,6 +5204,18 @@
         "chainId": 250,
         "logoURI": "https://api.rubic.exchange/assets/fantom/0x4a3dce89ca816d4f10864664b6503df95a92d879/logo.png",
         "coingeckoId": "fantom-cake",
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
+        "symbol": "SPIRIT-LP",
+        "name": "Spirit LPs",
+        "address": "0x4Fe6f19031239F105F753D1DF8A0d24857D0cAA2",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://api.rubic.exchange/assets/fantom/0x4fe6f19031239f105f753d1df8a0d24857d0caa2/logo.png",
+        "coingeckoId": null,
         "listedIn": [
             "rubic"
         ]
