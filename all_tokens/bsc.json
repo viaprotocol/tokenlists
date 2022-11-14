@@ -916,7 +916,7 @@
         "address": "0xfA1BA18067aC6884fB26e329e60273488a247FC3",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/21510/thumb/4-02.png?1639375120",
+        "logoURI": "https://assets.coingecko.com/coins/images/21510/thumb/top-hat-200x200.png?1668344782",
         "coingeckoId": "scrooge",
         "listedIn": [
             "coingecko"
@@ -12665,7 +12665,7 @@
     },
     {
         "symbol": "HPO",
-        "name": "Hippopotamus",
+        "name": "Hippo Wallet",
         "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
         "decimals": 18,
         "chainId": 56,
@@ -33971,14 +33971,13 @@
     },
     {
         "symbol": "GALA",
-        "name": "Gala",
+        "name": "pTokens GALA",
         "address": "0x7dDEE176F665cD201F93eEDE625770E2fD911990",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/12493/small/GALA-COINGECKO.png?1600233435",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "rubic",
             "lifinance",
@@ -49784,8 +49783,9 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x44ec807ce2f4a6f2737a92e985f318d035883e47.png",
-        "coingeckoId": null,
+        "coingeckoId": "hashflow",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]

@@ -7115,14 +7115,13 @@
     },
     {
         "symbol": "GALA",
-        "name": "Gala",
+        "name": "pTokens GALA",
         "address": "0x7dDEE176F665cD201F93eEDE625770E2fD911990",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/12493/small/GALA-COINGECKO.png?1600233435",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "rubic",
             "lifinance",
@@ -10412,8 +10411,9 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x44ec807ce2f4a6f2737a92e985f318d035883e47.png",
-        "coingeckoId": null,
+        "coingeckoId": "hashflow",
         "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]
