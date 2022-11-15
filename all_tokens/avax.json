@@ -6761,6 +6761,18 @@
         ]
     },
     {
+        "symbol": "JADE",
+        "name": "Jade Protocol",
+        "address": "0x80B010450fDAf6a3f8dF033Ee296E92751D603B3",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://api.rubic.exchange/assets/avalanche/0x80b010450fdaf6a3f8df033ee296e92751d603b3/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "1UP",
         "name": "Uptrennd",
         "address": "0x7fB11D8945653F0978cCA2Ef51442bF31c84e142",
@@ -7765,8 +7777,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24006/thumb/Glassape-new-1.png?1646380939",
         "coingeckoId": "ape-universe",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "coingecko"
         ]
     },
     {

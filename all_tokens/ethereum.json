@@ -8823,6 +8823,18 @@
         ]
     },
     {
+        "symbol": "LUNA",
+        "name": "LUNA (Wormhole)",
+        "address": "0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xbd31ea8212119f94a611fa969881cba3ea06fa3d/logo.png",
+        "coingeckoId": "luna-wormhole",
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "MOMA",
         "name": "Mochi Market",
         "address": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
@@ -29061,6 +29073,18 @@
         ]
     },
     {
+        "symbol": "AIPRO",
+        "name": "AIPRO",
+        "address": "0x913c9509b94D32Ee38B0d98431C1FF109d24ff16",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28217/thumb/AIPro_logo_png.png?1668429140",
+        "coingeckoId": "aipro",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "UHP",
         "name": "Ulgen Hash Power",
         "address": "0x9135D92e3A34e2A94e4474B74b9DC2d51118eeD5",
@@ -35114,8 +35138,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18122/thumb/GP_BRAND_GREEN_Main_Icon_.png?1630562175",
         "coingeckoId": "genesis-pool",
         "listedIn": [
-            "coingecko",
-            "rubic"
+            "coingecko"
         ]
     },
     {
