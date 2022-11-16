@@ -2219,7 +2219,7 @@
     },
     {
         "symbol": "XSHIP",
-        "name": "SpaceShipX",
+        "name": "XSHIP",
         "address": "0xcB3FE445E9c118E2232203b1d4a44f900cBD95b2",
         "decimals": 18,
         "chainId": 137,
@@ -4558,7 +4558,7 @@
         "address": "0xEDcFb6984a3c70501BAA8b7f5421Ae795ecC1496",
         "decimals": 8,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/27723/thumb/meta-gecko.png?1667727810",
+        "logoURI": "https://assets.coingecko.com/coins/images/27723/thumb/meta-gecko50.png?1668597397",
         "coingeckoId": "abcmeta",
         "listedIn": [
             "coingecko"
@@ -4596,10 +4596,11 @@
         "address": "0xED755dBa6Ec1eb520076Cec051a582A6d81A8253",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/28091/thumb/champ.png?1667472074",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1668594279439_1547284331169272.jpg",
         "coingeckoId": "ultimate-champions",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -5080,6 +5081,18 @@
             "1inch",
             "rubic",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "SNOW",
+        "name": "Snowflake",
+        "address": "0xE0f463832295ADf63eB6CA053413a3f9cd8bf685",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/28228/thumb/logo200.png?1668567816",
+        "coingeckoId": "snowflake",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -8876,7 +8889,7 @@
         "address": "0x8Bb93979901cd159bF6763B223FBb315C31CCF7b",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/27543/thumb/intdestcoin_32.png?1664435697",
+        "logoURI": "https://assets.coingecko.com/coins/images/27543/thumb/logoend.png?1668586274",
         "coingeckoId": "indestcoin",
         "listedIn": [
             "coingecko"
@@ -14966,6 +14979,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "EQ9",
+        "name": "Equals9",
+        "address": "0x3963a400b42377376d6c3d92Ddf2d6288D8EE0d6",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/28233/thumb/1648392274941.jpeg?1668574545",
+        "coingeckoId": "eq9",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

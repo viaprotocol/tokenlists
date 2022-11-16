@@ -6671,6 +6671,18 @@
         ]
     },
     {
+        "symbol": "ZFM",
+        "name": "ZFMCOIN",
+        "address": "0xce6b8B2787C657f1b98b7A66B5B63178863fd719",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28232/thumb/20221106_193725.png?1668574239",
+        "coingeckoId": "zfmcoin",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "UNIF",
         "name": "Unified",
         "address": "0xce5347fdd503f25f8428151A274544A5bD1Bd8cA",
@@ -15574,6 +15586,18 @@
         ]
     },
     {
+        "symbol": "AMA",
+        "name": "AMAUROT",
+        "address": "0xE9Cd2668FB580c96b035B6d081E5753f23FE7f46",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28229/thumb/10b06d6c-379f-4c34-b3f2-196a770a4512.png?1668569067",
+        "coingeckoId": "amaurot",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "VLX",
         "name": "Velas",
         "address": "0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc",
@@ -15654,7 +15678,7 @@
         "address": "0xE90334c19c798C3A18d81b8cd16594247D5B19dd",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/26797/thumb/balanced.jpg?1660218777",
+        "logoURI": "https://assets.coingecko.com/coins/images/26797/thumb/BLN_Logo.png?1668597072",
         "coingeckoId": "balance-network",
         "listedIn": [
             "coingecko"
@@ -17442,7 +17466,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23013/thumb/sEEkbqt.jpeg?1643093201",
         "coingeckoId": "emp-shares",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "rubic"
         ]
     },
     {
@@ -18179,6 +18204,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/23867/thumb/h-quadrata.png?1645597648",
         "coingeckoId": "hearn-fi",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "EXT",
+        "name": "ExodusEXT",
+        "address": "0xD536851e2BD9b3B8EA6a46b32016D7f52B1e4327",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28241/thumb/IMG_20220614_095726_079.jpg?1668582858",
+        "coingeckoId": "exodusext",
         "listedIn": [
             "coingecko"
         ]
@@ -18990,7 +19027,6 @@
             "sushiswap",
             "openocean",
             "pancake",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -19842,10 +19878,9 @@
         "address": "0xC64c9B30C981fc2eE4e13d0CA3f08258e725fd24",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18102/thumb/polar-sync-logo-200.png?1651745427",
-        "coingeckoId": "polar-sync",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24/e211c503430383192ad7353e4056de9c.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -28813,6 +28848,18 @@
         ]
     },
     {
+        "symbol": "MEG",
+        "name": "MetaMic E Sports Games",
+        "address": "0x919Eb4899C7f573c02f14201B7f42B67f27d773E",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28242/thumb/meg.png?1668583282",
+        "coingeckoId": "metamic-e-sports-games",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MGLC",
         "name": "MetaverseMGL",
         "address": "0x91984CaFB26d302fEb61865dE5bfE3e5c9Af9672",
@@ -30633,7 +30680,7 @@
         "address": "0x8Bb93979901cd159bF6763B223FBb315C31CCF7b",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27543/thumb/intdestcoin_32.png?1664435697",
+        "logoURI": "https://assets.coingecko.com/coins/images/27543/thumb/logoend.png?1668586274",
         "coingeckoId": "indestcoin",
         "listedIn": [
             "coingecko"
@@ -34933,18 +34980,6 @@
         ]
     },
     {
-        "symbol": "ASP",
-        "name": "AscentPad",
-        "address": "0x7A66eBFD6Ef9e74213119717A3d03758A4A5891e",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22302/thumb/ascentpad.PNG?1641438999",
-        "coingeckoId": "ascentpad",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "DOGEZILLA",
         "name": "DogeZilla",
         "address": "0x7A565284572d03EC50c35396F7d6001252eb43B6",
@@ -35986,18 +36021,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/21611/thumb/9_RXV8-O_400x400.jpg?1639608207",
         "coingeckoId": "gameverse",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "BG",
-        "name": "BINGO",
-        "address": "0x7699211a5A2EC96B611Eb2Fd8DDABE622D852793",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27887/thumb/200.png?1666239738",
-        "coingeckoId": "bingo",
         "listedIn": [
             "coingecko"
         ]
@@ -41308,6 +41331,18 @@
         ]
     },
     {
+        "symbol": "TMAC",
+        "name": "Tip Me A Coffee",
+        "address": "0x6421282c7f14670D738F4651311C5a1286e46484",
+        "decimals": 6,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28243/thumb/IMG_20221109_032028_480.jpg?1668584308",
+        "coingeckoId": "tip-me-a-coffee",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "REFI",
         "name": "Realfinance Network",
         "address": "0x641a6Dc991A49f7BE9Fe3C72c5d0FBb223eDb12f",
@@ -44241,6 +44276,18 @@
         ]
     },
     {
+        "symbol": "BINGO",
+        "name": "Tomorrowland",
+        "address": "0x58C2Cc04b2859916C5E5683545B349df3d7530B8",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27887/thumb/200_%282%29.png?1668586821",
+        "coingeckoId": "bingo",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "V",
         "name": "Valor",
         "address": "0x588Ff59EE7ba59c33d1e891468a168770E0AE7d8",
@@ -45096,6 +45143,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/14986/thumb/papelLogo1.png?1621508941",
         "coingeckoId": "papel",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "MSG",
+        "name": "Meta Sports",
+        "address": "0x557c86c9C9E003CD74AFf798f3F540DdC546Ab9B",
+        "decimals": 6,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28230/thumb/icon_200x200.png?1668570578",
+        "coingeckoId": "meta-sports",
         "listedIn": [
             "coingecko"
         ]
@@ -51888,7 +51947,7 @@
         "address": "0x3a599e584075065eAAAc768D75EaEf85c2f2fF64",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27626/thumb/pmrawdYc_400x400.jpeg?1664954567",
+        "logoURI": "https://assets.coingecko.com/coins/images/27626/thumb/FDT_color_symbol_200.png?1668587251",
         "coingeckoId": "frutti-dino",
         "listedIn": [
             "coingecko"
@@ -61361,14 +61420,13 @@
     },
     {
         "symbol": "LCDP",
-        "name": "La Casa De Papel",
+        "name": "LA CASA DE PAPEL TOKEN",
         "address": "0x1E19f5f52527700186339da4409bb19fbC622F2C",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20155/thumb/1_PqewqUrvoFzqVFK40JsOvg.png?1636585731",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x1e19f5f52527700186339da4409bb19fbc622f2c/logo.png",
         "coingeckoId": "la-casa-de-papel",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -61751,18 +61809,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/19277/thumb/royal.png?1634869798",
         "coingeckoId": "nft-royal-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "HONOR",
-        "name": "HonorLand",
-        "address": "0x1B2787Af667ed1cA66245ffca4ff64076EeF321a",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25574/thumb/logo0.9329b255.png?1652676493",
-        "coingeckoId": "honorland",
         "listedIn": [
             "coingecko"
         ]
@@ -62225,6 +62271,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "WBM",
+        "name": "WB Mining",
+        "address": "0x19575B407e2dd49cb2BA46375A7fba37c8EC553a",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28240/thumb/logo200.png?1668581954",
+        "coingeckoId": "wb-mining",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -67248,18 +67306,6 @@
         "listedIn": [
             "coingecko",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "FREEMOON",
-        "name": "Freemoon Token",
-        "address": "0x0725384edD4637f7C26De9CD3C086C14071688D5",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24587/thumb/fhtTKOTA_400x400.jpg?1648218807",
-        "coingeckoId": "freemoon-token",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {

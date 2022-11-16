@@ -3574,6 +3574,19 @@
         ]
     },
     {
+        "symbol": "ESHARE",
+        "name": "EMP Shares",
+        "address": "0xDB20F6A8665432CE895D724b417f77EcAC956550",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/23013/thumb/sEEkbqt.jpeg?1643093201",
+        "coingeckoId": "emp-shares",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "AMPL",
         "name": "Ampleforth",
         "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
@@ -3954,7 +3967,6 @@
             "sushiswap",
             "openocean",
             "pancake",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -4114,19 +4126,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "symbol": "POLAR",
-        "name": "Polar Sync",
-        "address": "0xC64c9B30C981fc2eE4e13d0CA3f08258e725fd24",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18102/thumb/polar-sync-logo-200.png?1651745427",
-        "coingeckoId": "polar-sync",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -12601,19 +12600,6 @@
             "coingecko",
             "openocean",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "LCDP",
-        "name": "La Casa De Papel",
-        "address": "0x1E19f5f52527700186339da4409bb19fbC622F2C",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20155/thumb/1_PqewqUrvoFzqVFK40JsOvg.png?1636585731",
-        "coingeckoId": "la-casa-de-papel",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
