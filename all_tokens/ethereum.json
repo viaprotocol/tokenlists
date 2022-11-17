@@ -4612,7 +4612,7 @@
     },
     {
         "symbol": "WITCH",
-        "name": "Witch",
+        "name": "Witch Token",
         "address": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236",
         "decimals": 18,
         "chainId": 1,
@@ -4747,7 +4747,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28133/thumb/1666808362379-8226c3c3451e049842cfe21d65cb91ad.png?1667719253",
         "coingeckoId": "echain-network",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -5427,6 +5428,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/19194/thumb/evry.png?1634637970",
         "coingeckoId": "evrynet",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "XAI",
+        "name": "XAI",
+        "address": "0xd7C9F0e536dC865Ae858b0C0453Fe76D13c3bEAc",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28254/thumb/Xai_logo.png?1668674085",
+        "coingeckoId": "xai",
         "listedIn": [
             "coingecko"
         ]
@@ -7737,6 +7750,18 @@
         "coingeckoId": "3x-long-bilira-token",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "TGR",
+        "name": "Tegro",
+        "address": "0xc7026a20a640Bc71B9074F7aed52A00cD9147091",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -12135,13 +12160,13 @@
         ]
     },
     {
-        "symbol": "DIN",
-        "name": "Dinero",
+        "symbol": "DINERO",
+        "name": "Dinerobet",
         "address": "0xa3ad8c7AB6b731045b5b16E3fDf77975c71ABe79",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/3652/thumb/dinero.png?1547223709",
-        "coingeckoId": "dinero",
+        "logoURI": "https://assets.coingecko.com/coins/images/28248/thumb/CABA1DE1-2CB1-46D3-97BC-20305EA67FBB.png?1668656923",
+        "coingeckoId": "dinerobet",
         "listedIn": [
             "coingecko"
         ]
@@ -12662,11 +12687,11 @@
     },
     {
         "symbol": "TST",
-        "name": "TheStandard io",
+        "name": "The Standard Token",
         "address": "0xa0b93B9e90aB887E53F9FB8728c009746e989B53",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/20598/thumb/tst.png?1638251569",
+        "logoURI": "https://assets.coingecko.com/coins/images/20598/thumb/TheStandard-logo_variation-01.png?1668676004",
         "coingeckoId": "standard-token",
         "listedIn": [
             "coingecko"
@@ -18750,7 +18775,7 @@
         "address": "0xD101dCC414F310268c37eEb4cD376CcFA507F571",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/28146/thumb/RH_Flask_Logo_%281%29.png?1667893925",
+        "logoURI": "https://assets.coingecko.com/coins/images/28146/thumb/RH_Logo_200x200.png?1668678529",
         "coingeckoId": "researchcoin",
         "listedIn": [
             "coingecko"
@@ -22949,7 +22974,7 @@
     },
     {
         "symbol": "KIRO",
-        "name": "Kirobo",
+        "name": "KIRO",
         "address": "0xB1191F691A355b43542Bea9B8847bc73e7Abb137",
         "decimals": 18,
         "chainId": 1,
@@ -27051,18 +27076,6 @@
             "coingecko",
             "openocean",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "PLENA",
-        "name": "Plena",
-        "address": "0x993BAEE8adF23555B20881598eb2B151f80eA674",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/25602/thumb/Artboard_11.png?1652775293",
-        "coingeckoId": "plena",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -55443,18 +55456,6 @@
         ]
     },
     {
-        "symbol": "MEX",
-        "name": "MEX",
-        "address": "0x2ba6b1E4424e19816382d15937739959F7DA5fD8",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/6064/thumb/mex.PNG?1547042030",
-        "coingeckoId": "mex",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "CREAM",
         "name": "Cream",
         "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
@@ -56867,7 +56868,7 @@
         "address": "0x282D0AD1FA03DFBDB88243B958e77349c73737D1",
         "decimals": 9,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/16993/thumb/proge_logo.png?1625994325",
+        "logoURI": "https://assets.coingecko.com/coins/images/16993/thumb/Proge_200x200.png?1668677143",
         "coingeckoId": "protector-roge",
         "listedIn": [
             "coingecko"
@@ -61496,7 +61497,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27106/thumb/tokenbot-logo-icon.png?1662007634",
         "coingeckoId": "tokenbot",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {

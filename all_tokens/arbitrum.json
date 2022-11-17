@@ -549,11 +549,22 @@
         "address": "0xbE00f3db78688d9704BCb4e0a827aea3a9Cc0D62",
         "decimals": 2,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/25598/thumb/USD24.png?1652773795",
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xbe00f3db78688d9704bcb4e0a827aea3a9cc0d62/logo.png",
         "coingeckoId": "fiat24-usd",
         "listedIn": [
-            "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "LASM",
+        "name": "LasMeta",
+        "address": "0xbC2E674dFe0d885081f429b296D7aE2B784D1198",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1011,6 +1022,30 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "DEUS",
+        "name": "DEUS",
+        "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DEI",
+        "name": "DEI",
+        "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -2067,6 +2102,18 @@
         "coingeckoId": null,
         "listedIn": [
             "RouterProtocol",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "RODO",
+        "name": "RODO",
+        "address": "0x74b4db963738A2A95bFCb1833B123495Ccc220e2",
+        "decimals": 2,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },

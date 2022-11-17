@@ -4474,18 +4474,6 @@
         ]
     },
     {
-        "symbol": "NTIC",
-        "name": "Entice",
-        "address": "0xEcb51aCf9967331B7f282F855079671fE22c56C3",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/27579/thumb/ntic.png?1664696263",
-        "coingeckoId": "entice",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "SPACE",
         "name": "Space Rebase",
         "address": "0xEc6c6F7E666D8a3FA0FD612B97d6A6D9E7d1E3f3",
@@ -4996,11 +4984,11 @@
     },
     {
         "symbol": "TST",
-        "name": "TheStandard io",
+        "name": "The Standard Token",
         "address": "0xE342eBB6A56cd3dBF0fe01A447FE367b9290ecf8",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/20598/thumb/tst.png?1638251569",
+        "logoURI": "https://assets.coingecko.com/coins/images/20598/thumb/TheStandard-logo_variation-01.png?1668676004",
         "coingeckoId": "standard-token",
         "listedIn": [
             "coingecko"
@@ -5302,6 +5290,18 @@
         "coingeckoId": "deus-finance-2",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DEI",
+        "name": "DEI",
+        "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -6557,7 +6557,7 @@
     },
     {
         "symbol": "KIRO",
-        "name": "Kirobo",
+        "name": "KIRO",
         "address": "0xB382C1cfA622795a534e5bd56Fac93d59BAc8B0D",
         "decimals": 18,
         "chainId": 137,
@@ -7341,7 +7341,7 @@
     },
     {
         "symbol": "XSHARE",
-        "name": "xShare",
+        "name": "SpaceShipX",
         "address": "0x9f64D1aAcb129B844500119B50938c57aa9aD6E5",
         "decimals": 18,
         "chainId": 137,
@@ -8638,6 +8638,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "NTIC",
+        "name": "Entice",
+        "address": "0x8c9bAC920CD9CF8c61F7fA4f34f43C572d040F61",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/28257/thumb/ntic.png?1668688637",
+        "coingeckoId": "entice-v2",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -10049,6 +10061,18 @@
         "coingeckoId": "plato-game",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TGR",
+        "name": "Tegro",
+        "address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -13358,6 +13382,18 @@
         "listedIn": [
             "sushiswap",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "CBK",
+        "name": "Cobak",
+        "address": "0x4EC203dD0699Fac6adAF483CDd2519BC05D2c573",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/13459/thumb/cbk-128-128.png?1608760936",
+        "coingeckoId": "cobak-token",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -18708,6 +18744,18 @@
         "listedIn": [
             "coingecko",
             "dfyn",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TKB",
+        "name": "TokenBot",
+        "address": "0x0c5F149362cA17Eac5D18E6912Ab4F5aEabf88E6",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },

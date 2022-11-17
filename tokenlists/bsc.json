@@ -1192,6 +1192,19 @@
         ]
     },
     {
+        "symbol": "TGR",
+        "name": "Tegro",
+        "address": "0xd9780513292477C4039dFdA1cfCD89Ff111e9DA5",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/26564/thumb/200x200.png?1658800017",
+        "coingeckoId": "tegro",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CYT",
         "name": "Coinary",
         "address": "0xd9025e25Bb6cF39f8c926A704039D2DD51088063",
@@ -5520,9 +5533,8 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.pancakeswap.finance/images/0x990E7154bB999FAa9b2fa5Ed29E822703311eA85.png",
-        "coingeckoId": "thunder-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pancake",
             "lifinance"
         ]
@@ -8464,19 +8476,6 @@
             "coingecko",
             "1inch",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "IMV",
-        "name": "ImminentVerse",
-        "address": "0x64c5F47e530841684a4EeF408e9a4366585B88F9",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25583/thumb/200x200.png?1652767461",
-        "coingeckoId": "imminentverse",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {

@@ -1403,6 +1403,19 @@
         ]
     },
     {
+        "symbol": "ECT",
+        "name": "Echain Network",
+        "address": "0xda4Dd9586D27202A338843Dd6B9824d267006783",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28133/thumb/1666808362379-8226c3c3451e049842cfe21d65cb91ad.png?1667719253",
+        "coingeckoId": "echain-network",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mETH",
         "name": "DMM: ETH",
         "address": "0xdF9307DFf0a1B57660F60f9457D32027a55ca0B2",
@@ -7169,7 +7182,7 @@
     },
     {
         "symbol": "KIRO",
-        "name": "Kirobo",
+        "name": "KIRO",
         "address": "0xB1191F691A355b43542Bea9B8847bc73e7Abb137",
         "decimals": 18,
         "chainId": 1,
@@ -19700,6 +19713,19 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TKB",
+        "name": "TokenBot",
+        "address": "0x16594930D16f3970e1a4317c6016555cb2e7b7Fc",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27106/thumb/tokenbot-logo-icon.png?1662007634",
+        "coingeckoId": "tokenbot",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

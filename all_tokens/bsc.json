@@ -1091,11 +1091,11 @@
     },
     {
         "symbol": "KIRO",
-        "name": "Kirobo",
+        "name": "KIRO",
         "address": "0xf83c0f6d3A5665BD7Cfdd5831A856d85942BC060",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/12688/thumb/QmScxyKBwqbGJZmp38EwaoRpXbzPkq3tvuMjeuJE1YLZeG.png?1601672684",
+        "logoURI": "https://assets.coingecko.com/coins/images/12688/thumb/logo_kirobo-04.png?1668683315",
         "coingeckoId": "kirobo",
         "listedIn": [
             "coingecko"
@@ -5364,7 +5364,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26564/thumb/200x200.png?1658800017",
         "coingeckoId": "tegro",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -6271,7 +6272,7 @@
         "address": "0xd1baaED91361CEa01a2D9be0Ca8988756163971a",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25835/thumb/logo-200x200.png?1654067629",
+        "logoURI": "https://assets.coingecko.com/coins/images/25835/thumb/fmc.png?1668687351",
         "coingeckoId": "fidometa",
         "listedIn": [
             "coingecko"
@@ -10240,6 +10241,18 @@
         ]
     },
     {
+        "symbol": "EZY",
+        "name": "EZZY Game",
+        "address": "0xb452bC9CEAd0b08c4ef99dA0fEb8E10eF6bB86bB",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28250/thumb/ezzy_app_icon.png?1668670666",
+        "coingeckoId": "ezzy-game",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "APLUS",
         "name": "AMETA",
         "address": "0xb445B2d8831a602aE4684EC4f9316ef2091bFe37",
@@ -13574,7 +13587,7 @@
         "address": "0xFAA0fC7B803919B091dBe5FF709b2dAbb61b93d9",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/21613/thumb/notable.PNG?1639609203",
+        "logoURI": "https://assets.coingecko.com/coins/images/21613/thumb/Progetto_senza_titolo_%284%29.png?1668677309",
         "coingeckoId": "notable",
         "listedIn": [
             "coingecko"
@@ -15678,7 +15691,7 @@
         "address": "0xE90334c19c798C3A18d81b8cd16594247D5B19dd",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/26797/thumb/BLN_Logo.png?1668597072",
+        "logoURI": "https://assets.coingecko.com/coins/images/26797/thumb/BLN_Logo.png?1668687395",
         "coingeckoId": "balance-network",
         "listedIn": [
             "coingecko"
@@ -26892,9 +26905,8 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.pancakeswap.finance/images/0x990E7154bB999FAa9b2fa5Ed29E822703311eA85.png",
-        "coingeckoId": "thunder-token",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pancake",
             "lifinance"
         ]
@@ -30883,7 +30895,7 @@
         "address": "0x89dB9B433FeC1307d3dc8908f2813e9f7a1d38F0",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/26691/thumb/200_200.png?1659603253",
+        "logoURI": "https://assets.coingecko.com/coins/images/26691/thumb/Unidef_Logo-_Square-_200_200.png?1668675266",
         "coingeckoId": "unidef",
         "listedIn": [
             "coingecko"
@@ -31614,18 +31626,6 @@
         "listedIn": [
             "coingecko",
             "rubic"
-        ]
-    },
-    {
-        "symbol": "BEP",
-        "name": "Blue Earth Protocol",
-        "address": "0x869d01F9dAD52a6C975a65D1834B0923F43d1D7E",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25339/thumb/Blue_Earth_Protocol_BEP_200.png?1651300612",
-        "coingeckoId": "blue-earth-protocol",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -41132,14 +41132,13 @@
     },
     {
         "symbol": "IMV",
-        "name": "ImminentVerse",
+        "name": "Imminentverse",
         "address": "0x64c5F47e530841684a4EeF408e9a4366585B88F9",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25583/thumb/200x200.png?1652767461",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x64c5f47e530841684a4eef408e9a4366585b88f9/logo.png",
         "coingeckoId": "imminentverse",
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -41446,18 +41445,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/13009/thumb/1_s2SlrgrX3CnRJIzUkRaFEA.jpeg?1604373076",
         "coingeckoId": "yearn-classic-finance",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "BAXIS",
-        "name": "BNB Axis",
-        "address": "0x63F7C448a239EEe0a8b089b916c60B8BAEed3db2",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25596/thumb/baxislogo.png?1652773040",
-        "coingeckoId": "bnb-axis",
         "listedIn": [
             "coingecko"
         ]
@@ -42598,7 +42585,7 @@
         "address": "0x5e8f6244A57f4F6c47DAaFc14AA0723D2a9F594c",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22482/thumb/NBCXI0pU_400x400.jpg?1641886933",
+        "logoURI": "https://assets.coingecko.com/coins/images/22482/thumb/PINlogo.png?1668686774",
         "coingeckoId": "pay-it-now",
         "listedIn": [
             "coingecko"
@@ -44126,18 +44113,6 @@
         ]
     },
     {
-        "symbol": "ADAM",
-        "name": "ADAM Oracle",
-        "address": "0x59802AC95f2399c929a096171C1bee93C27daE90",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24466/thumb/YLMk5DkU_400x400.jpg?1647681286",
-        "coingeckoId": "adam-oracle",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "3AIR",
         "name": "3air",
         "address": "0x596834746B5b78F31A089EE7853fa595682824B7",
@@ -44903,6 +44878,18 @@
         "coingeckoId": "pancake-hunny",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TKB",
+        "name": "TokenBot",
+        "address": "0x5655592bADF214bbD520187DE0a766CD7Bd7C712",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -51266,7 +51253,7 @@
         "address": "0x3f6B2D68980Db7371D3D0470117393c9262621ea",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17736/thumb/LUFFY_TOKEN-200x200.png?1645001895",
+        "logoURI": "https://assets.coingecko.com/coins/images/17736/thumb/LUFFY_LOGO.png?1668675291",
         "coingeckoId": "luffy-inu",
         "listedIn": [
             "coingecko"
@@ -60595,7 +60582,7 @@
         "address": "0x1dC5779ed65BCc1F0A42d654444FB0Ce59D7783b",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25854/thumb/logo_200.png?1654151473",
+        "logoURI": "https://assets.coingecko.com/coins/images/25854/thumb/pomerium-PMR_2000x2000.png?1668653725",
         "coingeckoId": "pomerium",
         "listedIn": [
             "coingecko"
@@ -62644,6 +62631,18 @@
         ]
     },
     {
+        "symbol": "DOJO",
+        "name": "Dojocoin",
+        "address": "0x180d64F6326015cb0c4aBdD00DCEFe52058eB84A",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28249/thumb/Dojo.jpeg?1668659419",
+        "coingeckoId": "dojocoin",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "XP",
         "name": "PolkaFantasy",
         "address": "0x180cFBE9843d79BcAFcbcDF23590247793DFc95B",
@@ -62759,18 +62758,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/24990/thumb/logo200_%281%29.png?1649686507",
         "coingeckoId": "tifi-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "LOFI",
-        "name": "Lofi Defi",
-        "address": "0x17D8519F57450E2B7E6aE1163E0E448322a8aF17",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17885/thumb/lofi.PNG?1629711617",
-        "coingeckoId": "lofi-defi",
         "listedIn": [
             "coingecko"
         ]
@@ -67407,7 +67394,7 @@
     {
         "symbol": "NEURON",
         "name": "Neuron Chain",
-        "address": "0x06ae7A979D9818B64498c8acaFDd0ccc78bC6fd2#balances",
+        "address": "0x06ae7A979D9818B64498c8acaFDd0ccc78bC6fd2",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/26789/thumb/rsz_pujbbxta_400x400.png?1660103593",
