@@ -45,7 +45,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Polygon, 673 tokens
 - 101, 507 tokens
 - Solana, 394 tokens
-- Avax, 355 tokens
+- Avax, 356 tokens
 - Ftm, 321 tokens
 - Gnosis, 303 tokens
 - Heco, 197 tokens
