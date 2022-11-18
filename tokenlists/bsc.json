@@ -3263,6 +3263,20 @@
         ]
     },
     {
+        "symbol": "AMA",
+        "name": "AMAUROT",
+        "address": "0xE9Cd2668FB580c96b035B6d081E5753f23FE7f46",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.1inch.io/0xe9cd2668fb580c96b035b6d081e5753f23fe7f46.png",
+        "coingeckoId": "amaurot",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "VLX",
         "name": "Velas",
         "address": "0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc",
@@ -8153,19 +8167,6 @@
         ]
     },
     {
-        "symbol": "FWC",
-        "name": "Qatar 2022",
-        "address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24258/thumb/CKea7QZVZpo4kuYW8A2V5pkOXMMUMyY6UH7kdvKS.png?1653635936",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "THS",
         "name": "Theoscoin",
         "address": "0x6C5FF116bFFc50Ff59d0334d5643e15b71C6414A",
@@ -8176,6 +8177,19 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "CR7",
+        "name": "CR7 Token",
+        "address": "0x6C43751FeF27C956f7E75D5c345a65df1465f7E0",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.1inch.io/0x6c43751fef27c956f7e75d5c345a65df1465f7e0.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -10808,6 +10822,20 @@
         "logoURI": "https://tokens.1inch.io/0x3d6545b08693dae087e957cb1180ee38b9e3c25e.png",
         "coingeckoId": null,
         "listedIn": [
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SAITO",
+        "name": "Saito",
+        "address": "0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.1inch.io/0x3c6dad0475d3a1696b359dc04c99fd401be134da.png",
+        "coingeckoId": "saito",
+        "listedIn": [
+            "coingecko",
             "1inch",
             "lifinance"
         ]

@@ -2400,6 +2400,19 @@
         ]
     },
     {
+        "symbol": "HOP",
+        "name": "Hop",
+        "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/25445/small/hop.png?1665541677",
+        "coingeckoId": null,
+        "listedIn": [
+            "quickswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "KGR",
         "name": "Kagra (PoS)",
         "address": "0xc4ec74F50dd4A9ae7268898B3292DEcEf8Eda226",
@@ -4479,10 +4492,12 @@
         "address": "0xEc6c6F7E666D8a3FA0FD612B97d6A6D9E7d1E3f3",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/28103/thumb/CRYTOLOGO.png?1667540377",
+        "logoURI": "https://tokens.1inch.io/0xec6c6f7e666d8a3fa0fd612b97d6a6d9e7d1e3f3.png",
         "coingeckoId": "space-rebase",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -5685,6 +5700,7 @@
         "coingeckoId": "cryption-network",
         "listedIn": [
             "coingecko",
+            "quickswap",
             "dfyn",
             "lifinance"
         ]
@@ -6708,6 +6724,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "quickswap",
             "lifinance"
         ]
     },
@@ -9790,10 +9807,12 @@
         "address": "0x7e7737C40878e720b32e7bC9CD096259f876d69f",
         "decimals": 9,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/28052/thumb/_removal.ai__tmp-635fe0271d6a3%281%29.png?1667286253",
+        "logoURI": "https://assets.coingecko.com/coins/images/28052/small/_removal.ai__tmp-635fe0271d6a3%281%29.png?1667286253",
         "coingeckoId": "catheon-gaming",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "quickswap",
+            "lifinance"
         ]
     },
     {
@@ -10752,10 +10771,12 @@
         "address": "0x6F06e6beD64cF4c4187c06Ee2a4732f6a171BC4e",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/23755/thumb/food.png?1645347956",
+        "logoURI": "https://assets.coingecko.com/coins/images/23755/small/food.png?1645347956",
         "coingeckoId": "foodchain-global",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "quickswap",
+            "lifinance"
         ]
     },
     {

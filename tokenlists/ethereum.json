@@ -355,6 +355,20 @@
         ]
     },
     {
+        "symbol": "DOE",
+        "name": "Dogs Of Elon",
+        "address": "0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef.png",
+        "coingeckoId": "dogsofelon",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "FRONT",
         "name": "Frontier",
         "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
@@ -367,6 +381,19 @@
             "1inch",
             "sushiswap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WMLK",
+        "name": "Wrapped MiL.k",
+        "address": "0xf87C4B9C0c1528147CAc4E05b7aC349A9Ab23A12",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0xf87c4b9c0c1528147cac4e05b7ac349a9ab23a12.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
             "lifinance"
         ]
     },
@@ -420,6 +447,20 @@
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9.png",
         "coingeckoId": "compound-usdt",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "JELLY",
+        "name": "Jelly",
+        "address": "0xf5f06fFa53Ad7F5914F493F16E57B56C8dd2eA80",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0xf5f06ffa53ad7f5914f493f16e57b56c8dd2ea80.png",
+        "coingeckoId": "jelly",
         "listedIn": [
             "coingecko",
             "1inch",
@@ -493,6 +534,20 @@
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e.png",
         "coingeckoId": "big-data-protocol",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CAW",
+        "name": "A Hunters Dream",
+        "address": "0xf3b9569F82B18aEf890De263B84189bd33EBe452",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0xf3b9569f82b18aef890de263b84189bd33ebe452.png",
+        "coingeckoId": "a-hunters-dream",
         "listedIn": [
             "coingecko",
             "1inch",
@@ -1726,6 +1781,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "openocean",
             "lifinance"
         ]
     },
@@ -3908,11 +3964,13 @@
         "address": "0xFb782396c9b20E564A64896181c7AC8d8979d5F4",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xFb782396c9b20E564A64896181c7AC8d8979d5F4/logo.png",
+        "logoURI": "https://tokens.1inch.io/0xfb782396c9b20e564a64896181c7ac8d8979d5f4.png",
         "coingeckoId": "divergence-protocol",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "1inch",
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -3934,11 +3992,13 @@
         "address": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/14750/thumb/SAITO.png?1626857406",
+        "logoURI": "https://tokens.1inch.io/0xfa14fa6958401314851a17d6c5360ca29f74b57b.png",
         "coingeckoId": "saito",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch",
+            "rubic",
+            "lifinance"
         ]
     },
     {
@@ -4127,6 +4187,20 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "OCT",
+        "name": "Octopus Network",
+        "address": "0xF5cFBC74057C610c8EF151A439252680AC68c6DC",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0xf5cfbc74057c610c8ef151a439252680ac68c6dc.png",
+        "coingeckoId": "octopus-network",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {

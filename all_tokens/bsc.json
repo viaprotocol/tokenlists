@@ -3437,18 +3437,6 @@
         ]
     },
     {
-        "symbol": "ART",
-        "name": "Around Network",
-        "address": "0xe6F3A0Cd28d9add9077E80b8e05cbE01B7532EC7",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25628/thumb/8BXO3yN4_400x400.jpg?1652862368",
-        "coingeckoId": "around-network-2",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "UFLOKI",
         "name": "Universal Floki Coin",
         "address": "0xe6E2454bD6D85E52309bfb6A3e3521e83c53DA8A",
@@ -12510,6 +12498,18 @@
         ]
     },
     {
+        "symbol": "CRANE",
+        "name": "ProspectorCrane",
+        "address": "0xa1fb785eC5D0d8A06C32B8d60dF7E2F5e3C62650",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28262/thumb/0DB25887-459D-4307-BDC0-CB92A9A2DA7E.jpeg?1668765902",
+        "coingeckoId": "prospectorcrane",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ALPHA",
         "name": "Alpha Venture DAO",
         "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
@@ -12720,6 +12720,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/28089/thumb/b77170dd-1dd1-4581-91b2-e352794fa045.jpg?1667446200",
         "coingeckoId": "hippopotamus",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "CBFINU",
+        "name": "CBFINU",
+        "address": "0xa0E1399de9eDf5A85a06A5CE34F8810Eb62EF40E",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28264/thumb/20221117_174905.png?1668766351",
+        "coingeckoId": "cbfinu",
         "listedIn": [
             "coingecko"
         ]
@@ -13982,18 +13994,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/18035/thumb/TCG2.jpg?1630306761",
         "coingeckoId": "tcgcoin-2-0",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "MYV",
-        "name": "Money Versum",
-        "address": "0xF7369CdF9e799e7F7f49725F450F7d0cC714a455",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25618/thumb/zfblMfd.png?1652856442",
-        "coingeckoId": "money-versum",
         "listedIn": [
             "coingecko"
         ]
@@ -15604,10 +15604,12 @@
         "address": "0xE9Cd2668FB580c96b035B6d081E5753f23FE7f46",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/28229/thumb/10b06d6c-379f-4c34-b3f2-196a770a4512.png?1668569067",
+        "logoURI": "https://tokens.1inch.io/0xe9cd2668fb580c96b035b6d081e5753f23fe7f46.png",
         "coingeckoId": "amaurot",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -18025,18 +18027,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/19009/thumb/fcb.png?1635059638",
         "coingeckoId": "forcecowboy",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "CFARM",
-        "name": "CoinFarm",
-        "address": "0xD6E86850B844dF57B04C59e82F633C6b31D84D40",
-        "decimals": 8,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27880/thumb/IMG_20221019_070952_177.jpg?1666231346",
-        "coingeckoId": "coinfarm",
         "listedIn": [
             "coingecko"
         ]
@@ -35412,6 +35402,18 @@
         ]
     },
     {
+        "symbol": "SPI",
+        "name": "Shopping io OLD",
+        "address": "0x78A18Db278F9c7c9657F61dA519e6Ef43794DD5D",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/13537/thumb/SPI_Token.png?1623763713",
+        "coingeckoId": "shopping-io",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "SOCIN",
         "name": "Soccer Infinity",
         "address": "0x788db23BAA806C0a1b2AF312dD9A6087dd02EF89",
@@ -36234,6 +36236,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/26804/thumb/200x200.png?1660207921",
         "coingeckoId": "smurfsinu",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "CFARM",
+        "name": "CoinFarm",
+        "address": "0x75F01Ca420A1CB86dF6790d2839E8e34B59b7BB1",
+        "decimals": 8,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/27880/thumb/IMG_20221019_070952_177.jpg?1666231346",
+        "coingeckoId": "coinfarm",
         "listedIn": [
             "coingecko"
         ]
@@ -39378,14 +39392,13 @@
     },
     {
         "symbol": "FWC",
-        "name": "Qatar 2022",
+        "name": "QATAR 2022",
         "address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24258/thumb/CKea7QZVZpo4kuYW8A2V5pkOXMMUMyY6UH7kdvKS.png?1653635936",
+        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "rubic"
         ]
     },
@@ -39520,6 +39533,19 @@
         "coingeckoId": "little-rabbit-v2",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "CR7",
+        "name": "CR7 Token",
+        "address": "0x6C43751FeF27C956f7E75D5c345a65df1465f7E0",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.1inch.io/0x6c43751fef27c956f7e75d5c345a65df1465f7e0.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -41978,6 +42004,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/26590/thumb/hqdf9m6R_400x400.png?1658958301",
         "coingeckoId": "project202",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "VINA",
+        "name": "VICUNA",
+        "address": "0x61a802dE6327A05dDa95812ae1535109599f7DF2",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28261/thumb/light-removebg-preview.png?1668765757",
+        "coingeckoId": "vicuna",
         "listedIn": [
             "coingecko"
         ]
@@ -51642,10 +51680,12 @@
         "address": "0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/14750/thumb/SAITO.png?1626857406",
+        "logoURI": "https://tokens.1inch.io/0x3c6dad0475d3a1696b359dc04c99fd401be134da.png",
         "coingeckoId": "saito",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "1inch",
+            "lifinance"
         ]
     },
     {
@@ -52780,18 +52820,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/24230/thumb/logo_leslar_1.png?1654237622",
         "coingeckoId": "leslar-metaverse",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "BRANK",
-        "name": "Brank",
-        "address": "0x39aE9A782b1f9C60d0F1839EF4C2d0174c5Edae4",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17940/thumb/256x256logo.png?1629880364",
-        "coingeckoId": "brank",
         "listedIn": [
             "coingecko"
         ]
@@ -61610,18 +61638,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/20158/thumb/ISHND_512x512px.png?1647512898",
         "coingeckoId": "stronghands-finance",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "ROCKSTAR",
-        "name": "Rockstar Doge",
-        "address": "0x1C8D407ad2b4B755482743C542B680BD4385476c",
-        "decimals": 8,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18638/thumb/ROCKSTAR.png?1632732968",
-        "coingeckoId": "rockstar-doge",
         "listedIn": [
             "coingecko"
         ]
