@@ -416,6 +416,18 @@
         ]
     },
     {
+        "symbol": "IQ",
+        "name": "Everipedia IQ",
+        "address": "0xce4DB2ce8cCa463f8Aa1e2174C244Ba4a8d672cB",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://api.rubic.exchange/assets/arbitrum/0xce4db2ce8cca463f8aa1e2174c244ba4a8d672cb/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "USX",
         "name": "dForce USD",
         "address": "0xcd14C3A2ba27819B352aae73414A26e2b366dC50",
@@ -3774,6 +3786,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "openocean",
             "rubic",
             "lifinance"
         ]
