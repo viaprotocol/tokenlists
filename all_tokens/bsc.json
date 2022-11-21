@@ -6331,14 +6331,13 @@
     },
     {
         "symbol": "GHC",
-        "name": "Galaxy Heroes",
+        "name": "GalaxyHeroes",
         "address": "0xd10Fe9d371C22416df34340287cd5D9029842Fc3",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25200/thumb/ghc.png?1660985792",
-        "coingeckoId": "galaxy-heroes",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xd10fe9d371c22416df34340287cd5d9029842fc3/2a9582a4ebd32ae68a53f4e0043d0d2f.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -9374,18 +9373,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/14356/thumb/photo_2021-03-12_23-07-18.jpg?1615562953",
         "coingeckoId": "bscview",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "MM",
-        "name": "Markhor Meta",
-        "address": "0xbB19Ac7AFCd532B13158810FF66c16f17635De87",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/21859/thumb/knEb7DLZ_400x400.jpg?1640147953",
-        "coingeckoId": "markhor-meta",
         "listedIn": [
             "coingecko"
         ]
@@ -23071,18 +23058,6 @@
         ]
     },
     {
-        "symbol": "SHIBAFI",
-        "name": "Shiba Finance",
-        "address": "0xAaA0136672A76084de697B1e09aEb5515E717BF4",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22056/thumb/Shiba_Finance_Logo.png?1640693696",
-        "coingeckoId": "shibafi",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "BATS",
         "name": "Batcoin",
         "address": "0xAa731Eb48f701C132D5FA69B69f5eb4064d9BE34",
@@ -26259,6 +26234,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/20238/thumb/orbit.png?1636691466",
         "coingeckoId": "orbit-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "GHC",
+        "name": "Galaxy Heroes",
+        "address": "0x9Cb9478C5Db5dAe52D5Af91737FF706F60195e45",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/25200/thumb/ghc.png?1660985792",
+        "coingeckoId": "galaxy-heroes",
         "listedIn": [
             "coingecko"
         ]
@@ -39346,13 +39333,14 @@
     },
     {
         "symbol": "FWC",
-        "name": "QATAR 2022",
+        "name": "FWC community Token",
         "address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://api.rubic.exchange/assets/binance-smart-chain/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc/logo.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/24258/thumb/CKea7QZVZpo4kuYW8A2V5pkOXMMUMyY6UH7kdvKS.png?1653635936",
+        "coingeckoId": "qatar-2022",
         "listedIn": [
+            "coingecko",
             "rubic"
         ]
     },
@@ -45091,18 +45079,6 @@
         ]
     },
     {
-        "symbol": "PAPEL",
-        "name": "Papel",
-        "address": "0x557dd6700e66818AF340ccE17FD4508CED81fBc1",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/14986/thumb/papelLogo1.png?1621508941",
-        "coingeckoId": "papel",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MSG",
         "name": "Meta Sports",
         "address": "0x557c86c9C9E003CD74AFf798f3F540DdC546Ab9B",
@@ -46520,18 +46496,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/15319/thumb/dxsqGESE_400x400.jpg?1620511843",
         "coingeckoId": "phoenix-defi-finance",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "FIBO",
-        "name": "FibSwap DEX",
-        "address": "0x5067c6e9E6c443372f2E62946273ABbF3Cc2f2B3",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17306/thumb/coingeckofile.png?1655195281",
-        "coingeckoId": "fibo-token",
         "listedIn": [
             "coingecko"
         ]
@@ -48577,18 +48541,6 @@
         ]
     },
     {
-        "symbol": "MNT",
-        "name": "Meownaut",
-        "address": "0x498e3739d58AAe82656030BCBcCf5ac63E0E57e1",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/16341/thumb/9_w9RjWA.png?1645085859",
-        "coingeckoId": "meownaut",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "PAYGO",
         "name": "PayGo",
         "address": "0x49708C95FBD8EB65831811f7f2E19DDdA008Fd51",
@@ -49751,18 +49703,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/25422/thumb/LegioDAO_transparent.png?1651736525",
         "coingeckoId": "legiodao",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "SKY",
-        "name": "Sky Shiba",
-        "address": "0x44a6EF91A0F2cB7a0DC589A47AeEaB11f56074ce",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/19184/thumb/f2J8AOM.png?1634625728",
-        "coingeckoId": "sky-shiba",
         "listedIn": [
             "coingecko"
         ]
@@ -51211,18 +51151,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/17736/thumb/LUFFY_LOGO.png?1668675291",
         "coingeckoId": "luffy-inu",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "VIDT",
-        "name": "VIDT Datalink",
-        "address": "0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/6115/thumb/V-ID_blockchain_-logo.png?1547042127",
-        "coingeckoId": "v-id-blockchain",
         "listedIn": [
             "coingecko"
         ]
@@ -61153,6 +61081,18 @@
         ]
     },
     {
+        "symbol": "GC",
+        "name": "Goal Champion",
+        "address": "0x1F93D65D5115BC8785920d75120eA26a52ca4392",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28270/thumb/200x200_%282%29.png?1668999623",
+        "coingeckoId": "goal-champion",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MADCHAD",
         "name": "MadChad",
         "address": "0x1F91F6c93023A441c3a72B24120E19acEF677911",
@@ -65003,6 +64943,18 @@
         ]
     },
     {
+        "symbol": "BRGX",
+        "name": "Bridges Exchange",
+        "address": "0x0e2114955023B736fa97D9E2FCDe2836d10b7A5C",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/20875/thumb/bridgescrypto.PNG?1637814449",
+        "coingeckoId": "bridge",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "XIASI",
         "name": "Xiasi Inu",
         "address": "0x0e20E3216EA172fcf9eAa19723b119e090fD353f",
@@ -65723,6 +65675,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/26574/thumb/200x200_hefi_symbol_logo.png?1658885771",
         "coingeckoId": "healthfi-app",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "UNIQO",
+        "name": "Uniqo",
+        "address": "0x0ED82faE72b6833Ce9cf1928128FC828f5c59e77",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28271/thumb/logo_coingecko.png?1669002595",
+        "coingeckoId": "uniqo",
         "listedIn": [
             "coingecko"
         ]

@@ -34,9 +34,8 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xfef4185594457050cc9c23980d301908fe057bb1.png",
-        "coingeckoId": "v-id-blockchain",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -2317,6 +2316,19 @@
             "1inch",
             "sushiswap",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "ZUSD",
+        "name": "ZUSD",
+        "address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://cloudstorage.openocean.finance/images/1669025740931_8474358298913196.png",
+        "coingeckoId": "zusd",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -6444,6 +6456,7 @@
             "coingecko",
             "1inch",
             "uniswap",
+            "openocean",
             "lifinance"
         ]
     },

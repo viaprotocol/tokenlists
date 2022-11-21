@@ -94,9 +94,8 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xfef4185594457050cc9c23980d301908fe057bb1.png",
-        "coingeckoId": "v-id-blockchain",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -5028,6 +5027,18 @@
         ]
     },
     {
+        "symbol": "3GG",
+        "name": "3gg",
+        "address": "0xdAE5add81B1fa1b04C0DF225F0C3A029b93cB91B",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27864/thumb/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96_2022-10-17_%E4%B8%8B%E5%8D%888.28.14.png?1666151176",
+        "coingeckoId": "3gg",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether",
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -5836,6 +5847,18 @@
         "listedIn": [
             "coingecko",
             "rubic"
+        ]
+    },
+    {
+        "symbol": "LKT",
+        "name": "Locker Token",
+        "address": "0xd3E133a0A14Bb8B595e5Fbf9851c7c783685BA69",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28269/thumb/Locker.jpeg?1668995910",
+        "coingeckoId": "locker-token",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -7917,10 +7940,11 @@
         "address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
         "decimals": 6,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/14192/thumb/icon_zusd_200_200.png?1614843297",
+        "logoURI": "https://cloudstorage.openocean.finance/images/1669025740931_8474358298913196.png",
         "coingeckoId": "zusd",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -18307,18 +18331,6 @@
         ]
     },
     {
-        "symbol": "BRIBE",
-        "name": "BRIBE",
-        "address": "0xD4e12B224C316664EbB647F69abC1fb8bB2697C7",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/23103/thumb/uo74tgXT_400x400.jpg?1643205065",
-        "coingeckoId": "bribe",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "UZUMAKI",
         "name": "Uzumaki Inu",
         "address": "0xD4c64f0Fe38ecdaF0Baefd7859E18185a73b9aa3",
@@ -20808,6 +20820,7 @@
             "coingecko",
             "1inch",
             "uniswap",
+            "openocean",
             "lifinance"
         ]
     },
@@ -32933,7 +32946,7 @@
         "address": "0x83869DE76B9Ad8125e22b857f519F001588c0f62",
         "decimals": 8,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/9154/thumb/exmo_glyph_200x200.png?1668484669",
+        "logoURI": "https://assets.coingecko.com/coins/images/9154/thumb/200x200.png?1668998803",
         "coingeckoId": "exmo-coin",
         "listedIn": [
             "coingecko"
@@ -45732,18 +45745,6 @@
         ]
     },
     {
-        "symbol": "3GG",
-        "name": "3gg",
-        "address": "0x5006192340D83bFa47ee2F28Edd0fd16a56d5b5e",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/27864/thumb/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96_2022-10-17_%E4%B8%8B%E5%8D%888.28.14.png?1666151176",
-        "coingeckoId": "3gg",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MUSK",
         "name": "Musk",
         "address": "0x5003B168b457B663c3c18FFcF5B6a24bEe8f59C7",
@@ -58151,18 +58152,6 @@
         ]
     },
     {
-        "symbol": "N00D",
-        "name": "n00dle",
-        "address": "0x2321537fd8EF4644BacDCEec54E5F35bf44311fA",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/27850/thumb/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96_2022-10-17_%E4%B8%8B%E5%8D%888.36.07.png?1666092864",
-        "coingeckoId": "n00dle",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "HELIX",
         "name": "Helix",
         "address": "0x231CC03E6d8b7368eC2aBfAfb5f73D216c8af980",
@@ -61900,6 +61889,18 @@
             "coingecko",
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "N00D",
+        "name": "n00dle",
+        "address": "0x147aB744f058A52e828BEE84A9C58660F2fF5Ff9",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/27850/thumb/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96_2022-10-17_%E4%B8%8B%E5%8D%888.36.07.png?1666092864",
+        "coingeckoId": "n00dle",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

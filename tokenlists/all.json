@@ -4767,19 +4767,6 @@
             ]
         },
         {
-            "symbol": "GHC",
-            "name": "Galaxy Heroes",
-            "address": "0xd10Fe9d371C22416df34340287cd5D9029842Fc3",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/25200/thumb/ghc.png?1660985792",
-            "coingeckoId": "galaxy-heroes",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "PRL",
             "name": "The Parallel",
             "address": "0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24",
@@ -11523,6 +11510,19 @@
             "listedIn": [
                 "1inch",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "FWC",
+            "name": "FWC community Token",
+            "address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/24258/thumb/CKea7QZVZpo4kuYW8A2V5pkOXMMUMyY6UH7kdvKS.png?1653635936",
+            "coingeckoId": "qatar-2022",
+            "listedIn": [
+                "coingecko",
+                "rubic"
             ]
         },
         {
@@ -29019,6 +29019,19 @@
             ]
         },
         {
+            "symbol": "SWT",
+            "name": "Super WinGoal Token",
+            "address": "0x9D2Aa8B9Cd32fe46F4E177F49871518D942B1E47",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://i.imgur.com/GO11OUH.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "quickswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "CVOL",
             "name": "Crypto Volatility",
             "address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
@@ -30246,6 +30259,19 @@
             "decimals": 18,
             "chainId": 137,
             "logoURI": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png?1601359077",
+            "coingeckoId": null,
+            "listedIn": [
+                "quickswap",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "WT",
+            "name": "WinGoal Token",
+            "address": "0x72B6A3155EF6C5a6222f2f946A03E3f3Fd991E3c",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://i.imgur.com/yrxXY9u.png",
             "coingeckoId": null,
             "listedIn": [
                 "quickswap",
@@ -44672,7 +44698,8 @@
             "coingeckoId": "ethichub",
             "listedIn": [
                 "coingecko",
-                "rubic"
+                "rubic",
+                "lifinance"
             ]
         },
         {
@@ -48715,9 +48742,8 @@
             "decimals": 18,
             "chainId": 1,
             "logoURI": "https://tokens.1inch.io/0xfef4185594457050cc9c23980d301908fe057bb1.png",
-            "coingeckoId": "v-id-blockchain",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "lifinance"
             ]
@@ -50998,6 +51024,19 @@
                 "1inch",
                 "sushiswap",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "ZUSD",
+            "name": "ZUSD",
+            "address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+            "decimals": 6,
+            "chainId": 1,
+            "logoURI": "https://cloudstorage.openocean.finance/images/1669025740931_8474358298913196.png",
+            "coingeckoId": "zusd",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {
@@ -55125,6 +55164,7 @@
                 "coingecko",
                 "1inch",
                 "uniswap",
+                "openocean",
                 "lifinance"
             ]
         },
