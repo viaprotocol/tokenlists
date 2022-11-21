@@ -9216,14 +9216,13 @@
     },
     {
         "symbol": "STMX",
-        "name": "StormX",
+        "name": "Kyber StormX Token",
         "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xbe9375c6a420d2eeb258962efb95551a5b722803.png",
-        "coingeckoId": "storm",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "sushiswap",
             "openocean",
@@ -11790,6 +11789,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/12637/thumb/exchange.png?1623764906",
         "coingeckoId": "stobox-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "STMX",
+        "name": "StormX",
+        "address": "0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/1369/thumb/StormX.png?1603113002",
+        "coingeckoId": "storm",
         "listedIn": [
             "coingecko"
         ]
@@ -22504,6 +22515,18 @@
         ]
     },
     {
+        "symbol": "RPL",
+        "name": "Rocket Pool",
+        "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://api.rubic.exchange/assets/ethereum/0xb4efd85c19999d84251304bda99e90b92300bd93/logo.png",
+        "coingeckoId": "rocket-pool",
+        "listedIn": [
+            "rubic"
+        ]
+    },
+    {
         "symbol": "SPA",
         "name": "Sperax",
         "address": "0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008",
@@ -22938,6 +22961,18 @@
             "coingecko",
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "BMEX",
+        "name": "BitMEX",
+        "address": "0xB113c6CF239F60D380359b762E95C13817275277",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/21831/thumb/bitmex-token.jpeg?1640081706",
+        "coingeckoId": "bitmex-token",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -53653,7 +53688,6 @@
             "uniswap",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "xyfinance"
         ]
