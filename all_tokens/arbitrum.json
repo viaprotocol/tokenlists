@@ -1375,6 +1375,18 @@
         ]
     },
     {
+        "symbol": "DICE",
+        "name": "Party Dice",
+        "address": "0xAeEBa475eDC438f8Eeb6BFBc3164c1C7716Fb304",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xAeEBa475eDC438f8Eeb6BFBc3164c1C7716Fb304.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BUCK",
         "name": "Arbucks",
         "address": "0xAFD871f684F21Ab9D7137608C71808f83D75e6fc",
@@ -2156,6 +2168,18 @@
             "1inch",
             "sushiswap",
             "rubic",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "lqETH",
+        "name": "liquid ETH",
+        "address": "0x73700aeCfC4621E112304B6eDC5BA9e36D7743D3",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x73700aeCfC4621E112304B6eDC5BA9e36D7743D3.jpg",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },

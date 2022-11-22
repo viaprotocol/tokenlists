@@ -2082,6 +2082,19 @@
         ]
     },
     {
+        "symbol": "ALPHA",
+        "name": "Alpha Shares V2",
+        "address": "0x9c3254bb4F7f6A05A4Aaf2Cadce592C848d043c1",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/28136/thumb/alpha.png?1667739192",
+        "coingeckoId": "alpha-shares-v2",
+        "listedIn": [
+            "coingecko",
+            "rubic"
+        ]
+    },
+    {
         "symbol": "MFI",
         "name": "Marginswap",
         "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
@@ -2383,7 +2396,6 @@
             "coingecko",
             "1inch",
             "pangolin",
-            "rubic",
             "lifinance"
         ]
     },
@@ -2742,7 +2754,7 @@
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x827eb4bada6cb76c90f887969b3fe5faD585FFe3/logo_24.png",
-        "coingeckoId": "xeta",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "pangolin",
