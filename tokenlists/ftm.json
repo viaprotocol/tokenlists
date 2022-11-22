@@ -855,9 +855,8 @@
         "decimals": 9,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/SCC.png",
-        "coingeckoId": "scary-chain-capital",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -1608,6 +1607,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "openocean",
             "SpookySwap",
             "lifinance",
             "xyfinance"

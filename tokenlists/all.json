@@ -8689,10 +8689,11 @@
             "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
             "decimals": 18,
             "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/22087/thumb/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1669116429465_4753793996709088.png",
             "coingeckoId": "multichain",
             "listedIn": [
                 "coingecko",
+                "openocean",
                 "lifinance"
             ]
         },
@@ -13800,6 +13801,7 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "openocean",
                 "lifinance"
             ]
         },
@@ -19173,9 +19175,8 @@
             "decimals": 9,
             "chainId": 250,
             "logoURI": "https://assets.spooky.fi/tokens/SCC.png",
-            "coingeckoId": "scary-chain-capital",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "SpookySwap",
                 "lifinance"
             ]
@@ -19926,6 +19927,7 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "openocean",
                 "SpookySwap",
                 "lifinance",
                 "xyfinance"
@@ -25018,6 +25020,7 @@
                 "coingecko",
                 "1inch",
                 "openocean",
+                "optimism",
                 "lifinance"
             ]
         },
@@ -29024,10 +29027,11 @@
             "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
             "decimals": 18,
             "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/22087/thumb/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1669116498450_2410692863955417.png",
             "coingeckoId": "multichain",
             "listedIn": [
                 "coingecko",
+                "openocean",
                 "lifinance"
             ]
         },
@@ -37842,7 +37846,6 @@
             "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x827eb4bada6cb76c90f887969b3fe5faD585FFe3/logo_24.png",
             "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "pangolin",
                 "lifinance"
             ]
@@ -41540,7 +41543,7 @@
         },
         {
             "symbol": "TIGER",
-            "name": "Tiger Scrub Money",
+            "name": "Tiger Scrub Money  OLD ",
             "address": "0xD6597AA36DD90d7fCcBd7B8A228F2d5CdC88eAd0",
             "decimals": 18,
             "chainId": 25,
@@ -41947,7 +41950,7 @@
         },
         {
             "symbol": "LION",
-            "name": "Lion Scrub Money",
+            "name": "Lion Scrub Money  OLD ",
             "address": "0x49fB98F9b4a3183Cd88e7a115144fdf00fa6fB95",
             "decimals": 18,
             "chainId": 25,
@@ -45975,19 +45978,6 @@
             ]
         },
         {
-            "symbol": "REALT-S-10024-10028",
-            "name": "RealT  10024 10028 Appoline St  Detroit",
-            "address": "0xB5D30c28F87acf675Ed5B9f343E5ffF39eC9942C",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/16639/thumb/appoline-hero.jpeg?1624559019",
-            "coingeckoId": "10024-10028-appoline",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "symbol": "MET",
             "name": "Metronome on xDai",
             "address": "0xB4B6f80d8E573e9867c90163BFdb00E29d92716a",
@@ -46242,19 +46232,6 @@
             ]
         },
         {
-            "symbol": "REALT-S-18466-FIELD",
-            "name": "RealT  18466 Fielding St  Detroit  MI 4",
-            "address": "0x9A99f283e1F6c3b7F24901995624Ef7b78E94471",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/16663/thumb/18466-Fielding-hero-1.jpeg?1624625063",
-            "coingeckoId": "18466-fielding",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "symbol": "PUNK",
             "name": "Punk from Mainnet",
             "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
@@ -46337,19 +46314,6 @@
             "listedIn": [
                 "lifinance",
                 "elkfinance"
-            ]
-        },
-        {
-            "symbol": "REALT-S-12409-WHITE",
-            "name": "RealT   12409 Whitehill St  Detroit  MI",
-            "address": "0x969d42ad7008e6651E1Fd52742153F8743225D98",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/16668/thumb/12409-Whitehill-hero-1.jpg?1624627067",
-            "coingeckoId": "12409-whitehill",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -46886,19 +46850,6 @@
             "listedIn": [
                 "lifinance",
                 "elkfinance"
-            ]
-        },
-        {
-            "symbol": "REALT-S-9465-BEACON",
-            "name": "RealT   9465 Beaconsfield St  Detroit  ",
-            "address": "0x750FA12Ae51d1515c893C1aaABE2C135937a2c8B",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/16707/thumb/9465-Beaconsfield-hero-1c.jpeg?1624645510",
-            "coingeckoId": "9465-beaconsfield",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -47537,19 +47488,6 @@
             ]
         },
         {
-            "symbol": "REALT-S-13991-WARWI",
-            "name": "RealT  13991 Warwick St  Detroit  MI  4",
-            "address": "0x4E98493920b16Dd6642e9D48497c8d0A49150f6F",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/16662/thumb/Warwick-hero.jpeg?1624624485",
-            "coingeckoId": "13991-warwick",
-            "listedIn": [
-                "coingecko",
-                "rubic"
-            ]
-        },
-        {
             "symbol": "REALT-S-19163-MITCH",
             "name": "RealT   19163 Mitchell St  Detroit  MI ",
             "address": "0x4Cc53Ee5ef306a95d407321d4B4acc30814C04ee",
@@ -47688,19 +47626,6 @@
             "listedIn": [
                 "lifinance",
                 "elkfinance"
-            ]
-        },
-        {
-            "symbol": "REALT-S-14825-WILFR",
-            "name": "RealT   14825 Wilfred St  Detroit  MI 4",
-            "address": "0x43fED9F9BF7DeedCb314b432a8e38219dd62CE9e",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/16598/thumb/14825-Wilfried-hero-1.jpg?1624541680",
-            "coingeckoId": "14825-wilfred",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -48285,19 +48210,6 @@
             "listedIn": [
                 "lifinance",
                 "elkfinance"
-            ]
-        },
-        {
-            "symbol": "REALT-S-19333-MOENA",
-            "name": "RealT   19333 Moenart St  Detroit MI 48",
-            "address": "0x24293ab20159cfc0f3D7C8727CD827fbA63d4F64",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/16593/thumb/19333-Moenart-hero-1.jpg?1624539310",
-            "coingeckoId": "19333-moenart",
-            "listedIn": [
-                "coingecko",
-                "rubic"
             ]
         },
         {
@@ -51666,6 +51578,7 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "openocean",
                 "lifinance"
             ]
         },
@@ -62034,12 +61947,13 @@
             "address": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4/logo.png",
+            "logoURI": "https://cloudstorage.openocean.finance/images/1669114798325_6203856236857588.png",
             "coingeckoId": "multichain",
             "listedIn": [
                 "coingecko",
                 "uniswap",
                 "sushiswap",
+                "openocean",
                 "lifinance"
             ]
         },
