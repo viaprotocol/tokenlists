@@ -775,6 +775,19 @@
         ]
     },
     {
+        "symbol": "SOL",
+        "name": "SOL  Wormhole ",
+        "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+        "decimals": 9,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
+        "coingeckoId": "sol-wormhole",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mBONK",
         "name": "MegaBONK",
         "address": "0xd93c61D4418d77A537b6B57478C108E193362f0C",
@@ -3089,6 +3102,19 @@
         "coingeckoId": null,
         "listedIn": [
             "quickswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "LUNR",
+        "name": "Lunr",
+        "address": "0xBBfE0B60dE96a189BF09079DE86A2Db7bF0C7883",
+        "decimals": 4,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/19256/thumb/lunr.png?1639975807",
+        "coingeckoId": "lunr-token",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

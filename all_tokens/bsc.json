@@ -14002,18 +14002,6 @@
         ]
     },
     {
-        "symbol": "VC",
-        "name": "ValuableCoins",
-        "address": "0xF6e497Bd65DfB7c0556020DD68d007f0AC76bc6a",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25663/thumb/Diamond-coin.png?1653286491",
-        "coingeckoId": "valuablecoins",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "SYNC",
         "name": "LinkSync",
         "address": "0xF6a22B0593df74F218027A2d8b7953c9b4542AA1",
@@ -26953,6 +26941,7 @@
         "listedIn": [
             "coingecko",
             "1inch",
+            "openocean",
             "lifinance"
         ]
     },
@@ -28475,18 +28464,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/21962/thumb/ns4SkGC.jpeg?1640522658",
         "coingeckoId": "dogzverse-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "IKC",
-        "name": "iK Coin",
-        "address": "0x9374062f53B0A8c9215c476437989142838F97A7",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/25668/thumb/Ik-golden.png?1653295549",
-        "coingeckoId": "ik-coin-2",
         "listedIn": [
             "coingecko"
         ]
@@ -34541,18 +34518,6 @@
         ]
     },
     {
-        "symbol": "PETH",
-        "name": "PetsHelp",
-        "address": "0x7E839641381701b8b13671155FB774B1290fbd30",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22790/thumb/logo2.png?1642580742",
-        "coingeckoId": "petshelp",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "OMNIA",
         "name": "OmniaVerse",
         "address": "0x7E6a1299Ae38b796404eE0d771B9eBc5Fa535e7D",
@@ -35421,7 +35386,7 @@
         "address": "0x7874CAFf04AFB8B6f5cbBE3ebec3f83Fcd882272",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/28105/thumb/JDB_logo_trans.png?1667544285",
+        "logoURI": "https://assets.coingecko.com/coins/images/28105/thumb/LOGO_CG_CMC_bright_round_200px.png?1669168429",
         "coingeckoId": "jeet-detector-bot",
         "listedIn": [
             "coingecko"
@@ -48325,18 +48290,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/16327/thumb/200ico.png?1623745151",
         "coingeckoId": "hare-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "DCD",
-        "name": "DCD Ecosystem",
-        "address": "0x4AC857A78E05cd7c492A0011fB6d5256A82f5514",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/24561/thumb/fac3cd46-8c07-446f-a12b-af77c21fd77f.png?1648189404",
-        "coingeckoId": "dcd-ecosystem",
         "listedIn": [
             "coingecko"
         ]
@@ -63884,6 +63837,18 @@
             "coingecko",
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "MINTME",
+        "name": "MintMe com Coin",
+        "address": "0x138218c8e064ED2A011c9ff203759A8A1E23e6C8",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/5127/thumb/MINTME_logo.png?1666845801",
+        "coingeckoId": "webchain",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

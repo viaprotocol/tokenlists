@@ -1527,7 +1527,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
         "coingeckoId": "sol-wormhole",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -6357,14 +6358,15 @@
         ]
     },
     {
-        "symbol": "eLunr",
+        "symbol": "LUNR",
         "name": "Lunr",
         "address": "0xBBfE0B60dE96a189BF09079DE86A2Db7bF0C7883",
         "decimals": 4,
         "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/19256/thumb/lunr.png?1639975807",
+        "coingeckoId": "lunr-token",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
